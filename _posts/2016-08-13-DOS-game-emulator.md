@@ -45,7 +45,7 @@ Note: DOSBox only recognized files, directories inside the path `/home/user/` wh
 
     * Uncompress on the directory `.dosbox/Games` and rename the game directory (for example MMX).
 
-    * Launch dosbox, if we configure the `dosbox-0.74.conf` file, just write "C:" and dosbox show the content of `.dosbox/Games` content.
+    * Launch dosbox, if we configure the `dosbox-0.74.conf` file, just write `C:` and dosbox show the content of `.dosbox/Games` content.
 
     Then, do this:
 
