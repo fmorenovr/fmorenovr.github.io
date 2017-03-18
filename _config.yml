@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Felipe Moreno ~ Jenazad
-email: fmorenovr@gmail.com
+email: felipe.moreno.vera@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my website !!.
   Here i will tell about me, my projects, my repositories and maybe some tutorials.
