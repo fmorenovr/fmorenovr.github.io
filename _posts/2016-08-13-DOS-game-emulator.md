@@ -17,7 +17,7 @@ Note: DOSBox only recognized files, directories inside the path `/home/user/` wh
 
 ### Executing games on DOSbox
 
-1. In /home/user/ creates the directory `.dosbox/Games`
+1. In `/home/user/` creates the directory `.dosbox/Games`
 
    Here we put the directories with the programs executable for DOS.
 
