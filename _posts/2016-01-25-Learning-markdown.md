@@ -83,13 +83,13 @@ You can use syntax highlighting for any programing language, for example:
 
 You will have this:
  
-  {% highlight javascript %}
-  function fancyAlert(arg) {
-    if(arg) {
-      $.facebox({div:'#foo'})
+    {% highlight javascript %}
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
     }
-  }
-  {% endhighlight %}
+    {% endhighlight %}
 
 ------
 
