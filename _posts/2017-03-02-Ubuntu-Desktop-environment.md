@@ -102,6 +102,8 @@ but is easily install on Ubuntu and configure the OS.
 
 * Result:
 
+![Ubuntu Budgie](/assets/desktopEnvironments/Ubuntu_BUDGIE-budgie.png "Ubuntu Budgie")
+
 ## Linux Mint = Ubuntu + Cinnamon
 
 Linux Mint is an OS Ubuntu derivative with Cinnamon desktop environment by default,
