@@ -2,7 +2,7 @@
 layout: post
 title:  "Using Qemu VM emulator"
 date:   2016-12-18 19:40:16 -0500
-categories: Virtual machines
+categories: Virtual-machines
 ---
 ### Qemu
 
