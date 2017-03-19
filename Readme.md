@@ -12,3 +12,10 @@ Users are free to copy and re-use any and all of the code contained here without
 [github-pages]:     https://guides.github.com/features/pages/
 [jen-profile]:      https://github.com/Jenazad/
 [jekyll-localhost]: https://github.com/Jenazad/developConfig/tree/master/ruby
+
+| *Lanuages*      | `framework`     | **side**   |
+| ------------- | ------------- | ------:|
+| ruby          | Ruby on Rails | server |
+| javascript    | Angularjs     | client |
+| php           | Laravel       | server |
+| python        | Django        | server |
