@@ -10,14 +10,14 @@ Dosbox is a shell-terminal that allows execute programs designed to run in DOS.
 
 ### Installing
 
-Note: DOSBox only recognized files, directories inside the path `/home/user/` whose names only have 8 letters.
+Note: DOSBox only recognized files, directories inside the path `/home/$USER/` whose names only have 8 letters.
 
     sudo apt-get install dosbox
     dosbox
 
 ### Executing games on DOSbox
 
-1. In `/home/user/` creates the directory `.dosbox/Games`
+1. In `/home/$USER/` creates the directory `.dosbox/Games`
 
    Here we put the directories with the programs executable for DOS.
 
@@ -32,7 +32,7 @@ Note: DOSBox only recognized files, directories inside the path `/home/user/` wh
         #mount d /media/cdrom -t cdrom
 
         # monta la imagen (o quema) en el disco D
-        #imgmount D /home/mi_usuario/imagenes/game.iso -t iso
+        #imgmount D /home/$USER/imagenes/game.iso -t iso
 
         # teclado español
         keyboardlayout=sp

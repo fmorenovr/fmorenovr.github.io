@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using Qemu VM emulator"
-date:   2017-03-18 12:00:16 -0500
+date:   2016-12-18 19:40:16 -0500
 categories: Virtual machines
 ---
 ### Qemu
@@ -38,7 +38,7 @@ Is an emulator of an OS inside another OS without partition the hard disk, inste
 
     or also:
 
-        qemu-system-x86_64 -hda ubuntu.img -boot d -cdrom /home/username/path/to/iso/OS-server.iso -m 640
+        qemu-system-x86_64 -hda ubuntu.img -boot d -cdrom /home/$USER/path/to/iso/OS-server.iso -m 640
 
     After the installation, run:
 
