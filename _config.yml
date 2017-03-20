@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Felipe Moreno ~ Jenazad
 email: felipe.moreno.vera@gmail.com
-permalink: /blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title/:categories
 description: > # this means to ignore newlines until "baseurl:"
   You can use all this information for your things :), don't dudes on follow me on github and other social networks.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -29,6 +29,6 @@ theme: minima
 gems:
   - jekyll-feed
 exclude:
-  - Gemfile
-  - Gemfile.lock
+  - Gem/Gemfile
+  - Gem/Gemfile.lock
 

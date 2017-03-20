@@ -10,7 +10,7 @@ Is a Play Station 2 emulator.
 
 ### Installing
 
-You should have the bios, you can get it by pressing the [button](http://github.com/Jenazad/Jenazad.github.io/tree/master/assets/files/bios.zip)
+You should have the bios, you can get it by pressing [here](/files/).
 
 Then install:
 
