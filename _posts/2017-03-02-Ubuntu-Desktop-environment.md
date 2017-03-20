@@ -4,7 +4,7 @@ title:  "Playing with Ubuntu desktop environments"
 date:   2017-03-02 10:52:56 -0500
 categories: operating-systems
 ---
-## Desktop environments
+# Desktop environments
 
 Different Desktops environments for Ubuntu 16.04.2 LTS OS.  
 You can see the memory RAM consumed for each Desktop Environment.

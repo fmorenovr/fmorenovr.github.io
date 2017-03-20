@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Using Qemu VM emulator"
+title:  "Using Qemu VM hardware emulator"
 date:   2016-12-18 19:40:16 -0500
 categories: Virtual-machines
 ---
-### Qemu
+## Qemu
 
 For more information about arguments see the documentation [Qemu doc](https://wiki.gentoo.org/wiki/QEMU/Options)
 
-Is an emulator of an OS inside another OS without partition the hard disk, instead that qemu uses the path of directories of the images in the OS host.
+Is an emulator of an OS inside another OS without partition the hard disk, instead that qemu uses the path of directories of the images in the OS host.  
+In other words, Qemu emulates hardware (like processors and peripherals) using dynamic binary translation (converts binary code of the source architecture into understandable by the host architecture).
 
 #### Instaling virtual machines
 
@@ -50,4 +51,4 @@ Is an emulator of an OS inside another OS without partition the hard disk, inste
 
 Here i show you an example with Ubuntu 15.04 (yeah, i did this 2 years ago).
 
-![Qemu Exmaple](/assets/VM_emulator/qemu_example.jpg)
+![Qemu Exmaple](/assets/VM_emulator/qemu/qemu_example.jpg)
