@@ -7,9 +7,9 @@ title: Home
 ---
 # Welcome to my website!!
 
->Nice to meet you !! You can find me on many websites with the alias Jenazad.
-
-Here i will tell about me, my projects, my repositories and maybe some tutorials.
+>Nice to meet you !!  
+>You can find me on many websites with the alias Jenazad or Jenazads.  
+>Here i will tell about me, my projects, my repositories and maybe some tutorials.
 
 So, let's go!.
 

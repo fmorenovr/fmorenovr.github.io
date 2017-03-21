@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /files/
 ---
 <h1> Files </h1>

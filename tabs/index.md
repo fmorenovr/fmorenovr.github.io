@@ -1,7 +1,6 @@
 ---
 layout: page
-title:  Blog
-permalink: /blog/
+permalink: undefinedurl/
 ---
 <!-- contenido de la vista /blog/ -->
 <h1>My posts</h1>
@@ -16,3 +15,4 @@ permalink: /blog/
   {% endfor %}
 </ul>
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
