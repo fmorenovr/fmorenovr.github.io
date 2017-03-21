@@ -112,6 +112,8 @@ A virtual machine is a guest OS on another OS (host), you can see the xml config
           --cdrom /home/$USER/Documents/deepin-15.3-amd64.iso \
           --graphics spice \
 
+      ![deepin_installing](/assets/VM_emulator/virt-manager/installing_deepin.png)
+
     * From remote `http/ftp` server (example insalling Debian 8.0):
     
           sudo virt-install \
@@ -127,6 +129,8 @@ A virtual machine is a guest OS on another OS (host), you can see the xml config
           --graphics none \
           --console pty,target_type=serial \
           --extra-args 'console=ttyS0,115200n8 serial'
+
+      ![debian_installing](/assets/VM_emulator/virt-manager/installing_debian.png)
 
 * Delete a VM:
 
