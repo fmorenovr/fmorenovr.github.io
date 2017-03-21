@@ -171,7 +171,7 @@ You can create tables.
 
 The result is this:
 
-![tables](/assets/files/tables.png)
+![tables](/assets/imgs/tables.png)
 
 ------
 

@@ -182,4 +182,22 @@ A virtual machine is a guest OS on another OS (host), you can see the xml config
 
       ![step-6](/assets/VM_emulator/virt-manager/create_VM_step_final.png)
 
+### Configure some VM OS
 
+* [Debian 8.7][debian-networking]
+
+* [Ubuntu server 16.04][ubuntu-networking]
+
+* [Deepin 15.3][deepin-networking]
+
+* [CentOS 7.3][centos-networking]
+
+* [Fedora server 25][fedora-networking]
+
+
+[debian-networking]: /pages/debian_networking
+[ubuntu-networking]: /pages/ubuntu_networking
+[deepin-networking]: /pages/deepin_networking
+[redhat-networking]: /pages/redhat_networking
+[centos-networking]: /pages/centos_networking
+[fedora-networking]: /pages/fedora_networking

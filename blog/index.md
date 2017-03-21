@@ -3,7 +3,6 @@ layout: page
 title:  Blog
 permalink: /blog/
 ---
-<!-- contenido de la vista /blog/ -->
 <h1>My posts</h1>
 <ul>
   {% for post in site.posts %}
