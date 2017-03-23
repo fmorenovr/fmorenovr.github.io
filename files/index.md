@@ -1,6 +1,6 @@
 ---
 layout: page
-#permalink: files/
+permalink: files/
 # si el link no coincide con el nombre de la carpeta (o simplemente le ponemos undefinedurl/, nos manda al parent).
 # o si no existe el index.md en la carpeta, muestra el parent.
 ---
