@@ -4,7 +4,7 @@
     <nav class="site-nav">
       <div class="trigger">
         {% for page in site.pages %}
-          {% if page.title and page.title != "Home" %}
+          {% if page.title and page.title != "Home" and page.dir != "/pages/" %}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
