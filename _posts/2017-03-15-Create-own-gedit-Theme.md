@@ -8,8 +8,6 @@ categories: markup-language
 
 Is a text editor, compatible with UTF-8, it was developed using GTK+ and gnome.  
 
-------
-
 ### Basic xml file architecture
 
 If you look at an xml file or seeing different websites, you will notice that they have the following format:
