@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creating own gedit theme"
+title:  "Creating my own gedit theme"
 date:   2016-05-20 02:35:46 -0500
 categories: markup-language
 ---
