@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ MwThem
+ Copyright (C) 2017 - Felipe Moreno
+ Author: Jenazad
+ URL: https://Jenazad.github.io/blog/2017/03/15/Create-own-gedit-Theme/markup-language
+ Email: felipe.moreno.vera [@] gmail [.] com
+ MwThem is a theme inspired by Tinger, Monokai and improved upon Darkmate: Copyright (C) 2006-2008 GtkSourceView team 
+ Author: Harsh J
+ URL: http://www.harshj.com/2008/01/27/tinge-theme-for-gedit/
+ Email: harshj [@] gmail [.] com
+ Author:  Luigi Maselli
+ Email: luigix [@] gmail [.] com
+ Monokai: http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Library General Public
+ License as published by the Free Software Foundation.
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Library General Public License for more details.
+-->
+
+<style-scheme id="mwtheme" _name="MwTheme" version="1.0">
+  <author>Jenazad</author>
+  <_description>A light theme based on Monokai and Tinger</_description>
+
+  <!-- colors definition -->
+  <color name="gray"        value="#bbbbbb"/>
+  <color name="white"       value="#eeeeee"/>
+  <color name="full_white"  value="#eeeeee"/>
+  <color name="yellow"      value="#fce94f"/>
+  <color name="senape"      value="#acc900"/>
+  <color name="red"         value="#ff2f6a"/>
+  <color name="ambra"       value="#ff9900"/>
+  <color name="asfalto"     value="#555753"/>
+  <color name="lime"        value="#96ff00"/>
+  <color name="green"       value="#00c900"/>
+  <color name="alga"        value="#00c99b"/>
+  <color name="aqua"        value="#00d8ff"/>
+  <color name="orange"      value="#ff6100"/>
+  <color name="cyan"        value="#009cff"/>
+  <color name="violet"      value="#9e91ff"/>
+  <color name="light_blue"  value="#adb2ff"/>
+  <color name="carbon"      value="#232323"/>
+  <color name="pink"        value="#ff3a35"/>
+  <color name="purple"      value="#bb66ff"/>
+  <color name="fuchsia"     value="#ff44cc"/>
+  <color name="magenta"     value="#ff79d9"/>
+  <color name="blue"        value="#97e1ff"/>
+  <color name="bright_blue" value="#00fffa"/>
+  <color name="less_grey"   value="#dddeee"/>
+  <color name="less_black"  value="#080d12"/>
+
+  <!--GUI styles-->
+  <style name="text"                        foreground="full_white" background="carbon"/>
+  <style name="selection"                   background="asfalto"/>
+  <style name="selection-unfocused"         foreground="cyan" background="asfalto"/>
+  <style name="cursor"                      foreground="fuchsia"/>
+  <style name="secondary-cursor"            foreground="white"/>
+  <style name="current-line"                background="less_black"/>
+  <style name="line-numbers"                foreground="yellow" background="asfalto"/>
+
+  <!-- Bracket Matching -->
+  <style name="bracket-match"               foreground="ambra" background="carbon" bold="true"/>
+  <style name="bracket-mismatch"            foreground="white" background="carbon" bold="true"/>
+  
+  <!-- Search Matching -->
+  <style name="search-match"                foreground="carbon" background="yellow"/>
+
+  <!--Default styles-->
+  <style name="def:keyword"                 foreground="ambra" bold="true"/>
+
+  <!-- Statements -->
+  <style name="def:statement"               foreground="alga"/>
+  <style name="def:function"                foreground="violet"/>
+  <style name="def:preprocessor"            foreground="cyan" bold="true"/>
+
+  <!-- Types -->
+  <style name="def:type"                    foreground="cyan"/>
+  <style name="def:character"               foreground="ambra"/>
+  <style name="def:number"                  foreground="red"/>
+  <style name="def:decimal"					        foreground="red"/>
+  <style name="def:base-n-integer"          foreground="senape"/>
+  <style name="def:floating-point"			    foreground="bright_blue"/>
+  <style name="def:complex"                 foreground="light_blue"/>
+  <style name="def:string"                  foreground="pink"/>
+  <style name="def:net-address-in-comment"  foreground="violet" italic="true" underline="true"/>
+  <style name="def:note"                    foreground="fuchsia" background="carbon" bold="true"/>
+  <style name="def:error"                   background="red" bold="true"/>
+  <style name="def:escape"                  foreground="violet"/>
+
+  <!-- Comments -->  
+  <style name="def:comment"                 foreground="purple"/>
+  <style name="def:shebang"                 foreground="blue" bold="true"/>
+  <style name="def:doc-comment-element"     italic="true"/>
+
+  <!-- Identifiers -->
+  <style name="def:identifier"              foreground="green" bold="true"/>
+
+  <!-- Others-->
+  <style name="def:boolean"                 foreground="fuchsia" bold="true"/>
+  <style name="def:constant"                foreground="magenta"/>
+  <style name="def:special-constant"        foreground="fuchsia" bold="true"/>
+  <style name="def:special-character"       foreground="senape" bold="true"/>
+  <style name="diff:added-line"             foreground="pink"/>
+  <style name="diff:removed-line"           foreground="magenta"/>
+  <style name="diff:changed-line"           foreground="ambra"/>
+  <style name="def:builtin"					        foreground="green" bold="true"/>
+  <style name="def:specials"                foreground="cyan" background="magenta"/>
+  <style name="def:variable"                foreground="cyan"/>
+  <style name="diff:special-case"           use-style="def:string"/>
+  <style name="diff:location"               use-style="def:keyword"/>
+  
+</style-scheme>
