@@ -48,9 +48,9 @@
           {% if site.facebook_username %}
             <li>
               <a href="https://www.facebook.com/{{ site.facebook_username }}">
-                <span class="icon icon--twitter">
+                <span class="icon icon--facebook">
                   <svg viewBox="0 0 16 16" width="16px" height="16px">
-                    <img src="../assets/imgs/socialnetwork/twitter.png"/>
+                    <img src="../assets/imgs/socialnetwork/facebook.png"/>
                   </svg>
                 </span>
                 <span class="username">Jenazads</span>
@@ -60,9 +60,9 @@
           {% if site.twitter_username %}
             <li>
               <a href="https://twitter.com/{{ site.twitter_username }}">
-                <span class="icon icon--facebook">
+                <span class="icon icon--twitter">
                   <svg viewBox="0 0 16 16" width="16px" height="16px">
-                    <img src="../assets/imgs/socialnetwork/facebook.png"/>
+                    <img src="../assets/imgs/socialnetwork/twitter.png"/>
                   </svg>
                 </span>
                 <span class="username">Jenazads</span>
