@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creating my own gedit theme"
-date:   2016-05-20 02:35:46 -0500
+date:   2017-03-15 14:15:46 -0500
 categories: markup-language
 ---
 ## gedit
