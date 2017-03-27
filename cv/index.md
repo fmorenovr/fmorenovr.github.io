@@ -97,8 +97,11 @@ This project presents the implementation of a cluster of Computers to equip CTIC
     * Beego
 
 * Operating Systems:
+    * Debian
     * Ubuntu
+    * Deepin
     * CentOS
+        
 
 ## Languages
 
