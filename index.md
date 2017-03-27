@@ -11,7 +11,8 @@ title: Home
 >You can find me on many websites with the alias Jenazad or Jenazads.  
 >Here i will tell about me, my projects, my repositories and maybe some tutorials.
 
-So, let's go!.
+So, let's go!.  
+Here is an example of my `index.md` listing my posts.
 
 {% highlight html %}
 <div class="home">
