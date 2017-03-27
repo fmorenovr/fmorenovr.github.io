@@ -12,24 +12,24 @@ Is a text editor, compatible with UTF-8, it was developed using GTK+ and gnome.
 
 If you look at an xml file or seeing different websites, you will notice that they have the following format:
 
-  ```
+  {% highlight xml %}
     <?xml version="1.0" encoding="UTF-8"?>
     <style-scheme id="mwtheme" _name="MwTheme" version="1.0">
       <author>Jenazad</author>
       <_description>A light theme based on Monokai and Tinger</_description>
     </style-scheme>
-  ```
+  {% endhighlight %}
 
 Then, you must define your variables and their colors like:
 
-  ```
+  {% highlight xml %}
     <style name="cursor"  foreground="fuchsia"/>
-  ```
+  {% endhighlight %}
 
 For example, the previous line we defined a variable cursor with color fuchsia.  
 We can define color variable name like:
 
-  ```
+  {% highlight xml %}
     <color name="gray"        value="#bbbbbb"/>
     <color name="white"       value="#eeeeee"/>
     <color name="full_white"  value="#eeeeee"/>
@@ -55,6 +55,6 @@ We can define color variable name like:
     <color name="bright_blue" value="#00fffa"/>
     <color name="less_grey"   value="#dddeee"/>
     <color name="less_black"  value="#080d12"/>
-  ```
+  {% endhighlight %}
 
 You can see my example `MwTheme.xml` [here](/files/mwtheme.zip).
