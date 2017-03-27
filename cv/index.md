@@ -6,8 +6,6 @@ permalink: /cv/
 
 You can find the source code at {% include icon-github.html username="Jenazad" %}/[Jenazad](https://github.com/Jenazad/Jenazad.github.io)
 
-![Me](/assets/me.png)
-
 ## Academic training
 
 **Student of Bachelor of Science in Computer Science**
