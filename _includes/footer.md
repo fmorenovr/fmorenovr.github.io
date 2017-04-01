@@ -26,7 +26,11 @@
               <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
                 <span class="icon icon--linkedin">
                   <svg viewBox="0 0 16 16" width="16px" height="16px">
-                    <img src="../assets/imgs/socialnetwork/linkedin.png"/>
+                    {% if page.layout != "post"%}
+                      <img src="../assets/imgs/socialnetwork/linkedin.png"/>
+                    {% else %}
+                      <img src="../../../../../assets/imgs/socialnetwork/linkedin.png"/>
+                    {% endif %}
                   </svg>
                 </span>
                 <span class="username">Jenazad</span>
@@ -38,7 +42,11 @@
               <a href="https://github.com/{{ site.github_username }}">
                 <span class="icon icon--github">
                   <svg viewBox="0 0 16 16" width="16px" height="16px">
-                    <img src="../assets/imgs/socialnetwork/github.png"/>
+                    {% if page.layout != "post"%}
+                      <img src="../assets/imgs/socialnetwork/github.png"/>
+                    {% else %}
+                      <img src="../../../../../assets/imgs/socialnetwork/github.png"/>
+                    {% endif %}
                   </svg>
                 </span>
                 <span class="username">Jenazad</span>
@@ -50,7 +58,11 @@
               <a href="https://www.facebook.com/{{ site.facebook_username }}">
                 <span class="icon icon--facebook">
                   <svg viewBox="0 0 16 16" width="16px" height="16px">
-                    <img src="../assets/imgs/socialnetwork/facebook.png"/>
+                    {% if page.layout != "post"%}
+                      <img src="../assets/imgs/socialnetwork/facebook.png"/>
+                    {% else %}
+                      <img src="../../../../../assets/imgs/socialnetwork/facebook.png"/>
+                    {% endif %}
                   </svg>
                 </span>
                 <span class="username">Jenazads</span>
@@ -62,7 +74,11 @@
               <a href="https://twitter.com/{{ site.twitter_username }}">
                 <span class="icon icon--twitter">
                   <svg viewBox="0 0 16 16" width="16px" height="16px">
-                    <img src="../assets/imgs/socialnetwork/twitter.png"/>
+                    {% if page.layout != "post"%}
+                      <img src="../assets/imgs/socialnetwork/twitter.png"/>
+                    {% else %}
+                      <img src="../../../../../assets/imgs/socialnetwork/twitter.png"/>
+                    {% endif %}
                   </svg>
                 </span>
                 <span class="username">Jenazads</span>
