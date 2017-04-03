@@ -125,4 +125,4 @@ This project presents the implementation of a cluster of Computers to equip CTIC
 [IGIWEB]: http://igi.uni.edu.pe/portal/en/
 [FONDECYTWEB]: http://www.conicyt.cl/fondecyt/
 [SanIsidroWEB]: https://www.meetup.com/es/LabSanIsidro/
-[SCLab]: smartcityperu.org
+[SCLab]: http://smartcityperu.org
