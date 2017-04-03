@@ -18,7 +18,7 @@ You can find the source code at {% include icon-github.html username="Jenazad" %
 
 Research in fields related to smart cities, high performance computing, big data and machine learning.
 
-> ##### [CTIC][CTICWEB], [UNI][UNIWEB], [SmartCities Lab].  
+> ##### [CTIC][CTICWEB], [UNI][UNIWEB], [SmartCities Lab][SCLab].  
 
 **Mobile Application Developer**
 - **UNIQUEST** ~ *March 2016 - April 2016*  
@@ -125,3 +125,4 @@ This project presents the implementation of a cluster of Computers to equip CTIC
 [IGIWEB]: http://igi.uni.edu.pe/portal/en/
 [FONDECYTWEB]: http://www.conicyt.cl/fondecyt/
 [SanIsidroWEB]: https://www.meetup.com/es/LabSanIsidro/
+[SCLab]: smartcityperu.org
