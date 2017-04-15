@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using Tasksel to install LAMP server"
+title:  "Using Tasksel to install LAMP server and setup wordPress"
 date:   2017-04-14 11:15:05 -0500
 categories: Software-bundles
 ---
