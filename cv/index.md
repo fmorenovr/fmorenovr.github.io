@@ -8,7 +8,7 @@ permalink: /cv/
 
 **Student of Bachelor of Science in Computer Science**
 
-> ## [National University of Engineering][UNIWEB], Rimac, Lima, Peru.
+> ##### [National University of Engineering][UNIWEB], Rimac, Lima, Peru.
 
 ## Professional experience
 
