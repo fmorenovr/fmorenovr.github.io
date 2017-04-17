@@ -7,7 +7,7 @@ categories: Virtual-machines
 # Virt-Manager
 
 Is a desktop-driven virtual machine manager with which users can manage virtual machines (VMs).  
-Virt-Manager is a Light virtualizer using KVM and Qemu.
+Virt-Manager is a Light virtualizer using KVM, Xen and Qemu.
 
 ## Installing
 

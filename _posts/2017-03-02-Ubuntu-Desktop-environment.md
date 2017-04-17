@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Playing with Ubuntu desktop environments"
+title:  "Playing in Ubuntu with different Desktop Environments"
 date:   2017-03-02 10:52:56 -0500
 categories: operating-systems
 ---

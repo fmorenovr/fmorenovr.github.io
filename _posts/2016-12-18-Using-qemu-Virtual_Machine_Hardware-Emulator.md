@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using Qemu VM hardware emulator"
+title:  "Using Qemu, a VM Hardware Emulator"
 date:   2016-12-18 19:40:16 -0500
 categories: Virtual-machines
 ---
@@ -8,8 +8,9 @@ categories: Virtual-machines
 
 For more information about arguments see the documentation [Qemu doc](https://wiki.gentoo.org/wiki/QEMU/Options)
 
-Is an emulator of an OS inside another OS without partition the hard disk, instead that qemu uses the path of directories of the images in the OS host.  
-In other words, Qemu emulates hardware (like processors and peripherals) using dynamic binary translation (converts binary code of the source architecture into understandable by the host architecture).
+Qemu emulates hardware (like processors and peripherals) using dynamic binary translation (converts binary code of the source architecture into understandable by the host architecture).
+
+Is an hypervisor type 2.
 
 #### Instaling virtual machines
 
