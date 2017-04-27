@@ -33,7 +33,7 @@
                     {% endif %}
                   </svg>
                 </span>
-                <span class="username">Jenazad</span>
+                <span class="username">{{ site.linkedin_username }}</span>
               </a>
             </li>
           {% endif %}
@@ -49,7 +49,7 @@
                     {% endif %}
                   </svg>
                 </span>
-                <span class="username">Jenazad</span>
+                <span class="username">{{ site.github_username }}</span>
               </a>
             </li>
           {% endif %}
@@ -65,7 +65,7 @@
                     {% endif %}
                   </svg>
                 </span>
-                <span class="username">Jenazads</span>
+                <span class="username">{{ site.bitbucket_username }}</span>
               </a>
             </li>
           {% endif %}
@@ -81,7 +81,7 @@
                     {% endif %}
                   </svg>
                 </span>
-                <span class="username">Jenazads</span>
+                <span class="username">{{ site.facebook_username }}</span>
               </a>
             </li>
           {% endif %}
@@ -97,7 +97,7 @@
                     {% endif %}
                   </svg>
                 </span>
-                <span class="username">Jenazads</span>
+                <span class="username">{{ site.twitter_username }}</span>
               </a>
             </li>
           {% endif %}
