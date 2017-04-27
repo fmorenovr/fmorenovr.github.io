@@ -85,6 +85,22 @@
               </a>
             </li>
           {% endif %}
+          {% if site.bitbucket_username %}
+            <li>
+              <a href="https://bitbucket.org/{{ site.bitbucket_username }}">
+                <span class="icon icon--bitbucket">
+                  <svg viewBox="0 0 16 16" width="16px" height="16px">
+                    {% if page.layout != "post"%}
+                      <img src="../assets/imgs/socialnetwork/bitbucket.png"/>
+                    {% else %}
+                      <img src="../../../../../assets/imgs/socialnetwork/bitbucket.png"/>
+                    {% endif %}
+                  </svg>
+                </span>
+                <span class="username">Jenazads</span>
+              </a>
+            </li>
+          {% endif %}
           </ul>
       </div>
       <div class="footer-col footer-col-3">
