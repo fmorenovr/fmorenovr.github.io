@@ -32,7 +32,7 @@ Then install:
       sudo apt-get install canonical-certification-client
       sudo apt-get install unity-control-center (get this package back.)
 
-### Executing games on DOSbox
+### Executing games on PCSX2
 
 After download bios, uncompress and move to the `~/.config/pcsx2/bios`. Then, download the iso games and run.
 

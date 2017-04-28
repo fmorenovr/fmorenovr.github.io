@@ -21,20 +21,19 @@ Note: DOSBox only recognized files, directories inside the path `/home/$USER/` w
 
    Here we put the directories with the programs executable for DOS.
 
-   Then, modify the file `./dosbox/dosbox-0.74.conf`:
+   Then, modify the file `.dosbox/dosbox-0.74.conf`:
 
         [autoexec]
-        # monta como disco C automaticamente la ruta
+        # mounts C disk the path of ~/.dosbox/Games
         mount c ~/.dosbox/Games
-        #(solo necesitaremos este, pues jamas usaremos un CDROOM)
 
-        # monta como disco D un cdRoom
-        #mount d /media/cdrom -t cdrom
+        # mounts D disk like CDROM
+        # mount d /media/cdrom -t cdrom
 
-        # monta la imagen (o quema) en el disco D
-        #imgmount D /home/$USER/imagenes/game.iso -t iso
+        # mounts image on the D disk
+        # imgmount D /home/$USER/imagenes/game.iso -t iso
 
-        # teclado español
+        # ES keyboard
         keyboardlayout=sp
 
 2. In this directory, puts the game and rename the exe program with a short name (<=8 letters).

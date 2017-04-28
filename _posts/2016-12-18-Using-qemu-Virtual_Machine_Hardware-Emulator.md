@@ -12,7 +12,9 @@ Qemu emulates hardware (like processors and peripherals) using dynamic binary tr
 
 Is an hypervisor type 2.
 
-#### Instaling virtual machines
+    sudo apt-get install qemu-kvm qemu
+
+#### Installing virtual machines
 
 * Create a directory for the qemu images:
 
