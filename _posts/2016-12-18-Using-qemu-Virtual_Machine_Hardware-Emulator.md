@@ -14,7 +14,7 @@ Is an hypervisor type 2.
 
     sudo apt-get install qemu-kvm qemu
 
-#### Installing virtual machines
+## Installing virtual machines
 
 * Create a directory for the qemu images:
 

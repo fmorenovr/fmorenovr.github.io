@@ -34,8 +34,37 @@ Then install:
 
 ### Executing games on PCSX2
 
-After download bios, uncompress and move to the `~/.config/pcsx2/bios`. Then, download the iso games and run.
+After download bios, uncompress and move to the `~/.config/pcsx2/bios`.  
+Then, execute PCSX2 for first time.
 
+The first window, you can select your language (I choose spanish) and press next.
+
+![PCSX2_first][pcsx2_fisrt]
+
+Then, PCSX2 shows a configuration window, press next or "siguiente".
+
+![PCSX2_config][pcsx2_config]
+
+Next, select your bios files, I always choose `USA 10/02/2006` and press finish or "terminar".
+
+![PCSX2_bios][pcsx2_bios]
+
+Once you finish, pcsx2 shows this.
+
+![PCSX2_init][pcsx2_init]
+
+### Example
+
+You can download Megaman X Collection from [emuparadise][emuparadise_web].  
+Once you downloaded the ISO game, start PCSX2, press `CDVD -> select ISO -> Search ...`  
+And then, press on `System -> execute CDVD`  
 Here i show you an example with Megaman X - collection (My favourite game)
 
-![PCSX2 Example](/assets/games/pcsx2_example.jpg)
+![PCSX2 Example][pcsx2_img]
+
+[emuparadise_web]: https://www.emuparadise.me/Sony_Playstation_2_ISOs/Mega_Man_X_Collection_(USA)/150674
+[pcsx2_img]:       /assets/games/PCSX2/pcsx2_example.jpg
+[pcsx2_fisrt]:     /assets/games/PCSX2/first_window.png
+[pcsx2_config]:    /assets/games/PCSX2/config_pcxs2.png
+[pcsx2_bios]:      /assets/games/PCSX2/select_bios.png
+[pcsx2_init]:      /assets/games/PCSX2/once_init.png
