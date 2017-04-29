@@ -90,7 +90,7 @@ This project presents the implementation of a cluster of Computers to equip CTIC
 * Frameworks:
     * AngularJS
     * VueJS
-    * Beego
+    * BeeGo
 
 * Operating Systems:
     * Debian

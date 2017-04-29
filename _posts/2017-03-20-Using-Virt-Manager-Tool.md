@@ -2,7 +2,7 @@
 layout: post
 title:  "Using Virt-Manager, a VM Manager Tool"
 date:   2017-03-20 14:58:05 -0500
-categories: Virtual-machines
+categories: Virtual-Machines
 ---
 # Virt-Manager
 
