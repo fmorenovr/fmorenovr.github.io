@@ -160,31 +160,91 @@ From clients write:
 Is a free suite of tools that help secure your network connections (similar to the SSH connectivity tools).
 
     sudo apt-get install openssh-server
+    sudo apt-get install openssh-client
 
 ### creating a public-private key
 
+Public key: Encrypt messages - transmitter (store in authorized_keys)
+Private key: Decrypt messages - receiver
+
 Then we generate a RSA key pair:
+
+    ssh-keygen -t rsa
+
+or:
 
     sudo ssh-keygen -t rsa -f /etc/ssh/ssh_host_rsa_key
 
-Then, we need to configure `/etc/ssh/sshd_config` file.  
+This, generate files `id_rsa` and `id_rsa.pub` on directory `.ssh`.  
+Create `authorized_keys` file:
+
+    cat id_rsa.pub >> authorized_keys
+
+Then, change permissions:
+
+    sudo chmod 700 ~/.ssh
+    sudo chmod 600 ~/.ssh/authorized_keys
+
+Finally, we need to configure `/etc/ssh/sshd_config` file.  
 First, make a copy and then modify:
 
     sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.original
 
 Then, modify and add:
 
-    
     PermitRootLogin no
     PubkeyAuthentication yes
+    PasswordAuthentication no
+    Port 254
+    # Time to log
+    LoginGraceTime 30
+    # any Host.
+    Allowusers Jremote
+    # just 192.168.0.25
+    AllowUsers Jremote@192.168.0.25
+    # any ip of the network 192.168.0.*
+    AllowUsers Jremote@192.168.0.*
+    # Jremote can connect from any domain, Jremota just connect from that domain
+    AllowUsers Jremote@*.pato.com  Jremota@ventas.pato.com    
 
 Now, we restart the service:
 
     sudo /etc/init.d/ssh restart
 
+### Copying public keys to remote nodes.
 
-    
-    
-    
-    
-    
+Copying the public key to a remote host (nodes):
+
+    cat ~/.ssh/id_rsa.pub | ssh remotePC@remoteHost 'mkdir -p ~/.ssh ; cat >> ~/.ssh/authorized_keys'
+
+Do the same in Jmaster and Jnodes0X.  
+* Then, we can connect without password using:
+
+    ssh remotePC@remoteHost -p 254
+
+* To copy files from remote to local (Download)
+
+    scp -r username@hostname:/path/to/file /path/to/destination
+
+* To copy files from the local to the remote (Upload)
+
+    scp -r /path/to/file username@hostname:/path/to/destination
+
+* By a specific port:
+
+    scp -r -p xxxx username@hostname:/path/to/file /path/to/destination
+ 
+## Enabling Firewall
+
+First, we need to check the applications that require conections:
+
+    sudo ufw app list
+    sudo ufw disable
+
+Then, allows OpenSSH:
+
+    sudo ufw allow OpenSSH
+    sudo ufw enable
+    sudo ufw status
+
+
