@@ -1,0 +1,11 @@
+datacenter (storages and servers)
+
+GPU cluster
+
+benchmark
+
+Vim guide
+
+VM-OS-level (docker)
+
+how nestor manipulates ports and networks in CTIC
