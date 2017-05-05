@@ -55,7 +55,7 @@ On `/home/juser/forShare`, we must shared mpi files.
 
 * And run on `Jmaster`:
 
-      mpirun -n 3 -f /path/to/nodesfile ./mpihello
+      mpiexec -np 3 -f /path/to/nodesfile ./mpihello
 
 ![excution][mpi_exe]
 
