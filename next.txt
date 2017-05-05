@@ -15,5 +15,3 @@ VM-OS-level (docker)
 how nestor manipulates ports and networks in CTIC
 
 Cloud service - IaaS, PaaS, SaaS, XaaS
-
-how to set up a firewall on linux

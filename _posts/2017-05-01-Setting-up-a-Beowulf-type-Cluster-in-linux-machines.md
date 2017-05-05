@@ -35,10 +35,10 @@ And they need to be:
 
 # Setting up a Beowulf type CPU Cluster
 
-Our cluster is named JCluster.
+Our cluster is named `JCluster`.
 
 This guide describes how to build a simple cluster in Ubuntu.  
-We have 5 nodes running ubuntu server with hostnames: Jmaster, Jnode01, Jnode02, Jnode03 and Jnode04.
+We have 5 nodes running ubuntu server with hostnames: Jmaster, Jnode01, Jnode02, Jnode03, Jnode04 and Jnode05.
 
 ## Configure our static IP
 
@@ -59,7 +59,7 @@ We need a static IP for a local network in all of them (nodes and master).
 
 Then, in all computers (nodes and master) edit the file `/etc/hosts` like this way:
 
-* On master:
+* On `Jmaster`:
 
       127.0.0.1        localhost
       127.0.1.1        Jmaster
@@ -69,7 +69,7 @@ Then, in all computers (nodes and master) edit the file `/etc/hosts` like this w
       192.168.125.104  Jnode04
       192.168.125.105  Jnode05
 
-* On node03 for example:
+* On `Jnode03` for example:
 
       127.0.0.1        localhost
       127.0.1.1        Jnode03
@@ -83,7 +83,25 @@ Then, in all computers (nodes and master) edit the file `/etc/hosts` like this w
 
 If you want, you can change your hostname on file `/etc/hostname` and then reboot your system.
 
-## Managing users shared folder
+## Enabling Firewall
+
+First, we need to check the applications that require conections:
+
+    sudo ufw app list
+    sudo ufw disable
+
+Then, on master and nodes we should allows OpenSSH and NFS:
+
+    sudo ufw allow OpenSSH
+    sudo ufw allow nfs
+    sudo ufw enable
+    sudo ufw status
+
+![ufw_openssh][ufw_allow]
+
+for more info, press [here][ufw-url].
+
+## Managing users and groups
 
 In all machines, we should create an user to manage the system.  
 Best way to create users and groups, `Recommended`:
@@ -120,7 +138,7 @@ We can use lower/upper case in names, `Not recommended`:
 
 ## Making secure connections
 
-For this, we us OpenSSH.  
+For this, we use OpenSSH.  
 OpenSSh is a free suite of tools that help secure your network connections (similar to the SSH connectivity tools).
 
     sudo apt-get install openssh-server
@@ -249,7 +267,7 @@ In clients `Jnode0X`, create:
 
 Then, we mount folders:
 
-    sudo mount -t nfs Jmaster:/home/juser/forShare  /home/juser/forShare
+    sudo mount -v -t nfs Jmaster:/home/juser/forShare  /home/juser/forShare
 
 Verify:
 
@@ -273,20 +291,7 @@ From clients write:
 
     sudo umount /home/juser/forShare
 
-## Enabling Firewall
-
-First, we need to check the applications that require conections:
-
-    sudo ufw app list
-    sudo ufw disable
-
-Then, allows OpenSSH:
-
-    sudo ufw allow OpenSSH
-    sudo ufw enable
-    sudo ufw status
-
-![ufw_openssh][ufw_allow]
+![umounted][nfs_umounted]
 
 ## Managing external connections
 
@@ -372,9 +377,17 @@ And if you want to connect with a specific user, write:
 
 ![cssh][cssh_example]
 
+## Aplications
+
+* We can implement a [MPICH cluster][MPICH-url] for Distributed Computing using our `Jmaster` and `Jnodes0X`.
+
+
 [ssh_keygen]:      /assets/clusterComputing/ssh/ssh_keygen.png
 [ufw_allow]:       /assets/systemCommand/ufw_allows.png
 [fail2ban_ban]:    /assets/clusterComputing/fail2ban/banip.png
 [fail2ban_unban]:  /assets/clusterComputing/fail2ban/unbanip.png
 [cssh_example]:    /assets/clusterComputing/cssh/cssh_example.png
-[nfs_mounted]:     /assets/clusterComputing/NFS/nfs_mounted.png 
+[nfs_mounted]:     /assets/clusterComputing/NFS/nfs_mounted.png
+[nfs_umounted]:    /assets/clusterComputing/NFS/nfs_umounted.png
+[ufw-url]:         /blog/system-settings/2017-05-04/Setting-Up-a-Firewall-with-ufw-on-Linux
+[MPICH-url]:       /blog/cluster-computing/2017-05-02/Setting-Up-a-MPICH-Cluster
