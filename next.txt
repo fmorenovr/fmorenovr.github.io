@@ -2,8 +2,6 @@ datacenter (storages and servers), data warehouse -> data mart
 
 DB cluster
 
-MQTT how to use
-
 GPU cluster
 
 benchmark
@@ -14,4 +12,4 @@ VM-OS-level (docker)
 
 how nestor manipulates ports and networks in CTIC
 
-Cloud service - IaaS, PaaS, SaaS, XaaS
+Cloud service - IaaS, PaaS, SaaS, XaaS - like MQTT, cluster processing.

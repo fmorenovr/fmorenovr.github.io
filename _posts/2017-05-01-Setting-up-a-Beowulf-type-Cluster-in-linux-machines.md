@@ -59,23 +59,14 @@ We need a static IP for a local network in all of them (nodes and master).
 
 Then, in all computers (nodes and master) edit the file `/etc/hosts` like this way:
 
-* On `Jmaster`:
+* On `Jmaster` and `Jnode0X`:
 
       127.0.0.1        localhost
-      127.0.1.1        Jmaster
-      192.168.125.101  Jnode01
-      192.168.125.102  Jnode02
-      192.168.125.103  Jnode03
-      192.168.125.104  Jnode04
-      192.168.125.105  Jnode05
-
-* On `Jnode03` for example:
-
-      127.0.0.1        localhost
-      127.0.1.1        Jnode03
+      #127.0.1.1        Jmaster
       192.168.125.100  Jmaster
       192.168.125.101  Jnode01
       192.168.125.102  Jnode02
+      192.168.125.103  Jnode03
       192.168.125.104  Jnode04
       192.168.125.105  Jnode05
 
