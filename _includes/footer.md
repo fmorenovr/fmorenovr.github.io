@@ -21,22 +21,6 @@
       </div>
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
-          {% if site.linkedin_username %}
-            <li>
-              <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-                <span class="icon icon--linkedin">
-                  <svg viewBox="0 0 16 16" width="16px" height="16px">
-                    {% if page.layout != "post"%}
-                      <img src="../assets/imgs/socialnetwork/linkedin.png"/>
-                    {% else %}
-                      <img src="../../../../../assets/imgs/socialnetwork/linkedin.png"/>
-                    {% endif %}
-                  </svg>
-                </span>
-                <span class="username">{{ site.linkedin_username }}</span>
-              </a>
-            </li>
-          {% endif %}
           {% if site.github_username %}
             <li>
               <a href="https://github.com/{{ site.github_username }}">
@@ -45,11 +29,27 @@
                     {% if page.layout != "post"%}
                       <img src="../assets/imgs/socialnetwork/github.png"/>
                     {% else %}
-                      <img src="../../../../../assets/imgs/socialnetwork/github.png"/>
+                      <img src="../../../assets/imgs/socialnetwork/github.png"/>
                     {% endif %}
                   </svg>
                 </span>
                 <span class="username">{{ site.github_username }}</span>
+              </a>
+            </li>
+          {% endif %}
+          {% if site.linkedin_username %}
+            <li>
+              <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+                <span class="icon icon--linkedin">
+                  <svg viewBox="0 0 16 16" width="16px" height="16px">
+                    {% if page.layout != "post"%}
+                      <img src="../assets/imgs/socialnetwork/linkedin.png"/>
+                    {% else %}
+                      <img src="../../../assets/imgs/socialnetwork/linkedin.png"/>
+                    {% endif %}
+                  </svg>
+                </span>
+                <span class="username">{{ site.linkedin_username }}</span>
               </a>
             </li>
           {% endif %}
@@ -61,7 +61,7 @@
                     {% if page.layout != "post"%}
                       <img src="../assets/imgs/socialnetwork/bitbucket.png"/>
                     {% else %}
-                      <img src="../../../../../assets/imgs/socialnetwork/bitbucket.png"/>
+                      <img src="../../../assets/imgs/socialnetwork/bitbucket.png"/>
                     {% endif %}
                   </svg>
                 </span>
@@ -77,7 +77,7 @@
                     {% if page.layout != "post"%}
                       <img src="../assets/imgs/socialnetwork/facebook.png"/>
                     {% else %}
-                      <img src="../../../../../assets/imgs/socialnetwork/facebook.png"/>
+                      <img src="../../../assets/imgs/socialnetwork/facebook.png"/>
                     {% endif %}
                   </svg>
                 </span>
@@ -93,7 +93,7 @@
                     {% if page.layout != "post"%}
                       <img src="../assets/imgs/socialnetwork/twitter.png"/>
                     {% else %}
-                      <img src="../../../../../assets/imgs/socialnetwork/twitter.png"/>
+                      <img src="../../../assets/imgs/socialnetwork/twitter.png"/>
                     {% endif %}
                   </svg>
                 </span>
