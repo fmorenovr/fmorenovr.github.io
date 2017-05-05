@@ -2,7 +2,7 @@
 layout: post
 title:  "Learning markdown, a powerful markup language."
 date:   2016-01-25 12:15:12 -0500
-categories: markup-language
+categories: Markup-Language
 ---
 ## markdorwn
 

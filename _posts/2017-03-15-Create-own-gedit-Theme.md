@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating my own gedit theme"
 date:   2017-03-15 14:15:46 -0500
-categories: Markup-Language
+categories: Text_Editors
 ---
 ## gedit
 
