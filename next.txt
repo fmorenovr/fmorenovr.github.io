@@ -1,4 +1,6 @@
-datacenter (storages and servers)
+datacenter (storages and servers), data warehouse -> data mart
+
+DB cluster
 
 MQTT how to use
 
@@ -11,3 +13,7 @@ Vim guide
 VM-OS-level (docker)
 
 how nestor manipulates ports and networks in CTIC
+
+Cloud service - IaaS, PaaS, SaaS, XaaS
+
+how to set up a firewall on linux
