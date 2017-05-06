@@ -118,7 +118,7 @@ A virtual machine is a guest OS on another OS (host), you can see the xml config
     
           sudo virt-install \
           --connect qemu:///system \
-          --name Debian8.7 \
+          --name Debian8.7_VM \
           --memory 2048 \
           --vcpus 1 \
           --network network=virtualnetworkNAT,model=virtio \
@@ -131,6 +131,22 @@ A virtual machine is a guest OS on another OS (host), you can see the xml config
           --extra-args 'console=ttyS0,115200n8 serial'
 
       ![debian_installing](/assets/VM_emulator/virt-manager/installing_debian.png)
+
+    * From remote `http/ftp` server (another example Fedora 26):
+    
+          sudo virt-install \
+          --connect qemu:///system \
+          --name Fedora26_VM \
+          --memory 2048 \
+          --vcpus 1 \
+          --network network=virtualnetworkNAT,model=virtio \
+          --os-type linux \
+          --os-variant generic \
+          --disk path=/home/$USER/VirtStg/images/fedora26.qcow2,size=20 \
+          --location 'http://mirror.globo.com/fedora/linux/releases/25/Workstation/x86_64/os' \
+          --graphics spice
+          
+      ![fedora_installing](/assets/VM_emulator/virt-manager/installing_fedora.png)
 
 * Delete a VM:
 

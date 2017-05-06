@@ -374,7 +374,7 @@ And if you want to connect with a specific user, write:
 
 
 [ssh_keygen]:      /assets/clusterComputing/ssh/ssh_keygen.png
-[ufw_allow]:       /assets/systemCommand/ufw_allows.png
+[ufw_allow]:       /assets/systemCommand/UFW/ufw_allows.png
 [fail2ban_ban]:    /assets/clusterComputing/fail2ban/banip.png
 [fail2ban_unban]:  /assets/clusterComputing/fail2ban/unbanip.png
 [cssh_example]:    /assets/clusterComputing/cssh/cssh_example.png

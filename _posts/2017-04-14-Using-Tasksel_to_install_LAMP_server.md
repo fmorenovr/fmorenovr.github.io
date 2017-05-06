@@ -109,10 +109,10 @@ Navigate in the webpage:
 See wordPress users:
 ![wordPress_3][wordPress_img3]
 
-[tasksel_img]:     /assets/tasksel/tasksel-lampserver.png
-[apache2_img]:     /assets/tasksel/apache2-status.png
-[mysql_img]:       /assets/tasksel/mysql_password.png
-[mysql-shell_img]: /assets/tasksel/mysql_shell.png
-[wordPress_img1]:  /assets/tasksel/wordpress_1.png
-[wordPress_img2]:  /assets/tasksel/wordpress_2.png
-[wordPress_img3]:  /assets/tasksel/wordpress_3.png
+[tasksel_img]:     /assets/softwareBundles/tasksel/tasksel-lampserver.png
+[apache2_img]:     /assets/softwareBundles/tasksel/apache2-status.png
+[mysql_img]:       /assets/softwareBundles/tasksel/mysql_password.png
+[mysql-shell_img]: /assets/softwareBundles/tasksel/mysql_shell.png
+[wordPress_img1]:  /assets/softwareBundles/tasksel/wordpress_1.png
+[wordPress_img2]:  /assets/softwareBundles/tasksel/wordpress_2.png
+[wordPress_img3]:  /assets/softwareBundles/tasksel/wordpress_3.png

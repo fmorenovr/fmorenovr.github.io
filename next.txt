@@ -6,12 +6,14 @@ GPU cluster
 
 benchmark
 
-Vim guide
-
 VM-OS-level (docker)
 
 how nestor manipulates ports and networks in CTIC
 
 Cloud service - IaaS, PaaS, SaaS, XaaS - like MQTT, cluster processing.
 
-light environment deepin, redhat, slackware, archlinux
+git guide
+
+light environment redhat, slackware, archlinux, windows
+
+i3 tailing WM

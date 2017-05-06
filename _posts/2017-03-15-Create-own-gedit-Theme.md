@@ -57,4 +57,10 @@ We can define color variable name like:
     <color name="less_black"  value="#080d12"/>
   {% endhighlight %}
 
+Once upload the xml file on Gedit, the document looks like:
+
+![mwtheme][mwtheme-url]
+
 You can see my example `MwTheme.xml` [here](/files/mwtheme.zip).
+
+[mwtheme-url]:  /assets/textEditor/Gedit/mwtheme.png
