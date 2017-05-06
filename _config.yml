@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jenazads Website
-permalink: /blog/:categories/:year-:month-:day/:title
+permalink: /blog/:categories/:year/:month/:day/:title
 description: > # this means to ignore newlines until "baseurl:"
   You can use all this information for your things :), don't dudes on follow me on github and other social networks.
 baseurl: "" # the subpath of your site, e.g. /blog

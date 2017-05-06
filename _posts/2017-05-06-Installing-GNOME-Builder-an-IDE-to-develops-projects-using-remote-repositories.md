@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Installing GNOME builder on fedora 26."
+title:  "Installing GNOME-Builder, an IDE to develops projects using remote repositories."
 date:   2017-05-06 00:15:12 -0500
 categories: IDEs
 ---

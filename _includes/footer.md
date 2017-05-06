@@ -29,7 +29,7 @@
                     {% if page.layout != "post"%}
                       <img src="../assets/imgs/socialnetwork/github.png"/>
                     {% else %}
-                      <img src="../../../assets/imgs/socialnetwork/github.png"/>
+                      <img src="../../../../../assets/imgs/socialnetwork/github.png"/>
                     {% endif %}
                   </svg>
                 </span>
@@ -45,7 +45,7 @@
                     {% if page.layout != "post"%}
                       <img src="../assets/imgs/socialnetwork/linkedin.png"/>
                     {% else %}
-                      <img src="../../../assets/imgs/socialnetwork/linkedin.png"/>
+                      <img src="../../../../../assets/imgs/socialnetwork/linkedin.png"/>
                     {% endif %}
                   </svg>
                 </span>
@@ -61,7 +61,7 @@
                     {% if page.layout != "post"%}
                       <img src="../assets/imgs/socialnetwork/bitbucket.png"/>
                     {% else %}
-                      <img src="../../../assets/imgs/socialnetwork/bitbucket.png"/>
+                      <img src="../../../../../assets/imgs/socialnetwork/bitbucket.png"/>
                     {% endif %}
                   </svg>
                 </span>
@@ -77,7 +77,7 @@
                     {% if page.layout != "post"%}
                       <img src="../assets/imgs/socialnetwork/facebook.png"/>
                     {% else %}
-                      <img src="../../../assets/imgs/socialnetwork/facebook.png"/>
+                      <img src="../../../../../assets/imgs/socialnetwork/facebook.png"/>
                     {% endif %}
                   </svg>
                 </span>
@@ -93,7 +93,7 @@
                     {% if page.layout != "post"%}
                       <img src="../assets/imgs/socialnetwork/twitter.png"/>
                     {% else %}
-                      <img src="../../../assets/imgs/socialnetwork/twitter.png"/>
+                      <img src="../../../../../assets/imgs/socialnetwork/twitter.png"/>
                     {% endif %}
                   </svg>
                 </span>
