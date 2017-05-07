@@ -15,3 +15,10 @@ Cloud service - IaaS, PaaS, SaaS, XaaS - like MQTT, cluster processing.
 git guide
 
 light environment redhat, slackware, archlinux, windows
+
+
+corregir el navbar menu
+
+modificar las paginas post (añadir una imagen de background)
+
+añadir listas por cada filtro de fecha y categoria en los blogs
