@@ -15,5 +15,3 @@ Cloud service - IaaS, PaaS, SaaS, XaaS - like MQTT, cluster processing.
 git guide
 
 light environment redhat, slackware, archlinux, windows
-
-i3 tailing WM

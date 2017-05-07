@@ -107,6 +107,35 @@ Graphical mode to manage processes:
 
     gnome-system-monitor
 
+## Network Traffic
+
+### iftop
+
+You can see	how much traffic is interchanged between our host and remot host:
+
+    sudo apt-get install iftop
+    sudo iftop -i wlp7s0
+
+### nload
+
+You can see all the traffic in all the interfaces:
+
+    sudo apt-get install nload
+
+### slurm
+
+You can see all the trafiic on a specific interface with colors:
+
+    sudo apt-get install slurm
+    slurm -i wlp7s0
+
+### tcptrack
+
+Tells how much bandwidth is being used and also what protocol (service/port) and destination the transmission is taking place to
+
+    sudo apt-get install tcptrack
+    sudo tcptrack -i wlp7s0
+
 ## Compress File
 
 File Compressor, Files.
