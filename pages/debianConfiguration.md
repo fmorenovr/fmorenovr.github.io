@@ -616,8 +616,8 @@ Types of security: Open/WEP/WPA/WPA2
 
 
 
-[vim-guide-url]:   /blog/text_editors/2017-05-05/A-Fast-Guide-for-Newcomers-to-Vim
-[byobu-guide-url]: /blog/shell_terminals/2017-05-05/A-Fast-Guide-for-Newcomers-to-Byobu
+[vim-guide-url]:   /blog/text_editors/2017/05/05/Vim-A-Fast-Guide-for-Newcomers
+[byobu-guide-url]: /blog/shell_terminals/2017/05/05/Byobu-A-Fast-Guide-for-Newcomers
 
 
 [alsamixer-init]:    /assets/systemCommand/alsamixer/alsamixer.png
@@ -626,7 +626,7 @@ Types of security: Open/WEP/WPA/WPA2
 [gparted-init]:      /assets/systemCommand/gparted/gparted.png
 [htop-init]:         /assets/systemCommand/htop/htop.png
 [iftop-init]:        /assets/systemCommand/iftop/iftop.png
-[links-init]:         /assets/systemCommand/links/links.png
+[links-init]:        /assets/systemCommand/links/links.png
 [lynx-init]:         /assets/systemCommand/lynx/lynx.png
 [netdiscover-init]:	 /assets/systemCommand/netdiscover/netdiscover.png
 [nload-init]:        /assets/systemCommand/nload/nload.png
