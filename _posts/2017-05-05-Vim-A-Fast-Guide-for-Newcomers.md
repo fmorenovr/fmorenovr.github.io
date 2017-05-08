@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Fast Guide for Newcomers to Vim."
+title:  "Vim, A Fast Guide for Newcomers."
 date:   2017-05-05 00:20:12 -0500
 categories: Text_Editors
 ---
@@ -68,6 +68,22 @@ Vim has 6 modes, a normal mode, insertion mode, replace mode, visual mode, selec
 
 * `ESC` activates normal mode, now you can write a command like write (:w) o quit (:q).
 * `:` activates CLI mode, now you can write w to save o q to exit.
+
+## Normal Mode
+
+In `/etc/vim/vimrc` file, add:
+
+    "show number line"
+    set nu
+
+    "tabulation step"
+    set tabstop=2 softtabstop=2 shiftwidth=2 expandtab
+
+    "indent at press enter"
+    set autoindent
+
+    "show current position"
+    set ruler
 
 ## Insertion Mode
 

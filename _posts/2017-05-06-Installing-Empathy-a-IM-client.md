@@ -48,4 +48,4 @@ Do not use facebook connection, because `Empathy` uses a deprecated API, this is
 [empathy-menu]:       /assets/GUIApp/Empathy/empathy_menu.png
 [empathy-connect]:    /assets/GUIApp/Empathy/empathy_connect.png
 [empathy-init]:       /assets/GUIApp/Empathy/empathy_init.png
-[vm-url]:             /blog/virtual-machines/2017-03-20/Using-Virt-Manager-Tool
+[vm-url]:             /blog/virtual-machines/2017/03/20/Using-Virt-Manager-Tool

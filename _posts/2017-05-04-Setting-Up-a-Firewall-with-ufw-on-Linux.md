@@ -91,3 +91,6 @@ Then, we have options like:
 
       sudo ufw reset
 
+  ![ufw][ufw_allow]
+
+[ufw_allow]:       /assets/systemCommand/UFW/ufw_allows.png

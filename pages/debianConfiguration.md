@@ -23,21 +23,21 @@ In the file `/etc/default/grub` modify:
     #GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
     GRUB_CMDLINE_LINUX="text"
 
-Then, update the grub configuration:
+* Then, update the grub configuration:
 
-    sudo update-grub
+      sudo update-grub
 
-Changing to text mode:
+* Changing to text mode:
 
-    sudo systemctl set-default multi-user.target 
+      sudo systemctl set-default multi-user.target 
 
-Changing to graphic mode:
+* Changing to graphic mode:
 
-    sudo systemctl set-default graphical.target 
+      sudo systemctl set-default graphical.target 
 
-Or in text mode:
+* Or in text mode:
 
-    startx
+      startx
 
 ##  Cores temperature
 
@@ -46,11 +46,15 @@ With this you can see the cores temperature.
     sudo apt-get install lm-sensors
     sensors
 
+![sensors][sensors-init]
+
 ## Calendar
 
-In the bash
+On the terminal:
 
     cal -3
+
+![calendar][cal-init]
 
 ## Language Keyboard Change
 
@@ -92,6 +96,8 @@ Helpful to partition disk.
 
     sudo apt-get install gparted
 
+![gparted][gparted-init]
+
 ## Process Managment
 
 ### htop
@@ -100,6 +106,8 @@ Show all processes in execution on the processors.
 
     sudo apt-get install htop
     htop
+
+![htop][htop-init]
 
 ### gnome-system-monitor
 
@@ -116,11 +124,15 @@ You can see	how much traffic is interchanged between our host and remot host:
     sudo apt-get install iftop
     sudo iftop -i wlp7s0
 
+![iftop][iftop-init]
+
 ### nload
 
 You can see all the traffic in all the interfaces:
 
     sudo apt-get install nload
+
+![nload][nload-init]
 
 ### slurm
 
@@ -129,6 +141,8 @@ You can see all the trafiic on a specific interface with colors:
     sudo apt-get install slurm
     slurm -i wlp7s0
 
+![slurm][slurm-init]
+
 ### tcptrack
 
 Tells how much bandwidth is being used and also what protocol (service/port) and destination the transmission is taking place to
@@ -136,64 +150,68 @@ Tells how much bandwidth is being used and also what protocol (service/port) and
     sudo apt-get install tcptrack
     sudo tcptrack -i wlp7s0
 
+![tcptrack][tcptrack-init]
+
 ## Compress File
 
 File Compressor, Files.
 
 ### 7zip Rar
 
-    sudo apt-get install p7zip p7zip-rar rar unrar-free p7zip-full
+* Install:
 
-Compress folder basic to basic.zip
+      sudo apt-get install p7zip p7zip-rar rar unrar-free p7zip-full
 
-    7z a basic.7z basic
+* Compress folder basic to basic.zip
 
-Uncompress the file basic.zip
+      7z a basic.7z basic
 
-    7z x basic.7z
+* Uncompress the file basic.zip
+
+      7z x basic.7z
 
 ## Default Applications Modify
 
 ### Exo-Utils
 
-Default application manager.
+* Default application manager.
 
-    sudo apt-get install exo-utils
+      sudo apt-get install exo-utils
 
-Open and modify:
+* Open and modify:
 
-    exo-preferred-applications
+      exo-preferred-applications
 
 ### Update-Alternatives
 
-The default application are:
+* The default application are:
 
-    gksudo gedit ~/.local/share/applications/mimeapps.list 
+      gksudo gedit ~/.local/share/applications/mimeapps.list 
 
-also:
+* also:
 
-    gksudo gedit /usr/share/applications/defaults.list
+      gksudo gedit /usr/share/applications/defaults.list
 
-or also:
+* or also:
 
-    sudo update-alternatives --config x-terminal-emulator 
+      sudo update-alternatives --config x-terminal-emulator 
 
-for the program x-terminal-emulator or for all:
+* for the program x-terminal-emulator or for all:
 
-    sudo update-alternatives --all
+      sudo update-alternatives --all
 
-or also in GUI:
+* or also in GUI:
 
-    gnome-control-center
+      gnome-control-center
 
-or also creating environment variable in `~/.bashrc`:
+* or also creating environment variable in `~/.bashrc`:
 
-    export EDITOR="nano"
-    export BROWSER="firefox"
+      export EDITOR="nano"
+      export BROWSER="firefox"
 
-Then, updating:
+* Then, updating:
 
-    sudo update-initramfs -u
+      sudo update-initramfs -u
 
 ## Images Editor
 
@@ -209,19 +227,7 @@ Similar to nano but with more functions:
 
     sudo apt-get install vim
 
-Edit en `/etc/vim/vimrc` add:
-
-    "show number line"
-    set nu
-
-    "tabulation step"
-    set tabstop=2 softtabstop=2 shiftwidth=2 expandtab
-
-    "indent at press enter"
-    set autoindent
-
-    "show current position"
-    set ruler
+![vim-img][vim-init]
 
 You can see a Vim guide pressing [here][vim-guide-url].
 
@@ -235,34 +241,38 @@ You can see a Vim guide pressing [here][vim-guide-url].
 
 ### ranger
 
-Console file system
+* Console file system
 
-    sudo apt-get update
-    sudo apt-get install ranger caca-utils highlight atool w3m poppler-utils mediainfo
+      sudo apt-get update
+      sudo apt-get install ranger caca-utils highlight atool w3m poppler-utils mediainfo
 
-Copy the configuration:
+* Copy the configuration:
 
-    ranger --copy-config=all
+      ranger --copy-config=all
+
+  ![ranger][ranger-init]
 
 ## Audioplayer
 
 ### cmus
 
-Music mp3 player:
+* Music mp3 player:
 
-    sudo apt-get install cmus
+      sudo apt-get install cmus
 
-Commands:
+* Commands:
 
-   :add `/dir/path/` to add music from directory
-    c to pause or play.
-    v to stop.
-    x to restart.
-    + or - to increase or decrease volumen.
-    TAB to change tabs.
-    spacebar to open an element's content.
-    z previous song.
-    b next song.
+        :add /dir/path/ to add music from directory
+        c to pause or play.
+        v to stop.
+        x to restart.
+        + or - to increase or decrease volumen.
+        TAB to change tabs.
+        spacebar to open an element's content.
+        z previous song.
+        b next song.
+
+  ![cmus][cmus-init]
 
 ## Videoplayer
 
@@ -273,136 +283,114 @@ Commands:
 
 ### VLC player
 
-Music, video, audio player.
+* Music, video, audio player.
 
-    sudo apt-get install vlc vlc-plugin-pulse
+      sudo apt-get install vlc vlc-plugin-pulse
 
-can be in graphic mode (vlc) or in console mode (cvlc).
+* Console mode:
 
-Console mode:
+      vlc --intf ncurses [filename]
+      cvlc [filename]
 
-    vlc --intf ncurses [filename]
-    cvlc [filename]
+* Graphic mode:
 
-Graphic mode:
+      vlc [filename]
 
-    vlc [filename]
+  ![vlc][vlc-init]
 
 ## Pictures viewer
 
 ### gpicview
 
-    sudo apt-get install gpicview
+* Install:
 
-Open an image or open gpicviewer and choose the file to open.
+      sudo apt-get install gpicview
 
-    gpicview /carpeta/de/la/imagen.jpg
+* Open an image or open gpicviewer and choose the file to open.
+
+      gpicview /path/to/file/image.jpg
 
 ## PDF viewer
 
 ### Zathura
 
-    sudo apt-get install zathura
-    zathura meow.pdf
+* Install:
 
-or in zathura, write "o" + tab and look for the path & file.
+      sudo apt-get install zathura
+      zathura meow.pdf
 
-    ~/home/username/Desktop/direxample/Document.pdf
+* To open a file, just write `o`" + tab and look for the path & file.
+
+      ~/Desktop/direxample/Document.pdf
 
 ## Web Browsers
 
 ### Tor
 
-Web Browser that use firefox.
+* Web Browser that use firefox.
 
-    sudo add-apt-repository ppa:webupd8team/tor-browser
-    sudo apt-get update
-    sudo apt-get install tor-browser
+      sudo add-apt-repository ppa:webupd8team/tor-browser
+      sudo apt-get update
+      sudo apt-get install tor-browser
 
 ###  Links
 
-Web Browser that doesnt support imagen, videos, just text only.
+* Web Browser that doesnt support imagen, videos, just text only.
 
-    sudo apt-get install links links2
+      sudo apt-get install links links2
 
-Switch Meaning
-  * -g	    Web browser execute graphic environment.
-  * -mode	  Set graphic mode.
-  * -driver	Specifies the graphic system.
+* Switch Meaning
+    * `-g`  Web browser execute graphic environment.
+    * `-mode`	  Set graphic mode.
+    * `-driver`	Specifies the graphic system.
 
-Specification of the colors with 1024x768 and 16 million colours
+* Specification of the colors with 1024x768 and 16 million colours
 
-    links -g -mode 1024x768x16M
-    links2 -g www.google.com.pe
-    links www.google.com.pe
+      links -g -mode 1024x768x16M
+      links2 -g www.google.com.pe
+      links www.google.com.pe
+
+  ![links][links-init]
 
 ### Lynx
 
     sudo apt-get install lynx
 
+![lynx][lynx-init]
+
 ### Flash
 
-Flash player, helful to see videos, images, etc
+* Flash player, helful to see videos, images, etc
 
-    sudo add-apt-repository ppa:nilarimogard/webupd8
-    sudo apt-get update
-    sudo apt-get install browser-plugin-freshplayer-pepperflash
-
-## Version System Manager
-
-### git
-
-    sudo apt-get install git
-
-For one local repository, on the actual dir:
-
-    git config user.name "username"
-    git config user.email "usermail"
-
-For all repositories on our machine:
-
-    git config --global user.name "username"
-    git config --global user.email "usermail"
-
-With git status, we check if there one update.
-
-    git status
-    git pull origin master
-    git add .
-    git commit -m "modificacion"
-    git push origin master
-
-Configurate a local repository in `.git/config` add the fields
-
-	[remote "origin"]
-		url = https://github.com/path/repo.git
-		fetch = +refs/heads/*:refs/remotes/origin/*
+      sudo add-apt-repository ppa:nilarimogard/webupd8
+      sudo apt-get update
+      sudo apt-get install browser-plugin-freshplayer-pepperflash
 
 ## Screen Shot
 
 ### shutter
 
-Console screenshoter
+* Console screenshoter
 
-    sudo add-apt-repository ppa:shutter/ppa
-    sudo apt-get update
-    sudo apt-get install shutter
+      sudo add-apt-repository ppa:shutter/ppa
+      sudo apt-get update
+      sudo apt-get install shutter
 
-Full screen with a specific filename and is saved in our actual directory.
+* Full screen with a specific filename and is saved in our actual directory.
 
-    shutter -f -o shot.png
+      shutter -f -o shot.png
 
-Full screen with a non-specific filename (by default is the timedate) and is saved on Pictures directory.
+* Full screen with a non-specific filename (by default is the timedate) and is saved on Pictures directory.
 
-    shutter -f
+      shutter -f
 
-Area screen
+* Area screen, specifying file:
 
-    shutter -s -o meow.png
+      shutter -s -o meow.png
 
-Area screen
+* Area screen
 
-    shutter -s
+      shutter -s
 
 ### ksnapshot
 
@@ -413,47 +401,51 @@ Area screen
 
 ### xblacklight
 
-    sudo apt-get install xbacklight
+* Install:
 
-Increases brightness by 10%
+      sudo apt-get install xbacklight
 
-    xbacklight -inc 10
+* Increases brightness by 10%
 
-Decreases brightness by 10%
+      xbacklight -inc 10
 
-    xbacklight -dec 10
+* Decreases brightness by 10%
 
-set brightness in 80%
+      xbacklight -dec 10
 
-    xbacklight -set 80
+* Set brightness in 80%
 
-Or more easily:
+      xbacklight -set 80
 
-Decreases by 10:
+* Or more easily:
 
-    xbacklight -10.
+    * Decreases by 10:
 
-Increase by 10:
+          xbacklight -10.
 
-    xbacklight +10
+    * Increase by 10:
+
+          xbacklight +10
 
 ## Sound Controller
 
 ### alsamixer
 
-Console mode - On/Off:
+* Console mode - On/Off:
 
-    amixer -D pulse sset Master toggle
+      amixer -D pulse sset Master toggle
 
-and modify the audio called 'Master':
+* Modify the audio called 'Master':
 
-    amixer -D pulse sset Master 5%-
+      amixer -D pulse sset Master 5%-
 
-Graphic mode:
+* Graphic mode:
 
-    alsamixer
+      alsamixer
 
-Press F6 and choose PCH instead HDMI (projector sound audio) and modify `Master`.
+  Press F6 and choose PCH instead HDMI (projector sound audio) and modify `Master`.
+
+  ![alsamixer][alsamixer-init]
 
 ## Screen Background
 
@@ -467,46 +459,48 @@ Press F6 and choose PCH instead HDMI (projector sound audio) and modify `Master`
 
 ### nmap
 
-Helful to detect all devices connected on your network.
+* Helful to detect all devices connected on your network.
 
-    sudo apt-get install nmap
-    sudo nmap -sP 192.168.20.0/24
+      sudo apt-get install nmap
+      sudo nmap -sP 192.168.20.0/24
 
-Graphic mode:
+* Graphic mode:
 
-    sudo apt-get install netdiscover
+      sudo apt-get install netdiscover
 
-Ethernet:
+* Ethernet:
 
-    sudo netdiscover -r 192.168.1.0/24
+      sudo netdiscover -r 192.168.1.0/24
 
-Wireless:
+* Wireless:
 
-    sudo netdiscover -r 192.168.1.0/24 -i wlan0
+      sudo netdiscover -r 192.168.1.0/24 -i wlan0
+
+  ![nmap][nmap-init]
 
 ### nmcli
 
     nm-connection-editor 
 
-Graphic mode:
+* Graphic mode:
 
-    nm-applet
+      nm-applet
 
-Connecting to a wireless net:
+* Connecting to a wireless net:
 
-    sudo nmcli dev wifi connect "netname" password "passwd"
+      sudo nmcli dev wifi connect "netname" password "passwd"
 
-Disconnect:
+* Disconnect:
 
-    sudo nmcli dev disconnect iface eth0
+       sudo nmcli dev disconnect iface eth0
 
-Show enabled devices:
+* Show enabled devices:
 
-    sudo nmcli dev
+      sudo nmcli dev
 
-Turn off/on wifi:
+* Turn off/on wifi:
 
-    sudo nmcli r wifi off/on
+      sudo nmcli r wifi off/on
 
 ## Network Configiguration
 
@@ -584,28 +578,28 @@ Types of security: Open/WEP/WPA/WPA2
 
 ### DNS configuration
 
-List DNS servers for internet domain name resolution.
+* List DNS servers for internet domain name resolution.
 
-    cat /etc/resolv.conf
+      cat /etc/resolv.conf
 
-Like:
+* Result:
 
-    nameserver 8.8.8.8
-    nameserver 8.8.4.4
+      nameserver 8.8.8.8
+      nameserver 8.8.4.4
 
 ### Hosts Configuration
 
-Show Ip and hostsname asociated, we can add another hosts.
+* Show Ip and hostsname asociated, we can add another hosts.
 
-    cat /etc/hosts
+      cat /etc/hosts
 
-Show our hostname, we can change our hostname.
+* Show our hostname, we can change our hostname.
 
-    cat /etc/hostname
+      cat /etc/hostname
 
-Show network interfaces:
+* Show network interfaces:
 
-    ls /sys/class/net
+      ls /sys/class/net
 
 * eth0:  ethernet
 * lo:    local loop
@@ -613,12 +607,34 @@ Show network interfaces:
 
 ## Booteable USB
 
-Terminal:
+* Terminal:
 
-    sudo dd if=[path_to_iso] of=[path_to_usb]
-    sudo dd if=/home/username/Downloads/debian-7.4.0-amd64-CD-1.iso of=/dev/sdb
+      sudo dd if=[path_to_iso] of=[path_to_usb]
+      sudo dd if=~/Downloads/debian-7.4.0-amd64-CD-1.iso of=/dev/sdb
 
-Or Graphical with `Disk Creator`.
+* Graphical mode with `Disk Creator`.
+
+
 
 [vim-guide-url]:   /blog/text_editors/2017-05-05/A-Fast-Guide-for-Newcomers-to-Vim
 [byobu-guide-url]: /blog/shell_terminals/2017-05-05/A-Fast-Guide-for-Newcomers-to-Byobu
+
+
+[alsamixer-init]:    /assets/systemCommand/alsamixer/alsamixer.png
+[cal-init]:          /assets/systemCommand/calendar/calendar.png
+[cmus-init]:         /assets/systemCommand/cmus/cmus.png
+[gparted-init]:      /assets/systemCommand/gparted/gparted.png
+[htop-init]:         /assets/systemCommand/htop/htop.png
+[iftop-init]:        /assets/systemCommand/iftop/iftop.png
+[links-init]:         /assets/systemCommand/links/links.png
+[lynx-init]:         /assets/systemCommand/lynx/lynx.png
+[netdiscover-init]:	 /assets/systemCommand/netdiscover/netdiscover.png
+[nload-init]:        /assets/systemCommand/nload/nload.png
+[nmap-init]:         /assets/systemCommand/nmap/nmap.png
+[ranger-init]:       /assets/systemCommand/ranger/ranger.png
+[sensors-init]:      /assets/systemCommand/sensors/sensors.png
+[slurm-init]:        /assets/systemCommand/slurm/slurm.png
+[tcptrack-init]:     /assets/systemCommand/tcptrack/tcptrack.png
+[vlc-init]:          /assets/systemCommand/vlc/vlc.png
+[vim-init]:          /assets/textEditor/vim/vim_init.png
+

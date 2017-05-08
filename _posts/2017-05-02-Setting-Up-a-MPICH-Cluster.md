@@ -65,5 +65,5 @@ On `/home/juser/forShare`, we must shared mpi files.
 
 ![excution][mpi_exe]
 
-[Jcluster_link]:   /blog/cluster-computing/2017-05-01/Setting-up-a-Beowulf-type-Cluster-in-linux-machines
+[Jcluster_link]:   /blog/cluster-computing/2017/05/01/Setting-up-a-Beowulf-type-Cluster-in-linux-machines
 [mpi_exe]:         /assets/clusterComputing/MPI/mpi_exe.png

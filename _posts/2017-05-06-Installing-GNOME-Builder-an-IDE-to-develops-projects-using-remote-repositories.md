@@ -14,7 +14,7 @@ For this guide, I use my Fedora Workstation 25 Virtual Machine installed on my l
   > Flatpak allows the same app to be installed on different Linux distributions
   * Is available for C, C++, Vala, Python, etc. programming languages.
 
-* First Method, we check our gnome-shel version `Not Recommended`:
+* First, we check our gnome-shel version and then install `gnome-builder`:
 
   ![gnome-version][gnomeversion]
 
@@ -22,7 +22,7 @@ For this guide, I use my Fedora Workstation 25 Virtual Machine installed on my l
 
   If you have some troubles trying to run Builder, just reboot your system.
 
-* Second Method, install flatpak `Recommended`:
+* Next, install flatpak `Recommended`:
 
       sudo dnf install -y flatpak flatpak-libs flatpak-builder
 
@@ -33,17 +33,17 @@ For this guide, I use my Fedora Workstation 25 Virtual Machine installed on my l
       flatpak --user install gnome org.gnome.Sdk 3.24
       flatpak install --user --from https://git.gnome.org/browse/gnome-apps-nightly/plain/gnome-builder.flatpakref?h=stable
 
-* Show the lisst of Flatpak repositories:
+  For each of theses commmands, the system will ask you for your password:
+
+  ![flatpak][flatpak_url]
+
+* Show the list of Flatpak repositories:
 
       flatpak remote-ls gnome-apps
 
 * Install dependencies for Gnome-Builder:
 
       flatpak run org.gnome.Builder
-
-  For each of theses commmands, the system will ask you for your password:
-
-  ![flatpak][flatpak_url]
 
   It takes a few 30 minutes to install dependencies.
 
@@ -81,7 +81,7 @@ For this guide, I use my Fedora Workstation 25 Virtual Machine installed on my l
 [repo-url]:           https://github.com/Jenazad/developConfig/
 [gnome-builder-init]: /assets/IDEs/GNOME-Builder/gnome-builder-init.png
 [fpk_install]:        /assets/IDEs/GNOME-Builder/flatpak_installing.png
-[vm-url]:             /blog/virtual-machines/2017-03-20/Using-Virt-Manager-Tool
+[vm-url]:             /blog/virtual-machines/2017/03/20/Using-Virt-Manager-Tool
 [flatpak_url]:        /assets/IDEs/GNOME-Builder/flatpak_exe.png
 [clonebutton]:        /assets/IDEs/GNOME-Builder/gnome-bluetooth.png
 [project-list]:       https://git.gnome.org/browse/
