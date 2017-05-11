@@ -16,7 +16,6 @@ git guide
 
 light environment redhat, slackware, archlinux, windows
 
-
 corregir el navbar menu
 
 modificar las paginas post (añadir una imagen de background)

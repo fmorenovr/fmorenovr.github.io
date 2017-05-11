@@ -20,14 +20,15 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://Jenazad.github.io/"
 author:
-  name: Felipe Moreno
-  email: felipe.moreno.vera@gmail.com
+  name:    Felipe Moreno
+  email_1: felipe.moreno.vera@gmail.com
+  email_2: felipe.moreno.v@uni.edu.pe
 
-twitter_username: Jenazads
-facebook_username: Jenazads
+twitter_username:   Jenazads
+facebook_username:  Jenazads
 bitbucket_username: Jenazads
-github_username:  Jenazad
-linkedin_username: Jenazads
+github_username:    Jenazad
+linkedin_username:  Jenazads
 
 # Build settings
 markdown: kramdown

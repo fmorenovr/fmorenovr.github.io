@@ -111,21 +111,7 @@ Best way to create users and groups, `Recommended`:
 
       sudo passwd juser
 
-We can use lower/upper case in names, `Not recommended`:
-
-* Create/Delete new group:
-
-      sudo groupadd JClusterGroup
-      sudo groupdel JClusterGroup
-
-* Create/Delete new user:
-
-      sudo useradd Juser
-      sudo userdel Juser
-
-* Create new user with a group named `JClusterGroup` with home `/home/juser` and with CLI `/bin/bash`
-
-      sudo useradd -g JClusterGroup -d /home/Juser -m -s /bin/bash Juser
+For more information press [here][users-url]
 
 ## Making secure connections
 
@@ -382,3 +368,4 @@ And if you want to connect with a specific user, write:
 [nfs_umounted]:    /assets/clusterComputing/NFS/nfs_umounted.png
 [ufw-url]:         /blog/system-settings/2017/05/04/Setting-Up-a-Firewall-with-ufw-on-Linux
 [MPICH-url]:       /blog/cluster-computing/2017/05/02/Setting-Up-a-MPICH-Cluster
+[users-url]:       /blog/system-settings/2017/05/09/Managing-Users-on-Linux-Systems
