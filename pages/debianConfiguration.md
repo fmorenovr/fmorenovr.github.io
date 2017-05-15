@@ -39,6 +39,16 @@ In the file `/etc/default/grub` modify:
 
       startx
 
+## mount SD Card
+
+In `/etc/modules` file, add this line:
+
+    tifm_sd
+
+And then in shell terminal, write:
+
+    sudo modprobe tifm_sd
+
 ##  Cores temperature
 
 With this you can see the cores temperature.
