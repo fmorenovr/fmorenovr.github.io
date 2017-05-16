@@ -26,6 +26,8 @@ Pomodoro technique have six steps:
 
 it can be used like `TODO` list.
 
+## Testing
+
 Once installed, you'll have this window:
 
 ![pom_init][pomodoro-init]
