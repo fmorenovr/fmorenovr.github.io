@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Installing Gnome Pomodoro timer."
+title:  "Installing GNOME Pomodoro, a time managment tool."
 date:   2017-05-16 00:20:12 -0500
 categories: GUI_app
 ---
