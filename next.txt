@@ -1,23 +1,21 @@
-datacenter (storages and servers), data warehouse -> data mart
+datacenter (storages and servers), data warehouse -> data mart.
 
-DB cluster
+DB cluster.
 
-GPU cluster
+GPU cluster.
 
-benchmark
+benchmark.
 
-VM-OS-level (docker)
+VM-OS-level (docker).
 
-how nestor manipulates ports and networks in CTIC
+how nestor manipulates inbounds/outbounds ports and networks in CTIC.
 
 Cloud service - IaaS, PaaS, SaaS, XaaS - like MQTT, cluster processing.
 
-git guide
+light environment redhat, slackware, archlinux, windows.
 
-light environment redhat, slackware, archlinux, windows
+corregir el navbar menu.
 
-corregir el navbar menu
+modificar las paginas post (añadir una imagen de background).
 
-modificar las paginas post (añadir una imagen de background)
-
-añadir listas por cada filtro de fecha y categoria en los blogs
+añadir listas por cada filtro de fecha y categoria en los blogs.
