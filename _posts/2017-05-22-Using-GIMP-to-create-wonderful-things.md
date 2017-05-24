@@ -69,7 +69,7 @@ GIMP provide a list of shortcuts to manages the GUI making editing images easy a
 
 ### Using GIMP
 
-This is my original image:
+This is my original image, my hamster Rapidash:
 
 ![hamster][Hamster]
 
@@ -89,6 +89,10 @@ With `Ctrl+B` we can show the right menu and `Ctrl+Shift+B` left menu
 
 ![hamsterB][hamsterb]
 
+Finally, we add backgraound image like:
+
+![hamsterbackground][HamsterBack]
+
 
 [gimp-init]:      /assets/GUIApp/GIMP/gimp_init.png
 [gimp-help]:      /assets/GUIApp/GIMP/gimp_help.png
@@ -98,3 +102,4 @@ With `Ctrl+B` we can show the right menu and `Ctrl+Shift+B` left menu
 [gimpNew]:        /assets/GUIApp/GIMP/gimp_newWindow.png
 [gimpCutNew]:     /assets/GUIApp/GIMP/gimp_cut_new.png
 [hamsterb]:       /assets/GUIApp/GIMP/hamster_B.png
+[HamsterBack]:    /assets/GUIApp/GIMP/hamsterBack.jpg
