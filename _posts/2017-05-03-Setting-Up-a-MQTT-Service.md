@@ -6,7 +6,7 @@ categories: Protocols
 ---
 # MQTT
 
-MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol.
+MQTT is a machine-to-machine (M2M) "Internet of Things" connectivity protocol.
 
 # Mosquitto
 
