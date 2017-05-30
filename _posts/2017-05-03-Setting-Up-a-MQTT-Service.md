@@ -10,7 +10,7 @@ MQTT is a machine-to-machine (M2M) "Internet of Things" connectivity protocol.
 
 # Mosquitto
 
-Mosquitto is an open source message broker that implements the MQTT (MQ Telemetry Transport) protocol.
+Mosquitto is an open source message broker that implements the MQTT (Message Queue Telemetry Transport) protocol.
 
 ## Mosquitto Install and Setup
 
