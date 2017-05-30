@@ -11,7 +11,7 @@ For this guide, I use my Fedora Workstation 25 Virtual Machine installed on my l
 * This application is a time management tool, that uses the pomodoro technique. it intends to improve productivity and concentration by taking programmed breaks.  
 Then, install:
 
-    sudo dnf install gnome-shell-extension-pomodoro
+      sudo dnf install gnome-shell-extension-pomodoro
 
 ## Technique
 
