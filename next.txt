@@ -5,6 +5,7 @@ DB cluster.
 GPU cluster.
 
 benchmark.
+MPICH cluster
 
 VM-OS-level (docker).
 
