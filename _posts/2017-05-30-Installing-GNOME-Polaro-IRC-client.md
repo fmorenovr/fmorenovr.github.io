@@ -30,6 +30,12 @@ You can see your chats (previously we use Empathy, so appears a list of created 
 
 ![pol-chats][polari-chats]
 
+## Functionalities
+
+* IRC Client chat
+* Search for Id user and autocomplete to talk
+* Send Images and text messages.
+
 
 [vm-url]:            /blog/virtual-machines/2017/03/20/Using-Virt-Manager-Tool
 [empathy-url]:       /blog/gui_app/2017/05/06/Installing-Empathy-a-IM-client
