@@ -13,6 +13,7 @@ how nestor manipulates inbounds/outbounds ports and networks in CTIC.
 how yauri administrates servers on CTIC
 
 Cloud service - IaaS, PaaS, SaaS, XaaS - like MQTT, cluster processing.
+Mail service like tuilo
 
 light environment redhat, slackware, archlinux, windows.
 
