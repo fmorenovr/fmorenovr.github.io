@@ -36,6 +36,13 @@ To configure a web socket listener on port 1884, in the `/etc/mosquitto/mosquitt
     listener port 1884
     protocol websockets
 
+## MQTT Managing connections number
+
+he maximum number of client connections to allow. This is a per listener setting.  
+Just add the line:
+
+    max_connections 10
+
 ## MQTT Managing User
 
 `PASSWD` hasthe job of registering users and passwords.
