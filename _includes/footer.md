@@ -113,6 +113,22 @@
               </a>
             </li>
           {% endif %}
+          {% if site.instagram_username %}
+            <li>
+              <a href="https://www.instagram.com/{{ site.instagram_username }}">
+                <span class="icon icon--instagram">
+                  <svg viewBox="0 0 16 16" width="16px" height="16px">
+                    {% if page.layout != "post"%}
+                      <img src="../assets/imgs/socialnetwork/instagram.png"/>
+                    {% else %}
+                      <img src="../../../../../assets/imgs/socialnetwork/instagram.png"/>
+                    {% endif %}
+                  </svg>
+                </span>
+                <span class="username">{{ site.instagram_username }}</span>
+              </a>
+            </li>
+          {% endif %}
           </ul>
       </div>
       <div class="footer-col footer-col-3">

@@ -24,11 +24,12 @@ author:
   email_1: felipe.moreno.vera@gmail.com
   email_2: felipe.moreno.v@uni.edu.pe
 
-twitter_username:   Jenazads
-facebook_username:  Jenazads
+github_username   : Jenazad
 bitbucket_username: Jenazads
-github_username:    Jenazad
-linkedin_username:  Jenazads
+linkedin_username : Jenazads
+facebook_username : Jenazads
+twitter_username  : Jenazads
+instagram_username: Jenazads
 
 # Build settings
 markdown: kramdown
