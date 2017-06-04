@@ -20,9 +20,11 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://Jenazad.github.io/"
 author:
-  name:    Felipe Moreno
-  email_1: felipe.moreno.vera@gmail.com
-  email_2: felipe.moreno.v@uni.edu.pe
+  name       : Felipe Moreno
+  gmail      : felipe.moreno.vera@gmail.com
+  hotmail    : felipe.moreno.vera@hotmail.com
+  outlookmail: felipe.moreno.vera@outlook.com
+  unimail    : felipe.moreno.v@uni.edu.pe
 
 github_username   : Jenazad
 bitbucket_username: Jenazads
