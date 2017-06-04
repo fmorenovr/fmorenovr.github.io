@@ -39,7 +39,7 @@ To configure a web socket listener on port 1884, in the `/etc/mosquitto/mosquitt
 ## MQTT Managing connections number
 
 he maximum number of client connections to allow. This is a per listener setting.  
-Just add the line:
+Just add the line to allows 10 users:
 
     max_connections 10
 
