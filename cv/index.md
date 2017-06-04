@@ -19,10 +19,10 @@ Research in fields related to smart cities, high performance computing, big data
 > ##### [CTIC][CTICWEB], [UNI][UNIWEB], [SmartCities Lab][SCLab].  
 
 **Mobile Application Developer**
-- **UNIQUEST** ~ *March 2016 - April 2016*  
-A game based on `Treasure Hunt` using BlueTooth Scanner 4.0 at the ` Festival Games` held at Mega Plaza - Independencia.
+- **UNIQUEST** ~ *April 2016/2017*  
+A game based on `Treasure Hunt` using BlueTooth Scanner 4.0 at the `Festival Games` held at Mega Plaza - Independencia.
 
-- **QhatUNI** ~ *April 2016 - May 2016*  
+- **QhatUNI** ~ *May 2016/2017*  
 Destined to the `Book Fair, Scholarships and Art`, oriented to the fomentation of information of the scholarships offered by the agreements of the National University of Engineering and in turn expose diverse books for general public.
 
 **Intern** ~ *January 2016 - July 2016*  
@@ -109,8 +109,8 @@ This project presents the implementation of a cluster of Computers to equip CTIC
 
 * Technologies
 * Innovation
+* Research
 * Business
-* Investigation
 * Martial Arts
 * Swimming
 * Cycling
