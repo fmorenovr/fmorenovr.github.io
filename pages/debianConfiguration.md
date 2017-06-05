@@ -14,6 +14,12 @@ Command to shutdown Linux Debian based OS using bash:
 
     poweroff
 
+## Package Language Configuration 
+
+Add in `.bashrc` file:
+
+    export LC_ALL=C
+
 ## Console Mode
 
 In the file `/etc/default/grub` modify:
