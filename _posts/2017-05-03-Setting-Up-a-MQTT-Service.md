@@ -14,11 +14,17 @@ Mosquitto is an open source message broker that implements the MQTT (Message Que
 
 ## Mosquitto Install and Setup
 
-To install, write this:
+To install, write this (on Ubuntu):
 
     sudo apt-add-repository ppa:mosquitto-dev/mosquitto-ppa
     sudo apt-get update
     sudo apt-get install mosquitto mosquitto-clients
+
+To install in Raspbian Jessie:
+
+    sudo wget http://repo.mosquitto.org/debian/mosquitto-wheezy.list
+    sudo apt-get update
+    sudo apt-get install mosquitto mosquitto-clients 
 
 Initializing the service:
 
