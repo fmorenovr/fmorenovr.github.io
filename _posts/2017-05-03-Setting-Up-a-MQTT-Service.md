@@ -14,7 +14,7 @@ Mosquitto is an open source message broker that implements the MQTT (Message Que
 
 ## Mosquitto Install and Setup
 
-To install, write this (on Ubuntu):
+To install in Ubuntu Xenial:
 
     sudo apt-add-repository ppa:mosquitto-dev/mosquitto-ppa
     sudo apt-get update
