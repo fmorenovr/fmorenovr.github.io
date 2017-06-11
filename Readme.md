@@ -6,7 +6,7 @@ You can see the documentation about [jekyll][jekyll-home] or [github pages][gith
 
 You can take this web like a demo that was created by [Jenazad][jen-profile] and see how configure your own jekyll website on [your localhost][jekyll-localhost].
 
-Users are free to copy and re-use any and all of the code contained here without contacting me.
+Users are free to copy and re-use any and all of the code contained here without contact with me.
 
 [jekyll-home]:      https://jekyllrb.com/
 [github-pages]:     https://guides.github.com/features/pages/

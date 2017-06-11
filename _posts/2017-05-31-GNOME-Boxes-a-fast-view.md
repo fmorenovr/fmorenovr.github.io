@@ -32,15 +32,35 @@ Then, you must wait for installation.
 
 ![boxes-install][boxes_install]
 
+Once downloaded, you'll have this:
+
+![boxes-vm][boxes_VM]
+
+Here, you can setting your VM.
+
+![boxes-features][boxes_features]
+
+
+Once Installed, you can see your list of VM in boxes.
+
+![boxes-list][boxes_list]
+
 ## Aplications
 
 * See a window with your Virtual Machines.
 * Can Manage your VM as virt manager
 
+## Notes
 
-[vm-url]:         /blog/virtual-machines/2017/03/20/Using-Virt-Manager-Tool
-[boxes_init]:     /assets/GUIApp/Boxes/boxes_init.png
-[boxes_new]:      /assets/GUIApp/Boxes/boxes_new.png
-[boxes_new_url]:  /assets/GUIApp/Boxes/boxes_url_new.png
-[boxes_install]:  /assets/GUIApp/Boxes/boxes_installing.png
+* I recommend [virt-manager][virt_manager] instead, because you have more control over your VM and you can connect.
 
+
+[vm-url]:          /blog/virtual-machines/2017/03/20/Using-Virt-Manager-Tool
+[boxes_init]:      /assets/GUIApp/Boxes/boxes_init.png
+[boxes_new]:       /assets/GUIApp/Boxes/boxes_new.png
+[boxes_new_url]:   /assets/GUIApp/Boxes/boxes_url_new.png
+[boxes_install]:   /assets/GUIApp/Boxes/boxes_installing.png
+[boxes_VM]:        /assets/GUIApp/Boxes/boxes_vm.png
+[boxes_features]:  /assets/GUIApp/Boxes/boxes_features.png
+[boxes_list]:      /assets/GUIApp/Boxes/boxes_list_VM.png
+[virt_manager]:    /blog/virtual-machines/2017/03/20/Using-Virt-Manager-Tool

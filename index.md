@@ -9,23 +9,14 @@ title: Home
 
 >Nice to meet you !!  
 >You can find me on many websites with the alias Jenazad or Jenazads.  
->Here i will tell about me, my projects, my repositories and maybe some tutorials.
+>Here I will tell about my projects, my repositories and maybe some tutorials.
 
 So, let's go!.  
-Here is an example of my `index.md` listing my posts.
+This page is serve using [jekyll][jekyll-url]. thanks to [github][github-pages] for serves static pages.  
+You can prepare on your localhost for debug and test, try on [jekyll-tutorial][jekyll_tutorial].
 
-{% highlight html %}
-<div class="home">
-  <h1 class="page-heading">Welcome !!</h1>
-  <p>This an example of HTML embebbed on markdown.<br>
-  <ul class="post-list">
-    <li>
-      <span class="post-meta">Mar 20, 2017</span>
-      <h2>
-        <a class="post-link" href="link_to_Virt_Manager">Using Virt-Manager VM</a>
-      </h2>
-    </li>
-  </ul>
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-</div>
-{% endhighlight %}
+So, visit my blog and let's start learning.
+
+[jekyll-url]:      https://jekyllrb.com/
+[github-pages]:    https://guides.github.com/features/pages/
+[jekyll_tutorial]: /blog/webservices/2017/06/10/Jekyll-a-setting-up-guide
