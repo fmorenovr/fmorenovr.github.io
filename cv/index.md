@@ -105,16 +105,14 @@ This project presents the implementation of a cluster of Computers to equip CTIC
 * English  ~  *Intermediate*
 * Japanese ~  *Basic*
 
-## Interests
+## Interests and Research Topics
 
-* Technologies
-* Innovation
-* Research
-* Business
-* Martial Arts
-* Swimming
-* Cycling
-* Marathons
+* Human–computer interaction, User Experience
+* Numerical Analysis, BioInformatics, Artificial Intelligence, Cryptography
+* Concurrent, Distributed and Parallel Computing
+* Computer Architecture, Operating Systems
+* Technologies, Innovation, Research
+* Business, Martial Arts, Sports
 
 
 [UNIWEB]: http://www.uni.edu.pe/
