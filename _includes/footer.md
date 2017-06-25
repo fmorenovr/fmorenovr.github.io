@@ -17,7 +17,7 @@
             </a>&nbsp;
           {% endif %}
           <br>
-          {% if site.author.unimail %}
+<!--          {% if site.author.unimail %}
             <a href="mailto:{{ site.author.unimail }}">
               <span class="icon icon--email">
                 <svg viewBox="0 0 16 16" width="16px" height="16px">
@@ -54,7 +54,7 @@
               </span>
               <span class="email">outlookmail</span>
             </a>&nbsp;
-          {% endif %}
+          {% endif %}-->
         </ul>
       </div>
       <div class="footer-col footer-col-2">
@@ -75,7 +75,7 @@
               </a>
             </li>
           {% endif %}
-          {% if site.bitbucket_username %}
+<!--          {% if site.bitbucket_username %}
             <li>
               <a href="https://bitbucket.org/{{ site.bitbucket_username }}">
                 <span class="icon icon--bitbucket">
@@ -90,7 +90,7 @@
                 <span class="username">{{ site.bitbucket_username }}</span>
               </a>
             </li>
-          {% endif %}
+          {% endif %}-->
           {% if site.linkedin_username %}
             <li>
               <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
@@ -107,7 +107,7 @@
               </a>
             </li>
           {% endif %}
-          {% if site.facebook_username %}
+<!--          {% if site.facebook_username %}
             <li>
               <a href="https://www.facebook.com/{{ site.facebook_username }}">
                 <span class="icon icon--facebook">
@@ -154,7 +154,7 @@
                 <span class="username">{{ site.instagram_username }}</span>
               </a>
             </li>
-          {% endif %}
+          {% endif %}-->
           </ul>
       </div>
       <div class="footer-col footer-col-3">
