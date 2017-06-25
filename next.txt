@@ -24,3 +24,5 @@ modificar las paginas post (añadir una imagen de background).
 añadir listas por cada filtro de fecha y categoria en los blogs.
 
 complete Byobu
+
+How create certs with OpenSSL
