@@ -53,25 +53,33 @@ For this guide, I use my Fedora Workstation 25 Virtual Machine installed on my l
 
   ![Builder][GNOME-builder]
 
-* Then, you can clone any repository using the url of the project you want to clone. You can find a complete list of GNOME project [here][project-list]. I choose [gnome-bluetooth](https://git.gnome.org/browse/gnome-bluetooth/).  
+* Then, you can clone any repository using the url of the project you want to clone. You can find a complete list of GNOME project [here][project-list]. I choose [polari](https://git.gnome.org/browse/polari/).  
 
   So, click on clone button, paste the project url and go.
 
   ![clone][clonebutton]
 
-* Finally, you will have your project cloned into gnome-builder:
+* Then, you will have your project cloned into gnome-builder:
 
   ![builder-init][gnome-builder-init]
 
-* Now, we can try clone any repository, for example I use my own [repo][repo-url].
+* Finally, you can run the application (in this case is Polari IRC):
+
+  ![builder-run][gnome-builder-run]
+
+## Other functionalities
+
+* You can clone any repository, for example I use my own [repo][repo-url].
 
   ![builder-clone][builderClone]
 
-  Then, you can edit your files:
+  Then, you can edit your files and make pull/push on the project:
   
   ![builder-ide][builderIDE]
 
-* Finally, you can see a list of cloned projects.
+## Listing cloned projects
+
+* Each time that you start gnome builder, you can see the list of cloned projects.
 
   ![builder-list][builderList]
 
@@ -80,10 +88,11 @@ For this guide, I use my Fedora Workstation 25 Virtual Machine installed on my l
 [builderClone]:       /assets/IDEs/GNOME-Builder/gnome-builder-clone.png
 [repo-url]:           https://github.com/Jenazad/developConfig/
 [gnome-builder-init]: /assets/IDEs/GNOME-Builder/gnome-builder-init.png
+[gnome-builder-run]: /assets/IDEs/GNOME-Builder/gnome-builder-run.png
 [fpk_install]:        /assets/IDEs/GNOME-Builder/flatpak_installing.png
 [vm-url]:             /blog/virtual-machines/2017/03/20/Using-Virt-Manager-Tool
 [flatpak_url]:        /assets/IDEs/GNOME-Builder/flatpak_exe.png
-[clonebutton]:        /assets/IDEs/GNOME-Builder/gnome-bluetooth.png
+[clonebutton]:        /assets/IDEs/GNOME-Builder/gnome-builder-polari.png
 [project-list]:       https://git.gnome.org/browse/
 [gnomeversion]:       /assets/graphicalShell/GNOME/gnome-version.png
 [GNOME-builder]:      /assets/IDEs/GNOME-Builder/gnome-builder.png
