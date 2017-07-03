@@ -29,9 +29,9 @@ For this guide, I use my Fedora Workstation 25 Virtual Machine installed on my l
 * Then, we nee add some dependencies:
 
       wget https://sdk.gnome.org/keys/gnome-sdk.gpg
-      flatpak --user remote-add --gpg-import=gnome-sdk.gpg gnome https://sdk.gnome.org/repo/
-      flatpak --user install gnome org.gnome.Sdk 3.24
-      flatpak install --user --from https://git.gnome.org/browse/gnome-apps-nightly/plain/gnome-builder.flatpakref?h=stable
+      sudo flatpak --user remote-add --gpg-import=gnome-sdk.gpg gnome https://sdk.gnome.org/repo/
+      sudo flatpak --user install gnome org.gnome.Sdk 3.24
+      sudo flatpak install --user --from https://git.gnome.org/browse/gnome-apps-nightly/plain/gnome-builder.flatpakref?h=stable
 
   For each of theses commmands, the system will ask you for your password:
 
@@ -43,7 +43,7 @@ For this guide, I use my Fedora Workstation 25 Virtual Machine installed on my l
 
 * Install dependencies for Gnome-Builder:
 
-      flatpak run org.gnome.Builder
+      sudo flatpak run org.gnome.Builder
 
   It takes a few 30 minutes to install dependencies.
 
