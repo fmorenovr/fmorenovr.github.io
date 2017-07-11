@@ -10,8 +10,9 @@ Configure and preparing a good development environment lite OS.
 
     |-- Linux
     |   |-- Debian
-    |   |   |-- Ubuntu
     |   |   |-- Deepin
+    |   |   |-- Kali
+    |   |   |-- Ubuntu
     |   |
     |   |-- Red Hat
     |   |   |-- CentOS
