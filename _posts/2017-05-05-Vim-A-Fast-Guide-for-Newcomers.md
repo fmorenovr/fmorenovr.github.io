@@ -74,7 +74,7 @@ Vim has 6 modes, a normal mode, insertion mode, replace mode, visual mode, selec
 In `/etc/vim/vimrc` file, add:
 
     "show number line"
-    set nu
+    set number
 
     "tabulation step"
     set tabstop=2 softtabstop=2 shiftwidth=2 expandtab
@@ -84,6 +84,16 @@ In `/etc/vim/vimrc` file, add:
 
     "show current position"
     set ruler
+
+## CLI Mode
+
+Vim has this mode when you use the `:` and other letters like:
+
+* `! date` shows all the changes did in a file.
+
+* `e namefile` creates a new file named `namefile`.
+
+* `b#` where `#` is a number (1, 2, etc), is like tabs.
 
 ## Insertion Mode
 
@@ -176,7 +186,6 @@ Vim has ways to activates insertion mode:
 * `?word` search for `word` in the document, going backwards.
 * `:%s/orginal/new word/g` search through the entire document for text and replace it with replacement text.
 * `:%s/orginal/new word/gc` search through the entire document and confirm before replacing text.
-
 
 ## Write and Exit of Vim
 
