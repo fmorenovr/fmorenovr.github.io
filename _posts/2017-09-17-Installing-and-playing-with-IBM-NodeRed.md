@@ -147,6 +147,12 @@ And have fun :D
 
 ![nodered-tool][bluemix-noderedTool]
 
+### Example connection ibm-iot module
+
+You need a basic information, an API key and API key token generate (if you don't remember, you should generate a new API key).
+
+![node-bluemix-iot][bluemix-noderedIBMConnect]
+
 
 ## Implementing Watson with NodeJS
 
@@ -157,6 +163,10 @@ Finally, we use Watson !!, First of all, download watson package to node-red:
 Or, through node-red tool, in right-side menu -> Manage palette -> Pallette -> Install -> search package and install.
 
 ![nodered-tool-install][bluemix-noderedInstall]
+
+Then, we try connection (your organization is your Watson IoT url):
+
+![nodered-tool-watsoniot][bluemix-noderedWatsonConnect]
 
 
 [node-example]:                   /assets/tools/node-red/node_1.png
@@ -186,6 +196,7 @@ Or, through node-red tool, in right-side menu -> Manage palette -> Pallette -> I
 [bluemix-noderedLogin]:           /assets/tools/node-red/node-bluemix_3.png
 [bluemix-noderedTool]:            /assets/tools/node-red/node-bluemix_4.png
 [bluemix-noderedInstall]:         /assets/tools/node-red/node-bluemix_5.png
-
+[bluemix-noderedIBMConnect]:      /assets/tools/node-red/node-bluemix_6.png
+[bluemix-noderedWatsonConnect]:   /assets/tools/node-red/node-bluemix_7.png
 
 
