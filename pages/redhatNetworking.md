@@ -2,9 +2,9 @@
 layout: page
 subtitle: "CentOS minimal 7.3 networking"
 description: "configure /etc/sysconfig/network-scripts/ifcfg-* file"
-permalink: /pages/centos_networking
+permalink: /docs/redhat_networking
 ---
-### CentOS Minimal 7.3 VM
+### Red Hat Enterprise Linux based OS
 
 * First, installing components:
 

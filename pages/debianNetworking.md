@@ -1,10 +1,10 @@
 ---
 layout: page
-subtitle: "Debian 8.7 networking"
+subtitle: "Debian based OS networking"
 description: "configure /etc/network/interfaces file"
-permalink: /pages/debian_networking
+permalink: /docs/debian_networking
 ---
-### Debian 8.7 VM
+### Debian based OS
 
 * First, debian has not `sudo` command, so let install:
 
@@ -21,7 +21,7 @@ permalink: /pages/debian_networking
 
       usernamehere  ALL=(ALL:ALL) ALL
 
-* Four, installing components:
+* Four, installing components (the last command, in some cases is not necessary):
 
       sudo apt-get update
       sudo apt-get install lsb-core htop

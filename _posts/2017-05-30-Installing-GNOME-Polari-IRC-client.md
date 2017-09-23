@@ -37,8 +37,8 @@ You can see your chats (previously we use Empathy, so appears a list of created 
 * Send Images and text messages.
 
 
-[vm-url]:            /blog/virtual-machines/2017/03/20/Using-Virt-Manager-Tool
-[empathy-url]:       /blog/gui_app/2017/05/06/Installing-Empathy-a-IM-client
+[vm-url]:            /virtual-machines/Using-Virt-Manager-Tool
+[empathy-url]:       /gui_app/Installing-Empathy-a-IM-client
 [polari-init]:       /assets/GUIApp/Polari/polari_init.png
 [polari-chats]:      /assets/GUIApp/Polari/polari_chats.png
 [polari-new-chat]:   /assets/GUIApp/Polari/polari_new_chat.png

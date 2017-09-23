@@ -366,6 +366,6 @@ And if you want to connect with a specific user, write:
 [cssh_example]:    /assets/clusterComputing/cssh/cssh_example.png
 [nfs_mounted]:     /assets/clusterComputing/NFS/nfs_mounted.png
 [nfs_umounted]:    /assets/clusterComputing/NFS/nfs_umounted.png
-[ufw-url]:         /blog/system-settings/2017/05/04/Setting-Up-a-Firewall-with-ufw-on-Linux
-[MPICH-url]:       /blog/cluster-computing/2017/05/02/Setting-Up-a-MPICH-Cluster
-[users-url]:       /blog/system-settings/2017/05/09/Managing-Users-on-Linux-Systems
+[ufw-url]:         /system-settings/Setting-Up-a-Firewall-with-ufw-on-Linux
+[MPICH-url]:       /cluster-computing/Setting-Up-a-MPICH-Cluster
+[users-url]:       /system-settings/Managing-Users-on-Linux-Systems

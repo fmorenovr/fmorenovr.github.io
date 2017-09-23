@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Installing i3, a Tailing Window Manager for light Environments."
+title:  "Installing i3, a Tiling Window Manager for light Environments."
 date:   2017-05-06 04:05:12 -0500
 categories: Window_Manager
 ---

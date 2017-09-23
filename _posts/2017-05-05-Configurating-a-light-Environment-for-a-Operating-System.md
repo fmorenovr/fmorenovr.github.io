@@ -32,5 +32,5 @@ Configure and preparing a good development environment lite OS.
 * [EnvironmentLitewindows][windows-url]  
 > Windows Operating System.
 
-[debian-url]:   /pages/light_environment_debian
-[windows-url]:  /pages/light_environment_windows
+[debian-url]:   /docs/light_environment_debian
+[windows-url]:  /docs/light_environment_windows

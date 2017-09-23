@@ -45,8 +45,8 @@ Once the chronometer finished, shows a new timer:
 
 ![pom_break][pomodoro-break]
 
-[vm-url]:             /blog/virtual-machines/2017/03/20/Using-Virt-Manager-Tool
-[pomodoro-init]:            /assets/GUIApp/Pomodoro/pomodoro_init.png
-[pomodoro-menu]:            /assets/GUIApp/Pomodoro/pomodoro_menu.png
-[pomodoro-preferences]:     /assets/GUIApp/Pomodoro/pomodoro_preferences.png
-[pomodoro-break]:           /assets/GUIApp/Pomodoro/pomodoro_break.png
+[vm-url]:               /virtual-machines/Using-Virt-Manager-Tool
+[pomodoro-init]:        /assets/GUIApp/Pomodoro/pomodoro_init.png
+[pomodoro-menu]:        /assets/GUIApp/Pomodoro/pomodoro_menu.png
+[pomodoro-preferences]: /assets/GUIApp/Pomodoro/pomodoro_preferences.png
+[pomodoro-break]:       /assets/GUIApp/Pomodoro/pomodoro_break.png

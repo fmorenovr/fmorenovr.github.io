@@ -2,7 +2,7 @@
 layout: page
 subtitle: "Light Environment Debian based OS"
 description: "Configure a Light Environment Debian based OS."
-permalink: /pages/light_environment_debian
+permalink: /docs/light_environment_debian
 ---
 # Light Environment Debian-Ubuntu
 
@@ -632,9 +632,8 @@ Types of security: Open/WEP/WPA/WPA2
 
 
 
-[vim-guide-url]:   /blog/text_editors/2017/05/05/Vim-A-Fast-Guide-for-Newcomers
-[byobu-guide-url]: /blog/shell_terminals/2017/05/05/Byobu-A-Fast-Guide-for-Newcomers
-
+[vim-guide-url]:     /text_editors/Vim-A-Fast-Guide-for-Newcomers
+[byobu-guide-url]:   /shell_terminals/Byobu-A-Fast-Guide-for-Newcomers
 
 [alsamixer-init]:    /assets/systemCommand/alsamixer/alsamixer.png
 [cal-init]:          /assets/systemCommand/calendar/calendar.png

@@ -55,7 +55,7 @@ Once Installed, you can see your list of VM in boxes.
 * I recommend [virt-manager][virt_manager] instead, because you have more control over your VM and you can connect.
 
 
-[vm-url]:          /blog/virtual-machines/2017/03/20/Using-Virt-Manager-Tool
+[vm-url]:          /virtual-machines/Using-Virt-Manager-Tool
 [boxes_init]:      /assets/GUIApp/Boxes/boxes_init.png
 [boxes_new]:       /assets/GUIApp/Boxes/boxes_new.png
 [boxes_new_url]:   /assets/GUIApp/Boxes/boxes_url_new.png
@@ -63,4 +63,4 @@ Once Installed, you can see your list of VM in boxes.
 [boxes_VM]:        /assets/GUIApp/Boxes/boxes_vm.png
 [boxes_features]:  /assets/GUIApp/Boxes/boxes_features.png
 [boxes_list]:      /assets/GUIApp/Boxes/boxes_list_VM.png
-[virt_manager]:    /blog/virtual-machines/2017/03/20/Using-Virt-Manager-Tool
+[virt_manager]:    /virtual-machines/Using-Virt-Manager-Tool

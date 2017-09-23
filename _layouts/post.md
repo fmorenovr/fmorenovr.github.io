@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /blog/:categories/:year/:month/:day/:title
 ---
 <!--contenido de layout: post de la carpeta _posts-->
 <h1>{{ page.title }}</h1>

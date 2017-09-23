@@ -2,7 +2,7 @@
 layout: page
 subtitle: "Light Environment Windows"
 description: "Configure a Light Environment Windows."
-permalink: /pages/light_environment_windows
+permalink: /docs/light_environment_windows
 ---
 # Light Environment Windows
 

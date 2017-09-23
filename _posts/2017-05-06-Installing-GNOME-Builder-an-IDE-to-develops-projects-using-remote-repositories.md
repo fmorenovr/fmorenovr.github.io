@@ -88,9 +88,9 @@ For this guide, I use my Fedora Workstation 25 Virtual Machine installed on my l
 [builderClone]:       /assets/IDEs/GNOME-Builder/gnome-builder-clone.png
 [repo-url]:           https://github.com/Jenazad/developConfig/
 [gnome-builder-init]: /assets/IDEs/GNOME-Builder/gnome-builder-init.png
-[gnome-builder-run]: /assets/IDEs/GNOME-Builder/gnome-builder-run.png
+[gnome-builder-run]:  /assets/IDEs/GNOME-Builder/gnome-builder-run.png
 [fpk_install]:        /assets/IDEs/GNOME-Builder/flatpak_installing.png
-[vm-url]:             /blog/virtual-machines/2017/03/20/Using-Virt-Manager-Tool
+[vm-url]:             /virtual-machines/Using-Virt-Manager-Tool
 [flatpak_url]:        /assets/IDEs/GNOME-Builder/flatpak_exe.png
 [clonebutton]:        /assets/IDEs/GNOME-Builder/gnome-builder-polari.png
 [project-list]:       https://git.gnome.org/browse/
