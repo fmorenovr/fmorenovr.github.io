@@ -12,4 +12,4 @@ I am a Computer Scientist graduated of the [National University of Engineering][
 
 [JenazadGithubIO]:  https://github.com/Jenazad/Jenazad.github.io
 [me_photo]:         /assets/me.png
-[UNI]:              www.uni.edu.pe
+[UNI]:              http://www.uni.edu.pe
