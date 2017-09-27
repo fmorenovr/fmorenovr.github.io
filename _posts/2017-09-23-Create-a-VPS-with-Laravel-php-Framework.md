@@ -47,9 +47,11 @@ categories: Frameworks
   
       APP_KEY=base64:wOYfq4yBb3OXt44asc54bOv4y71LHP0BQGn28D+5js=
 
+  Next, copy folder to `/var/www/html/your_website`
+
 * Ninth, assign permission to access:
 
-      sudo chown www-data: -R /home/user/your_website/
+      sudo chown www-data: -R /var/www/html/your_website/
 
 ## Adding with Apache
 
@@ -61,10 +63,10 @@ categories: Frameworks
   
       <VirtualHost *:80>
         ServerAdmin admin@your_domain.com
-        DocumentRoot /home/user/your_website/public/
-        #ServerName your_domain.com
-        #ServerAlias www.your_domain.com
-        <Directory /home/user/your_website/>
+        DocumentRoot /var/www/html/your_website/public/
+        ServerName your_domain.com
+        ServerAlias www.your_domain.com
+        <Directory /var/www/html/your_website/>
           #Options FollowSymLinks
           AllowOverride All
           #Order allow,deny
@@ -79,7 +81,7 @@ categories: Frameworks
       sudo a2ensite your_website.conf
       sudo service apache2 reload
 
-* Twelfth, go to your workdirectory and run the service:
+* Twelfth, if you would like to run in local, go to your workdirectory and run the service:
 
       php artisan serve
 
