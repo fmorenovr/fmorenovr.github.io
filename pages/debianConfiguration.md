@@ -621,6 +621,14 @@ Types of security: Open/WEP/WPA/WPA2
 * lo:    local loop
 * wlan0: wireless
 
+## Ping hosts and ports
+
+With hping3 we can ping a server through a specific port:
+
+    sudo apt-get install hping3
+  
+  ![hping][hping-test]
+
 ## Booteable USB
 
 * Terminal:
@@ -651,5 +659,6 @@ Types of security: Open/WEP/WPA/WPA2
 [slurm-init]:        /assets/systemCommand/slurm/slurm.png
 [tcptrack-init]:     /assets/systemCommand/tcptrack/tcptrack.png
 [vlc-init]:          /assets/systemCommand/vlc/vlc.png
+[hping-test]:        /assets/systemCommand/hping/hping.png
 [vim-init]:          /assets/textEditor/vim/vim_init.png
 

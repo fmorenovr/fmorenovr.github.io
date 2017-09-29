@@ -51,7 +51,7 @@ categories: Frameworks
 
 * Ninth, assign permission to access:
 
-      sudo chown www-data: -R /var/www/html/your_website/
+      sudo chown 777 -R /var/www/html/your_website/
 
 ## Adding with Apache
 
@@ -84,5 +84,4 @@ categories: Frameworks
 * Twelfth, if you would like to run in local, go to your workdirectory and run the service:
 
       php artisan serve
-
 
