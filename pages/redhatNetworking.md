@@ -30,9 +30,9 @@ permalink: /docs/redhat_networking
 * Restart the services:
 
       sudo systemctl restart network
+      sudo systemctl start sshd.service
 
 * Now, we connect from the OS host through ssh:
 
       ssh jenazad@192.168.100.129
-
 

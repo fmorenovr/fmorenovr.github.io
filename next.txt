@@ -27,6 +27,4 @@ How create certs with OpenSSL
 
 node-red -> watson
 
-appinventor -> new app
-
-VPS with apache y laravel
+appinventor -> make a video creating a new app

@@ -44,6 +44,10 @@ Finally, start the static web:
 
     jekyll serve
 
+or, in a specific port and host (Note: if you use port 80 or 443, use sudo):
+
+    sudo jekyll serve --port 80 --host localhost
+
 ![jekyll-serve][jekyll_serve]
 
 In your favourite browser, enter to `localhost:4000`:

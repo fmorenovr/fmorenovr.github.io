@@ -204,7 +204,7 @@ To add security connections, apart of identification on `aclfile`.
     * Anonymous client (remember that we have `allow_anonymous true`):
 
           mosquitto_sub -t '#' -d -v -p 2883 --cafile /etc/mosquitto/ca_certificates/ca.crt --cert /etc/mosquitto/certs/Master.crt --key /etc/mosquitto/certs/Master.key
-          mosquitto_pub -t 'testtopic/' -m '{"valor" : 15.3}' -p 2883 --cafile /etc/mosquitto/ca_certificates/ca.crt
+          mosquitto_pub -t 'testtopic/' -m '{"valor" : 15.3}' -p 2883 --cafile /etc/mosquitto/ca_certificates/ca.crt --cert /etc/mosquitto/certs/Master.crt --key /etc/mosquitto/certs/Master.key
 
     * User with password client:
           

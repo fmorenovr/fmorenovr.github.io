@@ -6,7 +6,7 @@ categories: Frameworks
 ---
 # Install and prepare a PHP with Laravel Framework
 
-* First, install LAMP lastest using taskel. You can find a tutorial [here][].
+* First, install LAMP lastest using taskel. You can find a tutorial [here][tasksel-tuto].
 
       sudo apt-get install php-mcrypt php-gd php-mbstring php7.0-pgsql
 
@@ -18,14 +18,14 @@ categories: Frameworks
 
 * Third, Create or Choose a file directory where is your public files and project:
 
-      mkdir /home/user/your_website
-      cd /home/user/your_website
+      mkdir /path/dir/your_website
+      cd /path/dir/your_website
 
 * Fourth, here clone a laravel project from:
 
       git clone https://github.com/laravel/laravel.git
 
-* Fifth, copy all files from `home/user/your_website/laravel` to `home/user/your_website/`:
+* Fifth, copy all files from `/path/dir/your_website/laravel`:
 
       mv laravel/* .
       mv laravel/.* .
@@ -47,26 +47,25 @@ categories: Frameworks
   
       APP_KEY=base64:wOYfq4yBb3OXt44asc54bOv4y71LHP0BQGn28D+5js=
 
-  Next, copy folder to `/var/www/html/your_website`
-
 * Ninth, assign permission to access:
 
-      sudo chown 777 -R /var/www/html/your_website/
+      sudo chmod 777 -R /path/dir/your_website
+      sudo chown -hR $USER:$USER /path/dir/your_website
 
 ## Adding with Apache
 
-* Tenth, create a file conf for your website:
+* Tenth, create a file `your_website.conf` for your website:
 
       sudo nano /etc/apache2/sites-available/your_website.conf
 
   Add these lines:
   
       <VirtualHost *:80>
-        ServerAdmin admin@your_domain.com
-        DocumentRoot /var/www/html/your_website/public/
-        ServerName your_domain.com
-        ServerAlias www.your_domain.com
-        <Directory /var/www/html/your_website/>
+        ServerAdmin admin@localhost
+        DocumentRoot /path/dir/your_website/public/
+        ServerName your_website.com
+        #ServerAlias www.your_domain.com
+        <Directory /path/dir/your_website/>
           #Options FollowSymLinks
           AllowOverride All
           #Order allow,deny
@@ -75,13 +74,26 @@ categories: Frameworks
         ErrorLog /var/log/apache2/your_domain.com-error_log
         CustomLog /var/log/apache2/your_domain.com-access_log common
       </VirtualHost>
+
+  And modifiy in `/etc/apache2/apache2.conf`:
+  
+      <Directory /path/dir/your_website>
+          Options Indexes FollowSymLinks
+          AllowOverride All
+          Require all granted
+      </Directory>
   
 * Eleventh, enable the site and restart service:
 
+      sudo a2dissite 000-default.conf
       sudo a2ensite your_website.conf
       sudo service apache2 reload
+      sudo a2enmod rewrite
+      sudo service apache2 restart
 
-* Twelfth, if you would like to run in local, go to your workdirectory and run the service:
+* Twelfth, if you would like to run in local, go to your workdirectory and run the service (by default, run in port 8000):
 
+      sudo php artisan serve --port 80
       php artisan serve
 
+[tasksel-tuto]:  /software-bundles/Using-Tasksel_to_install_LAMP_server

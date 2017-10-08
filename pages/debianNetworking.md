@@ -45,6 +45,7 @@ permalink: /docs/debian_networking
 * Restart the services:
 
       sudo /etc/init.d/networking restart
+      sudo systemctl start sshd.service
     
 * Now, we connect from the OS host through ssh:
 

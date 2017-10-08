@@ -30,11 +30,15 @@ Virt-Manager is a Light virtualizer using KVM, Xen and Qemu.
 
 * Initializing the virtual manager:
 
-      sudo virt-manager
+      virt-manager
 
 * Shows a list of all guest OS:
 
-      sudo virsh -c qemu:///system list --all
+      virsh -c qemu:///system list --all
+
+* Connect to VM:
+
+      virt-viewer -c qemu:///system vmname
 
 ## Storage pool
 
@@ -42,39 +46,39 @@ A pool store the information of a group of OS (image).
 
 * Create/Define a pool:
 
-      sudo virsh pool-create-as --name stgname --type dir --target "/home/$USER/.virtManager/images"
-      sudo virsh pool-define-as --name stgname --type dir --target "/home/$USER/.virtManager/images"
+      virsh pool-create-as --name stgname --type dir --target "/home/$USER/.virtManager/images"
+      virsh pool-define-as --name stgname --type dir --target "/home/$USER/.virtManager/images"
 
 * Edit a pool:
 
-      sudo virsh pool-edit --pool stgname
+      virsh pool-edit --pool stgname
 
 * List all pools:
 
-      sudo virsh pool-list --all
+      virsh pool-list --all
 
 * Initializing pool:
 
-      sudo virsh pool-start stgname
-      sudo virsh pool-autostart stgname
+      virsh pool-start stgname
+      virsh pool-autostart stgname
 
 * Delete/Undefined pool:
 
   If pool was defined, only write destroy, if not, write all this commands:
 
-        sudo virsh pool-destroy stgname
-        sudo virsh pool-delete stgname
-        sudo virsh pool-undefine stgname
+        virsh pool-destroy stgname
+        virsh pool-delete stgname
+        virsh pool-undefine stgname
 
 ## Virtual Networks
 
 * Edit the virtual network:
 
-      sudo virsh net-edit netname
+      virsh net-edit netname
 
 * List all virtual networks:
 
-      sudo virsh net-list --all
+      virsh net-list --all
 
 ## Storage Volumen
 
@@ -82,15 +86,15 @@ A vol is the image installed of a OS.
 
 * List all vols in a pool:
 
-      sudo virsh vol-list --pool stgname
+      virsh vol-list --pool stgname
 
 * Create vol:
 
-      sudo virsh vol-create-as --pool stgVirt --name volname.qcow2 --capacity 20G --format qcow2
+      virsh vol-create-as --pool stgVirt --name volname.qcow2 --capacity 20G --format qcow2
 
 * Delete vol:
 
-      sudo virsh vol-delete --pool stgname volname.qcow2
+      virsh vol-delete --pool stgname volname.qcow2
 
 ## Virtual Machines
 
@@ -100,7 +104,7 @@ A virtual machine is a guest OS on another OS (host), you can see the xml config
 
     * From local iso (example installing Deepin 15.3):
 
-          sudo virt-install \
+          virt-install \
           --connect qemu:///system \
           --name Deepin15.3_VM \
           --memory 2048 \
@@ -116,7 +120,7 @@ A virtual machine is a guest OS on another OS (host), you can see the xml config
 
     * From remote `http/ftp` server (example insalling Debian 8.0):
     
-          sudo virt-install \
+          virt-install \
           --connect qemu:///system \
           --name Debian8.7_VM \
           --memory 2048 \
@@ -134,7 +138,7 @@ A virtual machine is a guest OS on another OS (host), you can see the xml config
 
     * From remote `http/ftp` server (another example Fedora 26):
     
-          sudo virt-install \
+          virt-install \
           --connect qemu:///system \
           --name Fedora26_VM \
           --memory 2048 \
@@ -150,31 +154,27 @@ A virtual machine is a guest OS on another OS (host), you can see the xml config
 
 * Delete a VM:
 
-      sudo virsh destroy vmname
-      sudo virsh undefine vmname
+      virsh destroy vmname
+      virsh undefine vmname
 
 * List all VM:
 
-      sudo virsh list --all
+      virsh list --all
 
 * Start/reboot/shutdown VM:
 
-      sudo virsh start vmname
-      sudo virsh reboot vmname
-      sudo virsh shutdown vmname
+      virsh start vmname
+      virsh reboot vmname
+      virsh shutdown vmname
 
 * Save/restore state of a VM:
 
-      sudo virsh save vmname vmname-20170318.state
-      sudo restore vmname-20170318.state
-
-* Connect to VM:
-
-      sudo virt-viewer -c qemu:///system vmname
+      virsh save vmname vmname-20170318.state
+      virsh restore vmname-20170318.state
 
 * Clone a VM:
 
-      sudo virt-clone --connect=qemu:///system -o originalvm -n copyvm -f /path/to/copyvm.qcow2
+      virt-clone --connect=qemu:///system -o originalvm -n copyvm -f /path/to/copyvm.qcow2
 
 * Create VM using virt-manager interface:
 
