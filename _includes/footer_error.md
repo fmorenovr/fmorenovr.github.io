@@ -25,9 +25,9 @@
           <span class="icon icon--github">
             <svg viewBox="0 0 16 16" width="16px" height="16px">
               {% if page.layout != "post"%}
-                <img src="../assets/imgs/socialnetwork/github_32.png"/>
+                <img src="../assets/images/socialnetwork/github_32.png"/>
               {% else %}
-                <img src="../../../../../assets/imgs/socialnetwork/github_32.png"/>
+                <img src="../../../../../assets/images/socialnetwork/github_32.png"/>
               {% endif %}
             </svg>
           </span>
@@ -41,9 +41,9 @@
           <span class="icon icon--linkedin">
             <svg viewBox="0 0 16 16" width="16px" height="16px">
               {% if page.layout != "post"%}
-                <img src="../assets/imgs/socialnetwork/linkedin_32.png"/>
+                <img src="../assets/images/socialnetwork/linkedin_32.png"/>
               {% else %}
-                <img src="../../../../../assets/imgs/socialnetwork/linkedin_32.png"/>
+                <img src="../../../../../assets/images/socialnetwork/linkedin_32.png"/>
               {% endif %}
             </svg>
           </span>
@@ -57,9 +57,9 @@
           <span class="icon icon--facebook">
             <svg viewBox="0 0 16 16" width="16px" height="16px">
               {% if page.layout != "post"%}
-                <img src="../assets/imgs/socialnetwork/facebook_32.png"/>
+                <img src="../assets/images/socialnetwork/facebook_32.png"/>
               {% else %}
-                <img src="../../../../../assets/imgs/socialnetwork/facebook_32.png"/>
+                <img src="../../../../../assets/images/socialnetwork/facebook_32.png"/>
               {% endif %}
             </svg>
           </span>

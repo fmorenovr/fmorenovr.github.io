@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Create a REST service using Go Language and BeeGo Framework."
-date:   2017-06-25 00:20:12 -0500
+date:   2017-10-08 00:20:12 -0500
 categories: frameworks
 ---
 # Golang

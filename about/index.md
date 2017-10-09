@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-You can find the source code at {% include icon-github.html username="Jenazad" %}/[JenazadWebsite][JenazadGithubIO].
+You can find the source code at {% include icon-github.html username="Jenazads" %}/[JenazadWebsite][JenazadGithubIO].
 
 I am a Computer Scientist graduated of the [National University of Engineering][UNI] Lima-Peru.
 

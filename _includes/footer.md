@@ -27,9 +27,9 @@
                 <span class="icon icon--github">
                   <svg viewBox="0 0 16 16" width="16px" height="16px">
                     {% if page.layout != "post"%}
-                      <img src="../assets/imgs/socialnetwork/github_32.png"/>
+                      <img src="../assets/images/socialnetwork/github_32.png"/>
                     {% else %}
-                      <img src="../../../../../assets/imgs/socialnetwork/github_32.png"/>
+                      <img src="../../../../../assets/images/socialnetwork/github_32.png"/>
                     {% endif %}
                   </svg>
                 </span>
@@ -43,9 +43,9 @@
                 <span class="icon icon--bitbucket">
                   <svg viewBox="0 0 16 16" width="16px" height="16px">
                     {% if page.layout != "post"%}
-                      <img src="../assets/imgs/socialnetwork/bitbucket_32.png"/>
+                      <img src="../assets/images/socialnetwork/bitbucket_32.png"/>
                     {% else %}
-                      <img src="../../../../../assets/imgs/socialnetwork/bitbucket_32.png"/>
+                      <img src="../../../../../assets/images/socialnetwork/bitbucket_32.png"/>
                     {% endif %}
                   </svg>
                 </span>
@@ -59,9 +59,9 @@
                 <span class="icon icon--linkedin">
                   <svg viewBox="0 0 16 16" width="16px" height="16px">
                     {% if page.layout != "post"%}
-                      <img src="../assets/imgs/socialnetwork/linkedin_32.png"/>
+                      <img src="../assets/images/socialnetwork/linkedin_32.png"/>
                     {% else %}
-                      <img src="../../../../../assets/imgs/socialnetwork/linkedin_32.png"/>
+                      <img src="../../../../../assets/images/socialnetwork/linkedin_32.png"/>
                     {% endif %}
                   </svg>
                 </span>
@@ -75,9 +75,9 @@
                 <span class="icon icon--facebook">
                   <svg viewBox="0 0 16 16" width="16px" height="16px">
                     {% if page.layout != "post"%}
-                      <img src="../assets/imgs/socialnetwork/facebook_32.png"/>
+                      <img src="../assets/images/socialnetwork/facebook_32.png"/>
                     {% else %}
-                      <img src="../../../../../assets/imgs/socialnetwork/facebook_32.png"/>
+                      <img src="../../../../../assets/images/socialnetwork/facebook_32.png"/>
                     {% endif %}
                   </svg>
                 </span>
@@ -91,9 +91,9 @@
                 <span class="icon icon--twitter">
                   <svg viewBox="0 0 16 16" width="16px" height="16px">
                     {% if page.layout != "post"%}
-                      <img src="../assets/imgs/socialnetwork/twitter_32.png"/>
+                      <img src="../assets/images/socialnetwork/twitter_32.png"/>
                     {% else %}
-                      <img src="../../../../../assets/imgs/socialnetwork/twitter_32.png"/>
+                      <img src="../../../../../assets/images/socialnetwork/twitter_32.png"/>
                     {% endif %}
                   </svg>
                 </span>
@@ -107,9 +107,9 @@
                 <span class="icon icon--instagram">
                   <svg viewBox="0 0 16 16" width="16px" height="16px">
                     {% if page.layout != "post"%}
-                      <img src="../assets/imgs/socialnetwork/instagram_32.png"/>
+                      <img src="../assets/images/socialnetwork/instagram_32.png"/>
                     {% else %}
-                      <img src="../../../../../assets/imgs/socialnetwork/instagram_32.png"/>
+                      <img src="../../../../../assets/images/socialnetwork/instagram_32.png"/>
                     {% endif %}
                   </svg>
                 </span>
@@ -122,6 +122,9 @@
       <div class="footer-col footer-col-3">
         <p class="text">{{ site.description }}</p>
       </div>
+    </div>
+    <div class="container text-center">
+      <p> Copyright &copy; Felipe A. Moreno ~ 2017</p>
     </div>
   </div>
 </footer>
