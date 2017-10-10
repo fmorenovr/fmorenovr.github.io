@@ -65,6 +65,18 @@ How to install:
         
         ![aiEmulator][emulator]
 
+# Example
+
+* Then, I show you an example. First create a project on `Projects -> start new project `, choose a name and press `ok`.
+
+* Using the interface web, just drag items (buttons, sensors, media, etc) in the Designer tab.
+  ![ai2designer][ai2-designer]
+
+* Then, you should make the logic in the Blocks tab.
+  ![ai2Blocks][ai2-blocks]
+    
+* Finally, generate apk using QR method and try in your mobile phone and have fun :D
+
 
 [aiStarterprocess]:   /assets/tools/appInventor/aiStarter.png
 [aiStarterWebi]:      /assets/tools/appInventor/appInventor-web.png
@@ -75,4 +87,6 @@ How to install:
 [app1]:               /assets/tools/appInventor/appInventor-app1.png
 [app2]:               /assets/tools/appInventor/appInventor-app2.png
 [emulator]:           /assets/tools/appInventor/appInventor-emulator.png
+[ai2-designer]:       /assets/tools/appInventor/appInventor-designer.png
+[ai2-blocks]:         /assets/tools/appInventor/appInventor-blocks.png
 
