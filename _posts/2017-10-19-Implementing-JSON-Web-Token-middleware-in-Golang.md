@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creating a JSON Web Token middleware in Golang."
+title:  "Implementing a JSON Web Token middleware in Golang."
 date:   2017-10-19 00:20:12 -0500
 categories: libraries
 ---
