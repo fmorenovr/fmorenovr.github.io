@@ -21,14 +21,10 @@
   <ul class="social-media-list">
     {% if site.github_username %}
       <li>
-        <a href="https://github.com/{{ site.github_username }}">
+        <a href="{{site.github_url}}{{site.github_username }}">
           <span class="icon icon--github">
             <svg viewBox="0 0 16 16" width="16px" height="16px">
-              {% if page.layout != "post"%}
-                <img src="../assets/images/socialnetwork/github_32.png"/>
-              {% else %}
-                <img src="../../../../../assets/images/socialnetwork/github_32.png"/>
-              {% endif %}
+              <img src="/assets/images/socialnetwork/github_32.png"/>
             </svg>
           </span>
           <span class="username">{{ site.github_username }}</span>
@@ -37,38 +33,54 @@
     {% endif %}
     {% if site.linkedin_username %}
       <li>
-        <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+        <a href="{{site.linkedin_url}}{{ site.linkedin_username }}">
           <span class="icon icon--linkedin">
             <svg viewBox="0 0 16 16" width="16px" height="16px">
-              {% if page.layout != "post"%}
-                <img src="../assets/images/socialnetwork/linkedin_32.png"/>
-              {% else %}
-                <img src="../../../../../assets/images/socialnetwork/linkedin_32.png"/>
-              {% endif %}
+              <img src="/assets/images/socialnetwork/linkedin_32.png"/>
             </svg>
           </span>
           <span class="username">{{ site.linkedin_username }}</span>
         </a>
       </li>
     {% endif %}
+<!--    {% if site.twitter_username %}
+      <li>
+        <a href="{{site.twitter_url}}{{ site.twitter_username }}">
+          <span class="icon icon--twitter">
+            <svg viewBox="0 0 16 16" width="16px" height="16px">
+              <img src="/assets/images/socialnetwork/twitter_32.png"/>
+            </svg>
+          </span>
+          <span class="username">{{ site.twitter_username }}</span>
+        </a>
+      </li>
+    {% endif %}-->
     {% if site.facebook_username %}
       <li>
-        <a href="https://www.facebook.com/{{ site.facebook_username }}">
+        <a href="{{site.facebook_url}}{{ site.facebook_username }}">
           <span class="icon icon--facebook">
             <svg viewBox="0 0 16 16" width="16px" height="16px">
-              {% if page.layout != "post"%}
-                <img src="../assets/images/socialnetwork/facebook_32.png"/>
-              {% else %}
-                <img src="../../../../../assets/images/socialnetwork/facebook_32.png"/>
-              {% endif %}
+              <img src="/assets/images/socialnetwork/facebook_32.png"/>
             </svg>
           </span>
           <span class="username">{{ site.facebook_username }}</span>
         </a>
       </li>
     {% endif %}
+<!--    {% if site.instagram_username %}
+      <li>
+        <a href="{{site.instagram_url}}{{ site.instagram_username }}">
+          <span class="icon icon--instagram">
+            <svg viewBox="0 0 16 16" width="16px" height="16px">
+              <img src="/assets/images/socialnetwork/instagram_32.png"/>
+            </svg>
+          </span>
+          <span class="username">{{ site.instagram_username }}</span>
+        </a>
+      </li>
+    {% endif %}-->
   </ul>
 </div>
 <div class="container text-center">
-  <p> Copyright &copy; Felipe A. Moreno ~ 2017</p>
+  <p><strong> Copyright &copy; Felipe A. Moreno ~ 2017</strong></p>
 </div>

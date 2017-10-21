@@ -17,5 +17,8 @@
       font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     }
     .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+    ul#list-contact-menu li {
+      display:inline;
+    }
   </style>
 </head>
