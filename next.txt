@@ -25,3 +25,5 @@ complete Byobu
 How create certs with OpenSSL
 
 node-red -> watson
+
+CRM - ORM
