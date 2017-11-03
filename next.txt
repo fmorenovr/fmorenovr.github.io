@@ -5,7 +5,7 @@ DB cluster.
 GPU cluster.
 
 CPU benchmark, MQTT benchmark, HTTP benchmark.
-MPICH cluster
+MPICH cluster.
 
 VM-OS-level (docker).
 
@@ -27,3 +27,5 @@ How create certs with OpenSSL
 node-red -> watson
 
 CRM - ORM
+
+Handler class golang

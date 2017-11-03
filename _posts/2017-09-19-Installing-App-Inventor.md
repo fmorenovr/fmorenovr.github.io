@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Installing App Inventor and developing games."
-date:   2017-09-17 00:25:12 -0500
+date:   2017-09-19 00:25:12 -0500
 categories: Tools
 ---
 # App Inventor
@@ -75,7 +75,8 @@ How to install:
 * Then, you should make the logic in the Blocks tab.
   ![ai2Blocks][ai2-blocks]
     
-* Finally, generate apk using QR method and try in your mobile phone and have fun :D
+* Finally, generate apk using QR method and try in your mobile phone and have fun :D  
+  Or Generate apk and install on your mobile phone, or just run the emulator.
 
 
 [aiStarterprocess]:   /assets/tools/appInventor/aiStarter.png
@@ -87,6 +88,6 @@ How to install:
 [app1]:               /assets/tools/appInventor/appInventor-app1.png
 [app2]:               /assets/tools/appInventor/appInventor-app2.png
 [emulator]:           /assets/tools/appInventor/appInventor-emulator.png
-[ai2-designer]:       /assets/tools/appInventor/appInventor-designer.png
-[ai2-blocks]:         /assets/tools/appInventor/appInventor-blocks.png
+[ai2-designer]:       /assets/tools/appInventor/appInventor-example_designer.png
+[ai2-blocks]:         /assets/tools/appInventor/appInventor-example_blocks.png
 
