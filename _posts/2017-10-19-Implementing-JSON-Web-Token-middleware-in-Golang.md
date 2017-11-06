@@ -51,7 +51,7 @@ You can find more info pressing [here- Official Doc](https://jwt.io/) or [here -
 ### JWT-GO
 
 JWT (JSON Web Token) is a Golang implementation.  
-Install it:
+* Install it:
 
       go get github.com/dgrijalva/jwt-go/
 
