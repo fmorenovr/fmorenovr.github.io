@@ -76,6 +76,10 @@ No relational database with data storage in JSON format.
 
       mongoexport --db dbname --collection colname --out  outputfile
 
+* Export to CSV format:
+
+      mongoexport --db dbname --collection colname --query '{"id_moduleiot":"C001","date": {$gte:"2017-11-01"}}' --type csv --fields "field1,field2,field3" --out data.csv
+
 ## Users
 
 * Init the service on 27018:

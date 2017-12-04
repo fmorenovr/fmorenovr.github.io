@@ -8,8 +8,15 @@ permalink: /about/
   You can find the source code at {% include icon-github.html username="Jenazads" %}/<a href="https://github.com/Jenazad/Jenazad.github.io">JenazadsWebsite</a>. <br>
   I am a Computer Scientist graduated of the <a href="http://www.uni.edu.pe">National University of Engineering</a> Lima-Peru.
   <img src="/assets/me.png">
+  <br>
+  <br>
+  <h2>What is Computer Science?</h2>
+  Computer science is a discipline that spans theory and practice based on mathematics and physics.
+  <br>
+  Computer scientists must be adept at modeling and analyzing problems.
 </p>
 <div align="center">
+  <h2>Contact to me</h2>
   <ul class="contact-list">
     <li> Email me: </li>
     {% if site.author.gmail %}
