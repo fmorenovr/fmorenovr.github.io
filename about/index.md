@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div align="center">
 <p>
-  You can find the source code at {% include icon-github.html username="Jenazads" %}/<a href="https://github.com/Jenazad/Jenazad.github.io">JenazadsWebsite</a>. <br>
+  You can find the source code at {% include icon-github.html username="Jenazads" %}/<a href="https://github.com/Jenazads/Jenazads.github.io">JenazadsWebsite</a>. <br>
   I am a Computer Scientist graduated of the <a href="http://www.uni.edu.pe">National University of Engineering</a> Lima-Peru.
   <img src="/assets/me.png">
   <br>
