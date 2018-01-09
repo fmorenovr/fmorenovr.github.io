@@ -8,7 +8,7 @@ title: Home
 # Welcome to my website!!
 
 >Nice to meet you !!  
->You can find me on many websites with the alias Jenazad or Jenazads.  
+>You can find me on many websites with the nickname Jenazads.  
 >Here I will tell about my projects, my repositories and maybe some tutorials.
 
 So, let's go!.  
@@ -19,4 +19,4 @@ So, visit my blog and let's start learning.
 
 [jekyll-url]:      https://jekyllrb.com/
 [github-pages]:    https://guides.github.com/features/pages/
-[jekyll_tutorial]: /webservices/2017/06/10/Jekyll-a-setting-up-guide
+[jekyll_tutorial]: /webservices/Jekyll-a-setting-up-guide  
