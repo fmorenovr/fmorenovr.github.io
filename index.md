@@ -19,4 +19,4 @@ So, visit my blog and let's start learning.
 
 [jekyll-url]:      https://jekyllrb.com/
 [github-pages]:    https://guides.github.com/features/pages/
-[jekyll_tutorial]: /webservices/Jekyll-a-setting-up-guide  
+[jekyll_tutorial]: https://jenazads.github.io/webservices/Jekyll-a-setting-up-guide  
