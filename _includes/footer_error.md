@@ -16,6 +16,7 @@
     <br>
   </ul>
 </div>
+<!--
 <div class="container text-center">
   <li> Contact to me: </li>
   <ul class="social-media-list">
@@ -43,7 +44,7 @@
         </a>
       </li>
     {% endif %}
-<!--    {% if site.twitter_username %}
+    {% if site.twitter_username %}
       <li>
         <a href="{{site.twitter_url}}{{ site.twitter_username }}">
           <span class="icon icon--twitter">
@@ -54,7 +55,7 @@
           <span class="username">{{ site.twitter_username }}</span>
         </a>
       </li>
-    {% endif %}-->
+    {% endif %}
     {% if site.facebook_username %}
       <li>
         <a href="{{site.facebook_url}}{{ site.facebook_username }}">
@@ -67,7 +68,7 @@
         </a>
       </li>
     {% endif %}
-<!--    {% if site.instagram_username %}
+    {% if site.instagram_username %}
       <li>
         <a href="{{site.instagram_url}}{{ site.instagram_username }}">
           <span class="icon icon--instagram">
@@ -78,9 +79,10 @@
           <span class="username">{{ site.instagram_username }}</span>
         </a>
       </li>
-    {% endif %}-->
+    {% endif %}
   </ul>
 </div>
+-->
 <div class="container text-center">
   <p><strong> Copyright &copy; Felipe A. Moreno ~ 2017</strong></p>
 </div>
