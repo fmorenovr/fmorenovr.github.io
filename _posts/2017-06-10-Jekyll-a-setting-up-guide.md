@@ -23,7 +23,8 @@ For installing Jekyll, we just need install some dependencies:
 
 * Jekyll:
 
-      sudo gem install jekyll bundler
+      sudo gem install bundler  
+      sudo gem install jekyll 
 
 ## Creating a static web
 

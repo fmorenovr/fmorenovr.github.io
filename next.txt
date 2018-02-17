@@ -12,7 +12,7 @@ VM-OS-level (docker).
 how nestor manipulates inbounds/outbounds ports and networks in CTIC.
 how yauri administrates servers on CTIC
 
-Cloud service - IaaS, PaaS, SaaS, XaaS - like MQTT, cluster processing, mail service.
+Cloud service - IaaS, PaaS, SaaS, XaaS - like cluster processing and data analysis.
 
 light environment redhat, slackware, archlinux, windows.
 
@@ -22,7 +22,9 @@ modificar las paginas post (añadir una imagen de background).
 
 complete Byobu
 
-How create certs with OpenSSL
+How create certs with OpenSSL --> website --> (Atalerix) sclateri (erizo)
+How send mails --> website --> (Tursiops) aduncus (delfin)
+How create mqtt clients --> website --> 
 
 node-red -> watson
 
