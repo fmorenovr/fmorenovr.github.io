@@ -1,8 +1,8 @@
 ---
-layout: privacyPolitics
-subtitle: "Mobile Privacy for QhatUNI"
-description: "Mobile privacy for QhatUNI App"
-permalink: /privacyPolitics/QhatUNI
+layout: privacyPolicy
+subtitle: "QhatUNI Privacy Policy"
+description: "privacy policy for QhatUNI Mobile Application"
+permalink: /privacyPolicy/QhatUNI
 ---
 ## QhatUNI
 
