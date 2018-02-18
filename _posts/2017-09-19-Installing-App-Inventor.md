@@ -13,6 +13,7 @@ How to install:
 * First, install 32-bits architecture libraries.
 
       sudo apt-get install lib32z1
+      sudo apt-get install lib32stdc++6
 
 * Second, Download the debian package installer pressing [here](http://appinv.us/aisetup_linux_deb).
 
