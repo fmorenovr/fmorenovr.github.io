@@ -18,5 +18,5 @@ R-GoBe uses your information only for search your products to connect through Bl
 
 R-GoBe uses BlueTooth permissions to control devices like robots through sending messages to order and produces events.
 
-yo can download the mobile app here [![rgobeLogo](/assets/privacyPolicy/R-GoBe/Isotipo.png){:height="40px" width="50px"}](https://play.google.com/store/apps/details?id=com.smartcity.rgobe) or visit websit [R-GoBe](http://www.r-gobe.com).
+yo can download the mobile app here [![rgobeLogo](/assets/privacyPolicy/R-GoBe/Isotipo.png){:height="40px" width="50px"}](https://play.google.com/store/apps/details?id=com.jenazads.android.rgobe) or visit websit [R-GoBe](http://www.r-gobe.com).
 
