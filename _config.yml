@@ -50,13 +50,8 @@ hackerrank_url: "https://www.hackerrank.com/"
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
 theme: minima
 plugins:
-=======
-theme: jekyll-theme-minimal
-gems:
->>>>>>> 7e87d29866f35edf59f0fc13bb2b82f46424764b
   - jekyll-feed
 #exclude:
 #  - Gem/Gemfile
