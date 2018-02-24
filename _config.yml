@@ -50,10 +50,10 @@ hackerrank_url: "https://www.hackerrank.com/"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
-gems:
+theme: minima
+plugins:
   - jekyll-feed
-exclude:
-  - Gem/Gemfile
-  - Gem/Gemfile.lock
+#exclude:
+#  - Gem/Gemfile
+#  - Gem/Gemfile.lock
 
