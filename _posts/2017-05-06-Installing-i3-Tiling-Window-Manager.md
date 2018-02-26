@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Installing i3, a Tiling Window Manager for light Environments."
+subtitle: Here I'll show you a light desktop environment to save the RAM consume.
 date:   2017-05-06 04:05:12 -0500
 categories: Window_Manager
 ---

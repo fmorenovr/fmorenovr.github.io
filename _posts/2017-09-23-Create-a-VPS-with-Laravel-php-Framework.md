@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Creating a VPS with Laravel and Apache service."
+subtitle: Here you'll learn how to create your own VPS.
 date:   2017-09-23 12:15:12 -0500
 categories: Frameworks
 ---

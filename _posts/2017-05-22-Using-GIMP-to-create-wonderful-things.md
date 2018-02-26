@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Using GIMP to create wonderful things."
+subtitle: This is a basic guide for newcomers on how to use GIMP.
 date:   2017-05-22 00:20:12 -0500
 categories: GUI_app
 ---

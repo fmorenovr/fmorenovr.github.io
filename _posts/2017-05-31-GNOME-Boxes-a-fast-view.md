@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "GNOME Boxes, a fast View."
+subtitle: This is another softwar to manage your Virtual Machines.
 date:   2017-05-31 00:20:12 -0500
 categories: GUI_app
 ---

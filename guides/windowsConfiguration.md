@@ -1,11 +1,10 @@
 ---
 layout: page
-subtitle: "Light Environment Windows"
-description: "Configure a Light Environment Windows."
-permalink: /docs/light_environment_windows
+title: Windows Light-Environment configuration
+subtitle: "Windows Light-Environment configuration"
+description: "Download and install programs for a Light-Environment Windows."
+permalink: /guides/light_environment_windows
 ---
-# Light Environment Windows
-
 Configuration to have a lightweight system.
 
 ## Shutdown System

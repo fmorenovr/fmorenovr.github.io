@@ -1,9 +1,28 @@
 ---
 layout: post
-title:  "Managing users in Linux Systems."
+title:  "Managing users and permissions in Linux Systems."
+subtitle: Here I'll teach you how to manage users, groups and change permissions onfiles and directories in Linux.
 date:   2017-05-09 00:20:12 -0500
 categories: System-Settings
 ---
+## Permissions
+
+All files in linux have three permissions: Read, Write and Execute.
+
+You can modify then with `chmod` command.
+
+* For example, we add read and write permission but forbid execution:
+
+      sudo chmod 770 file.txt
+
+  Or:
+   
+      sudo chmod +rw-x file.txt
+
+* Another example, we add read/write to the owner but delete all permissions for the rest of users.
+
+      chmod u=rw,go= arch.txt 
+
 ## Managing users and groups
 
 In all machines, we should create an user to manage the system.  

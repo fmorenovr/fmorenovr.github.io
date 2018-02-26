@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Installing GNOME Polari, a IRC Client."
+subtitle: Here you'll learn about Polari IRC Client to create and send messages in your own chat.
 date:   2017-05-30 00:20:12 -0500
 categories: GUI_app
 ---

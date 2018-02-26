@@ -1,10 +1,14 @@
 ---
 layout: privacyPolicy
+title: R-GoBe App
 subtitle: "R-GoBe Privacy Policy"
-description: "privacy policy for R-GoBe Mobile Application"
+description: R-GoBe App Privacy Policy website
 permalink: /privacyPolicy/R-GoBe
 ---
-## ![rgobeSlogan](/assets/privacyPolicy/R-GoBe/Logotipo.png){:height="100px" width="120px"}
+<div align="center">
+  <img src="/assets/privacyPolicy/R-GoBe/Logotipo.png" alt="R-GoBe Logotipo" width="120" height="100">
+  <!-- ## ![rgobeSlogan](/assets/privacyPolicy/R-GoBe/Logotipo.png){:height="100px" width="120px"} -->
+</div>
 
 This privacy policy governs your use of the Software Application R-GoBe for mobile devices that was created by R-GoBe Team in SmartCities Lab - CTIC UNI.
 

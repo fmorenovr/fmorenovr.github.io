@@ -2,8 +2,9 @@
 layout: page
 title:  Blog
 permalink: /blog/
+description: "This is my personal blog, here I write my posts about some tutorials"
 ---
-<h1>My posts</h1>
+<div align="center"><h1>Click the link that is your interest</h1></div>
 <ul>
   {% for post in site.posts %}
     <li>
@@ -11,6 +12,7 @@ permalink: /blog/
       <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
       </h2>
+      <blockquote> {{post.subtitle}}</blockquote>
     </li>
   {% endfor %}
 </ul>

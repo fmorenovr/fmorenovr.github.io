@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Installing Empathy, a IM and VoIP Client."
+subtitle: Here you'll learn how to download and connect through different clients to send messages.
 date:   2017-05-06 00:20:12 -0500
 categories: GUI_app
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Setting Up a Firewall using ufw on Linux."
+subtitle: Here you'll learn to setup ufw in linux to forbid connections from different ports.
 date:   2017-05-04 00:15:12 -0500
 categories: System-Settings
 ---

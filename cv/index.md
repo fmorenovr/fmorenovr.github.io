@@ -2,11 +2,12 @@
 layout: page
 title:  CV
 permalink: /cv/
+description: "My curriculum vitae"
 ---
 
 ## Academic training
 
-**Student of Bachelor of Science in Computer Science**
+**B.Sc. in Computer Science**
 
 > ##### [National University of Engineering][UNIWEB], Rimac, Lima, Peru.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Installing GNOME Pomodoro, a time managment tool."
+subtitle: Here you'll learn how to download and setup Pomodoro time manager tool in your computer to organize your works.
 date:   2017-05-16 00:20:12 -0500
 categories: GUI_app
 ---

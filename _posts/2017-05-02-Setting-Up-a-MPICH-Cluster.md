@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Setting Up a MPICH Cluster."
+subtitle: Here you'll learn how to build your own cluster that uses MPI library to execute programs in parallel mode.
 date:   2017-05-02 00:15:12 -0500
 categories: Cluster-Computing
 ---

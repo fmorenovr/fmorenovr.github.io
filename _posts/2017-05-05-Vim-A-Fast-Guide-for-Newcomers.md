@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Vim, A Fast Guide for Newcomers."
+subtitle: Here you'll learn some commands to use vim.
 date:   2017-05-05 00:20:12 -0500
 categories: Text_Editors
 ---

@@ -1,22 +1,17 @@
-<header class="site-header" role="banner">
-  <div class="wrapper">
-    <a class="site-title" href="/">{{ site.title }}</a>
-    <div class="site-nav" id="myTopnav">
-      {% for page in site.pages %}
-        {% if page.dir != "/" and page.dir != "/cv/" and page.dir != "/docs/" and page.title != "Not Found" and page.dir != "/files/" and page.dir != "/privacyPolicy/" %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endif %}
-      {% endfor %}
-    </div>
-  </div>
-  <script>
-    function myFunction() {
-      var x = document.getElementById("myTopnav");
-      if (x.className === "site-nav") {
-        x.className += "trigger";
-      } else {
-        x.className = "site-nav";
-      }
-    }
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <strong><a href="/">Home</a></strong>
+  <strong><a href="/about">About</a></strong>
+  <strong><a href="/blog">Blog</a></strong>
+</div>
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "160px";
+  document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+  document.body.style.backgroundColor = "white";
+}
 </script>
-</header>

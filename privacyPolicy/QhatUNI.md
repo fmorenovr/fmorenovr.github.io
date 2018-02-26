@@ -1,10 +1,14 @@
 ---
 layout: privacyPolicy
+title: QhatUNI App
 subtitle: "QhatUNI Privacy Policy"
-description: "privacy policy for QhatUNI Mobile Application"
+description: QhatUNI App Privacy Policy website
 permalink: /privacyPolicy/QhatUNI
 ---
-## ![qhatuniSlogan](/assets/privacyPolicy/QhatUNI/logo_qhatuni_20172.png)
+<div align="center">
+  <img src="/assets/privacyPolicy/QhatUNI/logo_qhatuni_20172.png" alt="R-GoBe Logotipo">
+  <!-- ## ![qhatuniSlogan](/assets/privacyPolicy/QhatUNI/logo_qhatuni_20172.png) -->
+</div>
 
 This privacy policy governs your use of the Software Application QhatUNI for mobile devices that was created by SmartCities Lab CTIC UNI.
 

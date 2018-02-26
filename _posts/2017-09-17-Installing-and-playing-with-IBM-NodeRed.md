@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Installing and playing with IBM NodeRed and implementation with Bluemix and Watson."
+subtitle: Here you'll learn to setup node-red on IBM cloud platform and integrate with Watson API.
 date:   2017-09-17 00:25:12 -0500
 categories: IDEs
 ---

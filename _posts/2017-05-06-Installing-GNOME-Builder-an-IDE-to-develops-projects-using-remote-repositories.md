@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Installing GNOME-Builder, an IDE to develops projects using remote repositories."
+subtitle: Here you'll learn how to download and use the new IDE GNOME-Builder to clone, modify and solve bugs for the GNOME community.
 date:   2017-05-06 00:15:12 -0500
 categories: IDEs
 ---

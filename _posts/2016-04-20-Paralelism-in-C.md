@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Libraries useful in C."
+subtitle: Here you'll learn how to install and use some useful libraries in C language.
 date:   2016-04-20 12:15:12 -0500
 categories: Programming-Language
 ---
-## C
 
 C is a programming language that is considered one of the best languages. It was created by Dennis Ritchie at 1972 in Bell Labs.
 

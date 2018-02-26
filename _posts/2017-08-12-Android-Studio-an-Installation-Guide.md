@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Android Studio, An installation guide."
+subtitle: Here you'll learn how to download and run android Studio on Linux OS.
 date:   2017-08-12 00:20:12 -0500
 categories: IDEs
 ---

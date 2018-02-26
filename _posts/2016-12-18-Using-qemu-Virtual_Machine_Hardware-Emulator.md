@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Using Qemu, a VM Hardware Emulator"
+subtitle: Here you'll learn to download and emulate Operating Systems using Qemu.
 date:   2016-12-18 19:40:16 -0500
 categories: Virtual-Machines
 ---

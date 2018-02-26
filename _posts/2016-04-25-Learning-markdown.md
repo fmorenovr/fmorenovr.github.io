@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Learning markdown, a powerful markup language."
+subtitle: Here you will learn how to create or writing .md files to modify webs.
 date:   2016-04-25 12:15:12 -0500
 categories: Markup-Language
 ---

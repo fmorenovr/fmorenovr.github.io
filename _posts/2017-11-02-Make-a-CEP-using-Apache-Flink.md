@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Make a CEP using Apache Flink."
+subtitle: Here you'll learn how to imeplement a Complex Event Processing with Apache Flink.
 date:   2017-11-02 12:15:12 -0500
 categories: Frameworks
 ---

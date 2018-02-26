@@ -1,10 +1,10 @@
 ---
 layout: page
-subtitle: "CentOS minimal 7.3 networking"
-description: "configure /etc/sysconfig/network-scripts/ifcfg-* file"
-permalink: /docs/redhat_networking
+title: "RedHat base OS network configuration"
+subtitle: "RedHat base OS network configuration"
+description: "Configure /etc/sysconfig/network-scripts/ifcfg-* files"
+permalink: /guides/redhat_networking
 ---
-### Red Hat Enterprise Linux based OS
 
 * First, installing components:
 

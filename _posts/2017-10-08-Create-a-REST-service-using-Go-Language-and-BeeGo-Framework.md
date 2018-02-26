@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Create a REST service using Go Language and BeeGo Framework."
+subtitle: Here you'll learn how to setup a REST API service with BeeGo Framework.
 date:   2017-10-08 00:20:12 -0500
 categories: frameworks
 ---

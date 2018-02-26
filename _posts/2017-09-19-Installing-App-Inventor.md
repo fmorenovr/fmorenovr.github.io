@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Installing App Inventor and developing games."
+subtitle: Here you'll learn about App Inventor, a webpage created by MIT to develop Android mobile apps.
 date:   2017-09-19 00:25:12 -0500
 categories: Tools
 ---

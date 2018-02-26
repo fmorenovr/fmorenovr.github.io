@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Git, A Fast Guide for Newcomers."
+subtitle: This is a guide for novice on use git tool to practice with a version control system.
 date:   2017-05-07 00:20:12 -0500
 categories: Version_System_Manager
 ---

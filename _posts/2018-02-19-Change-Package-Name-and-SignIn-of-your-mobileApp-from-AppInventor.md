@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Change your Package name and SingIn on google play your app created using App Inventor."
+subtitle: Here you will learn to "hack" and change your package name of your apk.
 date:   2018-02-19 12:15:12 -0500
 categories: Tools
 ---

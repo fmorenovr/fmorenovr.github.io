@@ -1,3 +1,5 @@
+buscar mi isotipo.
+
 datacenter (storages and servers), data warehouse -> data mart.
 
 DB cluster.
@@ -15,8 +17,6 @@ how yauri administrates servers on CTIC
 Cloud service - IaaS, PaaS, SaaS, XaaS - like cluster processing and data analysis.
 
 light environment redhat, slackware, archlinux, windows.
-
-corregir el navbar menu.
 
 modificar las paginas post (añadir una imagen de background).
 

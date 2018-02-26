@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Using Tasksel to install LAMP server and setup wordPress"
+subtitle: Here you'll learn how to install LAMP and setup wordpress in a easily way.
 date:   2017-04-14 11:15:05 -0500
 categories: Software-Bundles
 ---

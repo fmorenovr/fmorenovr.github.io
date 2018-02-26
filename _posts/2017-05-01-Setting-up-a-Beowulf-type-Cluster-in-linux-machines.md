@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Setting Up a Beowulf Type CPU Cluster in Linux Machines."
+subtitle: Here you'll learn how to build your own cluster.
 date:   2017-05-01 12:15:12 -0500
 categories: Cluster-Computing
 ---

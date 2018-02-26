@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Creating my own gedit theme"
+subtitle: Here I'll teach you how to create your own gedit theme.
 date:   2017-03-15 14:15:46 -0500
 categories: Text_Editors
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
-subtitle: "Debian based OS networking"
-description: "configure /etc/network/interfaces file"
-permalink: /docs/debian_networking
+title: "Debian based OS network configuration"
+subtitle: "Debian based OS network configuration"
+description: "Configure /etc/network/interfaces file"
+permalink: /guides/debian_networking
 ---
-### Debian based OS
 
 * First, debian has not `sudo` command, so let install:
 

@@ -1,8 +1,10 @@
 ---
 layout: default
+title: Privacy Policies
+subtitle: Privacy Policy for my Apps developed
 permalink: /privacyPolicy/
 ---
-<h1>Privacy Policy pages</h1>
+<div align="center"><h1>Privacy Policy pages</h1></div>
 <ul>
   {% for page in site.pages %}
     {% if page.layout == "privacyPolicy" and page.dir == "/privacyPolicy/" %}
