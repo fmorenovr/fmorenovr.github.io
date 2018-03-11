@@ -18,14 +18,33 @@ Android Studio is an IDE to develop android OS applications.
       sudo apt-get install oracle-java8-installer
       sudo apt-get install oracle-java8-set-default
 
-* Android Studio: you can download the zip file, uncompress and run the script `studio.sh`:
+* Then, some libraries of 32bits:
 
-      wget https://dl.google.com/dl/android/studio/ide-zips/2.1.2.0/android-studio-ide-143.2915827-linux.zip
-      unzip android-studio-ide-143.2915827-linux.zip
+      sudo apt-get install lib32z1 lib32ncurses5 lib32bz2-1.0 lib32stdc++6
+
+* Android Studio, go to [android download website](https://developer.android.com/studio/index.html) and download it.
+
+* Once downloaded, run these commands:
+
+      unzip android-studio-ide-171.4443003-linux.zip
       cd android-studio/bin
       ./studio.sh
 
-![astudio](/assets/IDEs/AndroidStudio/android-studio.png)
+  ![astudio](/assets/IDEs/AndroidStudio/android-studio.png)
+
+* Android Studio it starts and it'll download some main components.  
+  This take a few minutes.
+
+  ![download](/assets/IDEs/AndroidStudio/android-components.png)
+
+* Once download, you should go to SDK Manager and download API components.  
+  An API component is a version of Android (for instance, android 4.4).  
+  Choose your version and download it.
+  
+  ![downloadAPI](/assets/IDEs/AndroidStudio/android-sdkmanager.png)
+
+* Finally, you can start new project using the API that you downloaded.  
+  Have fun :D
 
 ## Android Shell
 

@@ -22,7 +22,8 @@
 
 .navbar a.otheroptions {
   float: right;
-  padding-right: 50px;
+  padding-right: 25px;
+  padding-left: 25px;
 }
 
 .navbar a:hover {
