@@ -10,6 +10,8 @@
   
   <link href='/assets/css/stylefonts.css' rel='stylesheet' type='text/css'>
   <link href='/assets/css/style.css' rel='stylesheet' type='text/css'>
+  <link href='/assets/css/sidebar.css' rel='stylesheet' type='text/css'>
+  <link href='/assets/css/navbar.css' rel='stylesheet' type='text/css'>
   <!--<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">-->
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />

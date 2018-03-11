@@ -2,7 +2,7 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   {% include head.md %}
   <body>
-    {% include header.md %}
+    <div style=""></div>
     <div class="main-content">
       {{ content }}
     </div>
