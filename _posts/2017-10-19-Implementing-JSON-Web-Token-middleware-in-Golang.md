@@ -12,15 +12,6 @@ You can see how install pressing [here](/frameworks/Create-a-REST-service-using-
 
 Visit my github repository [goJweto](https://github.com/jenazads/gojweto).
 
-# Installing some libraries or dependencies for Golang
-
-* First, You should create your RSA key pairs.  
-  Create `/tls-ssl/jwtkeys/` directory in your root path of your project:
-
-      cd jwt/keys
-      openssl genrsa -out rsakey.pem 2048
-      openssl rsa -in rsakey.pem -pubout > rsakey.pem.pub
-
 ## How does it works?
 
 A JSON Web Token is a compact URL-safe means of representing claims to be transferred between two parties.  
