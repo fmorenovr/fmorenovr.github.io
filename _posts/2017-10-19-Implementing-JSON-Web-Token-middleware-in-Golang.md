@@ -81,9 +81,9 @@ goJweto (Golang JSON Web Token) is a Golang implementation for REST service secu
         
     *First, Create a gojweto object, specifying privKeypath, pubKeyPath, nameServer, secretKey, headerAuth in request, algorithm, bytes, and expiration time (in hours).
     
-            var GojwtObject = gojweto.NewGojwetoOptions("", "", "beagonsServer", "beagons-rest", "BeaGons-rest-JWT", "HMAC-SHA", "512", 24)
-            var GojwtObject = gojweto.NewGojwetoOptions(privECDSAKeyPath, pubECDSAKeyPath, "beagonsServer", "beagons-rest", "BeaGons-rest-JWT", "ECDSA", "384", 24)
-            var GojwtObject = gojweto.NewGojwetoOptions(privRSAKeyPath, pubRSAKeyPath, "beagonsServer", "beagons-rest", "BeaGons-rest-JWT", "RSA", "256", 24)
+            var GojwtObject = gojweto.NewGojwetoOptions("", "", "JnzadsServer", "jnzads-rest", "Jnzads-rest-JWT", "HMAC-SHA", "512", 24)
+            var GojwtObject = gojweto.NewGojwetoOptions(privECDSAKeyPath, pubECDSAKeyPath, "JnzadsServer", "jnzads-rest", "Jnzads-rest-JWT", "ECDSA", "384", 24)
+            var GojwtObject = gojweto.NewGojwetoOptions(privRSAKeyPath, pubRSAKeyPath, "JnzadsServer", "jnzads-rest", "Jnzads-rest-JWT", "RSA", "256", 24)
     
         
     * Then, generate the token string specifyind a nameserver and username:
