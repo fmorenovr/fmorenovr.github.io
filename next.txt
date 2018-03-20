@@ -20,14 +20,22 @@ light environment redhat, slackware, archlinux, windows.
 
 modificar las paginas post (añadir una imagen de background).
 
-complete Byobu
-
 How create certs with OpenSSL --> website --> (Atalerix) sclateri (erizo)
 How send mails --> website --> (Tursiops) aduncus (delfin)
 How create mqtt clients --> website --> 
+
+COMPLETE TUTORIALS
+
+CPU Cluster -> MPICH cluster
+
+complete Byobu
 
 node-red -> watson
 
 CRM - ORM
 
 Handler class golang
+
+Apache flink
+
+Creating VP with laravel and APACHE

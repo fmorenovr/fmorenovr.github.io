@@ -51,17 +51,44 @@ You can find more info pressing [here- Official Doc](https://jwt.io/) or [here -
 
 ### JWT-GO
 
-JWT (JSON Web Token) is a Golang implementation.  
-* You should download my library:
+goJweto (Golang JSON Web Token) is a Golang implementation for REST service security.
+  
+* First, You should create your RSA key pairs.  
+  Create `/tls-ssl/jwtkeys/` directory in your root path of your project:
+
+      cd jwt/keys
+      openssl genrsa -out rsakey.pem 2048
+      openssl rsa -in rsakey.pem -pubout > rsakey.pem.pub
+
+* Or You should create your ECDSA key pairs.  
+  Create `/tls-ssl/jwtkeys/` directory in your root path of your project:
+
+    * First, select a curve list:
+    
+          openssl ecparam -list_curves
+
+    * Then, select secp256r1 or secp384r1:
+
+          cd jwt/keys
+          openssl ecparam -genkey -name secp384r1 | sed -e '1,3d' > ecdsakey.pem
+          openssl ec -in ecdsakey.pem -pubout > ecdsakey.pem.pub
+
+* Next, You should download my library:
 
       go get github.com/jenazads/gojweto/
 
 * Then, you should use for differents Web Frameworks in Go.
         
-    * First, generate the token string:
+    *First, Create a gojweto object, specifying privKeypath, pubKeyPath, nameServer, secretKey, headerAuth in request, algorithm, bytes, and expiration time (in hours).
+    
+            var GojwtObject = gojweto.NewGojwetoOptions("", "", "beagonsServer", "beagons-rest", "BeaGons-rest-JWT", "HMAC-SHA", "512", 24)
+            var GojwtObject = gojweto.NewGojwetoOptions(privECDSAKeyPath, pubECDSAKeyPath, "beagonsServer", "beagons-rest", "BeaGons-rest-JWT", "ECDSA", "384", 24)
+            var GojwtObject = gojweto.NewGojwetoOptions(privRSAKeyPath, pubRSAKeyPath, "beagonsServer", "beagons-rest", "BeaGons-rest-JWT", "RSA", "256", 24)
+    
+        
+    * Then, generate the token string specifyind a nameserver and username:
       
-            tokenString, _ := gojweto.CreateHS256Token(Username)
-            tokenString, _ := gojweto.CreateRS256Token(Username)
+            tokenString, _ := gojweto.CreateToken(Username)
 
     * Using in Go net/http package:
       
