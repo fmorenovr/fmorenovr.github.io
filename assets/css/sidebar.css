@@ -5,7 +5,8 @@
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #086A87;
+    background-color: rgba(0,0,0,0.4);
+/*   background-color: #086A87;*/
 /* background-color: #084B8A; */
     overflow-x: hidden;
     transition: 0.5s;
@@ -24,7 +25,7 @@
 .sidebar a:hover {
     background: #ddd;
     color: black;
-    //color: #f1f1f1;
+/*   color: #f1f1f1;*/
 }
 
 .sidebar .closebtn {
