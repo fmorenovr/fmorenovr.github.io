@@ -10,8 +10,10 @@ function evalNav() {
   var x = document.getElementById("myNavbar");
   if (x.className === "navbar") {
     x.className += " responsive";
+    console.log("set navbar responsive");
   } else {
     x.className = "navbar";
+    console.log("set navbar");
   }
 }
 </script>
