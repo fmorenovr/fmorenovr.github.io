@@ -15,5 +15,6 @@ function evalNav() {	// this functions is when display in vertical mode.
     x.className = "navbar";	
     console.log("set navbar");	
   }
+}
 </script>
 
