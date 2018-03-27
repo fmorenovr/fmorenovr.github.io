@@ -6,7 +6,7 @@
 </div>
 <script>
 var visible = false
-function myFunction() {
+function evalNav() {
   var x = document.getElementById("myNavbar");
   if (x.className === "navbar") {
     x.className += " responsive";
