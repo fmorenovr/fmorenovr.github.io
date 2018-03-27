@@ -22,7 +22,9 @@
 }
 
 .sidebar a:hover {
-    color: #f1f1f1;
+    background: #ddd;
+    color: black;
+    //color: #f1f1f1;
 }
 
 .sidebar .closebtn {
