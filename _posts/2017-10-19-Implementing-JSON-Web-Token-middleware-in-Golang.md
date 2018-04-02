@@ -10,7 +10,7 @@ categories: libraries
 Go is an Open Source programming language developed by Google Inc.  
 You can see how install pressing [here](/frameworks/Create-a-REST-service-using-Go-Language-and-BeeGo-Framework).
 
-Visit my github repository [goJweto](https://github.com/jenazads/gojweto).
+Visit my github repository [goJwt](https://github.com/jenazads/gojwt).
 
 ## How does it works?
 
@@ -79,7 +79,7 @@ goJweto (Golang JSON Web Token) is a Golang implementation for REST service secu
         
     * Then, generate the token string specifyind a nameserver and username:
       
-            tokenString, _ := gojweto.CreateToken(Username)
+            tokenString, _ := GojwtObject.CreateToken(Username)
 
     * Using in Go net/http package:
       
@@ -90,7 +90,7 @@ goJweto (Golang JSON Web Token) is a Golang implementation for REST service secu
         ```go
           muxHttp.HandleFunc("/setToken", setTokenHandler)
           muxHttp.HandleFunc("/login", LoginHandler)
-          muxHttp.HandleFunc("/profile", gojweto.MiddlewareGoJwetoHeaders(WithAuthHandler, NoAuthHandler))
+          muxHttp.HandleFunc("/profile", gojwt.MiddlewareGojwtHeaders(WithAuthHandler, NoAuthHandler))
         ```
 
     * Using in BeeGo:
