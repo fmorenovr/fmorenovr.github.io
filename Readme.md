@@ -24,7 +24,7 @@ Here is a little information about programming languages.
 |1982| Common Lisp  | Guy L. Steele        |                                                                     |
 |1984| M            | Jhon W. Eaton        | Simulation and Numerical Analysis                                   |
 |1984| Verilog      | Phil Moorby          | Hardware Design, Structure and Description                          |
-|1987| Perl         | Larry Wall           |                                                                     |
+|1987| Perl         | Larry Wall           | Integrate services as unique admin system, processing text          |
 |1989| Bash         | Brian Fox            | Command Line Interface language                                     |
 |1991| Python       | Guido van Rossum     | Artificial Intelligence, Image Processing, Computer Vision          |
 |1993| Ruby         | 松本行弘             |                                                                     |
