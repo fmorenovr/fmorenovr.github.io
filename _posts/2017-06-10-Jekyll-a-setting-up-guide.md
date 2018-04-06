@@ -44,6 +44,10 @@ Then, install components:
 
 ![jekyll-install][jekyll_install]
 
+#### Themes
+
+## Serve
+
 Finally, start the static web by default in port 4000:
 
     jekyll serve
