@@ -18,8 +18,6 @@ Cloud service - IaaS, PaaS, SaaS, XaaS - like cluster processing and data analys
 
 light environment redhat, slackware, archlinux, windows.
 
-
-
 How create certs with OpenSSL --> website --> (Atalerix) sclateri (erizo)
 How send mails --> website --> (Tursiops) aduncus (delfin)
 How create mqtt clients --> website --> 
@@ -29,6 +27,8 @@ WEB PAGE
 Modificar las paginas post (añadir una imagen de background).
 
 Ordenar los post (buscador de post, mostrar por cuadros y paginas, unas 6 por pagina)
+
+Interactive chat.
 
 COMPLETE TUTORIALS
 
