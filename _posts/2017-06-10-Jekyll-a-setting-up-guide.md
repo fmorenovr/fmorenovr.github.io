@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jekyll, a setting up guide."
-subtitle: Here you'll learn how to setup your Jekyll serve, is very useful if you work with github pages.
+subtitle: Here you'll learn how to setup your Jekyll serve, is very useful if you work with static pages.
 date:   2017-06-10 00:20:12 -0500
 categories: webServices
 ---
