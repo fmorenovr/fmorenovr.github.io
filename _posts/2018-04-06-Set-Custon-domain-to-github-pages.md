@@ -63,6 +63,10 @@ A better explanation could be found [here](https://help.github.com/articles/sett
 * First, Create a Record set of type A (Ipv4 Address) and set your username.github.io ip address.  
 * Then create another CNAME record redirecting **www.yourdomain.com** to username.github.io, the original Github blog address.
 
+Your final dns manage must be like this:
+
+![dns-domains](/assets/internet_services/AWS/aws-dns-record-manage.png)
+
 ## Notes
 
 You can change your domain every time that you want.  
