@@ -8,7 +8,8 @@ categories: webServices
 # Jekyll
 
 Is a simple blog, static site generator for personal projects.  
-Jekyll is written in Ruby.
+Jekyll is written in Ruby.  
+See more info [here](https://jekyllrb.com/).
 
 ## Installing
 
