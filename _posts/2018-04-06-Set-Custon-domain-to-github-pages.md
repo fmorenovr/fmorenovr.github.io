@@ -61,6 +61,11 @@ A better explanation could be found [here](https://help.github.com/articles/sett
 ## Create domains and subdomains
 
 * First, Create a Record set of type A (Ipv4 Address) and set your username.github.io ip address.  
+  Or set your Ip Address as:
+  
+      192.30.252.153
+      192.30.252.154
+  
 * Then create another CNAME record redirecting **www.yourdomain.com** to username.github.io, the original Github blog address.
 
 Your final dns manage must be like this:
