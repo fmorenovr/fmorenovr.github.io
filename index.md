@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title: Jenazads Website
+imageBackground: "/assets/me/me_huaytapallana.jpg"
 ---
 <div align="center"><h1>Welcome to my personal website!!</h1></div>
 <blockquote align="center">
