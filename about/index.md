@@ -7,8 +7,8 @@ description: "Here you would find information about me :D "
 <div align="center">
 <p>
   You can find the source code at <a href="https://github.com/Jenazads">Jenazads</a>/<a href="https://github.com/Jenazads/Jenazads.github.io">JenazadsWebsite</a>. <br>
-  I am a Computer Scientist graduated of the <a href="http://www.uni.edu.pe">National University of Engineering</a> Lima-Peru.<br>
-  <img src="/assets/me.png">
+  I am a Computer Scientist graduated of the <a href="http://www.uni.edu.pe">National University of Engineering</a> Lima-Peru.<br><br>
+  <img style="border-radius: 25px;border: 2px solid #73AD21;" src="/assets/me/me_huacachina.jpg">
   <br>
   <br>
   <h2>What is Computer Science?</h2>

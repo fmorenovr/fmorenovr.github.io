@@ -24,4 +24,15 @@ function closeNav() {
   document.body.style.backgroundColor = "white";
   visible = false
 }
+
+document.onclick= function(event) {
+  // Compensate for IE<9's non-standard event model
+  //
+  if (event===undefined) event= window.event;
+  var target= 'target' in event? event.target : event.srcElement;
+
+  console.log('clicked on '+target.tagName);
+  if(visible) console.log(visible)//closeNav()
+};
+
 </script>
