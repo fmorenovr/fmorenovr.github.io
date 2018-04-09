@@ -16,7 +16,9 @@ html {
  * Remove default margin.
  */
 body {
-  margin: 0; }
+  margin: 0;
+  background-color: #efefef;
+}
 
 /* HTML5 display definitions
    ========================================================================== */
@@ -618,11 +620,10 @@ a {
         margin-left: 0; } }
 
 .page-header {
-  color: #fff;
   text-align: center;
   background-color: #159957;
-  background-size: 100%;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+  background-size: 100% 100%;
+  }
   @media screen and (min-width: 64em) {
     .page-header {
       padding: 5rem 6rem; } }

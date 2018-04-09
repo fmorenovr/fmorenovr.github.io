@@ -24,11 +24,11 @@ How create mqtt clients --> website -->
 
 WEB PAGE
 
-Modificar las paginas post (añadir una imagen de background).
-
-Ordenar los post (buscador de post, mostrar por cuadros y paginas, unas 6 por pagina)
+Ordenar los post (buscador de post, mostrar por cuadros, unos 6 posts por pagina).
 
 Interactive chat.
+
+share on fb, twitter, linkedin.
 
 COMPLETE TUTORIALS
 

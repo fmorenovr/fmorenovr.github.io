@@ -4,9 +4,9 @@
 </div>
 -->
 {% if page.imageBackground %}
-<div class="page-header" style="background-image: url({{ page.imageBackground }}); background-repeat: no-repeat; color: #ff456f;">
+<div class="page-header" style="background-image: linear-gradient(rgba(255,255,255,.5), rgba(0,0,0,.5)), url({{ page.imageBackground }}); color: #000;">
 {% else %}
-<div class="page-header">
+<div class="page-header" style="background-image: linear-gradient(120deg, #155799, #159957); color: #fff;">
 {% endif %}
   <h1 class="project-name">{{ page.title  }}</h1>
   <h2 class="project-tagline">

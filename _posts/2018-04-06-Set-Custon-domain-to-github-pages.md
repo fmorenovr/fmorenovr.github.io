@@ -4,7 +4,7 @@ title:  "Setting up a static website and set custom domain."
 subtitle: Here you will learn how to create and config your CNAME in your github page.
 date:   2018-04-06 11:55:12 -0500
 categories: Software
-imageBackground: "/assets/me/me_huacachina.jpg"
+imageBackground: "/assets/posts_background/static-website.png"
 ---
 ## Github Pages
 
