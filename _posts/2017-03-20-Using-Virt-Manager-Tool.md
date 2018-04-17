@@ -209,6 +209,6 @@ A virtual machine is a guest OS on another OS (host), you can see the xml config
 
 * [Red Hat Enterprise Linux based OS][redhat-networking]
 
-[debian-networking]: /docs/debian_networking
-[redhat-networking]: /docs/redhat_networking
+[debian-networking]: /guides/debian_networking
+[redhat-networking]: /guides/redhat_networking
 
