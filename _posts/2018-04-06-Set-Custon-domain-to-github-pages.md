@@ -73,7 +73,19 @@ Your final dns manage must be like this:
 
 ![dns-domains](/assets/internet_services/AWS/aws-dns-record-manage.png)
 
+## Set Mail Service
+
+You should be able to set up a mail service with [Amazon SES][SES] o [GSuite service][GSuite].
+
+I use Gsuite, so you should create an admin account in GSuite and then write the IP Addresses in your Domain in Amazon Route 53 as like below:
+
+![mail-domain](/assets/internet_services/AWS/aws-route-domain-mail.png)
+
 ## Notes
 
 You can change your domain every time that you want.  
 Have fun :D
+
+
+[SES]:    https://aws.amazon.com/es/ses/
+[GSuite]: https://gsuite.google.com/
