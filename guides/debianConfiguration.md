@@ -407,10 +407,11 @@ You can see a Vim guide pressing [here][vim-guide-url].
 
       shutter -s
 
-### ksnapshot
+### imagemagick
 
-    sudo apt-get install ksnapshot
-    ksnapshot
+    sudo apt-get install imagemagick
+    import -window root alScreenImage.png
+    import partOfScreen.png
 
 ## Screen brightness
 
