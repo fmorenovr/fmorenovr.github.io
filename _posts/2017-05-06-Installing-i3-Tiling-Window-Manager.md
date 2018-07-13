@@ -12,19 +12,16 @@ i3 don't use a GUI.
 * Installing on Debian based OS:
 
       sudo -i
-      echo "deb http://debian.sur5r.net/i3/ $(lsb_release -c -s) universe" >> /etc/apt/sources.list
-      apt-get update
-      apt-get --allow-unauthenticated install sur5r-keyring
       apt-get update
       apt-get install i3
 
 * Configure bar attributes in :
 
-      nano /etc/i3status.conf
+      cat /etc/i3status.conf
 
 * Configurate i3 key-actions in `/etc/i3/config`:
 
-      nano /etc/i3/config
+      cat /etc/i3/config
 
 * To lock screen, we add this line in `/etc/i3/config` file:
 
