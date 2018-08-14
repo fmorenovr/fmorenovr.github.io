@@ -212,6 +212,18 @@ To add security connections, apart of identification on `aclfile`.
           mosquitto_sub -t '#' -d -v -u idUser -P 123456 -p 2883 --cafile /etc/mosquitto/ca_certificates/ca.crt --cert /etc/mosquitto/certs/Master.crt --key /etc/mosquitto/certs/Master.key
           mosquitto_pub -t 'testtopic/' -m '{"valor" : 15.3}' -u idUser -P 123456 -p 2883 --cafile /etc/mosquitto/ca_certificates/ca.crt --cert /etc/mosquitto/certs/Master.crt --key /etc/mosquitto/certs/Master.key
 
+# Clean retained messages
+
+To clean, you should run this file with argument localhost:
+
+    #!/bin/sh
+    echo "cleaning " $1 " :: usage: cleanmqtt <host>"
+    mosquitto_sub -h $1 -t "#" -v | while read line _; do mosquitto_pub -h $1 -t "$line" -r -n; done
+
+For example, called `rm_retained.sh` and run as:
+
+    bash rm_retained.sh localhost
+
 ## Files
 
 Get a configuration pack example [here][example-url].
