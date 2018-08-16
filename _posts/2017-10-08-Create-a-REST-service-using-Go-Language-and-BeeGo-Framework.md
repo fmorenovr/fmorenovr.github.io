@@ -27,6 +27,11 @@ also, add these lines in `/home/$USER/.profile` file:
     export GOROOT=$HOME/go
     export PATH=$PATH:$GOROOT/bin
 
+Finally, reboot or execute this:
+
+    source .profile
+    sudo source /etc/profile
+
 # Installing some libraries or dependencies for Golang
 
 ## Web Frameworks
