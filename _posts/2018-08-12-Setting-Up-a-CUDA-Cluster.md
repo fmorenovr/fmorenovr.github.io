@@ -31,7 +31,7 @@ We will install CUDA version.
       sudo add-apt-repository ppa:graphics-drivers/ppa
       sudo apt-get update
   
-  Now, we need to check which driver should we install [here]() and then install the driver:
+  Now, we need to check which driver should we install [here]() and then install the driver (in our case, they recommend to install nvidia-390 for a GeForce GTX 950):
   
       sudo apt-get install nvidia-390
 
