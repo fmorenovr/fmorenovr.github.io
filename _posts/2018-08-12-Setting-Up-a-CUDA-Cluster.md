@@ -29,11 +29,11 @@ We will install CUDA version.
 * Next, Add and Update your GPU driver repository:
 
       sudo add-apt-repository ppa:graphics-drivers/ppa
-      sudo apt update
+      sudo apt-get update
   
   Now, we need to check which driver should we install [here]() and then install the driver:
   
-      sudo apt install nvidia-390
+      sudo apt-get install nvidia-390
 
 * Then, Reboot your computer. To verify the installation, open a terminal and run the following command:
 
