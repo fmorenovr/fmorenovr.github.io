@@ -200,11 +200,11 @@ Do the same in `Jmaster` and `Jnodes0X`.
 
 The Network File System (NFS) is a client/server application that allows us to create a folder on the master node and have it synced on all the other nodes. This folder can be used to store programs.
 
-* Install on master:
+* Install on master or server:
 
       sudo apt-get install nfs-kernel-server
 
-* Install on node:
+* Install on node or clients:
 
       sudo apt-get install nfs-common
 
@@ -223,10 +223,13 @@ This is `optional`:
 So, on `Jmaster` node as `superuser`, in file `/etc/exports` write:
 
     # share forShare folder to any
-    /home/juser/forShare  *(rw,sync,no_subtree_check)
+    /home/juser/forShare  *(rw,sync,no_root_squash,no_subtree_check)
 
-* rw = read/write  
-* ro = read only
+* rw: read/write  
+* ro: read only  
+* sync: This applies changes to the shared directory only after changes are committed.  
+* no_root_squash: This allows root account to connect to the folder.  
+* no_subtree_check: This option prevents the subtree checking.  
 
 Then, run:
 
