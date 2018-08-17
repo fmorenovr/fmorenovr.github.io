@@ -17,19 +17,22 @@ CUDA allows to developers use a variation of C language to code in GPU nVidia.
 
 # How to install CUDA
 
-We will install CUDA 9.0 version.
+We will install CUDA version.
 
-* First of all, we check our GPU description:
+* First of all, we check our GPU description (here shows you if you have NVIDIA or ATI/AMD processor):
 
       lspci | grep ' VGA ' | cut -d" " -f 1 | xargs -i lspci -v -s {}
 
-   The output should show the GPU name and the driver
+   The output should show the GPU name and the driver, we have NVIDIA GPU
    ![gpu-features](/assets/clusterComputing/GPU/gpu-features.png)
 
-* Next, Update your GPU driver:
+* Next, Add and Update your GPU driver repository:
 
       sudo add-apt-repository ppa:graphics-drivers/ppa
       sudo apt update
+  
+  Now, we need to check which driver should we install [here]() and then install the driver:
+  
       sudo apt install nvidia-390
 
 * Then, Reboot your computer. To verify the installation, open a terminal and run the following command:
