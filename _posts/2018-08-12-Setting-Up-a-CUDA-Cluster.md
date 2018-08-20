@@ -57,16 +57,18 @@ We will install CUDA version.
 
 ## Error with compiler gcc/g++ compatibility
 
-* First, identify with error do you have (compiler version), then install it (in this case is gcc-6):
+* First, identify with error do you have (compiler version with `gcc --version`), then install it (in this case is gcc-6):
 
-      sudo apt install gcc-6 g++-6
+      sudo apt-get install gcc-6 g++-6
 
 * And link the gcc cuda compiler with gcc-version (in this case 6):
 
       sudo ln -s /usr/bin/gcc-6 /usr/local/cuda/bin/gcc 
       sudo ln -s /usr/bin/g++-6 /usr/local/cuda/bin/g++
 
-* Try `helloWorld.cu`:
+## Example
+
+* Then, we write the `helloWorldCUDA.cu` program:
 
    ``` c++
    #include <stdio.h>
