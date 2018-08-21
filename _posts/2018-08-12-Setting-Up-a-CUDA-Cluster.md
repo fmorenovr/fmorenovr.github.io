@@ -55,6 +55,10 @@ We will install CUDA version.
       export PATH=/usr/local/cuda-9.0/bin${PATH:+:$PATH}}
       export LD_LIBRARY_PATH=/usr/local/cuda-9.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
 
+* After modify that file, run:
+      
+      source .bashrc
+
 ## Error with compiler gcc/g++ compatibility
 
 * First, identify with error do you have (compiler version with `gcc --version`), then install it (in this case is gcc-6):
