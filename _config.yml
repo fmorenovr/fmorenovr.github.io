@@ -38,9 +38,9 @@ google_analytics:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-feed
+theme: jekyll-theme-cayman-blog
+#plugins:
+#  - jekyll-feed
 #exclude:
 #  - Gem/Gemfile
 #  - Gem/Gemfile.lock
