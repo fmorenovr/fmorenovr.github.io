@@ -28,6 +28,7 @@ For installing Jekyll, we just need install some dependencies:
       sudo gem install bundler  
       sudo gem install jekyll  
       sudo gem install jekyll-seo-tag  
+      sudo gem install jekyll-theme-cayman-blog  
 
 ## Creating a static web
 
