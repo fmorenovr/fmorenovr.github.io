@@ -10,7 +10,7 @@ permalink: /files/
 <p> List of files on my website for your download </p>
 {% for file in site.static_files %}
   {% if file.extname == ".zip" or file.extname == ".rar" or file.extname == ".7z" or file.extname == ".jar" %}
-   * [{{ file.path | remove: "/files/" }}]({{ site.baseurl }}{{ file.path }})
+   * [{{ file.path | remove: "/files/" | remove: ".zip" | remove: ".jar"}}]({{ site.baseurl }}{{ file.path }})
   {% endif %}
 {% endfor %}
 

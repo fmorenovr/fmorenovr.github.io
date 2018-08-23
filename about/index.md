@@ -14,8 +14,13 @@ description: "Here you would find information about me :D "
   <h2>What is Computer Science?</h2>
   Computer science is a discipline that spans theory and practice based on mathematics and physics.
   <br>
-  Computer scientists must be adept at modeling and analyzing problems.
+  Computer scientists must be experienced at modeling and analyzing problems.
+  <br>
+  With computer Science you can create anything and ... do anything :D
+  <br>
+  Would you like to see my CV ? Press <a href="/cv">Here</a>.
 </p>
+</div>
 <div align="center">
   <h2>Contact to me</h2>
   <ul class="contact-list">

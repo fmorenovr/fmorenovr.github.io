@@ -40,8 +40,6 @@ node-red -> watson
 
 CRM - ORM
 
-Handler class golang
-
 Apache flink
 
 Creating VP with laravel and APACHE
