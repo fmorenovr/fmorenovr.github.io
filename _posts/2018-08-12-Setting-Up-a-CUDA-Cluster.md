@@ -117,4 +117,39 @@ We will install CUDA version.
       nvcc hellWorld.cu -o helloWorld
       ./helloWorld
 
+## Additional information
+
+To install CUDA NN deep learning for neural networks in CUDA:
+
+* go to [cudnn](https://developer.nvidia.com/cudnn)  
+* Select CUDNN 7.0.5 for CUDA 9.0  
+* Download the cuDNN v7.0.5 Library for Linux (tar file)  
+* Open a terminal in the directory the tar file is located  
+* Unzip the tar file using the command:  
+
+      tar -xzvf cudnn-9.0-linux-x64-v7.2.1.38.tgz
+
+* Run the following commands to move the appropriate files to the CUDA folder:
+
+      sudo cp cuda/include/cudnn.h /usr/local/cuda/include
+      sudo cp cuda/lib64/libcudnn* /usr/local/cuda/lib64
+      sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib64/libcudnn*
+
+## Install PyTorch
+
+Go to [pytorch](https://pytorch.org/) and download the recommended tool.  
+In this case:
+
+    pip3 install torch torchvision
+
+## Install TensorFlow
+
+Install it with pip:
+
+    sudo apt-get install python3-pip python3-dev
+    pip3 install --upgrade tensorflow
+    pip3 install --upgrade tensorflow-gpu
+
+
+
 [GPUJcluster_link]:   /cluster-computing/Setting-up-a-GPU-Cluster-in-linux-machines
