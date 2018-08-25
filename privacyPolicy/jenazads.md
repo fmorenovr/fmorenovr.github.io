@@ -6,7 +6,7 @@ description: Jenazads Privacy Policy website
 permalink: /privacyPolicy/jenazads
 ---
 <div align="center">
-  <img src="/assets/privacyPolicy/R-GoBe/Logotipo.png" alt="R-GoBe Logotipo" width="120" height="100">
+  <img src="/assets/privacyPolicy/Jenazads/Logotipo.png" alt="Jenazads Logotipo" width="120" height="100">
   <!-- ## ![rgobeSlogan](/assets/privacyPolicy/R-GoBe/Logotipo.png){:height="100px" width="120px"} -->
 </div>
 

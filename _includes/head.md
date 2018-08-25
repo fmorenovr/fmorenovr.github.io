@@ -4,7 +4,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#157878">
-  <!--<link rel="shortcut icon" type="image/png" href="{{site.url}}/assets/images/favicon.png">-->
+  <link rel="shortcut icon" type="image/ico" href="{{site.url}}/assets/images/favicon.ico">
   
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   
