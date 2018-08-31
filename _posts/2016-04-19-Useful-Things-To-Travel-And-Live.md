@@ -12,6 +12,7 @@ categories: Live-Hacks
 * Deodorant  
 * Shaver  
 * Lip balm  
+* Soap  
 
 ## Things of the day
 
