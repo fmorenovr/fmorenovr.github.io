@@ -1,7 +1,7 @@
 ---
 layout: privacyPolicy
 title: Jenazads
-subtitle: "Felipe A. Moreno (JenazadS) Policy"
+subtitle: "Felipe A. Moreno (Jenazads) Policy"
 description: Jenazads Privacy Policy website
 permalink: /privacyPolicy/jenazads
 ---
