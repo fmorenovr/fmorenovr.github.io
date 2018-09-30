@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #permalink: /blog/:categories/:year/:month/:day/:title
 permalink: /:categories/:title
 show_downloads: true
-url: "http://Jenazads.github.io/"
+url: "http://www.jenazads.com/"
 author:
   name       : Felipe A. Moreno
   gmail      : felipe.moreno.vera@gmail.com
