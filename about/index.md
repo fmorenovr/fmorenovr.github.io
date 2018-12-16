@@ -17,8 +17,6 @@ description: "Here you would find information about me :D "
   Computer scientists must be experienced at modeling and analyzing problems.
   <br>
   With computer Science you can create anything and ... do anything :D
-  <br>
-  Would you like to see my CV ? Press <a href="/cv">Here</a>.
 </p>
 </div>
 <div align="center">
