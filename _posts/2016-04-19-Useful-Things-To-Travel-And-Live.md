@@ -27,9 +27,9 @@ categories: Live-Hacks
 
 ## Kit Eyes
 
-    * 1 gafas (medida + UV + anti-reflex)  
+    * 1 Gafas (medida + UV + anti-reflex)  
     * 1 Sujetador de gafas  
-    * 2 Franela  
+    * 1 Franela  
     * 1 Lente de sol (medida + UV)  
     * 1 Lente de Lenon  
     * 2 Estuche de gafas  
@@ -37,6 +37,7 @@ categories: Live-Hacks
 ## 1 Kit Friaje
 
     * 1 Calentador de piernas  
+    * 1 Calentador torso  
     * 1 par de medias gruesas  
     * 1 Saco  
     * 1 Chalina Blanca  
@@ -67,6 +68,7 @@ categories: Live-Hacks
     * 1 Espejo  
     * 1 Maleta  
     * 1 Mochila  
+    * 1 Almohada de cuello - capucha  
 
 ## 1 Kit Waist Bag
 
@@ -91,6 +93,7 @@ categories: Live-Hacks
 
     * 3 Pantalones (Pioner talla 28 o Malabar talla 30)  
     * 1 Jean  
+    * 1 Correa  
     * 7 Polos  
 
 ## 1 Kit Deporte
