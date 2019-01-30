@@ -198,7 +198,6 @@ An example of helloworld program:
 
   ```c
     #include "opencv2/opencv.hpp"
-    #include "opencv2/highgui/highgui.hpp"
 
     using namespace cv;
 
