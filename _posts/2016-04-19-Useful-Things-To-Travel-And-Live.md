@@ -17,6 +17,7 @@ categories: Live-Hacks
     * 1 Cartuchera  
     * 1 Pasta dental  
     * 1 Cepillo dental  
+    * 1 Hilo dental  
     * 1 Jabon  
     * 1 Deshodorante  
     * 1 Lip Balm  
@@ -24,6 +25,8 @@ categories: Live-Hacks
     * 1 Papel higienico  
     * 1 Paños humedos  
     * 1 Toalla  
+    * 1 Peine  
+
 
 ## Kit Eyes
 
