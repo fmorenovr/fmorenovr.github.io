@@ -43,7 +43,7 @@ categories: Live-Hacks
     * 1 Chalina Blanca  
     * 1 Guantes de licra  
     * 2 Sueter cuello tortuga  
-    * 1 Casaca gruesa (Corduroy)  
+
 
 ## 1 Kit Elegante
 
@@ -68,11 +68,11 @@ categories: Live-Hacks
     * 1 Espejo  
     * 1 Maleta  
     * 1 Mochila  
-    * 1 Almohada de cuello - capucha  
+    * 1 Almohada de cuello  
 
 ## 1 Kit Waist Bag
 
-    * Auriculares  
+    * Headphone  
     * Cargador  
     * Bateria portatil  
     * USB  
