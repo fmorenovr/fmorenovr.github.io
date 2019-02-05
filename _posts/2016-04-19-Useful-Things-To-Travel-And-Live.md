@@ -91,6 +91,7 @@ categories: Live-Hacks
 
     * 7 Boxers  
     * 7 Pares de media ligeras  
+    * 1 Polo pijama  
 
 ## 1 Kit Ropa Diaria
 
