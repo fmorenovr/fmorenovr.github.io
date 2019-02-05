@@ -85,7 +85,7 @@ categories: Live-Hacks
     * 1 Sudadera negra  
     * 1 Casaca jean  
     * 1 Casaca abierta con capucha  
-    * 2 Busos ligeros  
+    * 1 Busos ligeros  
 
 ## 1 Kit Ropa Interior
 
@@ -107,7 +107,7 @@ categories: Live-Hacks
 
 ## 1 Kit Calzado
 
-    * 3 Zapatillas Alpargatas  
+    * 2 Zapatillas Alpargatas  
     * 1 Botin Trekking  
     * 1 Sandalia  
     * 1 Slipper  
