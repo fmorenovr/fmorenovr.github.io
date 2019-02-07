@@ -78,7 +78,8 @@ categories: Live-Hacks
     * Headphone  
     * Cargador  
     * Bateria portatil (+Protector)  
-    * Cable USB  
+    * Conector USB  
+    * Memoria Portatil (+Protector)  
 
 ## 1 Kit Prenda Ligera
 
