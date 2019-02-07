@@ -142,11 +142,11 @@ An example of hello world program:
 
 Graphic Library: Produce Image
 
-    sudo apt-get install freeglut3 freeglut3-dev
+    sudo apt-get install freeglut3 freeglut3-dev libglew-dev 
 
 ``` #include <GL/glut.h> ```
 
-    gcc mycode.c -lGL -lglut -lGLU 
+    gcc mycode.c -lGL -lglut -lGLU -lGLEW `pkg-config --libs glfw3`
 
 An example of hello world program:
 
