@@ -16,8 +16,9 @@ categories: Live-Hacks
 
     * 1 Cartuchera  
     * 1 Pasta dental  
-    * 1 Cepillo dental  
+    * 1 Cepillo dental (+Protector)  
     * 1 Hilo dental  
+    * 1 Enjuague bucal  
     * 1 Jabon  
     * 1 Deshodorante  
     * 1 Lip Balm  
@@ -26,7 +27,7 @@ categories: Live-Hacks
     * 1 Paños humedos  
     * 1 Toalla  
     * 1 Peine  
-
+    * 1 CortaUñas  
 
 ## Kit Eyes
 
@@ -41,12 +42,11 @@ categories: Live-Hacks
 
     * 1 Calentador de piernas  
     * 1 Calentador torso  
-    * 1 par de medias gruesas  
+    * 1 Calentador pies  
+    * 1 Guantes de licra  
     * 1 Saco  
     * 1 Chalina Blanca  
-    * 1 Guantes de licra  
     * 2 Sueter cuello tortuga  
-
 
 ## 1 Kit Elegante
 
@@ -77,15 +77,15 @@ categories: Live-Hacks
 
     * Headphone  
     * Cargador  
-    * Bateria portatil  
-    * USB  
+    * Bateria portatil (+Protector)  
+    * Cable USB  
 
 ## 1 Kit Prenda Ligera
 
     * 1 Sudadera negra  
     * 1 Casaca jean  
     * 1 Casaca abierta con capucha  
-    * 1 Busos ligeros  
+    * 1 Buso ligero  
 
 ## 1 Kit Ropa Interior
 
@@ -113,4 +113,3 @@ categories: Live-Hacks
     * 1 Sandalia  
     * 1 Slipper  
     * 1 Chancla  
-
