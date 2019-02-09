@@ -89,6 +89,7 @@ categories: Live-Hacks
     * 1 Casaca jean  
     * 1 Casaca abierta con capucha  
     * 1 Buso ligero  
+    * 1 Capa con capucha (Cloak Hoodie stitching)  
 
 ## 1 Kit Ropa Interior
 
