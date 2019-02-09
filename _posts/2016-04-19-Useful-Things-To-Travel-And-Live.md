@@ -19,7 +19,7 @@ categories: Live-Hacks
     * 1 Cepillo dental (+Protector)  
     * 1 Hilo dental  
     * 1 Enjuague bucal  
-    * 1 Jabon  
+    * 1 Jabon (+Portador)  
     * 1 Deshodorante  
     * 1 Lip Balm  
     * 1 Afeitador  
