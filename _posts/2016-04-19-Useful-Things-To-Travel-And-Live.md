@@ -77,7 +77,7 @@ categories: Live-Hacks
 
 ## 1 Kit Waist Bag
 
-    * Headphone  
+    * Headphone (Marshall Brand)  
     * Cargador  
     * Bateria portatil (+Protector)  
     * Conector USB  
