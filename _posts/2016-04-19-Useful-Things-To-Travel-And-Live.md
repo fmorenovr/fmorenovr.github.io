@@ -60,6 +60,7 @@ categories: Live-Hacks
     * 1 Bleizer  
     * 1 Par de Zapatos  
     * 1 Tirante  
+    * 1 Gorro plano de caza  
 
 ## 1 Kit Accesorios
 
