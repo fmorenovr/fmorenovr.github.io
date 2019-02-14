@@ -46,7 +46,7 @@ categories: Live-Hacks
     * 1 Guantes de licra  
     * 1 Saco  
     * 1 Chalina Blanca  
-    * 2 Sueter cuello tortuga  
+    * 2 Jersey cuello tortuga  
 
 ## 1 Kit Elegante
 
@@ -84,6 +84,8 @@ categories: Live-Hacks
     * Bateria portatil (+Protector)  
     * Conector USB  
     * Memoria Portatil (+Protector)  
+    * Lapicero de tinta  
+    * Agenda  
 
 ## 1 Kit Prenda Ligera
 
