@@ -76,6 +76,7 @@ categories: Live-Hacks
     * 1 Almohada de cuello  
     * 1 Cubre ojos para dormir  
     * 1 Mascarilla cubreboca  
+    * 1 Pulsera (Survival Wristband)  
 
 ## 1 Kit Waist Bag
 
