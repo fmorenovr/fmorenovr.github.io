@@ -16,7 +16,7 @@ categories: Live-Hacks
 
     * 1 Cartuchera  
     * 1 Pasta dental  
-    * 1 Cepillo dental (+Protector)  
+    * 1 Cepillo dental de viaje  
     * 1 Hilo dental  
     * 1 Enjuague bucal  
     * 1 Jabon (+Portador)  
@@ -51,10 +51,9 @@ categories: Live-Hacks
 ## 1 Kit Elegante
 
     * 1 Terno a la medida  
-    * 3 Pares de medias para terno  
-    * 1 Correa de terno  
+    * 2 Pares de medias para terno  
     * 4 Camisas  
-    * 4 Biviries  
+    * 2 Biviries  
     * 4 Corbatas  
     * 1 Corbatin  
     * 1 Bleizer  
@@ -106,7 +105,7 @@ categories: Live-Hacks
 
     * 3 Pantalones (Pioner talla 28 o Malabar talla 30)  
     * 1 Jean  
-    * 1 Correa  
+    * 1 Correa (malabar 30)  
     * 7 Polos  
 
 ## 1 Kit Deporte
