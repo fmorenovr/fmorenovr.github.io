@@ -43,7 +43,7 @@ categories: Live-Hacks
     * 1 Calentador de piernas  
     * 1 Calentador torso  
     * 1 Calentador pies  
-    * 1 Guantes de licra  
+    * 1 Guantes de licra para celular  
     * 1 Saco  
     * 1 Chalina Blanca  
     * 2 Jersey cuello tortuga  
@@ -92,7 +92,7 @@ categories: Live-Hacks
     * 1 Sudadera negra  
     * 1 Casaca jean  
     * 1 Casaca abierta con capucha  
-    * 1 Buso ligero  
+    * 2 Busos ligero  
     * 1 Capa con capucha (Cloak Hoodie stitching)  
 
 ## 1 Kit Ropa Interior
