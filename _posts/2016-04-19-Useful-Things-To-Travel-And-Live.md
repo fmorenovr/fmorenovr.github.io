@@ -53,6 +53,9 @@ categories: Live-Hacks
     * Cargador  
 
     * Headphone (Marshall Brand)  
+    
+    * Billetera  
+    * Monedero  
 
 ## Accesorios
 
