@@ -6,118 +6,125 @@ date:   2016-04-19 12:15:12 -0500
 categories: Live-Hacks
 ---
 
-## 1 Kit Documentos
+## Documentos
 
     * DNI  
     * Pasaporte  
     * Vacuna de Fiebre Amarilla  
 
-## Kit de Higiene
+## Vista
 
-    * 1 Cartuchera  
-    * 1 Pasta dental  
-    * 1 Cepillo dental de viaje  
-    * 1 Hilo dental  
-    * 1 Enjuague bucal  
-    * 1 Jabon (+Portador)  
-    * 1 Deshodorante  
-    * 1 Lip Balm  
-    * 1 Afeitador  
-    * 1 Papel higienico  
-    * 1 Paños humedos  
-    * 1 Toalla  
-    * 1 Peine  
-    * 1 CortaUñas  
+    * Gafas (medida + UV + anti-reflex)  
+    * Sujetador de gafas  
+    * Franela  
+    * Lente de sol (medida + UV)  
+    * Estuche de gafas  
 
-## Kit Eyes
+## Higiene
 
-    * 1 Gafas (medida + UV + anti-reflex)  
-    * 1 Sujetador de gafas  
-    * 1 Franela  
-    * 1 Lente de sol (medida + UV)  
-    * 1 Lente de Lenon  
-    * 2 Estuche de gafas  
+    * Cartuchera  
+    * Pasta dental  
+    * Cepillo dental de viaje  
+    * Hilo dental  
+    * Enjuague bucal  
+    * Jabon  
+    * Deshodorante  
+    * Lip Balm  
+    * Afeitadora  
+    * Papel higienico  
+    * Peine  
+    * Espejo  
+    * Toalla  
+    * CortaUñas  
 
-## 1 Kit Friaje
+## Utensilios
 
-    * 1 Calentador de piernas  
-    * 1 Calentador torso  
-    * 1 Calentador pies  
-    * 1 Guantes de licra para celular  
-    * 1 Saco  
-    * 1 Chalina Blanca  
-    * 2 Jersey cuello tortuga  
+    * Maleta de viaje  
+    * Mochila  
+    * Canguro (Waist Bag)  
 
-## 1 Kit Elegante
-
-    * 1 Terno a la medida  
-    * 2 Pares de medias para terno  
-    * 4 Camisas  
-    * 2 Biviries  
-    * 4 Corbatas  
-    * 1 Corbatin  
-    * 1 Bleizer  
-    * 1 Par de Zapatos  
-    * 1 Tirante  
-    * 1 Gorro plano de caza  
-
-## 1 Kit Accesorios
-
-    * 1 Par de Potaras  
-    * 1 Anillo del tiempo  
-    * 1 Collar ojo de tigre  
-    * 1 Paraguas espada  
-    * 1 Reloj  
-    * 1 Sombrero  
-    * 1 Espejo  
-    * 1 Maleta  
-    * 1 Mochila  
-    * 1 Almohada de cuello  
-    * 1 Cubre ojos para dormir (eye mask)  
-    * 1 Mascarilla cubreboca  
-    * 1 Pulsera (Survival Wristband)  
-
-## 1 Kit Waist Bag
-
-    * Headphone (Marshall Brand)  
-    * Cargador  
-    * Bateria portatil (+Protector)  
-    * Conector USB  
-    * Memoria Portatil (+Protector)  
     * Lapicero de tinta  
     * Agenda  
 
-## 1 Kit Prenda Ligera
+    * Memoria Portatil (+Protector)  
+    * Bateria portatil  
+    
+    * Cable USB  
+    * Cargador  
 
-    * 1 Sudadera negra  
-    * 1 Casaca jean  
-    * 1 Casaca abierta con capucha  
-    * 2 Busos ligero  
-    * 1 Capa con capucha (Cloak Hoodie stitching)  
+    * Headphone (Marshall Brand)  
 
-## 1 Kit Ropa Interior
+## Accesorios
 
-    * 7 Boxers  
-    * 7 Pares de media ligeras  
-    * 1 Polo pijama  
+    * Par de Potaras  
+    * Anillo del tiempo  
+    * Collar ojo de tigre  
+    * Paraguas espada (Zodiac umbrella sword)  
+    * Reloj  
 
-## 1 Kit Ropa Diaria
+## Interior
+
+    * Boxers (7)  
+    * Medias (7 pares)  
+
+## Dormir
+
+    * Polo pijama  
+    * Almohada de cuello  
+    * Cubre ojos para dormir (eye mask)  
+    * Slipper  
+
+## Deporte
+
+    * Polo sport  
+    * Short sport  
+    * Zapatilla runner  
+
+## Trekking
+
+    * Botin Trekking  
+    * Baston Trekking (Trekking Pole)  
+    * Pulsera (Survival Wristband)  
+
+## Diario
 
     * 3 Pantalones (Pioner talla 28 o Malabar talla 30)  
-    * 1 Jean  
-    * 1 Correa (malabar 30)  
-    * 7 Polos  
+    * Jean (1)  
+    * Correa (malabar 30)  
+    * Polos (7 distintos)  
 
-## 1 Kit Deporte
+    * Zapatillas Alpargatas (2)  
+    * Sandalia  
 
-    * 1 Polo sport  
-    * 1 Short sport  
-    * 1 Zapatilla runner  
+    * Tirantes  
+    * Corbatin  
+    * Gorro plano de cazería  
 
-## 1 Kit Calzado
+## Frio
 
-    * 2 Zapatillas Alpargatas  
-    * 1 Botin Trekking  
-    * 1 Sandalia  
-    * 1 Slipper  
-    * 1 Chancla  
+    * Saco  
+    * Sombrero  
+
+    * Calentador de piernas  
+    * Calentador torso  
+    * Calentador pies  
+    * Guantes de licra para celular  
+
+    * Capa con capucha (Cloak Hoodie stitching)  
+    * Sudadera con capucha  
+    * Casaca abierta con capucha  
+    * Buso ligero (2)  
+
+    * Chalina Blanca  
+    * Mascarilla cubreboca  
+    * Jersey cuello tortuga (2)  
+
+## Elegante
+
+    * Terno a la medida  
+    * Medias de Terno  
+    * Camisas  
+    * Biviries  
+    * Corbatas  
+    * Bleizer  
+    * Zapatos  
