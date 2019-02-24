@@ -91,7 +91,7 @@ categories: Live-Hacks
 
 ## Diario
 
-    * 3 Pantalones (Pioner talla 28 o Malabar talla 30)  
+    * Pantalones (3) (Pioner talla 28 o Malabar talla 30)  
     * Jean (1)  
     * Correa (malabar 30)  
     * Polos (7 distintos)  
@@ -119,7 +119,7 @@ categories: Live-Hacks
     * Buso ligero (2)  
 
     * Chalina Blanca  
-    * Mascarilla cubreboca  
+    * Mascarilla cubreboca (Anti-Dust Face mask)  
     * Jersey cuello tortuga (2)  
 
 ## Elegante
