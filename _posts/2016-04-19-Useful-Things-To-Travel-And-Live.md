@@ -59,11 +59,18 @@ categories: Live-Hacks
 
 ## Accesorios
 
-    * Par de Potaras  
+    * Potaras  
     * Anillo del tiempo  
     * Collar ojo de tigre  
+
+    * Sombrero  
+    * Gorro plano de cazería  
+
     * Paraguas espada (Zodiac umbrella sword)  
     * Reloj  
+
+    * Tirantes  
+    * Corbatin  
 
 ## Interior
 
@@ -74,7 +81,7 @@ categories: Live-Hacks
 
     * Polo pijama  
     * Almohada de cuello  
-    * Cubre ojos para dormir (eye mask)  
+    * Cubre ojos (Eye mask)  
     * Slipper  
 
 ## Deporte
@@ -95,24 +102,17 @@ categories: Live-Hacks
     * Jean (1)  
     * Correa (malabar 30)  
     * Polos (7 distintos)  
-
     * Zapatillas Alpargatas (2)  
     * Sandalia  
 
-    * Tirantes  
-    * Corbatin  
-    * Gorro plano de cazería  
-
 ## Frio
-
-    * Saco  
-    * Sombrero  
 
     * Calentador de piernas  
     * Calentador torso  
     * Calentador pies  
     * Guantes de licra para celular  
 
+    * Saco  
     * Capa con capucha (Cloak Hoodie stitching)  
     * Sudadera con capucha  
     * Casaca abierta con capucha  
