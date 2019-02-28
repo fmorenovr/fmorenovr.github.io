@@ -17,7 +17,7 @@ categories: Live-Hacks
     * Gafas (medida + UV + anti-reflex)  
     * Sujetador de gafas  
     * Franela  
-    * Lente de sol (medida + UV)  
+    * Lente de sol (UV 400 + Polarized)  
     * Estuche de gafas  
 
 ## Higiene
