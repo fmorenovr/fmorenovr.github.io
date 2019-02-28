@@ -53,6 +53,8 @@ categories: Live-Hacks
     * Cargador  
 
     * Headphone (Marshall Brand)  
+    * Laptop (Asus Rog Gamer)  
+    * Mouse  
     
     * Billetera  
     * Monedero  
