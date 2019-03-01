@@ -53,10 +53,11 @@ categories: Live-Hacks
     * Memoria Portatil (+Protector)  
     * Bateria portatil  
     
-    * Cable USB  
-    * Cargador  
+    * Cable USB (USB multi charger cable)  
+    * Phone Charger  
 
     * Headphone (Marshall Brand)  
+    * Laptop Charger  
     * Laptop (Asus Rog Gamer)  
     * Mouse  
     
