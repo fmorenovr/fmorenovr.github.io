@@ -50,7 +50,9 @@ categories: Live-Hacks
     * Lapicero de tinta  
     * Agenda  
 
-    * Memoria Portatil (+Protector)  
+    * Memoria Portatil (1 Tb Toshiba)  
+    * Memoria USB (32Gb)  
+    * Protector de Memoria  
     * Bateria portatil  
     
     * Cable USB (USB multi charger cable)  
