@@ -14,7 +14,7 @@ categories: Live-Hacks
 
 ## Vista
 
-    * Gafas (medida + UV + anti-reflex)  
+    * Gafas (medida + UV 400 + anti-reflex)  
     * Sujetador de gafas  
     * Franela  
     * Lente de sol (UV 400 + Polarized)  
@@ -22,19 +22,23 @@ categories: Live-Hacks
 
 ## Higiene
 
-    * Cartuchera  
     * Pasta dental  
     * Cepillo dental de viaje  
     * Hilo dental  
     * Enjuague bucal  
+
     * Jabon  
     * Deshodorante  
+
     * Lip Balm  
     * Afeitadora  
-    * Papel higienico  
+
     * Peine  
     * Espejo  
+
+    * Papel higienico  
     * Toalla  
+
     * CortaUñas  
 
 ## Utensilios
@@ -73,6 +77,7 @@ categories: Live-Hacks
 
     * Tirantes  
     * Corbatin  
+    * Pañuelo  
 
 ## Interior
 
