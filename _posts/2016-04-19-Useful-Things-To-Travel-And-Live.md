@@ -109,7 +109,7 @@ categories: Live-Hacks
 
 ## Diario
 
-    * Pantalones (3) (Pioner talla 28 o Malabar talla 30)  
+    * Pantalones (2) (Pioner talla 28 o Malabar talla 30)  
     * Jean (1)  
     * Correa (malabar 30)  
     * Polos (7 distintos)  
