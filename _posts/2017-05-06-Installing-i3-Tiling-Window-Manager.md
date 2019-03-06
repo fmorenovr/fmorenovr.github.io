@@ -66,6 +66,6 @@ Here is an example on my localhost, i3 using Vim, slurm, htop, ranger and alsami
       $mod + Shift + x    Lock Screen
 
 
-[lightEnviron]:  /pages/light_environment_debian
+[lightEnviron]:  /guides/light_environment_debian
 [i3-wm]:         /assets/WindowManager/Tiling/i3_wm.png
 [i3-url]:        https://github.com/Jenazads/i3-wm_personalConfig
