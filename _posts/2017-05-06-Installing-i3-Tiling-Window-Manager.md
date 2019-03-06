@@ -32,6 +32,14 @@ i3 don't use a GUI.
 You can download my configuration pack pressing [here][i3-url]. Uncompress and copy files.  
 For images, create a `~/.i3/images` directory and copy the files there.
 
+There you can found my configuration files:
+
+* `i3status.conf` file copy to `/etc/i3status.conf`.
+
+* `config` file copy to `/etc/i3/config`
+
+* `images` directory, move to `~/.i3/images/`.
+
 ## Preview
 
 You can visit this [page][lightEnviron] to compliment a light Environment with i3 WM.  	
