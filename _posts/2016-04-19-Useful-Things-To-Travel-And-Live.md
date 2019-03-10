@@ -53,7 +53,7 @@ categories: Live-Hacks
 
     * Memoria Portatil (1 Tb Toshiba)  
     * Memoria USB (32Gb)  
-    * Protector de Memoria  
+    * Funda Rígida de Memoria  
     * Bateria portatil  
     
     * Cable USB (USB multi charger cable)  
