@@ -15,7 +15,7 @@ categories: Live-Hacks
 ## Vista
 
     * Gafas (medida + UV 400 + anti-reflex)  
-    * Lente de sol (UV 400 + Polarized)  
+    * Lente de sol (Steampunk sunglasses) (UV 400 + Polarized)  
     * Sujetador de gafas  
     * Franela  
     * Estuche de gafas  
@@ -69,9 +69,9 @@ categories: Live-Hacks
 
 ## Accesorios
 
-    * Potaras  
-    * Anillo del tiempo  
-    * Collar ojo de tigre  
+    * Zarcillos (Potaras)  
+    * Anillo  
+    * Collar (Ojo de tigre)  
 
     * Sombrero  
     * Gorro plano de cazería  
