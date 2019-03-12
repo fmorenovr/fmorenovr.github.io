@@ -14,8 +14,8 @@ categories: Live-Hacks
 
 ## Vista
 
-    * Gafas (medida + UV 400 + anti-reflex)  
-    * Lente de sol (Steampunk sunglasses) (UV 400 + Polarized)  
+    * Gafas (resina + medida + UV 400 + anti-reflex)  
+    * Sunglasses (Steampunk) (resina + UV 400 + Polarized)  
     * Sujetador de gafas  
     * Franela  
     * Estuche de gafas  
@@ -44,14 +44,14 @@ categories: Live-Hacks
 
 ## Utensilios
 
-    * Maleta de viaje  
+    * Maleta  
     * Mochila  
     * Canguro (Waist Bag)  
 
     * Lapicero de tinta  
     * Agenda  
 
-    * Memoria Portatil (1 Tb Toshiba)  
+    * Memoria Portatil (1Tb Toshiba)  
     * Memoria USB (32Gb)  
     * Funda Rígida de Memoria  
     * Bateria portatil  
@@ -61,6 +61,7 @@ categories: Live-Hacks
 
     * Headphone (Marshall Brand)  
     * Laptop Charger  
+    * Laptop Cooler  
     * Laptop (Asus Rog Gamer)  
     * Mouse  
     
@@ -80,6 +81,7 @@ categories: Live-Hacks
     * Reloj  
 
     * Tirantes  
+    * Bleizer  
     * Corbatin  
     * Pañuelo  
 
@@ -128,10 +130,10 @@ categories: Live-Hacks
     * Capa con capucha (Cloak Hoodie stitching)  
     * Sudadera con capucha  
     * Casaca abierta con capucha  
-    * Buso ligero (2)  
+    * Buso (2)  
 
     * Chalina Blanca  
-    * Mascarilla cubreboca (Anti-Dust Face mask)  
+    * Mascarilla (Anti-Dust Face mask)  
     * Jersey cuello tortuga (2)  
 
 ## Elegante
@@ -141,5 +143,4 @@ categories: Live-Hacks
     * Camisas  
     * Biviries  
     * Corbatas  
-    * Bleizer  
     * Zapatos  
