@@ -86,7 +86,7 @@ categories: Live-Hacks
 ## Interior
 
     * Boxers (7)  
-    * Medias (7 pares)  
+    * Medias (7)  
 
 ## Dormir
 
@@ -99,7 +99,7 @@ categories: Live-Hacks
 
     * Polo sport  
     * Short sport  
-    * Zapatilla runner  
+    * Runner  
 
 ## Trekking
 
@@ -109,12 +109,13 @@ categories: Live-Hacks
 
 ## Diario
 
-    * Pantalones (2) (Pioner talla 28 o Malabar talla 30)  
-    * Jean (1)  
-    * Correa (malabar 30)  
-    * Polos (7 distintos)  
-    * Zapatillas Alpargatas (2)  
-    * Sandalia  
+    * Pantalones (2) (Pioner 28 o Malabar 30)  
+    * Jeans (1)  
+    * Correa (Malabar 30)  
+    * Polos (7)  
+    * Alpargatas  
+    * Mocasines  
+    * Sandalias  
 
 ## Frio
 
