@@ -106,7 +106,7 @@ categories: Live-Hacks
 ## Trekking
 
     * Botin Trekking  
-    * Baston Trekking (Trekking Pole)  
+    * Baston Trekking (Trekking Pole Multi-Function)  
     * Pulsera (Survival Wristband)  
 
 ## Diario
@@ -124,7 +124,8 @@ categories: Live-Hacks
     * Calentador de piernas  
     * Calentador torso  
     * Calentador pies  
-    * Guantes de licra para celular  
+    * Guantes para celular  
+    * Gorro de Frio (Russian Winter Hat Ushanka)  
 
     * Saco  
     * Capa con capucha (Cloak Hoodie stitching)  
