@@ -87,8 +87,8 @@ categories: Live-Hacks
 
 ## Interior
 
-    * Boxers (7)  
-    * Medias (7)  
+    * Boxers (8)  
+    * Medias (8)  
 
 ## Dormir
 
@@ -111,10 +111,10 @@ categories: Live-Hacks
 
 ## Diario
 
-    * Pantalones (2) (Pioner 28 o Malabar 30)  
+    * Pantalones (3) (Pioner 28 o Malabar 30)  
     * Jeans (1)  
     * Correa (Malabar 30)  
-    * Polos (7)  
+    * Polos (8)  
     * Alpargatas  
     * Mocasines  
     * Sandalias  
