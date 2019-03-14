@@ -113,7 +113,7 @@ categories: Live-Hacks
 
     * Pantalones (3) (Pioner 28 o Malabar 30)  
     * Jeans (1)  
-    * Correa (Malabar 30)  
+    * Correa (Pioner)  
     * Polos (8)  
     * Alpargatas  
     * Mocasines  
@@ -140,6 +140,7 @@ categories: Live-Hacks
 ## Elegante
 
     * Terno a la medida  
+    * Correa (Malabar 30)  
     * Medias de Terno  
     * Camisas  
     * Biviries  
