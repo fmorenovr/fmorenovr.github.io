@@ -99,6 +99,7 @@ categories: Live-Hacks
 
 ## Sport
 
+    * Vincha (HeadBand)  
     * Polo sport  
     * Short sport  
     * Buzos (2) (jogger)  
@@ -132,7 +133,6 @@ categories: Live-Hacks
     * Capa con capucha (Cloak Hoodie stitching)  
     * Sudadera con capucha  
     * Casaca abierta con capucha  
-
 
     * Chalina Blanca  
     * Mascarilla (Anti-Dust Face mask)  
