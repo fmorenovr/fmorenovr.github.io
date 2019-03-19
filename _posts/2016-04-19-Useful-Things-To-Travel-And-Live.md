@@ -97,10 +97,11 @@ categories: Live-Hacks
     * Cubre ojos (Eye mask)  
     * Slipper  
 
-## Deporte
+## Sport
 
     * Polo sport  
     * Short sport  
+    * Buzos (jogger) (2)  
     * Runner  
 
 ## Trekking
@@ -131,7 +132,7 @@ categories: Live-Hacks
     * Capa con capucha (Cloak Hoodie stitching)  
     * Sudadera con capucha  
     * Casaca abierta con capucha  
-    * Buso (2)  
+
 
     * Chalina Blanca  
     * Mascarilla (Anti-Dust Face mask)  
