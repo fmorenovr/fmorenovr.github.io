@@ -101,7 +101,7 @@ categories: Live-Hacks
 
     * Polo sport  
     * Short sport  
-    * Buzos (jogger) (2)  
+    * Buzos (2) (jogger)  
     * Runner  
 
 ## Trekking
