@@ -57,7 +57,7 @@ categories: Live-Hacks
     * Bateria portatil  
     
     * Cable USB (USB multi charger cable)  
-    * Phone Charger  
+    * Phone Charger (Fast Charge)  
 
     * Headphone (Marshall Brand)  
     * Laptop Charger  
