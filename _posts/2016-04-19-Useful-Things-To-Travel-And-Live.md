@@ -116,6 +116,7 @@ categories: Live-Hacks
     * Pantalones (3) (Pioner 28 o Malabar 30)  
     * Jeans (1)  
     * Correa (Pioner)  
+    * Bermudas (3)  
     * Polos (9)  
     * Alpargatas  
     * Mocasines  
