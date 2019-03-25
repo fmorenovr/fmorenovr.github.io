@@ -75,7 +75,7 @@ categories: Live-Hacks
     * Collar (Ojo de tigre)  
 
     * Sombrero  
-    * Gorro plano de cazería  
+    * Gorro plano de caza  
 
     * Paraguas espada (Qiuyeyuan Brand - Zodiac umbrella sword)  
     * Reloj  
