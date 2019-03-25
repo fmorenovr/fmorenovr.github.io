@@ -77,7 +77,7 @@ categories: Live-Hacks
     * Sombrero  
     * Gorro plano de cazería  
 
-    * Paraguas espada (Zodiac umbrella sword)  
+    * Paraguas espada (Qiuyeyuan Brand - Zodiac umbrella sword)  
     * Reloj  
 
     * Tirantes  
