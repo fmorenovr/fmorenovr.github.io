@@ -8,6 +8,10 @@ categories: Programming-Language
 
 C is a programming language that is considered one of the best languages. It was created by Dennis Ritchie at 1972 in Bell Labs.
 
+## Programming Language
+
+    sudo apt-get install build-essential
+
 ## Concurrent Computing:
 
 POSIX Thread: Use threads
