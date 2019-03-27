@@ -268,11 +268,12 @@ Another important programming language, created by Brendan Eich.
       curl -sL https://deb.nodesource.com/setup_6.x -o nodesource_setup.sh
       nano nodesource_setup.sh
       sudo bash nodesource_setup.sh
-      sudo apt-get install nodejs
+      sudo apt-get install nodejs npm
+      npm install [package]
 
 * The Hello World program:
 
-  ```js
+  ```javascript
   #!/usr/bin/env nodejs
 
   var path = require('path');
@@ -329,5 +330,182 @@ An important programming languages to many applications in numeric fields, creat
 * To run the file:
 
       octave helloWorld.m
+
+## Perl (PL)
+
+Important language to develop http servers, created by Larry Wall.
+
+* To install:
+
+      sudo apt-get install perl
+
+* The Hello World program:
+
+  ```perl
+  #!/usr/bin/env perl
+
+  use strict;
+  use warnings;
+
+  sub main{
+    my @argv = @_;
+    my $argc = (@argv);
+    print("\n\tHola Mundo Perl !!\n\n");
+    print("Numero de argumentos: ".($argc+1)."\n");
+    print("Argumento[0] = $0\n");
+    foreach my $i(0..($argc-1)){
+      print("Argumento[".($i+1)."] = $argv[$i]\n");
+    }
+    return;
+  }
+
+  main(@ARGV);
+  ```
+
+* To run the file:
+
+      perl helloWorld.pl
+
+## PHP
+
+Important language to develop web servers, created by Rasmus Lerdorf.
+
+* To install:
+
+      sudo apt-get install php7.0 composer
+      composer install [package]
+
+* The Hello World program:
+
+  ```php
+  #!/usr/bin/env php
+
+  <?php
+  class HelloWorld{
+    public static function main($arguments, $count){
+      print("\tHola Mundo PHP !!\n\n");
+      print("Numero de argumentos: $count\n");
+      foreach($arguments as $key => $value){
+        print("Argumento[$key] = $value\n");
+      }
+      return;
+    }
+  }
+  HelloWorld::main($argv, $argc);
+  ?>
+  ```
+
+* To run the file:
+
+      php helloWorld.php
+
+## Python
+
+A very important programming language, created by Guido van Rossum.
+
+* To install:
+
+      sudo apt-get install python pip
+      pip install [package]
+
+* The Hello World program:
+
+  ```python
+  #!/usr/bin/env python
+
+  # -*- coding: utf-8 -*-
+  import sys
+
+  def main(argv):
+    print("\n\tHola Mundo Python !!\n");
+    argc = len(sys.argv);
+    print("Numero de argumentos: %i" %(argc));
+    for i in range(argc):
+      print("Argumento[%i] = %s" %(i,sys.argv[i]));
+    return;
+
+  if __name__ == "__main__":
+    main(sys.argv[1:]);
+  ```
+
+
+* To run the file:
+
+      python helloWorld.py
+
+## R
+
+An important statistic language, created by Robert C. Gentleman.
+
+* To install:
+
+      sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
+      sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu bionic-cran35/'
+      sudo apt-get update
+      sudo apt-get install r-base r-base-dev
+
+* The Hello World program:
+
+  ```r
+  #!/usr/bin/env Rscript
+
+  #require(stats);
+
+  printf <- function(...){ invisible(cat(sprintf(...)))}
+
+  main<-function(argsv){
+    printf("\n\tHola Mundo R !!\n\n");
+    argc<-length(argsv);
+    argsv[4] = strsplit(argsv[4],"--file=")[[1]][2]
+    if(argc>5){ printf("Numero de argumentos: %d\n",argc-4);}
+    else{ printf("Numero de argumentos:",argc-3,"\n");}
+    printf("Argumento[0] = %s\n",argsv[4]);
+    if(argc>5){
+      for(i in 6:argc){
+        printf("Argumento[%d] = %s \n",i-5, argsv[i])
+      }
+    }
+    return ();
+  }
+
+  mainf<-main(commandArgs(trailingOnly = FALSE));
+  ```
+
+* To run the file:
+
+      Rscript helloWorld.R
+
+## Ruby
+
+Important to develop services, created by Yukihiro "Matz" Matsumoto.
+
+* To install:
+
+      sudo apt-get install ruby-full ruby-dev ruby
+
+* The Hello World program:
+
+```ruby
+#!/usr/bin/env ruby
+
+#require 'io/console';
+
+def main(argv)
+  argc = argv.length;
+  print("\n\tHola Mundo Ruby !!\n\n");
+  print("Numero de argumentos: #{argc+1}\n");
+  print("Argumento[0] = #{File.basename(__FILE__)}\n");
+  for i in 0...argc
+    print("Argumento[#{i+1}] = #{argv[i]}\n");
+  end
+  return;
+end
+
+main ARGV;
+```
+
+* To run the file:
+
+      ruby helloWorld.rb
 
 
