@@ -405,7 +405,7 @@ A very important programming language, created by Guido van Rossum.
 
 * To install:
 
-      sudo apt-get install python pip
+      sudo apt-get install python python-pip
       pip install [package]
 
 * The Hello World program:
@@ -449,7 +449,7 @@ An important statistic language, created by Robert C. Gentleman.
   ```r
   #!/usr/bin/env Rscript
 
-  #require(stats);
+  #library(stats);
 
   printf <- function(...){ invisible(cat(sprintf(...)))}
 
@@ -481,7 +481,8 @@ Important to develop services, created by Yukihiro "Matz" Matsumoto.
 
 * To install:
 
-      sudo apt-get install ruby-full ruby-dev ruby
+      sudo apt-get install ruby-full ruby-dev ruby gem
+      gem install [package]
 
 * The Hello World program:
 
