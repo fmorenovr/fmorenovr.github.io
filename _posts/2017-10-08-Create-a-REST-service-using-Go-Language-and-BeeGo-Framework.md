@@ -8,29 +8,7 @@ categories: frameworks
 # Golang
 
 Go is an Open Source programming language developed by Google Inc.  
-To install go latest:
-
-    wget https://storage.googleapis.com/golang/go1.9.1.linux-amd64.tar.gz
-
-Unzip in `/usr/local` directory:
-
-    sudo tar -C /usr/local -xzf go1.9.1.linux-amd64.tar.gz
-    tar -C ./ -xzf go1.9.1.linux-amd64.tar.gz
-
-Then, modify `/etc/profile` file, add this line:
-
-    export PATH=$PATH:/usr/local/go/bin
-
-also, add these lines in `/home/$USER/.profile` file:
-
-    export GOPATH=$HOME/golangProjects
-    export GOROOT=$HOME/go
-    export PATH=$PATH:$GOROOT/bin
-
-Finally, reboot or execute this:
-
-    source .profile
-    sudo source /etc/profile
+You can see the installation [here](/programming-language/HelloWorld-Programming-Languages).
 
 # Installing some libraries or dependencies for Golang
 
