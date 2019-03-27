@@ -72,7 +72,7 @@ This is the core of all applications, created by Dennis M. Ritchie.
 
 * The Hello World program:
 
-  ```C
+  ```c
   #include <stdio.h>
 
   int main(int argc,char* argv[]){
@@ -118,7 +118,7 @@ This is the core of all applications, created by Bjarne Stroustrup.
 
 * The Hello World program:
 
-  ```CPP
+  ```cpp
   #include <iostream>
 
   using namespace std;
@@ -150,7 +150,7 @@ Created by Anders Hejlsberg.
 
 * The Hello World program:
 
-  ```CPP
+  ```cs
   using System;
 
   namespace HelloWorld{
