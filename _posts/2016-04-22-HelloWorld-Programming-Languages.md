@@ -306,7 +306,7 @@ An important programming languages to many applications in numeric fields, creat
 
 * The Hello World program:
 
-  ```matlab
+  ```gnuoctave
   #!/usr/bin/env octave
 
   #pkg install control-1.0.0.tar.gz
