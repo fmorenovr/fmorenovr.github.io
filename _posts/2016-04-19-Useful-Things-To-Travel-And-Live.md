@@ -102,7 +102,7 @@ categories: Live-Hacks
     * Vincha (HeadBand)  
     * Polo sport  
     * Short sport  
-    * Buzos (2) (jogger)  
+    * Buzos (jogger)  
     * Runner  
 
 ## Trekking
