@@ -27,6 +27,7 @@ categories: Live-Hacks
     * Pasta dental  
 
     * Jabon  
+    * Shampoo (Dove )  
     * Deshodorante  
     * Enjuague bucal  
     * Isopos  
