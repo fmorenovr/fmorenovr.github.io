@@ -114,7 +114,7 @@ categories: Live-Hacks
 
 ## Diario
 
-    * Pantalones (3) (Pioner 28 o Malabar 30)  
+    * Drills (3) (Malabar 30)  
     * Jeans (1)  
     * Correa (Pioner)  
     * Bermudas (3)  
