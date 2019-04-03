@@ -83,8 +83,8 @@ categories: Live-Hacks
 
     * Tirantes (Suspenders)  
     * Corbatin (Bowtie)  
-    * Bleizer  
-    * Pañuelo  
+    * Bleizer (Blue) 
+    * Pañuelo (Pocket square)  
 
 ## Interior
 
@@ -118,9 +118,9 @@ categories: Live-Hacks
     * Jeans (1)  
     * Correa (Pioner)  
     * Bermudas (3)  
-    * Polos (9)  
+    * Polos (Gray, White, Light blue, Red, Black and 4 more)  
     * Alpargatas  
-    * Mocasines  
+    * Mocasines (Loafers)  
     * Sandalias  
 
 ## Frio
@@ -136,16 +136,16 @@ categories: Live-Hacks
     * Sudadera con capucha  
     * Casaca abierta con capucha  
 
-    * Chalina Blanca  
+    * Bufanda (Scarf)  
     * Mascarilla (Anti-Dust Face mask)  
     * Jersey cuello tortuga (2)  
 
 ## Elegante
 
-    * Terno a la medida  
+    * Terno (Light Gray Herringbone suit)  
     * Correa (Malabar 30)  
     * Medias  
-    * Camisas  
+    * Camisas (Color: White, )  
     * Biviries  
     * Corbatas  
-    * Zapatos  
+    * Zapatos (Mercer Cap Toe Oxford) 
