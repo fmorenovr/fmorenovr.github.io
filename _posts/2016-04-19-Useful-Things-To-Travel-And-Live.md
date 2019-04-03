@@ -82,7 +82,7 @@ categories: Live-Hacks
     * Reloj  
 
     * Tirantes (Suspenders)  
-    * Corbatin (Bow tie)  
+    * Corbatin (Bowtie)  
     * Bleizer  
     * Pañuelo  
 
