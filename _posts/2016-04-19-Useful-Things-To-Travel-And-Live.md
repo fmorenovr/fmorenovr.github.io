@@ -76,14 +76,14 @@ categories: Live-Hacks
     * Collar (Ojo de tigre)  
 
     * Sombrero  
-    * Gorro plano de caza  
+    * Gorro plano (Flat hat)  
 
-    * Paraguas espada (Qiuyeyuan Brand - Zodiac umbrella sword)  
+    * Paraguas (Qiuyeyuan Brand - Zodiac umbrella sword)  
     * Reloj  
 
-    * Tirantes  
+    * Tirantes (Suspenders)  
+    * Corbatin (Bow tie)  
     * Bleizer  
-    * Corbatin  
     * Pañuelo  
 
 ## Interior
@@ -128,7 +128,7 @@ categories: Live-Hacks
     * Calentador de piernas  
     * Calentador torso  
     * Calentador pies  
-    * Guantes para celular  
+    * Guantes (SmartPhone gloves)  
     * Gorro de Frio (Russian Winter Hat Ushanka)  
 
     * Saco  
@@ -144,7 +144,7 @@ categories: Live-Hacks
 
     * Terno a la medida  
     * Correa (Malabar 30)  
-    * Medias de Terno  
+    * Medias  
     * Camisas  
     * Biviries  
     * Corbatas  
