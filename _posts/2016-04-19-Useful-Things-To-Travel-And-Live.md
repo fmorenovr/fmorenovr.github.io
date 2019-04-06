@@ -116,10 +116,10 @@ categories: Live-Hacks
 ## Diario
 
     * Drills (3) (Malabar 30)  
-    * Jeans (1)  
+    * Jeans (Blue, Dark Gray)  
     * Correa (Pioner)  
     * Bermudas (3)  
-    * Polos (Gray, White, Light blue, Red, Black and 4 more)  
+    * Polos (Gray, White, Light blue, Red, Black, Yellow and 3 more)  
     * Alpargatas  
     * Mocasines (Loafers)  
     * Sandalias  
