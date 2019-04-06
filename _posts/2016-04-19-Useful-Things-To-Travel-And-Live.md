@@ -119,7 +119,7 @@ categories: Live-Hacks
     * Jeans (Blue, Dark Gray)  
     * Correa (Pioner)  
     * Bermudas (3)  
-    * Polos (Gray, White, Light blue, Red, Black, Yellow and 3 more)  
+    * Polos (Gray, White, Light Blue, Red, Black, Yellow and 3 more)  
     * Alpargatas  
     * Mocasines (Loafers)  
     * Sandalias  
@@ -139,7 +139,7 @@ categories: Live-Hacks
 
     * Bufanda (Scarf)  
     * Mascarilla (Anti-Dust Face mask)  
-    * Jersey cuello tortuga (2)  
+    * Jersey cuello tortuga (Red, Dark Blue)  
 
 ## Elegante
 
