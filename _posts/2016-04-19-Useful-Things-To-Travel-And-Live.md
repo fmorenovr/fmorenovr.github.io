@@ -83,8 +83,9 @@ categories: Live-Hacks
 
     * Tirantes (Suspenders)  
     * Corbatin (Bowtie)  
-    * Bleizer (Blue) 
+    * Blazer (Blue) 
     * Pañuelo (Pocket square)  
+    * Saco sport (Rayado)  
 
 ## Interior
 
