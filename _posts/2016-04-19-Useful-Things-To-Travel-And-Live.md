@@ -97,6 +97,7 @@ categories: Live-Hacks
     * Polo pijama  
     * Almohada de cuello  
     * Cubre ojos (Eye mask)  
+    * Cubre boca (Mouth mask)  
     * Slipper  
 
 ## Sport
@@ -104,7 +105,8 @@ categories: Live-Hacks
     * Vincha (HeadBand)  
     * Polo sport  
     * Short sport  
-    * Buzos (jogger)  
+    * Buzo (jogger)  
+    * Mascarilla (Anti-Dust Face mask)  
     * Runner  
 
 ## Trekking
@@ -138,7 +140,6 @@ categories: Live-Hacks
     * Casaca abierta con capucha  
 
     * Bufanda (Scarf)  
-    * Mascarilla (Anti-Dust Face mask)  
     * Jersey cuello tortuga (Red, Dark Blue)  
 
 ## Elegante
