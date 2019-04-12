@@ -106,14 +106,14 @@ categories: Live-Hacks
     * Polo sport  
     * Short sport  
     * Buzo (jogger)  
-    * Mascarilla (Anti-Dust Face mask)  
+
     * Runner  
 
 ## Trekking
 
     * Botin Trekking  
     * Baston Trekking (Trekking Pole Multi-Function)  
-    * Pulsera (Survival Wristband)  
+
 
 ## Diario
 
