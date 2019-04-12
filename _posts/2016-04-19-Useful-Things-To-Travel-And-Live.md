@@ -79,9 +79,9 @@ categories: Live-Hacks
     * Gorro plano (Flat hat)  
 
     * Paraguas (Qiuyeyuan Brand - Zodiac umbrella sword)  
-    * Reloj  
+    * Reloj (Plateado)  
 
-    * Tirantes (Suspenders)  
+    * Tirantes (Suspenders Button/Clip)  
     * Corbatin (Bowtie)  
     * Blazer (Blue) 
     * Pañuelo (Pocket square)  
@@ -117,7 +117,7 @@ categories: Live-Hacks
 
 ## Diario
 
-    * Drills (Mustard, Black, Dark Green) (Malabar 30)  
+    * Drills (Mustard, White, Dark Green) (Malabar 30)  
     * Jeans (Blue, Dark Gray)  
     * Correa (Pioner)  
     * Bermudas (3)  
