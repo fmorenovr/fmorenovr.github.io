@@ -117,7 +117,7 @@ categories: Live-Hacks
 
 ## Diario
 
-    * Drills (Mustard, White, Dark Green) (Malabar 30)  
+    * Drills (Mustard, White, Black, Dark Green) (Malabar 30)  
     * Jeans (Blue, Dark Gray)  
     * Correa (Pioner)  
     * Bermudas (3)  
