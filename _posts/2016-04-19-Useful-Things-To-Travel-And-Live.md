@@ -140,7 +140,7 @@ categories: Live-Hacks
     * Casaca abierta con capucha  
 
     * Bufanda (Scarf)  
-    * Jersey cuello tortuga (Red, Dark Blue)  
+    * Jersey cuello tortuga (Red, Black, Dark Blue)  
 
 ## Elegante
 
