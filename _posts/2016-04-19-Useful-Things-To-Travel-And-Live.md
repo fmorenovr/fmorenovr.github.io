@@ -100,7 +100,7 @@ categories: Live-Hacks
     * Cubre boca (Mouth mask)  
     * Slipper  
 
-## Sport
+## Deporte
 
     * Vincha (HeadBand)  
     * Polo sport  
@@ -115,7 +115,7 @@ categories: Live-Hacks
     * Baston Trekking (Trekking Pole Multi-Function)  
 
 
-## Diario
+## De Diario
 
     * Drills (Mustard, White, Black, Dark Green) (Malabar 30)  
     * Jeans (Blue, Dark Gray)  
@@ -126,7 +126,7 @@ categories: Live-Hacks
     * Mocasines (Loafers)  
     * Sandalias  
 
-## Frio
+## De Frio
 
     * Calentador de piernas  
     * Calentador torso  
