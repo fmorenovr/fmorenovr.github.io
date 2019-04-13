@@ -85,7 +85,7 @@ categories: Live-Hacks
     * Corbatin (Bowtie)  
     * Blazer (Blue) 
     * Pañuelo (Pocket square)  
-    * Saco sport (Tartan)  
+    * Saco (Tartan sport coat)  
 
 ## Interior
 
