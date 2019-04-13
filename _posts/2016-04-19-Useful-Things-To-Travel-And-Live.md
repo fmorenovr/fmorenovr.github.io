@@ -148,7 +148,7 @@ categories: Live-Hacks
     * Terno (Light Gray Herringbone suit)  
     * Correa (Black/Brown Malabar 30)  
     * Medias (Black) 
-    * Camisas (White, )  
+    * Camisas (White, Sport White/Skyblue lined)  
     * Biviries  
     * Corbatas  
     * Zapatos (Mercer Cap Toe Brown Oxford) 
