@@ -121,7 +121,7 @@ categories: Live-Hacks
     * Jeans (Blue, Dark Gray)  
     * Correa (Pioner)  
     * Bermudas (3)  
-    * Polos (Gray, White, Light Blue, Sky Blue, Red, Black, Yellow and 2 more)  
+    * Camisetas (Gray, White, Light Blue, Sky Blue, Red, Black, Yellow and 2 more)  
     * Alpargatas  
     * Mocasines (Loafers)  
     * Sandalias  
