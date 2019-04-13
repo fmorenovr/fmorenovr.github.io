@@ -134,7 +134,7 @@ categories: Live-Hacks
     * Guantes (SmartPhone gloves)  
     * Gorro de Frio (Russian Winter Hat Ushanka)  
 
-    * Saco  
+    * Chaquetón (Peacoat)  
     * Capa con capucha (Cloak Hoodie stitching)  
     * Sudadera con capucha  
     * Casaca abierta con capucha  
