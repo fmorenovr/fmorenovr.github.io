@@ -135,6 +135,7 @@ categories: Live-Hacks
     * Gorro de Frio (Russian Winter Hat Ushanka)  
 
     * Chaquetón (Peacoat)  
+    * Chaqueta (Jacket Sherpa corderoy)  
     * Capa con capucha (Cloak Hoodie stitching)  
     * Sudadera con capucha  
     * Casaca abierta con capucha  
