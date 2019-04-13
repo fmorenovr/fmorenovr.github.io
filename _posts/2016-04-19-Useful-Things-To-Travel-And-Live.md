@@ -143,7 +143,7 @@ categories: Live-Hacks
     * Bufanda (Scarf)  
     * Jersey cuello tortuga (Red, Black, Dark Blue)  
 
-## Elegante
+## De Vestir
 
     * Terno (Light Gray Herringbone suit)  
     * Correa (Black/Brown Malabar 30)  
