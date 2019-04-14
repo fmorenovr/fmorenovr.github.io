@@ -25,23 +25,22 @@ categories: Live-Hacks
     * Cepillo dental de viaje  
     * Hilo dental  
     * Pasta dental  
+    * Enjuague bucal  
 
     * Jabon  
     * Shampoo (Dove)  
     * Deshodorante  
-    * Enjuague bucal  
-    * Isopos  
-
     * Lip Balm  
-    * Afeitadora  
 
+    * Afeitadora  
+    * CortaUñas  
+
+    * Isopos  
     * Peine  
     * Espejo  
 
     * Papel higienico  
     * Toalla  
-
-    * CortaUñas  
 
 ## Utensilios
 
@@ -51,6 +50,8 @@ categories: Live-Hacks
 
     * Lapicero de tinta  
     * Agenda  
+
+## Laptop/Celular/Memorias
 
     * Memoria Portatil (1Tb Toshiba)  
     * Memoria USB (32Gb)  
@@ -65,90 +66,92 @@ categories: Live-Hacks
     * Laptop Cooler  
     * Laptop (Asus Rog Gamer)  
     * Mouse  
-    
-    * Billetera  
-    * Monedero  
 
 ## Accesorios
 
+    * Billetera  
+    * Monedero  
+
     * Zarcillos (Potaras)  
-    * Anillo  
     * Collar (Ojo de tigre)  
 
-    * Sombrero  
-    * Gorro plano (Flat hat)  
+    * Reloj (Plateado)  
+    * Pulsera (Wristband)  
+    * Anillo  
+
+    * Cubre boca (Mouth Mask)  
+    * Guantes (SmartPhone Gloves)  
+    * Bufanda (Scarf)  
 
     * Paraguas (Qiuyeyuan Brand - Zodiac umbrella sword)  
-    * Reloj (Plateado)  
 
-    * Tirantes (Suspenders Button/Clip)  
-    * Corbatin (Bowtie)  
-    * Blazer (Blue) 
-    * Pañuelo (Pocket square)  
-    * Saco (Tartan sport coat)  
-
-## Interior
+## Ropa Interior
 
     * Boxers (9)  
     * Medias (9)  
 
-## Dormir
+## Prendas De Dormir
 
     * Polo pijama  
-    * Almohada de cuello  
-    * Cubre ojos (Eye mask)  
-    * Cubre boca (Mouth mask)  
-    * Slipper  
+    * Calentador (Piernas, Torso, Pies)  
+    * Almohada de cuello (Neck pillow)  
+    * Cubre ojos (Eye Mask)  
 
-## Deporte
+## Camisetas/Jerseys
+
+    * Camisetas (Gray, White, Light Blue, Sky Blue, Red, Black, Yellow and 2 more)  
+    * Jersey cuello alto (Red, Black, Dark Blue)  
+    * Sudadera con capucha (Sweatshirt)  
+
+## Pantalones
+
+    * Drills (Mustard, White, Black, Dark Green)  
+    * Jeans (Blue, Dark Gray)  
+    * Correa (Pioner)  
+    * Bermudas (3)  
+
+## Calzado
+
+    * Slipper  
+    * Sandalias  
+    * Botin  
+    * Alpargatas  
+    * Mocasines (Loafers)  
+    * Zapatos (Mercer Cap Toe Brown Oxford)  
+
+## Gorros/Sombreros
+
+    * Gorro de Invierno (Russian Winter Hat Ushanka)  
+    * Sombrero (Black)  
+    * Gorro plano (Flat Hat)  
+
+## Chaquetas/Abrigos
+
+    * Chaquetón (Peacoat)  
+    * Chaqueta (Sherpa Corderoy Jacket)  
+    * Abrigo (Tartan Coat)  
+    * Capa con capucha (Cloak Hoodie Stitching)  
+    * Jeans Jacket  
+    * Casaca abierta con capucha  
+
+## Prendas De Vestir
+
+    * Terno (Light Gray Herringbone Suit)  
+    * Blazer (Blue)  
+    * Saco (Tartan Sport Coat)  
+    * Tirantes (Suspenders Button/Clip)  
+    * Corbatin (Bowtie)  
+    * Pañuelo (Pocket Square)  
+    * Medias (Black) 
+    * Camisas (White, Sport White/Skyblue lined, Black)  
+    * Biviries  
+    * Corbatas  
+    * Correa (Black/Brown)  
+
+## Prendas de Deporte
 
     * Vincha (HeadBand)  
     * Polo sport  
     * Short sport  
-    * Buzo (jogger)  
-
+    * Buzo (joggers)  
     * Runner  
-
-## Trekking
-
-    * Botin Trekking  
-    * Baston Trekking (Trekking Pole Multi-Function)  
-
-
-## De Diario
-
-    * Drills (Mustard, White, Black, Dark Green) (Malabar 30)  
-    * Jeans (Blue, Dark Gray)  
-    * Correa (Pioner)  
-    * Bermudas (3)  
-    * Camisetas (Gray, White, Light Blue, Sky Blue, Red, Black, Yellow and 2 more)  
-    * Alpargatas  
-    * Mocasines (Loafers)  
-    * Sandalias  
-
-## De Frio
-
-    * Calentador de piernas  
-    * Calentador torso  
-    * Calentador pies  
-    * Guantes (SmartPhone gloves)  
-    * Gorro de Frio (Russian Winter Hat Ushanka)  
-
-    * Chaquetón (Peacoat)  
-    * Chaqueta (Sherpa corderoy jacket)  
-    * Capa con capucha (Cloak Hoodie stitching)  
-    * Sudadera con capucha  
-    * Casaca abierta con capucha  
-
-    * Bufanda (Scarf)  
-    * Jersey cuello alto (Red, Black, Dark Blue)  
-
-## De Vestir
-
-    * Terno (Light Gray Herringbone suit)  
-    * Correa (Black/Brown Malabar 30)  
-    * Medias (Black) 
-    * Camisas (White, Sport White/Skyblue lined)  
-    * Biviries  
-    * Corbatas  
-    * Zapatos (Mercer Cap Toe Brown Oxford) 
