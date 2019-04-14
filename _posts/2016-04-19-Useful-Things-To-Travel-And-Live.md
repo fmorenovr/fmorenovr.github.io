@@ -62,6 +62,7 @@ categories: Live-Hacks
     * Phone Charger (Fast Charge)  
 
     * Headphone (Marshall Brand)  
+    
     * Laptop Charger  
     * Laptop Cooler  
     * Laptop (Asus Rog Gamer)  
@@ -97,11 +98,15 @@ categories: Live-Hacks
     * Almohada de cuello (Neck pillow)  
     * Cubre ojos (Eye Mask)  
 
-## Camisetas/Jerseys
+## Camisetas/Jerseys/Camisas
 
     * Camisetas (Gray, White, Light Blue, Sky Blue, Red, Black, Yellow and 2 more)  
     * Jersey cuello alto (Red, Black, Dark Blue)  
     * Sudadera con capucha (Sweatshirt)  
+    * Camisas (White, Black)  
+    * Camisas Sport (White/Skyblue lined)  
+    * Camisas Tartan (Red/Black, White/Gray)  
+    * Camisas manga corta (Dark Blue, Navy Blue)
 
 ## Pantalones
 
@@ -139,12 +144,13 @@ categories: Live-Hacks
     * Terno (Light Gray Herringbone Suit)  
     * Blazer (Blue)  
     * Saco (Tartan Sport Coat)  
+
     * Tirantes (Suspenders Button/Clip)  
-    * Corbatin (Bowtie)  
     * Pañuelo (Pocket Square)  
     * Medias (Black) 
-    * Camisas (White, Sport White/Skyblue lined, Black)  
     * Biviries  
+    
+    * Corbatin (Black/White Bowtie)  
     * Corbatas  
     * Correa (Black/Brown)  
 
