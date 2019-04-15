@@ -1,4 +1,5 @@
 <div style="height:53px;">
-{% include navbar.md %}
-{% include sidebar.md %}
+<!-- {% include navbar.md %} -->
+<!-- {% include sidebar.md %} -->
+{% include navigation.html}
 </div>
