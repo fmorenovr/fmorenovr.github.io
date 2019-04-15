@@ -103,14 +103,14 @@ categories: Live-Hacks
     * Camisetas (Gray, White, Light Blue, Sky Blue, Red, Black, Yellow and 2 more)  
     * Jersey cuello alto (Red, Black, Dark Blue)  
     * Sudadera con capucha (Sweatshirt)  
-    * Camisas (White, Black)  
+    * Camisas (White, Black, Pink)  
     * Camisas Sport (White/Skyblue lined)  
     * Camisas Tartan (Red/Black, White/Gray)  
     * Camisas Manga corta (Dark Navy Blue)
 
 ## Pantalones
 
-    * Drills (Mustard, White, Black, Dark Green)  
+    * Drills (Mustard, White, Black, Dark Green, Steel Blue)  
     * Jeans (Blue, Dark Gray)  
     * Correa (Pioner)  
     * Bermudas (3)  
@@ -120,7 +120,7 @@ categories: Live-Hacks
     * Slipper  
     * Sandalias  
     * Botin  
-    * Alpargatas  
+    * Alpargatas (Espadrilles)  
     * Mocasines (Loafers)  
     * Zapatos (Mercer Cap Toe Brown Oxford)  
 
