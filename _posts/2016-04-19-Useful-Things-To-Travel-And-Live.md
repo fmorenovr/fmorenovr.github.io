@@ -78,7 +78,7 @@ categories: Live-Hacks
 
     * Reloj (Plateado)  
     * Pulsera (Wristband)  
-    * Anillo  
+    * Anillo (Ring Infinity Gloves)  
 
     * Cubre boca (Mouth Mask)  
     * Guantes (SmartPhone Gloves)  
@@ -86,19 +86,20 @@ categories: Live-Hacks
 
     * Paraguas (Qiuyeyuan Brand - Zodiac umbrella sword)  
 
-## Ropa Interior
+## Prendas
+
+### Ropa Interior
 
     * Boxers (9)  
     * Medias (9)  
 
-## Prendas De Dormir
+### Gorros/Sombreros
 
-    * Polo pijama  
-    * Calentador (Piernas, Torso, Pies)  
-    * Almohada de cuello (Neck pillow)  
-    * Cubre ojos (Eye Mask)  
+    * Gorro de Invierno (Russian Winter Hat Ushanka)  
+    * Sombrero (Black)  
+    * Gorro plano (Flat Hat)  
 
-## Camisetas/Jerseys/Camisas
+### Camisetas/Jerseys/Camisas
 
     * Camisetas (Gray, White, Light Blue, Sky Blue, Red, Black, Yellow and 2 more)  
     * Jersey cuello alto (Red, Black, Dark Blue)  
@@ -106,31 +107,9 @@ categories: Live-Hacks
     * Camisas (White, Black, Pink)  
     * Camisas Sport (White/Skyblue lined)  
     * Camisas Tartan (Red/Black, White/Gray)  
-    * Camisas Manga corta (Dark Navy Blue)
+    * Camisas Manga corta (Dark Navy Blue)  
 
-## Pantalones
-
-    * Drills (Mustard, White, Black, Dark Green, Steel Blue)  
-    * Jeans (Blue, Dark Gray)  
-    * Correa (Pioner)  
-    * Bermudas (3)  
-
-## Calzado
-
-    * Slipper  
-    * Sandalias  
-    * Botin  
-    * Alpargatas (Espadrilles)  
-    * Mocasines (Loafers)  
-    * Zapatos (Mercer Cap Toe Brown Oxford)  
-
-## Gorros/Sombreros
-
-    * Gorro de Invierno (Russian Winter Hat Ushanka)  
-    * Sombrero (Black)  
-    * Gorro plano (Flat Hat)  
-
-## Chaquetas/Abrigos
+### Chaquetas/Abrigos
 
     * Chaquetón (Peacoat)  
     * Chaqueta (Sherpa Corderoy Jacket)  
@@ -138,6 +117,22 @@ categories: Live-Hacks
     * Capa con capucha (Cloak Hoodie Stitching)  
     * Jeans Jacket  
     * Casaca abierta con capucha  
+
+### Pantalones
+
+    * Drills (Mustard, White, Black, Dark Green, Steel Blue)  
+    * Jeans (Blue, Dark Gray)  
+    * Correa (Pioner)  
+    * Bermudas (3)  
+
+### Calzados
+
+    * Slipper  
+    * Sandalias  
+    * Botin  
+    * Alpargatas (Espadrilles)  
+    * Mocasines (Loafers)  
+    * Zapatos (Mercer Cap Toe Brown Oxford)  
 
 ## Prendas De Vestir
 
@@ -153,6 +148,13 @@ categories: Live-Hacks
     * Corbatin (Black/White Bowtie)  
     * Corbatas  
     * Correa (Black/Brown)  
+
+## Prendas De Dormir
+
+    * Polo pijama  
+    * Calentador (Piernas, Torso, Pies)  
+    * Almohada de cuello (Neck pillow)  
+    * Cubre ojos (Eye Mask)  
 
 ## Prendas de Deporte
 
