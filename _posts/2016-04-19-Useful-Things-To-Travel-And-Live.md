@@ -106,7 +106,7 @@ categories: Live-Hacks
     * Camisas (White, Black)  
     * Camisas Sport (White/Skyblue lined)  
     * Camisas Tartan (Red/Black, White/Gray)  
-    * Camisas manga corta (Dark Blue, Navy Blue)
+    * Camisas Manga corta (Dark Navy Blue)
 
 ## Pantalones
 
