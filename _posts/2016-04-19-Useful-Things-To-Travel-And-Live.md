@@ -120,8 +120,8 @@ categories: Live-Hacks
 
 ### Pantalones
 
-    * Drills (Mustard, White, Black, Dark Green, Steel Blue, Light Gray)  
-    * Jeans (Blue)  
+    * Drills (Mustard, White, Red, Dark Green, Steel Blue, Light Gray)  
+    * Jeans (Blue, Black)  
     * Correa (Pioner)  
     * Bermudas (3)  
 
