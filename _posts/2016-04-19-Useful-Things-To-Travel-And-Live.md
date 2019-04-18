@@ -77,7 +77,7 @@ categories: Live-Hacks
     * Collar (Ojo de tigre)  
 
     * Reloj (Plateado)  
-    * Pulsera (Wristband)  
+    * Pulsera (Leather Bracelets)  
     * Anillo (Ring Infinity Gloves)  
 
     * Cubre boca (Mouth Mask)  
