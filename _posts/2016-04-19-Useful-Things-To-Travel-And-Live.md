@@ -80,7 +80,7 @@ categories: Live-Hacks
     * Pulsera (Leather Bracelets)  
     * Anillo (Ring Infinity Gloves)  
 
-    * Cubre boca (Mouth Mask)  
+    * Cubre Boca (Mouth Mask)  
     * Guantes (SmartPhone Gloves)  
     * Bufanda (Scarf)  
 
@@ -102,21 +102,23 @@ categories: Live-Hacks
 ### Camisetas/Jerseys/Camisas
 
     * Camisetas (Gray, White, Light Blue, Sky Blue, Red, Black, Yellow and 2 more)  
-    * Jersey cuello alto (Red, Black, Dark Blue)  
-    * Sudadera con capucha (Sweatshirt)  
+    * Jersey Cuello Alto (Red, Black, Dark Blue)  
+    * Jersey Cuello V ()  
+    * Sudadera con Capucha (Sweatshirt)  
     * Camisas (White, Black, Pink)  
     * Camisas Sport (White/Skyblue lined)  
     * Camisas Tartan (Red/Black, White/Gray)  
-    * Camisas Manga corta (Dark Navy Blue)  
+    * Camisas Manga Corta (Dark Navy Blue)  
 
 ### Chaquetas/Abrigos
 
     * Chaquetón (Peacoat)  
-    * Chaqueta (Sherpa Corderoy Jacket)  
     * Abrigo (Tartan Coat)  
     * Capa con capucha (Cloak Hoodie Stitching)  
-    * Jeans Jacket  
-    * Casaca abierta con capucha  
+    * Chaqueta con Capucha ()  
+    * Chaqueta Vaquera (Jeans Jacket)  
+    * Chaqueta de Cuero (Leather Jacket)  
+    * Chaqueta de Corduroy Sherpa (Sherpa Corderoy Jacket)  
 
 ### Pantalones
 
@@ -137,7 +139,7 @@ categories: Live-Hacks
 ## Prendas De Vestir
 
     * Terno (Light Gray Herringbone Suit)  
-    * Blazer (Blue)  
+    * Blazer (Navy Blue)  
     * Saco (Tartan Sport Coat)  
 
     * Tirantes (Suspenders Button/Clip)  
@@ -152,9 +154,9 @@ categories: Live-Hacks
 ## Prendas De Dormir
 
     * Polo pijama  
-    * Calentador (Piernas, Torso, Pies)  
-    * Almohada de cuello (Neck pillow)  
-    * Cubre ojos (Eye Mask)  
+    * Calentador (Torso, Piernas, Pies)  
+    * Almohada de cuello (Neck Pillow)  
+    * Cubre Ojos (Eye Mask)  
 
 ## Prendas de Deporte
 
