@@ -35,6 +35,10 @@ For installing Jekyll, we just need install some dependencies:
 
       bundle install
 
+* If you already have a web page, just run (if you have some errors):
+
+      bundle exec jekyll serve
+
 ## Creating a static web
 
 Creating a new project on your local machine:
