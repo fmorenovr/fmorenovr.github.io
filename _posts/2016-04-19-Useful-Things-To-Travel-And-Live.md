@@ -20,7 +20,9 @@ categories: Live-Hacks
     * Franela  
     * Estuche de gafas  
 
-## Higiene
+## Accesorios
+
+### Higiene
 
     * Cepillo dental de viaje  
     * Hilo dental  
@@ -42,16 +44,23 @@ categories: Live-Hacks
     * Papel higienico  
     * Toalla  
 
-## Utensilios
+### Mochilas/Bolsas
 
     * Maleta  
     * Mochila  
     * Canguro (Waist Bag)  
 
-    * Lapicero de tinta  
-    * Agenda  
+### Oficina
 
-## Laptop/Celular/Memorias
+    * Agenda  
+    * Lapicero de tinta  
+    * Lapicero puntero/linterna/celular  
+    * Engrapadora  
+    * Perforadora  
+    * Quita-Grapas  
+    * Cinta Adhesiva  
+
+### Laptop/Celular/Memorias
 
     * Memoria Portatil (1Tb Toshiba)  
     * Memoria USB (32Gb)  
@@ -109,6 +118,7 @@ categories: Live-Hacks
     * Camisas Sport (White/Skyblue lined)  
     * Camisas Tartan (Red/Black, White/Gray)  
     * Camisas Manga Corta (Dark Navy Blue)  
+    * Camisas con Patron ()  
 
 ### Chaquetas/Abrigos
 
@@ -136,7 +146,7 @@ categories: Live-Hacks
     * Mocasines (Loafers)  
     * Zapatos (Mercer Cap Toe Brown Oxford)  
 
-## Prendas De Vestir
+## De Vestir
 
     * Terno (Light Gray Herringbone Suit)  
     * Blazer (Navy Blue)  
@@ -151,14 +161,14 @@ categories: Live-Hacks
     * Corbatas  
     * Correa (Black/Brown)  
 
-## Prendas De Dormir
+## De Dormir
 
     * Polo pijama  
     * Calentador (Torso, Piernas, Pies)  
     * Almohada de cuello (Neck Pillow)  
     * Cubre Ojos (Eye Mask)  
 
-## Prendas de Deporte
+## De Deporte
 
     * Vincha (HeadBand)  
     * Polo sport  
