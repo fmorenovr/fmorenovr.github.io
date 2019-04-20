@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   {% include head.md %}
+  {% include mathjax.md %}
   <body>
     {% include mainbar.md %}
     {% include beginpage.md %}
