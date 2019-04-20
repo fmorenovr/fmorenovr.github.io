@@ -23,8 +23,8 @@ description: "Here you would find information about me :D "
   <h2>Contact to me</h2>
   <ul class="contact-list">
     Email me: <br>
-    {% if site.author.gmail %}
-      <a href="mailto:{{ site.author.gmail }}">
+    {% if site.data.about.author.gmail %}
+      <a href="mailto:{{ site.data.about.author.gmail }}">
         <span class="icon icon--email">
           <svg viewBox="0 0 16 16" width="16px" height="16px">
               <path d="M7,9L5.268,7.484l-4.952,4.245C0.496,11.896,0.739,12,1.007,12h11.986 c0.267,0,0.509-0.104,0.688-0.271L8.732,7.484L7,9z M13.684,2.271C13.504,2.103,13.262,2,12.993,2H1.007C0.74,2,0.498,2.104,0.318,2.273L7,8 L13.684,2.271z"/>
@@ -43,76 +43,76 @@ description: "Here you would find information about me :D "
     Follow me: <br>
   </ul>
   <ul id="list-contact-menu">
-    {% if site.twitch_username %}
-      <a href="{{site.twitch_url}}{{site.twitch_username }}">
+    {% if site.data.about.twitch_username %}
+      <a href="{{site.data.about.twitch_url}}{{site.data.about.twitch_username }}">
         <span class="icon icon--twitch">
           <svg viewBox="0 0 16 16" width="16px" height="16px">
             <img src="/assets/images/socialnetwork/twitch_32.png"/>
           </svg>
         </span>
-        <span class="username">{{ site.twitch_username }}</span>
+        <span class="username">{{ site.data.about.twitch_username }}</span>
       </a>
     {% endif %}
-    {% if site.vimeo_username %}
-      <a href="{{site.vimeo_url}}{{site.vimeo_username }}">
+    {% if site.data.about.vimeo_username %}
+      <a href="{{site.data.about.vimeo_url}}{{site.data.about.vimeo_username }}">
         <span class="icon icon--vimeo">
           <svg viewBox="0 0 16 16" width="16px" height="16px">
             <img src="/assets/images/socialnetwork/vimeo_32.png"/>
           </svg>
         </span>
-        <span class="username">{{ site.vimeo_username }}</span>
+        <span class="username">{{ site.data.about.vimeo_username }}</span>
       </a>
     {% endif %}
-    {% if site.github_username %}
-      <a href="{{site.github_url}}{{site.github_username }}">
+    {% if site.data.about.github_username %}
+      <a href="{{site.data.about.github_url}}{{site.data.about.github_username }}">
         <span class="icon icon--github">
           <svg viewBox="0 0 16 16" width="16px" height="16px">
             <img src="/assets/images/socialnetwork/github_32.png"/>
           </svg>
         </span>
-        <span class="username">{{ site.github_username }}</span>
+        <span class="username">{{ site.data.about.github_username }}</span>
       </a>
     {% endif %}
-    {% if site.linkedin_username %}
-      <a href="{{site.linkedin_url}}{{ site.linkedin_username }}">
+    {% if site.data.about.linkedin_username %}
+      <a href="{{site.data.about.linkedin_url}}{{ site.data.about.linkedin_username }}">
         <span class="icon icon--linkedin">
           <svg viewBox="0 0 16 16" width="16px" height="16px">
             <img src="/assets/images/socialnetwork/linkedin_32.png"/>
           </svg>
         </span>
-        <span class="username">{{ site.linkedin_username }}</span>
+        <span class="username">{{ site.data.about.linkedin_username }}</span>
       </a>
     {% endif %}
   </ul>
   <ul id="list-contact-menu">
-    {% if site.twitter_username %}
-      <a href="{{site.twitter_url}}{{ site.twitter_username }}">
+    {% if site.data.about.twitter_username %}
+      <a href="{{site.data.about.twitter_url}}{{ site.data.about.twitter_username }}">
         <span class="icon icon--twitter">
           <svg viewBox="0 0 16 16" width="16px" height="16px">
             <img src="/assets/images/socialnetwork/twitter_32.png"/>
           </svg>
         </span>
-        <span class="username">{{ site.twitter_username }}</span>
+        <span class="username">{{ site.data.about.twitter_username }}</span>
       </a>
     {% endif %}
-    {% if site.facebook_username %}
-      <a href="{{site.facebook_url}}{{ site.facebook_username }}">
+    {% if site.data.about.facebook_username %}
+      <a href="{{site.data.about.facebook_url}}{{ site.data.about.facebook_username }}">
         <span class="icon icon--facebook">
           <svg viewBox="0 0 16 16" width="16px" height="16px">
             <img src="/assets/images/socialnetwork/facebook_32.png"/>
           </svg>
         </span>
-        <span class="username">{{ site.facebook_username }}</span>
+        <span class="username">{{ site.data.about.facebook_username }}</span>
       </a>
     {% endif %}
-    {% if site.instagram_username %}
-      <a href="{{site.instagram_url}}{{ site.instagram_username }}">
+    {% if site.data.about.instagram_username %}
+      <a href="{{site.data.about.instagram_url}}{{ site.data.about.instagram_username }}">
         <span class="icon icon--instagram">
           <svg viewBox="0 0 16 16" width="16px" height="16px">
             <img src="/assets/images/socialnetwork/instagram_32.png"/>
           </svg>
         </span>
-        <span class="username">{{ site.instagram_username }}</span>
+        <span class="username">{{ site.data.about.instagram_username }}</span>
       </a>
     {% endif %}
   </ul>

@@ -1,9 +1,23 @@
-- title: NavigationBar
-  url: /
+navbar:
   sublinks:
     - title: Home
       url: /
+      class: "homeoption"
     - title: About
       url: /about
+      class: "otheroptions"
     - title: Blog
       url: /blog
+      class: "otheroptions"
+
+sidebar:
+  sublinks:
+    - title: Icon
+      url: /
+      class: "homeoption"
+    - title: About
+      url: /about
+      class: "otheroptions"
+    - title: Blog
+      url: /blog
+      class: "otheroptions"

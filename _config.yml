@@ -1,42 +1,27 @@
+## WEBSITE DESCRIPTION
+
 title: Jenazads Website
 description: You can use all this information for your things :)
              Don't dudes on follow me on github and other social networks.
 baseurl: "" # the subpath of your site, e.g. /blog
+
+## PERMANENT LINK OF POSTS
+
 #permalink: /blog/:categories/:year/:month/:day/:title
 permalink: /:categories/:title
+
 show_downloads: true
+
+## MAIN URL
+
 url: "http://www.jenazads.com/"
-author:
-  name       : Felipe A. Moreno
-  gmail      : felipe.moreno.vera@gmail.com
 
-twitch_username    : Jenazads
-vimeo_username     : Jenazads
-linkedin_username  : Jenazads
-twitter_username   : Jenazads
-facebook_username  : Jenazads
-instagram_username : Jenazads
-f6s_username       : Jenazads
-bitbucket_username : Jenazads
-github_username    : Jenazads
-codeforces_username: Jenazads
-hackerrank_username: Jenazads
-
-twitch_url    : "https://www.twitch.tv/"
-vimeo_url     : "https://www.vimeo.com/"
-linkedin_url  : "https://www.linkedin.com/in/"
-twitter_url   : "https://www.twitter.com/"
-facebook_url  : "https://www.facebook.com/"
-instagram_url : "https://www.instagram.com/"
-f6s_url       : "https://www.f6s.com/"
-bitbucket_url : "https://www.bitbucket.org/"
-github_url    : "https://www.github.com/"
-codeforces_url: "http://codeforces.com/profile/"
-hackerrank_url: "https://www.hackerrank.com/"
+## ANALYTICS ID
 
 google_analytics:
 
-# Build settings
+# BUILD SETTINGS
+
 markdown: kramdown
 theme: jekyll-theme-cayman-blog
 #plugins:
@@ -44,4 +29,3 @@ theme: jekyll-theme-cayman-blog
 #exclude:
 #  - Gem/Gemfile
 #  - Gem/Gemfile.lock
-

@@ -1,20 +1,13 @@
 <div id="myNavbar" class="navbar">
-  <a href="/" class="homeoption"><strong>Home</strong></a>
-  <a href="/blog" class="otheroptions"><strong>Blog</strong></a>
-  <a href="/about" class="otheroptions"><strong>About</strong></a>
+  {% assign entry = site.data.navigation.navbar %}
+  {% assign sublinks = entry.sublinks %}
+  {% if sublinks %}
+    {% for sublink in sublinks %}
+      <a href="{{ site.baseurl }}{{ sublink.url }}" class="{{sublink.class}}"><strong>{{ sublink.title }}</strong></a>
+    {% endfor %}
+  {% endif %}
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="interactNav()">&#9776;</a>
 </div>
 <script>
-var visible = false
-function evalNav() {	// this functions is when display in vertical mode.
-  var x = document.getElementById("myNavbar");	
-  if (x.className === "navbar") {	
-    x.className += " responsive";	
-    console.log("set navbar responsive");	
-  } else {	
-    x.className = "navbar";	
-    console.log("set navbar");	
-  }
-}
+  var visible = false
 </script>
-
