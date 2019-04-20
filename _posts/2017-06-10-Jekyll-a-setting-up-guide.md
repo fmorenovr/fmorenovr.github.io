@@ -25,7 +25,7 @@ For installing Jekyll, we just need install some dependencies:
 
 * Jekyll:
 
-      sudo gem install bundler  
+      sudo gem install bundler -v '1.17.3'  
       sudo gem install jekyll  
       sudo gem install jekyll-seo-tag  
       sudo gem install jekyll-feed  
