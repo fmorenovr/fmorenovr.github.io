@@ -31,7 +31,7 @@ For installing Jekyll, we just need install some dependencies:
       sudo gem install jekyll-feed  
       sudo gem install jekyll-theme-cayman-blog  
 
-* Install:
+* If your have a requeriments doc, go to the parent directory and run:
 
       bundle install
 
