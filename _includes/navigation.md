@@ -1,7 +1,3 @@
-<!-- Belongs at: /_includes/navigation.html -->
-
-<!-- This finds the current page so it can be highlighted. -->
-
 {% for entry in site.data.navigation %}
 {% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
     {% if fullurl == page.url %}
