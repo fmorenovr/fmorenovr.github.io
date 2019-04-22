@@ -5,6 +5,7 @@ subtitle: Here you'll learn to use Virt-Manager to manage your Virtual Machines.
 date:   2017-03-20 14:58:05 -0500
 categories: Virtual-Machines
 ---
+
 # Virt-Manager
 
 Is a desktop-driven virtual machine manager with which users can manage virtual machines (VMs).  
@@ -203,12 +204,5 @@ A virtual machine is a guest OS on another OS (host), you can see the xml config
 
       ![step-6](/assets/VM_emulator/virt-manager/create_VM_step_final.png)
 
-### Configure some VM OS
-
-* [Debian based OS][debian-networking]
-
-* [Red Hat Enterprise Linux based OS][redhat-networking]
-
-[debian-networking]: /guides/debian_networking
-[redhat-networking]: /guides/redhat_networking
+To configureyour VM depending of your OS, press [here](/networking/Virtual-Machines-Network-Configuration).
 

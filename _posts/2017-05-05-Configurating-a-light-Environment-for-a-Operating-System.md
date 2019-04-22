@@ -27,11 +27,11 @@ Configure and preparing a good development environment lite OS.
     |-- Windows
 
 
-* [EnvironmentLiteDebian][debian-url]  
+* [Environment Lite Debian][debian-url]  
 > Operating Systems based on Debian like Ubuntu or Deepin.
 
-* [EnvironmentLitewindows][windows-url]  
+* [Environment Lite windows][windows-url]  
 > Windows Operating System.
 
-[debian-url]:   /guides/light_environment_debian
-[windows-url]:  /guides/light_environment_windows
+[debian-url]:   /os/light_environment_debian
+[windows-url]:  /os/light_environment_windows

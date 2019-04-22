@@ -3,7 +3,7 @@ layout: page
 title: Windows Light-Environment configuration
 subtitle: "Windows Light-Environment configuration"
 description: "Download and install programs for a Light-Environment Windows."
-permalink: /guides/light_environment_windows
+permalink: /os/light_environment_windows
 ---
 Configuration to have a lightweight system.
 

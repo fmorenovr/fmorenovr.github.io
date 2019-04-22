@@ -3,8 +3,9 @@ layout: page
 title: Debian based OS Light-Environment configuration
 subtitle: "Debian based OS Light-Environment configuration"
 description: "Download and install programs for a Light-Environment Debian based OS."
-permalink: /guides/light_environment_debian
+permalink: /os/light_environment_debian
 ---
+
 Configuration to have a lightweight system.
 
 ## Shutdown System
