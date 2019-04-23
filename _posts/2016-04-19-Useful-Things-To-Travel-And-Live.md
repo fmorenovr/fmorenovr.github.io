@@ -173,5 +173,5 @@ categories: Live-Hacks
     * Vincha (HeadBand)  
     * Polo sport  
     * Short sport  
-    * Buzo (joggers)  
+    * Buzo (joggers, jogger rayado)  
     * Runner  
