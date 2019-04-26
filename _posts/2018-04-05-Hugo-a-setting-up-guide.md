@@ -41,12 +41,12 @@ So, we need to install a theme to test hugo serve.
 
 #### Themes
 
-Then, download theme from repository:
+Then, in the `theme/` directory, download theme from repository:
 
     cd webApp/themes
     git clone https://github.com/saey55/hugo-elate-theme
 
-Next, copy the file `themes/hugo-elate-theme/exampleSite/config.toml` to the current `config.toml`
+Next, copy the file `themes/hugo-elate-theme/exampleSite/config.toml` to the main `config.toml` in your site.
 
 You can look for more themes [here](https://themes.gohugo.io/).
 
