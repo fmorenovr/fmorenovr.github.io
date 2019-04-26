@@ -53,7 +53,9 @@ Difference between Data Science, Data Analysis, Data Mining and Data Analytics.
 
 ## Machine Learning Types
 
-Is the different types of machine learning models.
+Is the different types of machine learning.
+
+![](/assets/ml/types.png)
 
 ### Supervised Learning
 
@@ -67,29 +69,29 @@ This type is based on the term `Inductive Learning`, in other words, the learnin
 
 See main article [Semi-Supervised Learning](/ml/semi_supervised_learning).
 
-### Similarity Learning
-
-This type is based on the term `Compare Learning`, in other words, the learning process is to find from previously organized data a similarity function that measures how similar or related two objects are.
-
-See main article [Similarity Learning](/ml/similarity_learning).
-
 ### Unsupervised Learning
 
-This type is based on the term `Shapes Organized Learning`, in other words, the learning process is to find a way to relationate patterns and characteristics of unorganized data.
+This type is based on the term `Self-Organized Learning`, in other words, the learning process is to find a way to relationate patterns and characteristics of unorganized data.
 
 See main article [UnSupervised Learning](/ml/unsupervised_learning).
-
-### Active Learning
-
-This type is based on the term `Query-Answer Learning`, in other words, the learning process is the interaction between users and query website to get more data from them.
-
-See main article [Active Learning](/ml/active_learning).
 
 ### Reinforcement Learning
 
 This type is based on the term `Reinforcement Learning`, in other words, the learning process is to maximize the reward obtained from every scenario modelated from data.
 
 See main article [Reinforcement Learning](/ml/reinforcement_learning).
+
+### Similarity Learning
+
+This type is based on the term `Compare Learning`, in other words, the learning process is to find from previously organized data a similarity function that measures how similar or related two objects are.
+
+See main article [Similarity Learning](/ml/similarity_learning).
+
+### Active Learning
+
+This type is based on the term `Query-Answer Learning`, in other words, the learning process is the interaction between users and query website to get more data from them.
+
+See main article [Active Learning](/ml/active_learning).
 
 ### Transfer Learning
 
@@ -102,4 +104,20 @@ See main article [Transfer Learning](/ml/transfer_learning).
 This type is based on the term `Autodidact Learning`, in other words, the learning process is to understand how to solve learning problems with greater flexibility, improving the performance of existing algorithms or inducing the learning algorithm itself.
 
 See main article [Meta-Learning](/ml/meta_learning).
+
+## Machine Learning Models/Algorithms
+
+There is a different models or approach those define algorithms based on mathematics and statistics models in machine learning.
+
+### Regularization
+
+See main article [ANN](/ml/regularization).
+
+### Neural Networks
+
+See main article [ANN](/ml/neuralnetworks).
+
+### Bayesian Networks
+
+See main article [BNN](/ml/bayesiannetworks).
 

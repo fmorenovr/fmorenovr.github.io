@@ -110,9 +110,9 @@ categories: Live-Hacks
 
 ### Camisetas/Jerseys/Camisas
 
-    * Camisetas (Gray, White, Light Blue, Sky Blue, Red, Black, Yellow and 2 more)  
+    * Camisetas (Gray, White, Light Blue, Red, Black, Yellow and 2 more)  
     * Jersey Cuello Alto (Red, Black, Dark Blue)  
-    * Jersey Cuello V ()  
+    * Jersey Cuello V (Mustard Green)  
     * Sudadera con Capucha (Sweatshirt)  
     * Camisas (White, Black, Pink)  
     * Camisas Sport (White/Skyblue lined)  
@@ -124,7 +124,7 @@ categories: Live-Hacks
 
     * Chaquetón (Peacoat)  
     * Abrigo (Tartan Coat)  
-    * Capa con capucha (Cloak Hoodie Stitching)  
+    * Poncho (Cloak Hoodie Stitching)  
     * Chaqueta con Capucha ()  
     * Chaqueta Vaquera (Jeans Jacket)  
     * Chaqueta de Cuero (Leather Jacket)  
@@ -132,9 +132,10 @@ categories: Live-Hacks
 
 ### Pantalones
 
-    * Drills (Mustard, White, Red, Dark Green, Steel Blue, Light Gray)  
+    * Pantalones (Red, Dark Green, Steel Blue)  
+    * Drills (Mustard, White, Light Gray)  
     * Jeans (Blue, Black)  
-    * Correa (Pioner)  
+    * Cinturon Sport (Gray)  
     * Bermudas (3)  
 
 ### Calzados
@@ -152,14 +153,14 @@ categories: Live-Hacks
     * Blazer (Navy Blue)  
     * Saco (Tartan Sport Coat)  
 
-    * Tirantes (Suspenders Button/Clip)  
+    * Tirantes (Dark Gray Suspenders Button/Clip)  
     * Pañuelo (Pocket Square)  
-    * Medias (Black) 
+    * Medias (Black)  
     * Biviries  
     
     * Corbatin (Black/White Bowtie)  
     * Corbatas  
-    * Correa (Black/Brown)  
+    * Cinturon (Black/Brown)  
 
 ## De Dormir
 
@@ -173,5 +174,5 @@ categories: Live-Hacks
     * Vincha (HeadBand)  
     * Polo sport  
     * Short sport  
-    * Buzo (joggers, jogger rayado)  
+    * Buzo (Dark Gray joggers, Black jogger rayado)  
     * Runner  
