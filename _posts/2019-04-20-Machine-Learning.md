@@ -111,13 +111,19 @@ There is a different models or approach those define algorithms based on mathema
 
 ### Regularization
 
-See main article [ANN](/ml/regularization).
+Is the process to solve the overfitting problem.
+
+See main article [regularization](/ml/regularization).
 
 ### Neural Networks
+
+Is the model based on human neurons to solve more complex problems.
 
 See main article [ANN](/ml/neuralnetworks).
 
 ### Bayesian Networks
+
+Is a model based on ANN with Bayesian statistics distributions.
 
 See main article [BNN](/ml/bayesiannetworks).
 

@@ -58,17 +58,21 @@ So, the equation in a regression problem with regularization is:
 
 <p align="center">
 {% raw %}
-  $ R_\lambda = \sum_{j=0}^{n} [\dfrac{1}{2} \lambda_2 \theta_j ^2 + \lambda_1 \| \theta_j \|] $
+  $ R_\lambda = \sum_{j=1}^{n} [\dfrac{1}{2} \lambda_2 \theta_j ^2 + \lambda_1 | \theta_j |] $
 {% endraw %}
 </p>
 
-But, taking {% raw %} $ \lambda = \dfrac{\lambda_1}{\lambda_1 + \lambda_2} $ {% endraw %}, we have:
+Where {% raw %} $ \theta \in \mathbb{R}^{(n+1)} ${% endraw %} and {% raw %} $ \theta = (\theta_0, \theta_1, \dots, \theta_n ) ${% endraw %}.
+
+So, taking {% raw %} $ \lambda = \dfrac{\lambda_1}{\lambda_1 + \lambda_2} $ {% endraw %}, we have:
 
 <p align="center">
 {% raw %}
-  $ R_\lambda = \sum_{j=0}^{n} [\dfrac{1}{2} (1-\lambda) \theta_j ^2 + \lambda | \theta_j |] $
+  $ R_\lambda = \sum_{j=1}^{n} [\dfrac{1}{2} (1-\lambda) \theta_j ^2 + \lambda | \theta_j |] $
 {% endraw %}
 </p>
+
+Is very important to notice that we dont regularize {% raw %} $ \theta_0 $ {% endraw %}.
 
 Where:
  * m is the data set size.
@@ -80,4 +84,64 @@ Where:
     * If {% raw %} $ \lambda = 1 $ {% endraw %}, then we have LASSO.
     * If {% raw %} $ 0 \lt \lambda \lt 1 $ {% endraw %}, then we have Elastic Net.
  
- 
+## Normal Equation
+
+If m > n:
+
+<p align="center">
+{% raw %}
+  $ \theta = (X^T X + \lambda L) X^T y $
+{% endraw %}
+</p>
+
+Else is Non-invertible. Also, L is:
+
+<p align="center">
+{% raw %}
+  $
+  L = \begin{bmatrix}
+    0  & 0 & 0 & \dots & 0 \\
+    0  & 1 & 0 & \dots & 0 \\
+    0  & 0 & 1 & \dots & 0 \\
+    \vdots & & \ddots & & \vdots\\
+    0  & 0 & 0 & \dots & 1
+    \end{bmatrix}
+  $
+{% endraw %}
+</p>
+
+With:
+
+<p align="center">
+{% raw %}
+  $
+  L \in \mathbb{R}^{(n+1)x(n+1)}
+  $
+{% endraw %}
+</p>
+
+## Gradient Descent Equiations
+
+<p align="center">
+{% raw %}
+  $
+  \theta_0 = \theta_0 - \alpha \dfrac{1}{m} [ \dfrac{\partial J(\theta)}{\partial \theta_0} ]
+  $
+{% endraw %}
+</p>
+
+for j from 1 to n:
+
+<p align="center">
+{% raw %}
+  $
+  \theta_j = \theta_j - \alpha \dfrac{1}{m} [ \dfrac{\partial J(\theta)}{\partial \theta_j} + \dfrac{\partial R_{\lambda}}{\partial \theta_j}]
+  $
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $  \theta_j = \theta_j - \alpha \dfrac{1}{m} [ \dfrac{\partial J(\theta)}{\partial \theta_j} + (1-\lambda) \theta_j + \lambda \dfrac{\theta_j}{| \theta_j |} ] $
+{% endraw %}
+</p>
