@@ -66,7 +66,7 @@ categories: Live-Hacks
     * Memoria USB (32Gb)  
     * Funda Rígida de Memoria  
     * Bateria portatil  
-    
+  
     * Cable USB (USB multi charger cable)  
     * Phone Charger (Fast Charge)  
 
@@ -77,17 +77,20 @@ categories: Live-Hacks
     * Laptop (Asus Rog Gamer)  
     * Mouse  
 
-## Accesorios
+## PortaDinero
 
     * Billetera  
     * Monedero  
 
+### Artilugios
     * Zarcillos (Potaras)  
     * Collar (Ojo de tigre)  
 
     * Reloj (Plateado)  
     * Pulsera (Leather Bracelets)  
     * Anillo (Ring Infinity Gloves)  
+
+### Adicionales
 
     * Cubre Boca (Mouth Mask)  
     * Guantes (SmartPhone Gloves)  
@@ -110,7 +113,7 @@ categories: Live-Hacks
 
 ### Camisetas/Jerseys/Camisas
 
-    * Camisetas (Gray, White, Light Blue, Red, Black, Yellow and 2 more)  
+    * Camisetas (Gray, White, Sky Blue, Light Blue, Red, Black, Yellow, Light Purple, e)  
     * Jersey Cuello Alto (Red, Black, Dark Blue)  
     * Jersey Cuello V (Mustard Green)  
     * Sudadera con Capucha (Sweatshirt)  
