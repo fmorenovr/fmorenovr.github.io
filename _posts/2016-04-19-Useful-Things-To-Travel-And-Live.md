@@ -77,7 +77,7 @@ categories: Live-Hacks
     * Laptop (Asus Rog Gamer)  
     * Mouse  
 
-## PortaDinero
+### PortaDinero
 
     * Billetera  
     * Monedero  
@@ -138,7 +138,7 @@ categories: Live-Hacks
     * Pantalones (Red, Dark Green, Steel Blue)  
     * Drills (Mustard, White, Light Gray)  
     * Jeans (Blue, Black)  
-    * Cinturon Sport (Gray)  
+    * Correa (Gray)  
     * Bermudas (3)  
 
 ### Calzados
@@ -162,12 +162,12 @@ categories: Live-Hacks
     * Biviries  
     
     * Corbatin (Black/White Bowtie)  
-    * Corbatas  
+    * Corbatas ()   
     * Cinturon (Black/Brown)  
 
 ## De Dormir
 
-    * Polo pijama  
+    * Polo  
     * Calentador (Torso, Piernas, Pies)  
     * Almohada de cuello (Neck Pillow)  
     * Cubre Ojos (Eye Mask)  
