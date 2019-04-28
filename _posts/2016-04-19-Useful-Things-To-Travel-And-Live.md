@@ -111,6 +111,7 @@ categories: Live-Hacks
     * Sombrero de Verano (Summer Hat)  
     * Sombrero (Black)  
     * Gorro plano (Flat Hat)  
+    * Gorro  
 
 ### Camisetas/Jerseys/Camisas
 
