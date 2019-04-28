@@ -108,6 +108,7 @@ categories: Live-Hacks
 ### Gorros/Sombreros
 
     * Gorro de Invierno (Russian Winter Hat Ushanka)  
+    * Sombrero de Verano (Summer Hat)  
     * Sombrero (Black)  
     * Gorro plano (Flat Hat)  
 
