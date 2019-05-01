@@ -80,15 +80,17 @@ categories: Live-Hacks
     * Maleta  
     * Mochila  
     * Canguro (Waist Bag)  
-    * Bolso de Cordones (Gym Sport Bag Cordons)  
 
 ### Artilugios
+
     * Zarcillos (Potaras)  
     * Collar (Ojo de tigre)  
 
     * Reloj (Plateado)  
     * Pulsera (Leather Bracelets)  
     * Anillo (Ring Infinity Gloves)  
+    
+    * Paraguas (Qiuyeyuan Brand - Zodiac Umbrella Sword)  
 
 ## Prendas
 
@@ -107,9 +109,9 @@ categories: Live-Hacks
 
 ### Camisetas/Jerseys/Camisas
 
-    * Camisetas (Gray, White, Sky Blue, Light Blue, Red, Black, Yellow, Light Purple, e)  
+    * Camisetas (Tee: Gray, White, Sky Blue, Light Blue, Red, Black, Yellow, Light Purple, e)  
     * Jersey Cuello Alto (Turtleneck Sweater: Red, Black, Dark Blue)  
-    * Jersey Cuello V (V-neck Sweater: Mustard Green)  
+    * Jersey Cuello V (V-neck Sweater: Beige)  
     * Sudadera con Capucha (Hooded Sweatshirt)  
     * Camisas (White, Black, Pink)  
     * Camisas Sport (White/Skyblue lined)  
@@ -120,7 +122,7 @@ categories: Live-Hacks
 ### Chaquetas/Abrigos
 
     * Chaquetón (PeaCoat)  
-    * Abrigo (Tartan TopCoat)  
+    * Abrigo (OverCoat)  
     * Poncho (Cloak Hoodie Stitching)  
     * Chaqueta con Capucha (Hooded Jacket)  
     * Chaqueta Vaquera (Jeans Jacket)  
@@ -130,48 +132,21 @@ categories: Live-Hacks
 ### Pantalones
 
     * Pantalones (Red, Dark Green, Steel Blue)  
-    * Drills (Mustard, White, Light Gray)  
-    * Jeans (Blue, Black)  
+    * Chinos (Khaki, White, Light Gray, Black)  
+    * Jeans (Hypnotic Bradn: Blue, Black)  
     * Correa (Gray)  
     * Bermudas (3)  
 
 ### Calzados
 
+    * Converse (Light Gray)  
     * Slipper  
     * Sandalias  
     * Botines  
-    * Alpargatas (Espadrilles)  
-    * Mocasines (Loafers)  
-    * Zapatos (Mercer Cap Toe Brown Oxford)  
-
-## Pijama
-
-    * Polo  
-    * Calentador (Torso, Piernas, Pies)  
-
-## De Vestir
-
-    * Terno (Herringbone Suit: Light Gray)  
-    * Blazer (Navy Blue)  
-    * Saco (Tartan Sport Coat)  
-
-    * Tirantes (Suspenders Button/Clip: Dark Gray)  
-    * Pañuelo (Pocket Square)  
-    * Medias (Black)  
-    * Biviries  
-    
-    * Corbatin (Bowtie: Black/White)  
-    * Corbatas ()  
-    * Cinturon (Black/Brown)  
-
-## De Deporte
-
-    * Vincha (HeadBand)  
-    * Polo sport  
-    * Guantes sport  
-    * Short sport  
-    * Buzo (Joggers: Dark Gray, Jogger rayado: Black)  
-    * Runner  
+    * Alpargatas (Espadrilles: Mustard)  
+    * Mocasines (Loafers: Brown)  
+    * Zapatos (Cap Toe Oxford: Black)  
+    * Zapatillas (Sneakers: White)  
 
 ### Adicionales
 
@@ -181,5 +156,33 @@ categories: Live-Hacks
     * Bufanda (Scarf)  
     * Guantes (SmartPhone Gloves)  
 
-    * Paraguas (Qiuyeyuan Brand - Zodiac Umbrella Sword)  
+## Prendas De Pijama
+
+    * Polo  
+    * Calentador (Torso, Piernas, Pies)  
+
+## Prendas De Vestir
+
+    * Terno (Herringbone Suit: Light Gray)  
+    * Blazer (Navy Blue)  
+    * Saco (Tartan Sport Coat)  
+
+    * Tirantes (Suspenders Button/Clip: Dark Gray)  
+    * Pañuelo (Pocket Square)  
+    * Medias (Socks: Black)  
+    * Biviries  
+    
+    * Corbatin (Bowtie: Black/White)  
+    * Corbatas ()  
+    * Cinturon (Black/Brown)  
+
+## Prendas De Deporte
+
+    * Vincha (HeadBand)  
+    * Polo Sport  
+    * Guantes Sport (Sport Gloves)  
+    * Short Sport  
+    * Buzo (Joggers: Dark Gray, Jogger rayado: Black)  
+    * Runner (Athletic Shoes)  
+    * Bolso de Cordones (Gym Sport Bag Cordons)  
 

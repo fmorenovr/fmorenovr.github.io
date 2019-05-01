@@ -28,7 +28,7 @@ See main article [RNN](/ml/unsupervised_petrained_networks).
 
 ### Recursive Neural Networks
 
-See main article [RNN](/ml/recursive_networks).
+See main article [RsNN](/ml/recursive_networks).
 
 ### Recurrent Neural Networks
 
