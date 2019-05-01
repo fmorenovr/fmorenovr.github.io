@@ -119,8 +119,8 @@ categories: Live-Hacks
 
 ### Chaquetas/Abrigos
 
-    * Chaquetón (Peacoat)  
-    * Abrigo (Tartan Coat)  
+    * Chaquetón (PeaCoat)  
+    * Abrigo (Tartan TopCoat)  
     * Poncho (Cloak Hoodie Stitching)  
     * Chaqueta con Capucha (Hooded Jacket)  
     * Chaqueta Vaquera (Jeans Jacket)  
