@@ -75,12 +75,6 @@ This type is based on the term `Self-Organized Learning`, in other words, the le
 
 See main article [UnSupervised Learning](/ml/unsupervised_learning).
 
-### Reinforcement Learning
-
-This type is based on the term `Reinforcement Learning`, in other words, the learning process is to maximize the reward obtained from every scenario modelated from data.
-
-See main article [Reinforcement Learning](/ml/reinforcement_learning).
-
 ### Similarity Learning
 
 This type is based on the term `Compare Learning`, in other words, the learning process is to find from previously organized data a similarity function that measures how similar or related two objects are.
@@ -113,17 +107,22 @@ There is a different models or approach those define algorithms based on mathema
 
 Is the process to solve the overfitting problem.
 
-See main article [regularization](/ml/regularization).
+See main article [Regularization](/ml/regularization).
 
 ### Neural Networks
 
 Is the model based on human neurons to solve more complex problems.
 
-See main article [ANN](/ml/neuralnetworks).
+See main article [ANN](/ml/neural_networks).
 
 ### Bayesian Networks
 
 Is a model based on ANN with Bayesian statistics distributions.
 
-See main article [BNN](/ml/bayesiannetworks).
+See main article [BNN](/ml/bayesian_networks).
+
+### Super Vector Machine
+
+See main article [SVM](/ml/svm).
+
 

@@ -8,6 +8,10 @@ permalink: /os/light_environment_debian
 
 Configuration to have a lightweight system.
 
+## Repositories links
+
+Just modify the file `/etc/apt/sources.list` deleting all sublinks of your country redirecting to the main repositores.
+
 ## Shutdown System
 
 Command to shutdown Linux Debian based OS using bash:
