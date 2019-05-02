@@ -24,9 +24,11 @@ There is a different models or approach those define algorithms based on mathema
 
 ### Unsupervised Pretrained Networks
 
-See main article [RNN](/ml/unsupervised_petrained_networks).
+See main article [UPN](/ml/unsupervised_petrained_networks).
 
 ### Recursive Neural Networks
+
+Is the model based on ANN and tree data structures to solve more complex problems.
 
 See main article [RsNN](/ml/recursive_networks).
 

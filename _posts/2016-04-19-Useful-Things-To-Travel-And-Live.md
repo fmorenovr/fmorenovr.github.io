@@ -133,20 +133,21 @@ categories: Live-Hacks
 
     * Pantalones (Red, Dark Green, Steel Blue)  
     * Chinos (Khaki, White, Light Gray, Black)  
-    * Jeans (Hypnotic Bradn: Blue, Black)  
+    * Jeans (Hypnotic: Blue, Black)  
     * Correa (Gray)  
     * Bermudas (3)  
 
 ### Calzados
 
-    * Converse (Light Gray)  
     * Slipper  
-    * Sandalias  
+    * Sandalias (Flip Flop)  
     * Botines  
     * Alpargatas (Espadrilles: Mustard)  
     * Mocasines (Loafers: Brown)  
     * Zapatos (Cap Toe Oxford: Black)  
     * Zapatillas (Sneakers: White)  
+    * Zapatillas sin Cordones (Slip-On Sneakers: Black)  
+    * Zapatillas de Lona (Canvas Sneakers: Light Gray)  
 
 ### Adicionales
 
