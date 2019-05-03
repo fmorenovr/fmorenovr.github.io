@@ -109,7 +109,7 @@ categories: Live-Hacks
 
 ### Camisetas/Jerseys/Camisas
 
-    * Camisetas (Tee: Gray, White, Sky Blue, Light Blue, Red, Black, Yellow, Light Purple, e)  
+    * Camisetas (Tee: Gray, White, Sky Blue, Light Blue, Red, Black, Dark Mustard, Light Purple, Green)  
     * Jersey Cuello Alto (Turtleneck Sweater: Red, Black, Dark Blue)  
     * Jersey Cuello V (V-neck Sweater: Beige)  
     * Sudadera con Capucha (Hooded Sweatshirt)  

@@ -8,9 +8,9 @@ permalink: /ml/regularization
 
 # Overfitting/Underfitting Problems
 
-* Underfitting: (high bias, {% raw %} $ J({\theta}) \gt \gt 0 $ {% endraw %}) Is when our loss function maps poorly to the trend of the data, this happens when the loss function is too simple or use too few features.
+* Underfitting: (high bias, {% raw %} $ L({\theta}) \gt \gt 0 $ {% endraw %}) Is when our loss function maps poorly to the trend of the data, this happens when the loss function is too simple or use too few features.
 
-* Overfitting: (high variance, {% raw %} $ J({\theta}) \approx 0 $ {% endraw %}) Is whenloss function fits the available data but does not generalize well to predict data, this happens when the loss function is too complicate that creates a lot of unnecesary curves and angles.
+* Overfitting: (high variance, {% raw %} $ L({\theta}) \approx 0 $ {% endraw %}) Is whenloss function fits the available data but does not generalize well to predict data, this happens when the loss function is too complicate that creates a lot of unnecesary curves and angles.
 
 Way to solve this problems:
 
@@ -31,7 +31,9 @@ Way to solve this problems:
 # Regularization
 
 **Regularization** is the process to prevent overfitting in algorithms that try to minimize loss function (Like regressions).  
-    
+
+## Algorithms
+
 There is 4 algorithms:
 
 * Ridge Regression or called L2 regularization
@@ -48,41 +50,35 @@ There is 4 algorithms:
 
 * Least Angle Regression (LARS)
 
-So, the equation in a regression problem with regularization is:
+## Equations
+
+The Loss Function Regularizated equation is:
 
 <p align="center">
 {% raw %}
-  $ J_{regularizated}(\theta) = \dfrac{1}{m} [ J(\theta)  + R_{\lambda} ]$
+  $ L_{regularizated}(\hat{y}, y, \theta) = \dfrac{1}{n} [ L(\hat{y}, y)  + R(\theta)_{\lambda} ]$
 {% endraw %}
 </p>
 
 <p align="center">
 {% raw %}
-  $ R_\lambda = \sum_{j=1}^{n} [\dfrac{1}{2} \lambda_2 \theta_j ^2 + \lambda_1 | \theta_j |] $
+  $ R(\theta)_\lambda = \lambda [\dfrac{(1-\alpha)}{2} \sum_{j=1}^{m} \theta_j ^2 + \alpha \sum_{j=1}^{m} | \theta_j |] $
 {% endraw %}
 </p>
 
-Where {% raw %} $ \theta \in \mathbb{R}^{(n+1)} ${% endraw %} and {% raw %} $ \theta = (\theta_0, \theta_1, \dots, \theta_n ) ${% endraw %}.
-
-So, taking {% raw %} $ \lambda = \dfrac{\lambda_1}{\lambda_1 + \lambda_2} $ {% endraw %}, we have:
-
-<p align="center">
-{% raw %}
-  $ R_\lambda = \sum_{j=1}^{n} [\dfrac{1}{2} (1-\lambda) \theta_j ^2 + \lambda | \theta_j |] $
-{% endraw %}
-</p>
-
-Is very important to notice that we dont regularize {% raw %} $ \theta_0 $ {% endraw %}.
+With {% raw %} $ \theta = (\theta_1, \dots, \theta_m ) \in \mathbb{R}^{m}, \lambda \in \mathbb{R} $ {% endraw %} and {% raw %} $ \alpha \in [0, 1] $ {% endraw %}.
 
 Where:
- * m is the data set size.
- * n is the number of features.
+ * {% raw %} $ y $ {% endraw %} is the output given data.
+ * {% raw %} $ \hat{y} $ {% endraw %} is the output predicted.
+ * n is the data set size.
+ * m is the number of features.
  * {% raw %} $ \theta $ {% endraw %} is the weights calculated for the regression.
- * {% raw %} $ \lambda_1 , \lambda_2 $ {% endraw %} regularization parameters, they could be {% raw %} $ 0 \lt \lambda_1 , \lambda_2 \lt \inf $ {% endraw %}.  
+ * {% raw %} $ \lambda $ {% endraw %} regularization parameter, where {% raw %} $ 0 \lt \lambda \lt \inf $ {% endraw %}.  
  * {% raw %} $ R_{\lambda} $ {% endraw %} regularization equation:  
-    * If {% raw %} $ \lambda = 0 $ {% endraw %}, then we have Ridge Regression.
-    * If {% raw %} $ \lambda = 1 $ {% endraw %}, then we have LASSO.
-    * If {% raw %} $ 0 \lt \lambda \lt 1 $ {% endraw %}, then we have Elastic Net.
+    * If {% raw %} $ \alpha = 0 $ {% endraw %}, then we have Ridge Regression.
+    * If {% raw %} $ \alpha = 1 $ {% endraw %}, then we have LASSO.
+    * If {% raw %} $ 0 \lt \alpha \lt 1 $ {% endraw %}, then we have Elastic Net.
  
 ## Normal Equation
 
@@ -90,16 +86,16 @@ If m > n:
 
 <p align="center">
 {% raw %}
-  $ \theta = (X^T X + \lambda L) X^T y $
+  $ \theta = (X^T X + \lambda R) X^T y $
 {% endraw %}
 </p>
 
-Else is Non-invertible. Also, L is:
+Else is Non-invertible. Also, R is:
 
 <p align="center">
 {% raw %}
   $
-  L = \begin{bmatrix}
+  R = \begin{bmatrix}
     0  & 0 & 0 & \dots & 0 \\
     0  & 1 & 0 & \dots & 0 \\
     0  & 0 & 1 & \dots & 0 \\
@@ -115,7 +111,7 @@ With:
 <p align="center">
 {% raw %}
   $
-  L \in \mathbb{R}^{(n+1)x(n+1)}
+  R \in \mathbb{R}^{(n+1)x(n+1)}
   $
 {% endraw %}
 </p>
@@ -125,23 +121,22 @@ With:
 <p align="center">
 {% raw %}
   $
-  \theta_0 = \theta_0 - \alpha \dfrac{1}{m} [ \dfrac{\partial J(\theta)}{\partial \theta_0} ]
+  \theta_0 = \theta_0 - \alpha \dfrac{1}{n} [ \dfrac{\partial L}{\partial \theta_0} ]
   $
 {% endraw %}
 </p>
-
-for j from 1 to n:
+For j from 1 to n:
 
 <p align="center">
 {% raw %}
   $
-  \theta_j = \theta_j - \alpha \dfrac{1}{m} [ \dfrac{\partial J(\theta)}{\partial \theta_j} + \dfrac{\partial R_{\lambda}}{\partial \theta_j}]
+  \theta_j = \theta_j - \alpha \dfrac{1}{n} [ \dfrac{\partial L}{\partial \theta_j} + \dfrac{\partial R_{\lambda}}{\partial \theta_j}]
   $
 {% endraw %}
 </p>
 
 <p align="center">
 {% raw %}
-  $  \theta_j = \theta_j - \alpha \dfrac{1}{m} [ \dfrac{\partial J(\theta)}{\partial \theta_j} + (1-\lambda) \theta_j + \lambda \dfrac{\theta_j}{| \theta_j |} ] $
+  $  \theta_j = \theta_j - \alpha \dfrac{1}{n} [ \dfrac{\partial L}{\partial \theta_j} + \lambda [(1-\alpha) \theta_j + \alpha \dfrac{\theta_j}{| \theta_j |} ] ] $
 {% endraw %}
 </p>
