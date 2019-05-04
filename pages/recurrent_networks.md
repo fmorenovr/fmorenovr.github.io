@@ -242,7 +242,15 @@ So:
 <p align="center">
 {% raw %}
   $
-    \dfrac{\partial E^{(t)}}{\partial W} = \dfrac{\partial E^{(t)}}{\partial q^{ \lt t \gt}} \dfrac{\partial q^{\lt t \gt}}{\partial a^{ \lt t \gt}} \dfrac{\partial a^{ \lt t \gt}}{\partial W} = (\hat{y}^{\lt t \gt} - y^{\lt t \gt}) . V . \dfrac{\partial a^{ \lt t \gt}}{\partial W}
+    \dfrac{\partial E^{(t)}}{\partial W} = \dfrac{\partial E^{(t)}}{\partial q^{ \lt t \gt}} \dfrac{\partial q^{\lt t \gt}}{\partial a^{ \lt t \gt}} \dfrac{\partial a^{ \lt t \gt}}{\partial W}
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial W} = (\hat{y}^{\lt t \gt} - y^{\lt t \gt}) . V . \dfrac{\partial a^{ \lt t \gt}}{\partial W}
   $ 
 {% endraw %}
 </p>
@@ -256,7 +264,15 @@ At the last layer we have:
 <p align="center">
 {% raw %}
   $
-    \dfrac{\partial E^{(t)}}{\partial W} = \dfrac{\partial E^{(t)}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{ \lt t \gt}}{\partial W} = \dfrac{\partial E^{(t)}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{(t)}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{ \lt t \gt}}{\partial W}
+    \dfrac{\partial E^{(t)}}{\partial W} = = \dfrac{\partial E^{(t)}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{ \lt t \gt}}{\partial W}
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial W} = \dfrac{\partial E^{(t)}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{(t)}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{ \lt t \gt}}{\partial W}
   $ 
 {% endraw %}
 </p>
@@ -266,7 +282,15 @@ At the penultimate layer:
 <p align="center">
 {% raw %}
   $
-    \dfrac{\partial E^{(t)}}{\partial W} = \dfrac{\partial E^{(t)}}{\partial a^{\lt t-1 \gt}} \dfrac{\partial a^{ \lt t-1 \gt}}{\partial W} = \dfrac{\partial E^{(t)}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{(t)}}{\partial a^{\lt t-1 \gt}} \dfrac{\partial a^{ \lt t-1 \gt}}{\partial W}
+    \dfrac{\partial E^{(t)}}{\partial W} = \dfrac{\partial E^{(t)}}{\partial a^{\lt t-1 \gt}} \dfrac{\partial a^{ \lt t-1 \gt}}{\partial W}
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial W} = \dfrac{\partial E^{(t)}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{(t)}}{\partial a^{\lt t-1 \gt}} \dfrac{\partial a^{ \lt t-1 \gt}}{\partial W}
   $ 
 {% endraw %}
 </p>
@@ -340,9 +364,19 @@ Is the same as:
 </p>
 
 
-**II. U**
+**III. U**
 
 The matrix parameter U is similar to doing it for W since they appear in the ame euqation to calculate {% raw %} $ a^{\lt t \gt} $ {% endraw %}:
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial U} = \dfrac{\partial E^{(t)}}{\partial \hat{y}^{\lt t \gt}} \dfrac{\partial \hat{y}^{\lt t \gt}}{\partial q^{ \lt t \gt}} \dfrac{\partial q^{\lt t \gt}}{\partial a^{ \lt t \gt}} \dfrac{\partial a^{ \lt t \gt}}{\partial z^{ \lt t \gt}} \dfrac{\partial z^{ \lt t \gt}}{\partial U}
+  $ 
+{% endraw %}
+</p>
+
+Is the same as:
 
 <p align="center">
 {% raw %}
@@ -512,7 +546,7 @@ Gated Recurrent Unit (GRU) and Long Short-Term Memory units (LSTM) deal with the
 The architecture is as follows:
 
 <p align="center">
-  <img height="300" width="200" src="/assets/ml/recurrent_networks/lstm.png">
+  <img height="480" width="900" src="/assets/ml/recurrent_networks/LSTM.png">
 </p>
 
 With equations like:
@@ -544,7 +578,7 @@ With equations like:
 
 **Update Gate**
 
-**1. Candidate Gate**
+**1. Candidate (or Input Modulation) Gate**
 
 <p align="center">
 {% raw %}
@@ -561,14 +595,16 @@ With equations like:
 <p align="center">
 {% raw %}
   $
-    c^{\lt t \gt} = f^{\lt t \gt} . (c^{\lt t-1 \gt})^T + i^{\lt t \gt} . (g^{\lt t \gt})^T
+    c^{\lt t \gt} = f^{\lt t \gt} \circ c^{\lt t-1 \gt} + i^{\lt t \gt} \circ g^{\lt t \gt}
   $
 {% endraw %}
 </p>
 
-* Apply forget operation to previous internal cell state: {% raw %} $ f^{\lt t \gt} . (c^{\lt t-1 \gt})^T $ {% endraw %}.
+* {% raw %} $ \circ $ {% endraw %} is the Hadamard Product
 
-* Add new candidate values, scaled by how much we decided to update: {% raw %} $ i^{\lt t \gt} . (g^{\lt t \gt})^T $ {% endraw %}.
+* Apply forget operation to previous internal cell state: {% raw %} $ f^{\lt t \gt} \circ c^{\lt t-1 \gt} $ {% endraw %}.
+
+* Add new candidate values, scaled by how much we decided to update: {% raw %} $ i^{\lt t \gt} \circ g^{\lt t \gt} $ {% endraw %}.
 
 **Output Gate**
 
@@ -587,12 +623,12 @@ With equations like:
 <p align="center">
 {% raw %}
   $
-    a^{\lt t \gt} = o^{\lt t \gt} . (g_5(c^{\lt t \gt}))^T
+    a^{\lt t \gt} = o^{\lt t \gt} \circ g_5(c^{\lt t \gt})
   $
 {% endraw %}
 </p>
 
-* Output filtered version of cell state: {% raw %} $ o^{\lt t \gt} . (g_5(c^{\lt t \gt}))^T $ {% endraw %}
+* Output filtered version of cell state: {% raw %} $ o^{\lt t \gt} \circ g_5(c^{\lt t \gt}) $ {% endraw %}
 
 **Output**
 
@@ -604,9 +640,9 @@ With equations like:
 {% endraw %}
 </p>
 
-With {% raw %} $ x \in \mathbb{R}^{n}; y, \hat{y}, b_y \in \mathbb{R}^{m}; a, g, f, i, o, c, b_{f,i,o,c} \in \mathbb{R}^{h}; U_{f,i,o,c} \in \mathbb{R}^{hxn}; W_{f,i,o,c} \in \mathbb{R}^{hxh}; V \in \mathbb{R}^{mxh} $ {% endraw %}. Now, we need to obtain the gradient descent terms at last timestep {% raw %} $ T_y $ {% endraw %}: {% raw %} $ \dfrac{\partial L}{\partial U_{f,i,o,c}}, \dfrac{\partial L}{\partial W_{f,i,o,c}}, \dfrac{\partial L}{\partial V} $ {% endraw %}.
+With {% raw %} $ x \in \mathbb{R}^{n}; y, \hat{y}, b_y \in \mathbb{R}^{m}; a, g, f, i, c, o, b_{f,i,c,o} \in \mathbb{R}^{h}; U_{f,i,c,o} \in \mathbb{R}^{hxn}; W_{f,i,c,o} \in \mathbb{R}^{hxh}; V \in \mathbb{R}^{mxh} $ {% endraw %}. Now, we need to obtain the gradient descent terms at last timestep {% raw %} $ T_y $ {% endraw %}: {% raw %} $ \dfrac{\partial L}{\partial U_{f,i,c,o}}, \dfrac{\partial L}{\partial W_{f,i,c,o}}, \dfrac{\partial L}{\partial V} $ {% endraw %}.
 
-Where {% raw %} $ W_{f,i,o,c}, b_{f,i,o,c} $ {% endraw %} are coefficients that are shared temporally and {% raw %} $ g_1, g_2, g_3, g_4, g_5 $ {% endraw %} activation functions. Where {% raw %} $ g_1, g_2, g_3 $ {% endraw %} usually is **sigmoid** and {% raw %} $ g_4, g_5 $ {% endraw %} usually is **Tanh** and {% raw %} $ g_6 $ {% endraw %} usually is **sigmoid or Softmax** (depends of how variables you do like to identify).
+Where {% raw %} $ W_{f,i,c,o}, b_{f,i,c,o} $ {% endraw %} are coefficients that are shared temporally and {% raw %} $ g_1, g_2, g_3, g_4, g_5 $ {% endraw %} activation functions. Where {% raw %} $ g_1, g_2, g_4 $ {% endraw %} usually is **sigmoid** and {% raw %} $ g_3, g_5 $ {% endraw %} usually is **Tanh** and {% raw %} $ g_6 $ {% endraw %} usually is **sigmoid or Softmax** (depends of how variables you do like to identify).
 
 ##### Loss Function
 
@@ -621,6 +657,304 @@ At the same way, the loss function is:
 </p>
 
 ##### Back Propagation Through Time (BPTT)
+
+We need to calculate all derivate terms using chain rule.
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial L}{\partial U_{f,i,c,o}} = \sum_{t=1}^{T_y} \dfrac{\partial E^{(t)}}{\partial U_{f,i,c,o}} |_{(t)}
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial L}{\partial W_{f,i,c,o}} = \sum_{t=1}^{T_y} \dfrac{\partial E^{(t)}}{\partial W_{f,i,c,o}} |_{(t)}
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial L}{\partial V} = \sum_{t=1}^{T_y} \dfrac{\partial E^{(t)}}{\partial V} |_{(t)}
+  $ 
+{% endraw %}
+</p>
+
+We need to abreviate equations as:
+
+<p align="center">
+{% raw %}
+  $
+    u^{\lt t \gt} = W_f a^{ \lt t-1 \gt} + U_f x^{ \lt t \gt } + b_f
+  $
+{% endraw %}
+  ; Then
+{% raw %}
+  $
+    f^{\lt t \gt} = g_1 (u^{\lt t \gt})
+  $
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    v^{\lt t \gt} = W_i a^{ \lt t-1 \gt} + U_i x^{ \lt t \gt } + b_i
+  $
+{% endraw %}
+  ; Then
+{% raw %}
+  $
+    i^{\lt t \gt} = g_2 (v^{\lt t \gt})
+  $
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    r^{\lt t \gt} = W_c a^{ \lt t-1 \gt} + U_c x^{ \lt t \gt } + b_c
+  $
+{% endraw %}
+  ; Then
+{% raw %}
+  $
+    g^{\lt t \gt} = g_3 (r^{\lt t \gt})
+  $
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    c^{\lt t \gt} = f^{\lt t \gt} \circ c^{\lt t-1 \gt} + i^{\lt t \gt} \circ g^{\lt t \gt}
+  $
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    s^{\lt t \gt} = W_o a^{ \lt t-1 \gt} + U_o x^{ \lt t \gt } + b_o
+  $
+{% endraw %}
+  ; Then
+{% raw %}
+  $
+    o^{\lt t \gt} = g_4 (s^{\lt t \gt})
+  $
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    p^{\lt t \gt} = g_5(c^{\lt t \gt})
+  $
+{% endraw %}
+  ; Then
+{% raw %}
+  $
+    a^{\lt t \gt} = o^{\lt t \gt} \circ p^{\lt t \gt}
+  $
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    q^{\lt t \gt} = V a^{\lt t \gt}  + b_y
+  $
+{% endraw %}
+  ; Then
+{% raw %}
+  $
+    \hat{y}^{\lt t \gt} = g_6( q^{\lt t \gt})
+  $
+{% endraw %}
+</p>
+
+**I. V**
+
+Using equations defined above:
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial V} = \dfrac{\partial E^{(t)}}{\partial \hat{y}^{\lt t \gt}} \dfrac{\partial \hat{y}^{\lt t \gt}}{\partial q^{\lt t \gt}} \dfrac{\partial q^{\lt t \gt}}{\partial V}
+  $ 
+{% endraw %}
+</p>
+
+As same as "vanilla" RNN, we take Loss Function as Softmax:
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial V} = (\hat{y}^{\lt t \gt} - y^{\lt t \gt}) . (a^{\lt t \gt})^T
+  $ 
+{% endraw %}
+</p>
+
+**II. W**
+
+We have {% raw %} $ W_{f,i,c,o} $ {% endraw %} that means we need to calculate each partial derivate.
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial W_f} = \dfrac{\partial E^{(t)}}{\partial \hat{y}^{\lt t \gt}} \dfrac{\partial \hat{y}^{\lt t \gt}}{\partial q^{\lt t \gt}} \dfrac{\partial q^{\lt t \gt}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{\lt t \gt}}{\partial p^{\lt t \gt}} \dfrac{\partial p^{\lt t \gt}}{\partial c^{\lt t \gt}} \dfrac{\partial c^{\lt t \gt}}{\partial f^{\lt t \gt}} \dfrac{\partial f^{\lt t \gt}}{\partial u^{\lt t \gt}} \dfrac{\partial u^{\lt t \gt}}{\partial W_f}
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial W_i} = \dfrac{\partial E^{(t)}}{\partial \hat{y}^{\lt t \gt}} \dfrac{\partial \hat{y}^{\lt t \gt}}{\partial q^{\lt t \gt}} \dfrac{\partial q^{\lt t \gt}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{\lt t \gt}}{\partial p^{\lt t \gt}} \dfrac{\partial p^{\lt t \gt}}{\partial c^{\lt t \gt}} \dfrac{\partial c^{\lt t \gt}}{\partial i^{\lt t \gt}} \dfrac{\partial i^{\lt t \gt}}{\partial v^{\lt t \gt}} \dfrac{\partial v^{\lt t \gt}}{\partial W_i}
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial W_c} = \dfrac{\partial E^{(t)}}{\partial \hat{y}^{\lt t \gt}} \dfrac{\partial \hat{y}^{\lt t \gt}}{\partial q^{\lt t \gt}} \dfrac{\partial q^{\lt t \gt}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{\lt t \gt}}{\partial p^{\lt t \gt}} \dfrac{\partial p^{\lt t \gt}}{\partial c^{\lt t \gt}} \dfrac{\partial c^{\lt t \gt}}{\partial g^{\lt t \gt}} \dfrac{\partial g^{\lt t \gt}}{\partial r^{\lt t \gt}} \dfrac{\partial r^{\lt t \gt}}{\partial W_c}
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial W_o} = \dfrac{\partial E^{(t)}}{\partial \hat{y}^{\lt t \gt}} \dfrac{\partial \hat{y}^{\lt t \gt}}{\partial q^{\lt t \gt}} \dfrac{\partial q^{\lt t \gt}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{\lt t \gt}}{\partial o^{\lt t \gt}} \dfrac{\partial o^{\lt t \gt}}{\partial s^{\lt t \gt}} \dfrac{\partial s^{\lt t \gt}}{\partial W_o}
+  $ 
+{% endraw %}
+</p>
+
+We can simplify our equations as:
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial W_f} = \dfrac{\partial E^{(t)}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{\lt t \gt}}{\partial p^{\lt t \gt}} \dfrac{\partial p^{\lt t \gt}}{\partial c^{\lt t \gt}} \dfrac{\partial c^{\lt t \gt}}{\partial f^{\lt t \gt}} \dfrac{\partial f^{\lt t \gt}}{\partial u^{\lt t \gt}} \dfrac{\partial u^{\lt t \gt}}{\partial W_f}
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial W_i} = \dfrac{\partial E^{(t)}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{\lt t \gt}}{\partial p^{\lt t \gt}} \dfrac{\partial p^{\lt t \gt}}{\partial c^{\lt t \gt}} \dfrac{\partial c^{\lt t \gt}}{\partial i^{\lt t \gt}} \dfrac{\partial i^{\lt t \gt}}{\partial v^{\lt t \gt}} \dfrac{\partial v^{\lt t \gt}}{\partial W_i}
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial W_c} = \dfrac{\partial E^{(t)}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{\lt t \gt}}{\partial p^{\lt t \gt}} \dfrac{\partial p^{\lt t \gt}}{\partial c^{\lt t \gt}} \dfrac{\partial c^{\lt t \gt}}{\partial g^{\lt t \gt}} \dfrac{\partial g^{\lt t \gt}}{\partial r^{\lt t \gt}} \dfrac{\partial r^{\lt t \gt}}{\partial W_c}
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial W_o} = \dfrac{\partial E^{(t)}}{\partial a^{\lt t \gt}} \dfrac{\partial a^{\lt t \gt}}{\partial o^{\lt t \gt}} \dfrac{\partial o^{\lt t \gt}}{\partial s^{\lt t \gt}} \dfrac{\partial s^{\lt t \gt}}{\partial W_o}
+  $ 
+{% endraw %}
+</p>
+
+Now, we deduce from above:
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial a^{\lt t \gt}} = (\hat{y}^{\lt t \gt} - y^{\lt t \gt}) . V
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial a^{\lt t \gt}}{\partial p^{\lt t \gt}} = o^{\lt t \gt}
+  $ 
+{% endraw %}
+and
+{% raw %}
+  $
+    \dfrac{\partial a^{\lt t \gt}}{\partial o^{\lt t \gt}} = p^{\lt t \gt}
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial c^{\lt t \gt}}{\partial f^{\lt t \gt}} = c^{\lt t-1 \gt}
+  $ 
+{% endraw %}
+;
+{% raw %}
+  $
+    \dfrac{\partial c^{\lt t \gt}}{\partial i^{\lt t \gt}} = g^{\lt t \gt}
+  $ 
+{% endraw %}
+and
+{% raw %}
+  $
+    \dfrac{\partial c^{\lt t \gt}}{\partial g^{\lt t \gt}} = i^{\lt t \gt}
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial u^{\lt t \gt}}{\partial W_f} = \dfrac{\partial i^{\lt t \gt}}{\partial W_i} = \dfrac{\partial r^{\lt t \gt}}{\partial W_c} = \dfrac{\partial s^{\lt t \gt}}{\partial W_o} = (a^{\lt t-1 \gt})^T
+  $ 
+{% endraw %}
+</p>
+
+So, replacing in main equations:
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial W_f} = (\hat{y}^{\lt t \gt} - y^{\lt t \gt}) . V . o^{\lt t \gt} . \dfrac{\partial p^{\lt t \gt}}{\partial c^{\lt t \gt}} . c^{\lt t-1 \gt} . \dfrac{\partial f^{\lt t \gt}}{\partial u^{\lt t \gt}} . (a^{\lt t-1 \gt})^T
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial W_i} = (\hat{y}^{\lt t \gt} - y^{\lt t \gt}) . V . o^{\lt t \gt} . \dfrac{\partial p^{\lt t \gt}}{\partial c^{\lt t \gt}} . g^{\lt t \gt} . \dfrac{\partial i^{\lt t \gt}}{\partial v^{\lt t \gt}} . (a^{\lt t-1 \gt})^T
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial W_c} = (\hat{y}^{\lt t \gt} - y^{\lt t \gt}) . V . o^{\lt t \gt} . \dfrac{\partial p^{\lt t \gt}}{\partial c^{\lt t \gt}} . i^{\lt t \gt} . \dfrac{\partial g^{\lt t \gt}}{\partial r^{\lt t \gt}} . (a^{\lt t-1 \gt})^T
+  $ 
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $
+    \dfrac{\partial E^{(t)}}{\partial W_o} = (\hat{y}^{\lt t \gt} - y^{\lt t \gt}) . V . p^{\lt t \gt} . \dfrac{\partial o^{\lt t \gt}}{\partial s^{\lt t \gt}} . (a^{\lt t-1 \gt})^T
+  $ 
+{% endraw %}
+</p>
 
 #### Gated Recurrent Unit (GRU)
 
