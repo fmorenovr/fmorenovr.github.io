@@ -87,18 +87,6 @@ This type is based on the term `Query-Answer Learning`, in other words, the lear
 
 See main article [Active Learning](/ml/active_learning).
 
-### Transfer Learning
-
-This type is based on the term `Experienced Learning`, in other words, the learning process is take a previous learned parameters from some date and start new learning process using the target data.
-
-See main article [Transfer Learning](/ml/transfer_learning).
-
-### Meta-Learning
-
-This type is based on the term `Autodidact Learning`, in other words, the learning process is to understand how to solve learning problems with greater flexibility, improving the performance of existing algorithms or inducing the learning algorithm itself.
-
-See main article [Meta-Learning](/ml/meta_learning).
-
 ## Machine Learning Models/Algorithms
 
 There is a different models or approach those define algorithms based on mathematics and statistics models in machine learning.
