@@ -1366,7 +1366,7 @@ U:
 <p align="center">
 {% raw %}
   $
-    \dfrac{\partial L}{\partial U_f} = \sum_{t=1}^{T_y} [ (\dfrac{\partial E^{(t)}}{\partial c^{\lt t \gt}} + \dfrac{\partial E^{(t+1)}}{\partial c^{\lt t \gt}}) . c^{\lt t-1 \gt} . \dfrac{\partial f^{\lt t \gt}}{\partial u^{\lt t \gt}} . (x^{\lt t \gt})^T ]
+    \dfrac{\partial L}{\partial U_f} = \sum_{t=1}^{T_y-1} [ (\dfrac{\partial E^{(t)}}{\partial c^{\lt t \gt}} + \dfrac{\partial E^{(t+1)}}{\partial c^{\lt t \gt}}) . c^{\lt t-1 \gt} . \dfrac{\partial f^{\lt t \gt}}{\partial u^{\lt t \gt}} . (x^{\lt t \gt})^T ]
   $ 
 {% endraw %}
 </p>
@@ -1374,7 +1374,7 @@ U:
 <p align="center">
 {% raw %}
   $
-    \dfrac{\partial L}{\partial U_i} = \sum_{t=1}^{T_y} [ (\dfrac{\partial E^{(t)}}{\partial c^{\lt t \gt}} + \dfrac{\partial E^{(t+1)}}{\partial c^{\lt t \gt}}) . g^{\lt t \gt} . \dfrac{\partial i^{\lt t \gt}}{\partial v^{\lt t \gt}} . (x^{\lt t \gt})^T ]
+    \dfrac{\partial L}{\partial U_i} = \sum_{t=1}^{T_y-1} [ (\dfrac{\partial E^{(t)}}{\partial c^{\lt t \gt}} + \dfrac{\partial E^{(t+1)}}{\partial c^{\lt t \gt}}) . g^{\lt t \gt} . \dfrac{\partial i^{\lt t \gt}}{\partial v^{\lt t \gt}} . (x^{\lt t \gt})^T ]
   $ 
 {% endraw %}
 </p>
@@ -1382,7 +1382,7 @@ U:
 <p align="center">
 {% raw %}
   $
-    \dfrac{\partial L}{\partial U_c} = \sum_{t=1}^{T_y} [ (\dfrac{\partial E^{(t)}}{\partial c^{\lt t \gt}} + \dfrac{\partial E^{(t+1)}}{\partial c^{\lt t \gt}}) . i^{\lt t \gt} . \dfrac{\partial g^{\lt t \gt}}{\partial r^{\lt t \gt}} . (x^{\lt t \gt})^T ]
+    \dfrac{\partial L}{\partial U_c} = \sum_{t=1}^{T_y-1} [ (\dfrac{\partial E^{(t)}}{\partial c^{\lt t \gt}} + \dfrac{\partial E^{(t+1)}}{\partial c^{\lt t \gt}}) . i^{\lt t \gt} . \dfrac{\partial g^{\lt t \gt}}{\partial r^{\lt t \gt}} . (x^{\lt t \gt})^T ]
   $ 
 {% endraw %}
 </p>
@@ -1390,7 +1390,7 @@ U:
 <p align="center">
 {% raw %}
   $
-    \dfrac{\partial L}{\partial U_o} = \sum_{t=1}^{T_y} [ (\dfrac{\partial E^{(t)}}{\partial a^{\lt t \gt}} + \dfrac{\partial E^{(t+1)}}{\partial a^{\lt t \gt}}) . p^{\lt t \gt} . \dfrac{\partial o^{\lt t \gt}}{\partial s^{\lt t \gt}} . (x^{\lt t \gt})^T ]
+    \dfrac{\partial L}{\partial U_o} = \sum_{t=1}^{T_y-1} [ (\dfrac{\partial E^{(t)}}{\partial a^{\lt t \gt}} + \dfrac{\partial E^{(t+1)}}{\partial a^{\lt t \gt}}) . p^{\lt t \gt} . \dfrac{\partial o^{\lt t \gt}}{\partial s^{\lt t \gt}} . (x^{\lt t \gt})^T ]
   $ 
 {% endraw %}
 </p>
@@ -1481,6 +1481,8 @@ The pros and cons of a typical RNN architecture are summed up in the table below
 * [Recurrent Neural Networks - University of Oxford](https://www.youtube.com/watch?v=56TYLaQN4N8).
 
 * [Neural Networks for Machine Learning](https://www.youtube.com/watch?v=hTcm8AJjvfE).
+
+* [Recurrent Networks a brief](https://arxiv.org/pdf/1610.02583.pdf).
 
 
 [o2o]:        /assets/ml/recurrent_networks/one-to-one.png
