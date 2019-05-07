@@ -311,6 +311,7 @@ An important programming languages to many applications in numeric fields, creat
 
   #pkg install control-1.0.0.tar.gz
   #pkg install control
+  #pkg load control
 
   a=3;
 
