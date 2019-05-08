@@ -2061,7 +2061,7 @@ The pros and cons of a typical RNN architecture are summed up in the table below
 :-------------------------:|:-------------------------:
  * Possibility of processing input of any length  |  * Computation being slow 
  * Model size not increasing with size of input | * Difficulty of accessing information from a long time ago
- * Computation takes into account historical information | Cannot consider any future input for the 
+ * Computation takes into account historical information | * Cannot consider any future input for the current state
  * Weights are shared across time | 
 
 ## Applications
@@ -2077,8 +2077,6 @@ The pros and cons of a typical RNN architecture are summed up in the table below
 
 ## References
 
-* [CS230 - Stanford University](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks).
-
 * [Gradient Vanishing Problem](http://proceedings.mlr.press/v28/pascanu13.pdf).
 
 * [Understanding LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/).
@@ -2086,6 +2084,8 @@ The pros and cons of a typical RNN architecture are summed up in the table below
 * [Recurrent Neural Networks - University of Oxford](https://www.youtube.com/watch?v=56TYLaQN4N8).
 
 * [Neural Networks for Machine Learning](https://www.youtube.com/watch?v=hTcm8AJjvfE).
+
+* [CS230 - Stanford University](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks).
 
 * [Recurrent Networks a brief](https://arxiv.org/pdf/1610.02583.pdf).
 
