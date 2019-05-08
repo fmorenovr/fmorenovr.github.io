@@ -34,6 +34,12 @@ See main article [Meta-Learning](/dl/meta_learning).
 
 There is a different models or approach those define algorithms based on mathematics, statistics and matrix models in deep learning.
 
+### Activation Functions
+
+Is the way to distribute data or scaling/normalize/standardize data to obtain a range of values to compare or classify.
+
+See main article [Activation Functions](/dl/activation_functions).
+
 ### Unsupervised Pretrained Networks
 
 See main article [UPN](/dl/unsupervised_petrained_networks).

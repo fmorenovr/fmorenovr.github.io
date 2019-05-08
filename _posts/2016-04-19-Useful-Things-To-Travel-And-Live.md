@@ -66,6 +66,7 @@ categories: Live-Hacks
 
     * Headphone (Marshall Brand)  
     
+    * Porta Laptop  
     * Laptop Cooler  
     * Laptop + Charger (Asus Rog Gamer)  
     * Mouse  
@@ -133,7 +134,7 @@ categories: Live-Hacks
 
     * Pantalones (Red, Dark Green, Steel Blue)  
     * Chinos (Khaki, White, Light Gray, Black)  
-    * Jeans (Hypnotic: Blue, Black)  
+    * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
     * Correa (Gray)  
     * Bermudas (3)  
 
