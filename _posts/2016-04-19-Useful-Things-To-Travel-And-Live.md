@@ -81,6 +81,7 @@ categories: Live-Hacks
     * Maleta  
     * Mochila  
     * Canguro (Waist Bag)  
+    * Canguro de Pierna (Leg Bag)  
 
 ### Artilugios
 
@@ -161,7 +162,8 @@ categories: Live-Hacks
 ## Prendas De Pijama
 
     * Polo  
-    * Calentador (Torso, Piernas, Pies)  
+    * Short  
+    * Calentadores de Licra (Torso, Piernas, Pies)  
 
 ## Prendas De Vestir
 
