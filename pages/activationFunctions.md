@@ -6,4 +6,6 @@ description: "Activation Functions list"
 permalink: /dl/activation_functions
 ---
 
+## Softmax
+
 

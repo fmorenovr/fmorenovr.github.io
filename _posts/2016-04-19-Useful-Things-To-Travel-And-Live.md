@@ -69,7 +69,7 @@ categories: Live-Hacks
     * Porta Laptop  
     * Laptop Cooler  
     * Laptop + Charger (Asus Rog Gamer)  
-    * Mouse  
+    * Mouse + porta-mouse  
 
 ### PortaDinero
 
@@ -141,6 +141,7 @@ categories: Live-Hacks
 
 ### Calzados
 
+    * Zapatillas Chukka (Casual Chukka)  
     * Slipper  
     * Sandalias (Flip Flop)  
     * Botines  
