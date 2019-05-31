@@ -3,7 +3,7 @@ layout: page
 title: "Recurrent Neural Networks"
 subtitle: "Recurrent Neural Networks algorithms"
 description: "RNN Algorithms"
-permalink: /dl/recurrent_networks
+permalink: /ml/recurrent_networks
 ---
 
 # Recurrent Neural Networks
