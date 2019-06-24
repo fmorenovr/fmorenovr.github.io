@@ -24,17 +24,17 @@ categories: Live-Hacks
 
 ### Higiene
 
-    * Cepillo dental de viaje  
+    * Cepillo  
     * Hilo dental  
     * Pasta dental  
-    * Enjuague bucal  
+    * Enjuague bucal (Listerine)  
 
-    * Jabon  
+    * Jabon (Dove)  
     * Shampoo (Dove)  
-    * Deshodorante  
+    * Deshodorante (Rexona)  
     * Lip Balm  
 
-    * Afeitadora  
+    * Afeitadora (Gillet)  
     * CortaUñas  
 
     * Isopos  
@@ -43,6 +43,9 @@ categories: Live-Hacks
 
     * Papel higienico  
     * Toalla  
+    
+    * Jabonera  
+    * Neceser  
 
 ### Oficina
 
@@ -59,10 +62,11 @@ categories: Live-Hacks
 
     * Memoria Portatil (1Tb Toshiba and 32Gb Kinston)  
     * Funda Rígida de Memoria  
-    * Bateria portatil  
 
+    * Bateria portatil  
     * Cable USB (USB multi charger cable)  
     * Phone + Charger (Fast Charge)  
+    * Funda de Cargador  
 
     * Headphone (Marshall Brand)  
     
@@ -75,13 +79,14 @@ categories: Live-Hacks
 
     * Billetera  
     * Monedero  
+    * Tarjetero  
 
 ### Mochilas/Bolsas
 
     * Maleta  
     * Mochila  
     * Canguro (Waist Bag)  
-    * Canguro de Pierna (Leg Bag)  
+    * Bolso    
 
 ### Artilugios
 
@@ -136,7 +141,6 @@ categories: Live-Hacks
     * Pantalones (Red, Dark Green, Steel Blue)  
     * Chinos (Khaki, White, Light Gray, Black)  
     * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
-    * Correa (Gray)  
     * Bermudas (3)  
 
 ### Calzados
@@ -179,7 +183,7 @@ categories: Live-Hacks
     
     * Corbatin (Bowtie: Black/White)  
     * Corbatas ()  
-    * Cinturon (Black/Brown)  
+    * Cinturon (Belt: Black/Brown)  
 
 ## Prendas De Deporte
 

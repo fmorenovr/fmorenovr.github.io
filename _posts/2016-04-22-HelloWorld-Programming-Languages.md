@@ -306,12 +306,13 @@ An important programming languages to many applications in numeric fields, creat
 
 * The Hello World program:
 
-  ```gnuoctave
+  ```matlab
   #!/usr/bin/env octave
 
   #pkg install control-1.0.0.tar.gz
   #pkg install control
   #pkg load control
+  #addpath(genpath('./../locallib'));
 
   a=3;
 
@@ -415,6 +416,8 @@ A very important programming language, created by Guido van Rossum.
   #!/usr/bin/env python
 
   # -*- coding: utf-8 -*-
+  
+  #from locallib import *
   import sys
 
   def main(argv):
