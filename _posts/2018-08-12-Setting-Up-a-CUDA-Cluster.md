@@ -36,7 +36,7 @@ We will install CUDA version.
   
       ubuntu-drivers devices
   
-  ![](/assets/clusterComputing/GPU/drivers.png)
+  ![drivers](/assets/clusterComputing/GPU/drivers.png)
 
 
 * Then install the driver (in our case, they recommend to install nvidia-390 for a GeForce GTX 950):
