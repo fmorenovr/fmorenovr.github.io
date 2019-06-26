@@ -205,6 +205,8 @@ permalink: /animes
 
 ## Manga
 
+* Black Clover
+* Boku no hero academy  
 * 1984
 * TETSUMAN ATOMO: ASTROBOY
 * JUNGLE TAITEI: KIMBA

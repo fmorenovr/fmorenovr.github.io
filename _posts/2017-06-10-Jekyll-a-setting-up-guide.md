@@ -13,6 +13,10 @@ See more info [here](https://jekyllrb.com/).
 
 ## Installing
 
+First, make sure you have all gcc dependencies:
+
+    sudo apt-get install build-essential
+
 For installing Jekyll, we just need install some dependencies:
 
 * Ruby: Programming language.

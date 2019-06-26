@@ -45,7 +45,6 @@ categories: Live-Hacks
     * Toalla  
     
     * Jabonera  
-    * Neceser  
 
 ### Oficina
 
@@ -80,6 +79,7 @@ categories: Live-Hacks
     * Billetera  
     * Monedero  
     * Tarjetero  
+    * Neceser  
 
 ### Mochilas/Bolsas
 
@@ -96,6 +96,12 @@ categories: Live-Hacks
     * Reloj (Plateado)  
     * Pulsera (Leather Bracelets)  
     * Anillo (Ring Infinity Gloves)  
+      * Esmeralda - Tiempo
+      * Zafiro - Espacio
+      * Rubi - Realidad
+      * Amatista - Poder
+      * Ambar - Mente
+      * Agata - Alma
     
     * Paraguas (Qiuyeyuan Brand - Zodiac Umbrella Sword)  
 
