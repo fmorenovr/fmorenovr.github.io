@@ -49,6 +49,13 @@ We will install CUDA version.
 
   You should see this kind of information:
   ![nvidia-smi](/assets/clusterComputing/GPU/nvidia-smi.png)
+  
+* If your nvidia-smi failed to communicate but you've installed the driver so many times, check prime-select:
+
+    * Run `prime-select query` to get all possible options. You should see at least `nvidia | intel`.
+    * Choose `prime-select nvidia`.
+    * If it says `nvidia is already selected`, select a different one, e.g. `prime-select intel`, then switch back to nvidia `prime-select nvidia`.
+    * Reboot and check `nvidia-smi`.
 
 * Once installed nvidia-drivers, we need to install cuda library, first download file installer:
 
@@ -57,6 +64,7 @@ We will install CUDA version.
       sudo apt-key add /var/cuda-repo-9-0-local/7fa2af80.pub
       sudo apt-get update
       sudo apt-get install cuda
+      sudo apt-get install nvidia-cuda-toolkit
 
 * Finally, modify `.bashrc` file, write these lines:
 

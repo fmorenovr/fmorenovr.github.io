@@ -1,5 +1,3 @@
-buscar mi isotipo.
-
 datacenter (storages and servers), data warehouse -> data mart.
 
 DB cluster.
@@ -33,8 +31,6 @@ share on fb, twitter, linkedin.
 COMPLETE TUTORIALS
 
 CPU Cluster -> MPICH cluster
-
-complete Byobu
 
 node-red -> watson
 
