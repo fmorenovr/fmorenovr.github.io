@@ -15,7 +15,7 @@ We need to install CUDA (Compute Unified Device Architecture).
 Is a platform of parallel computing that includes a compiler and a set of toolkits created by nVidia.  
 CUDA allows to developers use a variation of C language to code in GPU nVidia.
 
-# How to install CUDA
+# How to install NVIDIA Driver
 
 We will install CUDA version.
 
@@ -41,7 +41,30 @@ We will install CUDA version.
 
 * Then install the driver (in our case, they recommend to install nvidia-390 for a GeForce GTX 950):
   
-      sudo apt-get install nvidia-390
+      sudo apt-get install nvidia-driver-390
+
+* Or, you just can run:
+
+      sudo ubuntu-drivers install
+
+  When you are installing NVIDIA, it ask for a password (just simple security) and if when you are rebooting appears a blue screen asking for MOK password (see the section below).
+  
+  
+#### Dealing with MOK (only for UEFI Secure Boot enabled devices)
+  
+If you were asked to setup a secure boot password, you’ll see a blue screen that says something about “MOK management”. It’s a complicated topic and I’ll try to explain it in simpler terms.
+
+MOK (Machine Owner Key) is needed due to the secure boot feature that requires all kernel modules to be signed. Ubuntu does that for all the kernel modules that it ships in the ISO. Because you installed a new module (the additional driver) or made a change in the kernel modules, your secure system may treat it as an unwarranted/foreign change in your system and may refuse to boot.
+
+If you select “Continue boot”, chances are that your system will boot like normal and you won’t have to do anything at all. But it’s possible that not all features of the new driver work correctly.
+
+This is why, you should choose `Enroll MOK`.
+  
+  ![MOK](/assets/clusterComputing/GPU/MOK.jpg)
+  
+It will ask you to Continue in the next screen followed by asking a password. Use the password you had set while installing the additional drivers (in this case NVIDIA driver). You’ll be asked to reboot now.
+
+# Continue the installation
 
 * Then, Reboot your computer. To verify the installation, open a terminal and run the following command:
 
@@ -56,6 +79,8 @@ We will install CUDA version.
     * Choose `prime-select nvidia`.
     * If it says `nvidia is already selected`, select a different one, e.g. `prime-select intel`, then switch back to nvidia `prime-select nvidia`.
     * Reboot and check `nvidia-smi`.
+
+## How to install CUDA
 
 * Once installed nvidia-drivers, we need to install cuda library, first download file installer:
 
