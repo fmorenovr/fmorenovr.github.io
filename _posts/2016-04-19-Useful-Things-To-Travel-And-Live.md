@@ -198,6 +198,7 @@ categories: Live-Hacks
     * Guantes Sport (Sport Gloves)  
     * Short Sport  
     * Buzo (Joggers: Dark Gray, Jogger rayado: Black)  
-    * Runner (Athletic Shoes)  
+    * Runners (Athletic Shoes)  
     * Bolso de Cordones (Gym Sport Bag Cordons)  
+    * Tomatodo  
 
