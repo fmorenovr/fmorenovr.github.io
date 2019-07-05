@@ -41,9 +41,9 @@ We will install CUDA version.
 
       sudo ubuntu-drivers install
 
-* Or install the driver (in our case, they recommend to install nvidia-390 for a **GeForce GTX 950**):
+* Or install the driver (in our case, they recommend to install nvidia-430 for a **GeForce GTX 1070**):
   
-      sudo apt-get install nvidia-driver-390
+      sudo apt-get install nvidia-driver-430
 
 * Or click [here](https://www.nvidia.com/Download/index.aspx) to see NVIDIA recommendations and download the `.run` file to install it.
       
