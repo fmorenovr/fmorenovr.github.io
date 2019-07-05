@@ -24,7 +24,7 @@ We will install CUDA version.
       lspci | grep ' VGA ' | cut -d" " -f 1 | xargs -i lspci -v -s {}
 
    The output should show the GPU name and the driver, we have NVIDIA GPU
-   ![gpu-features](/assets/clusterComputing/GPU/gpu-features.png)
+   ![gpu-features](/assets/clusterComputing/GPU/gpu-devices.png)
 
 * Next, Add and Update your GPU driver repository:
 
