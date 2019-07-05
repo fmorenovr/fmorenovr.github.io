@@ -31,24 +31,23 @@ We will install CUDA version.
       sudo add-apt-repository ppa:graphics-drivers/ppa
       sudo apt-get update
   
-  Now, we need to check which driver should we install [here](https://www.nvidia.com/Download/index.aspx) or
-  check which driver is the best option (in our case, we use ubuntu):
+  Now, we need to check which driver should we install, just run to see recommendations:
   
       ubuntu-drivers devices
   
   ![drivers](/assets/clusterComputing/GPU/drivers.png)
 
-
-* Then install the driver (in our case, they recommend to install nvidia-390 for a GeForce GTX 950):
-  
-      sudo apt-get install nvidia-driver-390
-
-* Or, you just can run:
+* Then. you can install the driver recommended by the OS:
 
       sudo ubuntu-drivers install
 
-  When you are installing NVIDIA, it ask for a password (just simple security) and if when you are rebooting appears a blue screen asking for MOK password (see the section below).
+* Or install the driver (in our case, they recommend to install nvidia-390 for a **GeForce GTX 950**):
   
+      sudo apt-get install nvidia-driver-390
+
+* Or click [here](https://www.nvidia.com/Download/index.aspx) to see NVIDIA recommendations and download the `.run` file to install it.
+      
+  While you are installing NVIDIA, it ask for a password (just simple security) and if when you are rebooting appears a blue screen asking for MOK password (see the section below).
   
 #### Dealing with MOK (only for UEFI Secure Boot enabled devices)
   
