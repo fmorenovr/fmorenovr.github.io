@@ -24,31 +24,30 @@ We will install CUDA version.
       lspci | grep ' VGA ' | cut -d" " -f 1 | xargs -i lspci -v -s {}
 
    The output should show the GPU name and the driver, we have NVIDIA GPU
-   ![gpu-features](/assets/clusterComputing/GPU/gpu-features.png)
+   ![gpu-features](/assets/clusterComputing/GPU/gpu-devices.png)
 
 * Next, Add and Update your GPU driver repository:
 
       sudo add-apt-repository ppa:graphics-drivers/ppa
       sudo apt-get update
   
-  Now, we need to check which driver should we install [here](https://www.nvidia.com/Download/index.aspx) or
-  check which driver is the best option (in our case, we use ubuntu):
+  Now, we need to check which driver should we install, just run to see recommendations:
   
       ubuntu-drivers devices
   
   ![drivers](/assets/clusterComputing/GPU/drivers.png)
 
-
-* Then install the driver (in our case, they recommend to install nvidia-390 for a GeForce GTX 950):
-  
-      sudo apt-get install nvidia-driver-390
-
-* Or, you just can run:
+* Then. you can install the driver recommended by the OS:
 
       sudo ubuntu-drivers install
 
-  When you are installing NVIDIA, it ask for a password (just simple security) and if when you are rebooting appears a blue screen asking for MOK password (see the section below).
+* Or install the driver (in our case, they recommend to install nvidia-430 for a **GeForce GTX 1070**):
   
+      sudo apt-get install nvidia-driver-430
+
+* Or click [here](https://www.nvidia.com/Download/index.aspx) to see NVIDIA recommendations and download the `.run` file to install it.
+      
+  While you are installing NVIDIA, it ask for a password (just simple security) and if when you are rebooting appears a blue screen asking for MOK password (see the section below).
   
 #### Dealing with MOK (only for UEFI Secure Boot enabled devices)
   
@@ -82,7 +81,7 @@ It will ask you to Continue in the next screen followed by asking a password. Us
 
 ## How to install CUDA
 
-* Once installed nvidia-drivers, we need to install cuda library, first download file installer:
+* Once installed nvidia-drivers, we need to install cuda library, first download file installer (check [here](https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1804&target_type=deblocal)):
 
       wget https://developer.nvidia.com/compute/cuda/9.0/Prod/local_installers/cuda-repo-ubuntu1704-9-0-local_9.0.176-1_amd64-deb
       sudo dpkg -i cuda-repo-ubuntu1704-9-0-local_9.0.176-1_amd64.deb

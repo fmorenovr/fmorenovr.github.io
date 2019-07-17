@@ -1,4 +1,4 @@
-Jenazads.github.io
+# fmorenovr.github.io
 =====================
 This is my website developed on jekyll and ruby.
 
@@ -10,6 +10,6 @@ Users are free to copy and re-use any and all of the code contained here without
 
 [jekyll-home]:      https://jekyllrb.com/
 [github-pages]:     https://guides.github.com/features/pages/
-[jen-profile]:      https://github.com/Jenazads/
+[jen-profile]:      https://github.com/fmorenovr/
 [jekyll-localhost]: https://jenazads.github.io/webservices/Jekyll-a-setting-up-guide
 
