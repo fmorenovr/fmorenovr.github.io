@@ -73,6 +73,9 @@ categories: Live-Hacks
     * Laptop Cooler  
     * Laptop + Charger (Asus Rog Gamer)  
     * Mouse + porta-mouse  
+    
+    * Power Extension  
+    * Caja Herramientas  
 
 ### PortaDinero
 
@@ -87,6 +90,7 @@ categories: Live-Hacks
     * Mochila  
     * Canguro (Waist Bag)  
     * Bolso    
+    * Cartuchera  
 
 ### Artilugios
 
