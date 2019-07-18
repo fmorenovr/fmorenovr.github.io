@@ -1,16 +1,9 @@
-datacenter (storages and servers), data warehouse -> data mart.
-
-DB cluster.
-
 GPU cluster.
 
 CPU benchmark, MQTT benchmark, HTTP benchmark.
 MPICH cluster.
 
 VM-OS-level (docker).
-
-how nestor manipulates inbounds/outbounds ports and networks in CTIC.
-how yauri administrates servers on CTIC
 
 Cloud service - IaaS, PaaS, SaaS, XaaS - like cluster processing and data analysis.
 
@@ -25,8 +18,6 @@ WEB PAGE
 Ordenar los post (buscador de post, mostrar por cuadros, unos 6 posts por pagina).
 
 Interactive chat.
-
-share on fb, twitter, linkedin.
 
 COMPLETE TUTORIALS
 
