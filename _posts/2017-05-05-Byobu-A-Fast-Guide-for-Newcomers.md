@@ -14,8 +14,4 @@ Multiples bash sessions in only one xsession
 Then, watch video below to learn how to manage byobu.  
 Credits: [Byobu Team](http://byobu.co/about.html) (Dustin Kirkland).
 
-<div align="center">
-  <video poster="/assets/graphicalShell/Byobu/byobu.png" width="618" height="347" controls preload> 
-    <source src="/assets/graphicalShell/Byobu/byobu.mp4" media="only screen and (min-device-width: 568px)"></source>
-  </video>
-</div>
+{% include videoPlayer.md poster="/assets/graphicalShell/Byobu/byobu.png" src="/assets/graphicalShell/Byobu/byobu.mp4" %}
