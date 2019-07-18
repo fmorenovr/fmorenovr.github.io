@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: post
 title: "Supervised Learning"
 subtitle: "Models and algorithms in Supervised Learning"
 description: "Supervised Learning Algorithms"
+date:   2019-05-20 12:15:12 -0500
 permalink: /ml/supervised_learning
 ---
 

@@ -1,8 +1,9 @@
 ---
-layout: page
-title: "Recurrent Neural Networks"
-subtitle: "Recurrent Neural Networks algorithms"
-description: "RNN Algorithms"
+layout: post
+title: "Artificial Neural Networks"
+subtitle: "Artificial Neural Networks algorithms"
+description: "ANN Algorithms"
+date:   2019-05-20 12:15:12 -0500
 permalink: /ml/neural_networks
 ---
 

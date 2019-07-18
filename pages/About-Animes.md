@@ -3,7 +3,7 @@ layout: page
 title: "My anime/manga list"
 subtitle: ""
 description: ""
-permalink: /animes
+permalink: /about/animes
 ---
 
 ## Anime

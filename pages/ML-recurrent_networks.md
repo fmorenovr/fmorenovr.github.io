@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: post
 title: "Recurrent Neural Networks"
 subtitle: "Recurrent Neural Networks algorithms"
 description: "RNN Algorithms"
+date:   2019-05-20 12:15:12 -0500
 permalink: /ml/recurrent_networks
 ---
 

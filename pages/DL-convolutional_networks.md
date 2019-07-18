@@ -1,8 +1,9 @@
 ---
-layout: page
-title: "Recurrent Neural Networks"
-subtitle: "Recurrent Neural Networks algorithms"
-description: "RNN Algorithms"
+layout: post
+title: "Convolutional Neural Networks"
+subtitle: "Convolutional Neural Networks algorithms"
+description: "CNN Algorithms"
+date:   2019-05-20 12:15:12 -0500
 permalink: /dl/convolutional_networks
 ---
 

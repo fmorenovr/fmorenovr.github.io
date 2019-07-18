@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: post
 title: "Regularization"
 subtitle: "Regularization algorithms for Models and algorithms"
 description: "Regularization Algorithms"
+date:   2019-05-18 12:15:12 -0500
 permalink: /ml/regularization
 ---
 

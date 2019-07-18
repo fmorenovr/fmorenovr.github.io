@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: page
 title:  "From Peru to the World."
 subtitle: Here you will know more about my country
-date:   2016-04-15 12:15:12 -0500
-categories: Countries
+description: ""
+permalink: /about/Peru
 ---
 
 ## Peru

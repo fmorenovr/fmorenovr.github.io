@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: page
 title:  "Useful things to travel and live."
 subtitle: Here you will learn what you need to travel quietly.
-date:   2016-04-19 12:15:12 -0500
-categories: Live-Hacks
+description: ""
+permalink: /about/traveling
 ---
 
 ## Documentos
