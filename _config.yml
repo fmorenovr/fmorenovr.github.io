@@ -23,7 +23,7 @@ google_analytics:
 # BUILD SETTINGS
 
 markdown: kramdown
-theme: jekyll-theme-cayman-blog
+theme: jekyll-theme-cayman
 #plugins:
 #  - jekyll-feed
 #exclude:
