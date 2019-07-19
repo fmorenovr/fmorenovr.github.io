@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: Jenazads Website
+title: Felipe A. Moreno
 imageBackground: "/assets/me/me_huaytapallana.jpg"
 ---
 <div align="center"><h1>Welcome to my personal website!!</h1></div>
