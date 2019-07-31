@@ -155,7 +155,7 @@ permalink: /about/traveling
 
 ### Calzados
 
-    * Zapatillas Chukka (Casual Chukka)  
+    * Zapatillas Chukka (Casual Chukka: Electric Blue)  
     * Slipper  
     * Sandalias (Flip Flop)  
     * Botines  
