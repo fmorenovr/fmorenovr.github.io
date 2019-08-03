@@ -126,7 +126,7 @@ permalink: /about/traveling
 
 ### Camisetas/Jerseys/Camisas
 
-    * Camisetas (Tee: Gray, White, Sky Blue, Light Blue, Red, Black, Dark Mustard, Light Purple, Green)  
+    * Camisetas (Tee: Gray, White, Iron Blue, Light Blue, Red, Black, Dark Mustard, Light Purple, Green)  
     * Jersey Cuello Alto (Turtleneck Sweater: Red, Black, Dark Blue)  
     * Jersey Cuello V (V-neck Sweater: Beige)  
     * Sudadera con Capucha (Hooded Sweatshirt)  
@@ -176,8 +176,7 @@ permalink: /about/traveling
 
 ## Prendas De Pijama
 
-    * Polo  
-    * Short  
+    * Conjunto de pijama  
     * Calentadores de Licra (Torso, Piernas, Pies)  
 
 ## Prendas De Vestir
