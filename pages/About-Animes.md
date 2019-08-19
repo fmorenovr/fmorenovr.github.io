@@ -9,6 +9,7 @@ permalink: /about/animes
 ## Anime
 
 * Amelia
+* HAMATORA
 * Mr. nobody
 * DEVIL MAY CRY
 * DEVILMAN
