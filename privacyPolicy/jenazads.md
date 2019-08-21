@@ -1,9 +1,9 @@
 ---
 layout: privacyPolicy
-title: Jenazads
+title: Policy
 subtitle: "Felipe A. Moreno (Jenazads) Policy"
-description: Jenazads Privacy Policy website
-permalink: /privacyPolicy/jenazads
+description: Privacy Policy website
+permalink: /privacyPolicy/fmorenovr
 ---
 <div align="center">
   <img src="/assets/privacyPolicy/Jenazads/Logotipo.png" alt="Jenazads Logotipo" width="120" height="100">
