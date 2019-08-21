@@ -3,7 +3,7 @@ layout: page
 title:  "Martial Arts"
 subtitle: Some martial arts that I like
 description: ""
-permalink: /about/martial_arts_health
+permalink: /about/martialarts
 ---
 
 # Martial Arts
