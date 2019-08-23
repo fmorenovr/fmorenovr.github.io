@@ -9,7 +9,7 @@ permalink: /ml/recurrent_networks
 
 # Recurrent Neural Networks
 
-Is a class of [ANN](/ml/neural_networks) where connections between nodes form a directed graph along a temporal sequence.  
+It is a class of [Artificial Neural Network](/ml/neural_networks) where connections between nodes form a directed graph along a temporal sequence.
 RNNs can use their internal state (memory) to process sequences of inputs.
 
 ## Traditional Architecture
@@ -33,6 +33,8 @@ There are different architectures to different applications:
  Many-to-Many {% raw %} $ T_x \neq T_y $ {% endraw %} | ![][m2m_2] | A sequence of multiple steps as input mapped to a sequence with multiple steps as output.
 
 ### Forward Propagation
+
+To train an RNN, we need to do the same steps as an ANN, ForwardProp, and BackProp. Our model and parameters are shown below:
 
 <p align="center">
   <img src="/assets/ml/recurrent_networks/architecture.png">
