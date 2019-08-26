@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Libraries useful in C."
+title:  "Useful Libraries in C."
 subtitle: Here you'll learn how to install and use some useful libraries in C language.
 date:   2016-04-20 12:15:12 -0500
 categories: Programming-Language
