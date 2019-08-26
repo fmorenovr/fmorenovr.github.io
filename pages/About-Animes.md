@@ -8,6 +8,7 @@ permalink: /about/animes
 
 ## Anime
 
+* LAIN
 * Amelia
 * HAMATORA
 * Mr. nobody
