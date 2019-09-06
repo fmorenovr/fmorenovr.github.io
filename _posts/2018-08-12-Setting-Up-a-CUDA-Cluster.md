@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Setting Up a CUDA Cluster."
+title:  "Setting Up a GPU Cluster."
 subtitle: Here you'll learn how to build your own cluster that uses CUDA library to execute programs in parallel mode.
 date:   2018-08-12 00:15:12 -0500
 categories: Cluster-Computing
@@ -154,7 +154,7 @@ It will ask you to Continue in the next screen followed by asking a password. Us
  
 * Compile and execute with:
  
-      nvcc hellWorld.cu -o helloWorld
+      nvcc helloWorld.cu -o helloWorld
       ./helloWorld
 
 ## Additional requeriments to work with GPU
