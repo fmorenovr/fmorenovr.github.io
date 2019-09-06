@@ -163,8 +163,8 @@ It will ask you to Continue in the next screen followed by asking a password. Us
 
 To install CUDA NN deep learning for neural networks in CUDA:
 
-* go to [cudnn](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#download)  
-* once you log into the system you can select cuDNN dev or lib compatible with your CUDA version
+* Go to [cudnn](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#download)  
+* Once you log into the system, go to download page[](https://developer.nvidia.com/rdp/cudnn-download), you can select cuDNN dev or lib compatible with your CUDA version
 * Select CUDNN 7.0.5 for CUDA 9.0 (or CUDA 10.0)  
 * Download the cuDNN v7.0.5 Library for Linux (deb file)  
 * Open a terminal in the directory the tar file is located and run  
