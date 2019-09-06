@@ -157,23 +157,22 @@ It will ask you to Continue in the next screen followed by asking a password. Us
       nvcc hellWorld.cu -o helloWorld
       ./helloWorld
 
-## Additional information
+## Additional requeriments to work with GPU
+
+### CUDADNN
 
 To install CUDA NN deep learning for neural networks in CUDA:
 
-* go to [cudnn](https://developer.nvidia.com/cudnn)  
-* Select CUDNN 7.0.5 for CUDA 9.0  
-* Download the cuDNN v7.0.5 Library for Linux (tar file)  
-* Open a terminal in the directory the tar file is located  
-* Unzip the tar file using the command:  
+* go to [cudnn](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#download)  
+* once you log into the system you can select cuDNN dev or lib compatible with your CUDA version
+* Select CUDNN 7.0.5 for CUDA 9.0 (or CUDA 10.0)  
+* Download the cuDNN v7.0.5 Library for Linux (deb file)  
+* Open a terminal in the directory the tar file is located and run  
 
-      tar -xzvf cudnn-9.0-linux-x64-v7.2.1.38.tgz
+      sudo dpkg -i libcudnn7-dev_7.6.3.30-1+cuda10.1_amd64.deb
+      sudo dpkg -i libcudnn7_7.6.3.30-1+cuda10.1_amd64.deb
 
-* Run the following commands to move the appropriate files to the CUDA folder:
 
-      sudo cp cuda/include/cudnn.h /usr/local/cuda/include
-      sudo cp cuda/lib64/libcudnn* /usr/local/cuda/lib64
-      sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib64/libcudnn*
 
 ## Install PyTorch
 
