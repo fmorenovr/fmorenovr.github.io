@@ -79,15 +79,17 @@ It will ask you to Continue in the next screen followed by asking a password. Us
     * If it says `nvidia is already selected`, select a different one, e.g. `prime-select intel`, then switch back to nvidia `prime-select nvidia`.
     * Reboot and check `nvidia-smi`.
 
-## How to install CUDA
+## How to install CUDA 10
 
 * Once installed nvidia-drivers, we need to install cuda library, first download file installer (check [here](https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1804&target_type=deblocal)):
 
-      wget https://developer.nvidia.com/compute/cuda/9.0/Prod/local_installers/cuda-repo-ubuntu1704-9-0-local_9.0.176-1_amd64-deb
-      sudo dpkg -i cuda-repo-ubuntu1704-9-0-local_9.0.176-1_amd64.deb
-      sudo apt-key add /var/cuda-repo-9-0-local/7fa2af80.pub
+      wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-ubuntu1804.pin
+      sudo mv cuda-ubuntu1804.pin /etc/apt/preferences.d/cuda-repository-pin-600
+      wget http://developer.download.nvidia.com/compute/cuda/10.1/Prod/local_installers/cuda-repo-ubuntu1804-10-1-local-10.1.243-418.87.00_1.0-1_amd64.deb
+      sudo dpkg -i cuda-repo-ubuntu1804-10-1-local-10.1.243-418.87.00_1.0-1_amd64.deb
+      sudo apt-key add /var/cuda-repo-10-1-local-10.1.243-418.87.00/7fa2af80.pub
       sudo apt-get update
-      sudo apt-get install cuda
+      sudo apt-get -y install cuda
       sudo apt-get install nvidia-cuda-toolkit
 
 * Finally, modify `.bashrc` file, write these lines:
@@ -165,14 +167,12 @@ To install CUDA NN deep learning for neural networks in CUDA:
 
 * Go to [cudnn](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#download)  
 * Once you log into the system, go to download page[](https://developer.nvidia.com/rdp/cudnn-download), you can select cuDNN dev or lib compatible with your CUDA version
-* Select CUDNN 7.0.5 for CUDA 9.0 (or CUDA 10.0)  
+* Select CUDNN 7.0.5 for CUDA 10.0  
 * Download the cuDNN v7.0.5 Library for Linux (deb file)  
 * Open a terminal in the directory the tar file is located and run  
 
       sudo dpkg -i libcudnn7-dev_7.6.3.30-1+cuda10.1_amd64.deb
       sudo dpkg -i libcudnn7_7.6.3.30-1+cuda10.1_amd64.deb
-
-
 
 ## Install PyTorch
 
