@@ -63,6 +63,8 @@ This is why, you should choose `Enroll MOK`.
   
 It will ask you to Continue in the next screen followed by asking a password. Use the password you had set while installing the additional drivers (in this case NVIDIA driver). You’ll be asked to reboot now.
 
+      enroll MOK -> continue -> enter password -> reboot
+
 # Continue the installation
 
 * Then, Reboot your computer. To verify the installation, open a terminal and run the following command:
