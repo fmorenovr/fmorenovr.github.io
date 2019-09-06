@@ -49,8 +49,8 @@ We will install CUDA version.
       
   While you are installing NVIDIA, it ask for a password (just simple security) and if when you are rebooting appears a blue screen asking for MOK password (see the section below).
   
-      ![MOK](/assets/clusterComputing/GPU/uefi.png)
-      ![MOK](/assets/clusterComputing/GPU/passwd.png)
+    ![MOK](/assets/clusterComputing/GPU/uefi.png)
+    ![MOK](/assets/clusterComputing/GPU/passwd.png)
   
 #### Dealing with MOK (only for UEFI Secure Boot enabled devices)
   
