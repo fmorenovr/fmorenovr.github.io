@@ -59,7 +59,7 @@ Here is my native country: Peru
 [Lambayeque]:      /assets/Peru_Maps/Costa/3-Lambayeque.jpg
 [La-Libertad]:     /assets/Peru_Maps/Costa/4-La_Libertad.jpg
 [Ancash]:          /assets/Peru_Maps/Costa/5-Ancash.png
-[Lima]:            /assets/Peru_Maps/Costa/6-Lima
+[Lima]:            /assets/Peru_Maps/Costa/6-Lima.jpg
 [Ica]:             /assets/Peru_Maps/Costa/7-Ica.jpg
 [Arequipa]:        /assets/Peru_Maps/Costa/8-Arequipa.jpg
 [Moquegua]:        /assets/Peru_Maps/Costa/9-Moquegua.jpg
