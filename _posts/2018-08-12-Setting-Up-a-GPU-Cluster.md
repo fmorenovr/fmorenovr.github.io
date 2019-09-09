@@ -119,6 +119,12 @@ It will ask you to Continue in the next screen followed by asking a password. Us
       
       source .bashrc
 
+* To verify cuda installation, just run:
+
+      nvcc -V
+   
+  ![](/assets/clusterComputing/GPU/nvcc.png)
+
 ## Error with compiler gcc/g++ compatibility
 
 * First, identify with error do you have (compiler version with `gcc --version`), then install it (in this case is gcc-6):
