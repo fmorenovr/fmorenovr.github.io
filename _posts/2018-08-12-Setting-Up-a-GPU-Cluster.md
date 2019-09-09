@@ -106,8 +106,9 @@ It will ask you to Continue in the next screen followed by asking a password. Us
 
 * Finally, modify `.bashrc` file, write these lines:
 
-      export PATH=/usr/local/cuda/bin${PATH:+:$PATH}}
-      export LD_LIBRARY_PATH=/usr/local/cuda/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+      export PATH=$PATH:/usr/local/cuda-10.0/bin
+      export CUDADIR=/usr/local/cuda-10.0
+      export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-10.0/lib64
 
 * After modify that file, run:
       
