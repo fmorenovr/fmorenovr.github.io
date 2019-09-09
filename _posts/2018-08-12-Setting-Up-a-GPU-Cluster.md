@@ -95,7 +95,6 @@ It will ask you to Continue in the next screen followed by asking a password. Us
       sudo apt-key add /var/cuda-repo-10-1-local-10.1.243-418.87.00/7fa2af80.pub
       sudo apt-get update
       sudo apt-get -y install cuda
-      sudo apt-get install nvidia-cuda-toolkit
 
 * If you have some error when you are installing cuda-toolkit like image below:
    
