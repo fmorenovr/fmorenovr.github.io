@@ -100,7 +100,7 @@ It will ask you to Continue in the next screen followed by asking a password. Us
    
   ![cuda-toolkit](/assets/clusterComputing/GPU/cuda-toolkit.png)
   
-  You van fixe up it with the following command:
+  You can fixe up it with the following command:
     
       sudo apt-get -o Dpkg::Options::="--force-overwrite" install --fix-broken
 
