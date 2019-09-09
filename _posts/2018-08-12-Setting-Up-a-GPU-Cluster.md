@@ -104,11 +104,16 @@ It will ask you to Continue in the next screen followed by asking a password. Us
     
       sudo apt-get -o Dpkg::Options::="--force-overwrite" install --fix-broken
 
-* Finally, modify `.bashrc` file, write these lines:
+* Finally, modify `.bashrc` file, write these lines (if your cuda dir is like cuda-10.0):
 
       export PATH=$PATH:/usr/local/cuda-10.0/bin
       export CUDADIR=/usr/local/cuda-10.0
       export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-10.0/lib64
+
+  or just:
+     
+      export PATH=/usr/local/cuda/bin${PATH:+:$PATH}}
+      export LD_LIBRARY_PATH=/usr/local/cuda/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
 
 * After modify that file, run:
       
