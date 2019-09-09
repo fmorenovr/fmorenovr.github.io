@@ -182,10 +182,10 @@ To install CUDA NN deep learning for neural networks in CUDA:
 * Once you log into the system, go to download page[](https://developer.nvidia.com/rdp/cudnn-download), you can select cuDNN dev or lib compatible with your CUDA version
 * Select CUDNN 7.0.5 for CUDA 10.0  
 * Download the cuDNN v7.0.5 Library for Linux (deb file)  
-* Open a terminal in the directory the tar file is located and run  
+* Open a terminal in the directory the tar file is located and run (in order):  
 
-      sudo dpkg -i libcudnn7-dev_7.6.3.30-1+cuda10.1_amd64.deb
       sudo dpkg -i libcudnn7_7.6.3.30-1+cuda10.1_amd64.deb
+      sudo dpkg -i libcudnn7-dev_7.6.3.30-1+cuda10.1_amd64.deb
 
 ## Install PyTorch
 
