@@ -99,7 +99,7 @@ It will ask you to Continue in the next screen followed by asking a password. Us
 
 * If you have some error when you are installing cuda-toolkit like image below:
    
-  ![](/assets/clusterComputing/GPU/cuda-toolkit.png)
+  ![cuda-toolkit](/assets/clusterComputing/GPU/cuda-toolkit.png)
   
   You van fixe up it with the following command:
     
