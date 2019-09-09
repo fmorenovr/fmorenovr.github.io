@@ -187,21 +187,5 @@ To install CUDA NN deep learning for neural networks in CUDA:
       sudo dpkg -i libcudnn7_7.6.3.30-1+cuda10.1_amd64.deb
       sudo dpkg -i libcudnn7-dev_7.6.3.30-1+cuda10.1_amd64.deb
 
-## Install PyTorch
-
-Go to [pytorch](https://pytorch.org/) and download the recommended tool.  
-In this case:
-
-    pip3 install torch torchvision
-
-## Install TensorFlow
-
-Install it with pip:
-
-    sudo apt-get install python3-pip python3-dev
-    pip3 install --upgrade tensorflow
-    pip3 install --upgrade tensorflow-gpu
-
-
 
 [GPUJcluster_link]:   /cluster-computing/Setting-up-a-GPU-Cluster-in-linux-machines
