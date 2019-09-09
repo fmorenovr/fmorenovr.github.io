@@ -97,6 +97,14 @@ It will ask you to Continue in the next screen followed by asking a password. Us
       sudo apt-get -y install cuda
       sudo apt-get install nvidia-cuda-toolkit
 
+* If you have some error when you are installing cuda-toolkit like image below:
+   
+  ![](/assets/clusterComputing/GPU/cuda-toolkit.png)
+  
+  You van fixe up it with the following command:
+    
+      sudo apt-get -o Dpkg::Options::="--force-overwrite" install --fix-broken
+
 * Finally, modify `.bashrc` file, write these lines:
 
       export PATH=/usr/local/cuda/bin${PATH:+:$PATH}}
