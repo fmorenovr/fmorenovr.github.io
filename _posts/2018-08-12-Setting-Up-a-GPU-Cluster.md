@@ -125,16 +125,19 @@ It will ask you to Continue in the next screen followed by asking a password. Us
    
   ![](/assets/clusterComputing/GPU/nvcc.png)
 
-## Error with compiler gcc/g++ compatibility
 
-* First, identify with error do you have (compiler version with `gcc --version`), then install it (in this case is gcc-6):
+### CUDADNN (Deep Learning Toolkits)
 
-      sudo apt-get install gcc-6 g++-6
+To install CUDA NN deep learning for neural networks in CUDA:
 
-* And link the gcc cuda compiler with gcc-version (in this case 6):
+* Go to [cudnn](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#download) or [here](https://developer.nvidia.com/rdp/cudnn-download)  
+* Once you log into the system, go to download page[](https://developer.nvidia.com/rdp/cudnn-download), you can select cuDNN dev or lib compatible with your CUDA version
+* Select CUDNN 7.0.5 for CUDA 10.0  
+* Download the cuDNN v7.0.5 Library for Linux (deb file)  
+* Open a terminal in the directory the tar file is located and run (in order):  
 
-      sudo ln -s /usr/bin/gcc-6 /usr/local/cuda/bin/gcc 
-      sudo ln -s /usr/bin/g++-6 /usr/local/cuda/bin/g++
+      sudo dpkg -i libcudnn7_7.6.3.30-1+cuda10.1_amd64.deb
+      sudo dpkg -i libcudnn7-dev_7.6.3.30-1+cuda10.1_amd64.deb
 
 ## Example
 
@@ -183,20 +186,18 @@ It will ask you to Continue in the next screen followed by asking a password. Us
       nvcc helloWorld.cu -o helloWorld
       ./helloWorld
 
-## Additional requeriments to work with GPU
+### Error with compiler gcc/g++ compatibility
 
-### CUDADNN
+Just in you got a compilation error!
 
-To install CUDA NN deep learning for neural networks in CUDA:
+* First, identify with error do you have (compiler version with `gcc --version`), then install it (in this case is gcc-6):
 
-* Go to [cudnn](https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html#download) or [here](https://developer.nvidia.com/rdp/cudnn-download)  
-* Once you log into the system, go to download page[](https://developer.nvidia.com/rdp/cudnn-download), you can select cuDNN dev or lib compatible with your CUDA version
-* Select CUDNN 7.0.5 for CUDA 10.0  
-* Download the cuDNN v7.0.5 Library for Linux (deb file)  
-* Open a terminal in the directory the tar file is located and run (in order):  
+      sudo apt-get install gcc-6 g++-6
 
-      sudo dpkg -i libcudnn7_7.6.3.30-1+cuda10.1_amd64.deb
-      sudo dpkg -i libcudnn7-dev_7.6.3.30-1+cuda10.1_amd64.deb
+* And link the gcc cuda compiler with gcc-version (in this case 6):
+
+      sudo ln -s /usr/bin/gcc-6 /usr/local/cuda/bin/gcc 
+      sudo ln -s /usr/bin/g++-6 /usr/local/cuda/bin/g++
 
 
 [GPUJcluster_link]:   /cluster-computing/Setting-up-a-GPU-Cluster-in-linux-machines
