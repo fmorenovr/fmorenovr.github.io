@@ -26,7 +26,7 @@ permalink: /about/traveling
 
     * Cepillo  
     * Hilo dental  
-    * Pasta dental  
+    * Pasta dental ()  
     * Enjuague bucal (Listerine)  
 
     * Jabon (Dove)  
@@ -126,7 +126,7 @@ permalink: /about/traveling
 
 ### Camisetas/Jerseys/Camisas
 
-    * Camisetas (Tee: Gray, White, Iron Blue, Light Blue, Red, Black, Dark Mustard, Light Purple, Green)  
+    * Camisetas (Tee: Gray, White, Iron Blue, Light Blue, Red, Black, Dark Mustard, Light Purple, Green, Cherry)  
     * Jersey Cuello Alto (Turtleneck Sweater: Red, Black, Dark Blue)  
     * Jersey Cuello V (V-neck Sweater: Beige)  
     * Sudadera con Capucha (Hooded Sweatshirt)  
@@ -148,10 +148,9 @@ permalink: /about/traveling
 
 ### Pantalones
 
-    * Pantalones (Red, Dark Green, Steel Blue)  
-    * Chinos (Khaki, White, Light Gray, Black)  
+    * Chinos (Khaki, White, Light Gray, Red, Dark Green, Steel Blue)  
     * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
-    * Bermudas (3)  
+    * Bermudas (Khaki, Uva, White)  
 
 ### Calzados
 
