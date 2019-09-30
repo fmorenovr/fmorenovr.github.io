@@ -176,6 +176,7 @@ permalink: /about/traveling
 ## Prendas De Pijama
 
     * Conjunto de pijama  
+    * Chalina  
     * Calentadores de Licra (Torso, Piernas, Pies)  
 
 ## Prendas De Vestir
