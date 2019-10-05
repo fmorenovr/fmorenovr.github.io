@@ -26,7 +26,7 @@ permalink: /about/traveling
 
     * Cepillo  
     * Hilo dental  
-    * Pasta dental ()  
+    * Pasta dental (Parodontax)  
     * Enjuague bucal (Listerine)  
 
     * Jabon (Dove)  
