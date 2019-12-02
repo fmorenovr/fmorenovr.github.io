@@ -1,10 +1,21 @@
 ---
 layout: post
 title:  "Vim, A Fast Guide for Newcomers."
-subtitle: Here you'll learn some commands to use vim.
 date:   2017-05-05 00:20:12 -0500
-categories: Text_Editors
+
+tags:
+  - VIM
+  - Ubuntu
+  - Text Editor
+  - Vi
+  - Emulator
+  
+categories:
+  - Text_Editors
 ---
+
+Here you'll learn some commands to use vim.
+
 # Vim
 
 Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor `Vi`, with a more complete feature set.  

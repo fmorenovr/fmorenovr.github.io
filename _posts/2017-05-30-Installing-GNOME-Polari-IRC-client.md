@@ -1,10 +1,22 @@
 ---
 layout: post
 title:  "Installing GNOME Polari, a IRC Client."
-subtitle: Here you'll learn about Polari IRC Client to create and send messages in your own chat.
 date:   2017-05-30 00:20:12 -0500
-categories: GUI_app
+
+tags:
+  - GNOME
+  - Ubuntu
+  - Chat
+  - Polari
+  - GNOME
+  - Fedora
+  
+categories:
+  - GUI_app
 ---
+
+Here you'll learn about Polari IRC Client to create and send messages in your own chat.
+
 # GNOME Polari
 
 For this guide, I use my Fedora Workstation 25 Virtual Machine installed on my localhost using virt-manager, you can see how download and install pressing [here][vm-url].

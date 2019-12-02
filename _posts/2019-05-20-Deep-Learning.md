@@ -1,10 +1,24 @@
 ---
 layout: post
 title:  "Deep Learning"
-subtitle: Describing Deep Learning Types and Algorithms
 date:   2019-05-20 12:15:12 -0500
-categories: dl
+
+tags:
+  - Deep Learning
+  - Convolutional Networks
+  - GANS
+  - Varational Autoenconders
+  - Recurrent Neural Networks
+  - Recursive Neural Networks
+  - Supervised Learning
+  - Unsupervised Learning
+  - Reinforcement Learning
+
+categories:
+  - dl
 ---
+
+Describing Deep Learning Types and Algorithms
 
 # Deep Learning
 
@@ -21,6 +35,12 @@ Deep Learning is a subtype of Machine Learning focus on Images as data.
 
 ## Deep Learning Types
 
+### Transfer Learning
+
+This type is based on the term `Experience based Learning`, in other words, the learning process is take a previous learned parameters from some pre-trained model and start new learning process using the target data.
+
+See main article [Transfer Learning](/dl/transfer_learning).
+
 ## Deep Learning Models/Algorithms
 
 There is a different models or approach those define algorithms based on mathematics, statistics and matrix models in deep learning.
@@ -28,6 +48,18 @@ There is a different models or approach those define algorithms based on mathema
 ### Unsupervised Pretrained Networks
 
 See main article [UPN](/dl/unsupervised_petrained_networks).
+
+### Recursive Neural Networks
+
+Is the model based on ANN and tree data structures to solve more complex problems.
+
+See main article [RcNN](/dl/recursive_networks).
+
+### Recurrent Neural Networks
+
+Is the model based on ANN to solve more complex problems.
+
+See main article [RNN](/dl/recurrent_networks).
 
 ### Convolutional Neural Networks
 

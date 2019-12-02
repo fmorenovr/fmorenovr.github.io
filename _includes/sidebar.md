@@ -1,41 +1,25 @@
-<div id="mySidebar" class="sidebar">
-  {% assign entry = site.data.navigation.sidebar %}
-  {% assign sublinks = entry.sublinks %}
-  {% if sublinks %}
-    {% for sublink in sublinks %}
-      <a href="{{ site.baseurl }}{{ sublink.url }}" class="{{sublink.class}}"><strong>{{ sublink.title }}</strong></a>
+{% include base_path %}
+
+{% if page.author_profile or layout.author_profile or page.sidebar %}
+  <div class="sidebar sticky">
+  {% if page.author_profile or layout.author_profile %}{% include author-profile.md %}{% endif %}
+  {% if page.sidebar %}
+    {% for s in page.sidebar %}
+      {% if s.image %}
+        <img src=
+        {% if s.image contains "://" %}
+          "{{ s.image }}"
+        {% else %}
+          "{{ s.image | prepend: "/assets/images/" | prepend: base_path }}"
+        {% endif %}
+        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+      {% endif %}
+      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
+    {% if page.sidebar.nav %}
+      {% include nav_list nav=page.sidebar.nav %}
+    {% endif %}
   {% endif %}
-  <!--<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>-->
-</div>
-<script>
-  function interactNav(){
-    if (!visible) {
-      openNav()
-    } else {
-      closeNav()
-    }
-  }
-
-  function openNav() {
-    document.getElementById("mySidebar").style.width = "130px";
-    document.body.style.backgroundColor = "rgba(0,0,0,0.3)";
-    visible = true
-  }
-
-  function closeNav() {
-    document.getElementById("mySidebar").style.width = "0";
-    document.body.style.backgroundColor = "white";
-    visible = false
-  }
-
-  document.onclick= function(event) {
-    // Compensate for IE<9's non-standard event model
-    //
-    if (event===undefined) event= window.event;
-    var target= 'target' in event? event.target : event.srcElement;
-
-    console.log('clicked on '+target.tagName);
-    if(visible) console.log(visible)//closeNav()
-  };
-</script>
+  </div>
+{% endif %}

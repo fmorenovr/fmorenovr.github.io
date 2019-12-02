@@ -1,10 +1,23 @@
 ---
 layout: post
 title:  "Android Studio, An installation guide."
-subtitle: Here you'll learn how to download and run android Studio on Linux OS.
 date:   2017-08-12 00:20:12 -0500
-categories: IDEs
+
+tags:
+  - Android
+  - AndroidStudio
+  - Ubuntu
+  - Mobile Applications
+  - IDEs
+  - Software
+  - Linux
+  
+categories:
+  - IDEs
 ---
+
+Here you'll learn how to download and run android Studio on Linux OS.
+
 ## Android Studio
 
 Android Studio is an IDE to develop android OS applications.

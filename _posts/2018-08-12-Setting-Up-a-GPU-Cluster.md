@@ -1,10 +1,25 @@
 ---
 layout: post
 title:  "Setting Up a GPU Cluster."
-subtitle: Here you'll learn how to build your own cluster that uses CUDA library to execute programs in parallel mode.
 date:   2018-08-12 00:15:12 -0500
-categories: Cluster-Computing
+
+tags:
+  - Cluster
+  - GPU
+  - Beowulf
+  - NVIDIA
+  - CUDA
+  - C++
+  - C
+  - Ubuntu
+  - Networking
+
+categories:
+  - Cluster-Computing
 ---
+
+Here you'll learn how to build your own cluster that uses CUDA library to execute programs in parallel mode.
+
 # Cluster
 
 Using our cluster created [GPUJcluster][GPUJcluster_link].  

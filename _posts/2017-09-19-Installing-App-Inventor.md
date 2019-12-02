@@ -1,10 +1,22 @@
 ---
 layout: post
-title:  "Installing App Inventor and developing games."
-subtitle: Here you'll learn about App Inventor, a webpage created by MIT to develop Android mobile apps.
+title:  "App Inventor: Installing and developing games."
 date:   2017-09-19 00:25:12 -0500
-categories: Tools
+
+tags:
+  - Android
+  - Android SDK
+  - App Inventor
+  - MIT
+  - Website
+  - Mobile Applications
+  
+categories:
+  - Tools
 ---
+
+Here you'll learn about App Inventor, a webpage created by MIT to develop Android mobile apps.
+
 # App Inventor
 
 App Inventor is an application of MIT to teach in a easy way how to program mobile apps. Through a methodology based on games like scratch.

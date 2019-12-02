@@ -1,10 +1,24 @@
 ---
 layout: post
 title:  "Implementing a JSON Web Token middleware in Golang."
-subtitle: Here I'll teach you to use my library gojweto to create JSON webs token.
 date:   2017-10-19 00:20:12 -0500
-categories: libraries
+
+tags:
+  - Go
+  - Golang
+  - JSON
+  - Token
+  - Security
+  - Secure systems
+  - JSON Web Token
+  - webserver
+
+categories:
+  - libraries
 ---
+
+Here I'll teach you to use my library gojweto to create JSON webs token.
+
 # Golang
 
 Go is an Open Source programming language developed by Google Inc.  

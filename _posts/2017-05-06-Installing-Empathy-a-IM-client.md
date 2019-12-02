@@ -1,10 +1,21 @@
 ---
 layout: post
 title:  "Installing Empathy, a IM and VoIP Client."
-subtitle: Here you'll learn how to download and connect through different clients to send messages.
 date:   2017-05-06 00:20:12 -0500
-categories: GUI_app
+
+tags:
+  - Empathy
+  - Ubuntu
+  - GNOME
+  - Fedora
+  - VoIP Client
+
+categories:
+  - GUI_app
 ---
+
+Here you'll learn how to download and connect through different clients to send messages.
+
 # Empathy
 
 For this guide, I use my Fedora Workstation 25 Virtual Machine installed on my localhost using virt-manager, you can see how download and install pressing [here][vm-url].

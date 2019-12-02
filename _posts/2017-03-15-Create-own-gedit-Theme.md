@@ -1,10 +1,21 @@
 ---
 layout: post
 title:  "Creating my own gedit theme"
-subtitle: Here I'll teach you how to create your own gedit theme.
 date:   2017-03-15 14:15:46 -0500
-categories: Text_Editors
+
+tags:
+  - Gedit
+  - Text editor
+  - Linux
+  - Gedit themes
+  - xml
+
+categories:
+  - Text_Editors
 ---
+
+Here I'll teach you how to create your own gedit theme.
+
 ## gedit
 
 Is a text editor, compatible with UTF-8, it was developed using GTK+ and gnome.  

@@ -1,23 +1,21 @@
-navbar:
-  sublinks:
-    - title: Home
-      url: /
-      class: "homeoption"
-    - title: About
-      url: /about
-      class: "otheroptions"
-    - title: Blog
-      url: /blog
-      class: "otheroptions"
+# main links links
+main:
 
-sidebar:
-  sublinks:
-    - title: Icon
-      url: /
-      class: "homeoption"
-    - title: About
-      url: /about
-      class: "otheroptions"
-    - title: Blog
-      url: /blog
-      class: "otheroptions"
+  - title: "About"
+    url: /about/
+
+  - title: "Blog Posts"
+    url: /blog/
+
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    

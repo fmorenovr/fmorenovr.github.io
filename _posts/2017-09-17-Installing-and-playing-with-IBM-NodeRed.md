@@ -1,10 +1,24 @@
 ---
 layout: post
 title:  "Installing and playing with IBM NodeRed and implementation with Bluemix and Watson."
-subtitle: Here you'll learn to setup node-red on IBM cloud platform and integrate with Watson API.
 date:   2017-09-17 00:25:12 -0500
-categories: IDEs
+
+tags:
+  - Node-Red
+  - NPM
+  - IBM
+  - Frameworks
+  - NodeJS
+  - Javascript
+  - Typescript
+  - Dashboard
+  
+categories:
+  - frameworks
 ---
+
+Here you'll learn to setup node-red on IBM cloud platform and integrate with Watson API.
+
 # Node Red
 
 Node-RED is a programming tool to connect hardware devices, APIs and online services in a simple mode.  

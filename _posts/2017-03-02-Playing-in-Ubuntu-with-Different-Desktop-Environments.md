@@ -1,10 +1,24 @@
 ---
 layout: post
 title:  "Playing in Ubuntu with different Desktop Environments"
-subtitle: Here I'll show you different desktop environments for Ubuntu OS.
 date:   2017-03-02 10:52:56 -0500
-categories: Operating-Systems
+
+tags:
+  - Operating systems
+  - Ubuntu
+  - Desktop Environment
+  - LXDE
+  - Unity
+  - XFCE
+  - MATE
+  - GNOME
+
+categories:
+  - Operating-Systems
 ---
+
+Here I'll show you different desktop environments for Ubuntu OS.
+
 # Desktop environments
 
 Different Desktops environments for Ubuntu 16.04.2 LTS OS.  

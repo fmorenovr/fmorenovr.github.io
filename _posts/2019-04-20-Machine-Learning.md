@@ -1,10 +1,22 @@
 ---
 layout: post
 title:  "Machine Learning"
-subtitle: Describing Machine Learning Types and Algorithms
 date:   2019-04-20 12:15:12 -0500
-categories: ml
+
+tags:
+  - Machine Learning
+  - Regularization
+  - Neural Networks
+  - Bayesian Networks
+  - Supervised Learning
+  - Unsupervised Learning
+  - Reinforcement Learning
+
+categories:
+  - ml
 ---
+
+Describing Machine Learning Types and Algorithms
 
 # Machine Learning
 
@@ -103,12 +115,6 @@ This type is based on the term `Query-Answer Learning`, in other words, the lear
 
 See main article [Active Learning](/ml/active_learning).
 
-### Transfer Learning
-
-This type is based on the term `Experience based Learning`, in other words, the learning process is take a previous learned parameters from some pre-trained model and start new learning process using the target data.
-
-See main article [Transfer Learning](/ml/transfer_learning).
-
 ### Meta-Learning
 
 This type is based on the term `Autodidact Learning`, in other words, the learning process is to understand how to "Learning to Learn" solving problems with greater flexibility, improving the performance of existing algorithms or inducing the learning algorithm itself.
@@ -130,18 +136,6 @@ See main article [ANN](/ml/neural_networks).
 Is a model based on ANN with Bayesian statistics distributions.
 
 See main article [BNN](/ml/bayesian_networks).
-
-### Recursive Neural Networks
-
-Is the model based on ANN and tree data structures to solve more complex problems.
-
-See main article [RcNN](/ml/recursive_networks).
-
-### Recurrent Neural Networks
-
-Is the model based on ANN to solve more complex problems.
-
-See main article [RNN](/ml/recurrent_networks).
 
 ### Support Vector Machine
 

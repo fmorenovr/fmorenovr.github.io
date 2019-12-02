@@ -1,10 +1,23 @@
 ---
 layout: post
 title:  "HuGo, a setting up guide."
-subtitle: Here you'll learn how to setup your Hugo serve, is very useful if you work with static pages.
 date:   2018-04-05 00:20:12 -0500
-categories: webServices
+
+tags:
+  - Go
+  - Golang
+  - webservices
+  - websites
+  - Markdown
+  - Blogs
+  - HuGo
+  
+categories:
+  - webServices
 ---
+
+Here you'll learn how to setup your Hugo serve, is very useful if you work with static pages.
+
 # Hugo
 
 Is a simple blog, static site generator for personal projects.  

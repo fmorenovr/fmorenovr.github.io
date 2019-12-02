@@ -1,10 +1,22 @@
 ---
 layout: post
 title:  "Using Qemu, a VM Hardware Emulator"
-subtitle: Here you'll learn to download and emulate Operating Systems using Qemu.
 date:   2016-12-18 19:40:16 -0500
-categories: Virtual-Machines
+
+tags:
+  - Virutal Machines
+  - Qemu
+  - KVM
+  - Virtual OS
+  - Hardware Emulator
+  - Ubuntu
+
+categories:
+  - Virtual-Machines
 ---
+
+Here you'll learn to download and emulate Operating Systems using Qemu.
+
 ## Qemu
 
 For more information about arguments see the documentation [Qemu doc](https://wiki.gentoo.org/wiki/QEMU/Options)

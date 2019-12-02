@@ -1,10 +1,24 @@
 ---
 layout: post
 title:  "Creating a VPS with Laravel and Apache service."
-subtitle: Here you'll learn how to create your own VPS.
 date:   2017-09-23 12:15:12 -0500
-categories: Frameworks
+
+tags:
+  - VPS
+  - Linux
+  - Ubuntu
+  - Virtual Private Server
+  - Webserver
+  - PHP
+  - Laravel
+  - Apache
+  
+categories:
+  - Frameworks
 ---
+
+Here you'll learn how to create your own VPS.
+
 # Install and prepare a PHP with Laravel Framework
 
 * First, install LAMP lastest using taskel. You can find a tutorial [here][tasksel-tuto].

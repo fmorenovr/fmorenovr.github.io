@@ -1,10 +1,22 @@
 ---
 layout: post
 title:  "Managing users and permissions in Linux Systems."
-subtitle: Here I'll teach you how to manage users, groups and change permissions onfiles and directories in Linux.
 date:   2017-05-09 00:20:12 -0500
-categories: System-Settings
+
+tags:
+  - Linux
+  - Ubuntu
+  - chmod
+  - Users permissions
+  - chgroup
+  - Managing users
+  
+categories:
+  - System-Settings
 ---
+
+Here I'll teach you how to manage users, groups and change permissions onfiles and directories in Linux.
+
 ## Permissions
 
 All files in linux have three permissions: Read, Write and Execute.

@@ -1,10 +1,21 @@
 ---
 layout: post
 title:  "Config and Setting up your crontab File."
-subtitle: Here you will learn how to config crontab file in your OS Linux system.
 date:   2018-03-22 11:55:12 -0500
-categories: Config
+
+tags:
+  - Ubuntu
+  - Linux
+  - Cron
+  - Crontab
+  - Demon services
+  
+categories:
+  - Config
 ---
+
+Here you will learn how to config crontab file in your OS Linux system.
+
 ## Cron
 
 Cron is a process admin that running as a deamon process in background.  

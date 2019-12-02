@@ -1,10 +1,25 @@
 ---
 layout: post
 title:  "Setting Up a MQTT client using Mosquitto service."
-subtitle: Here you'll learn how to use MQTT communication protocol and setup it secure.
 date:   2017-05-03 00:15:12 -0500
-categories: Protocols
+
+tags:
+  - MQTT
+  - IoT
+  - Real time services
+  - Ubuntu
+  - Mosquitto
+  - C
+  - Python
+  - Javascript
+  - SSH
+  
+categories:
+  - Protocols
 ---
+
+Here you'll learn how to use MQTT communication protocol and setup it secure.
+
 # MQTT
 
 MQTT is a machine-to-machine (M2M) "Internet of Things" connectivity protocol.

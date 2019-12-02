@@ -1,10 +1,22 @@
 ---
 layout: post
 title:  "GNOME Boxes, a fast View."
-subtitle: This is another softwar to manage your Virtual Machines.
 date:   2017-05-31 00:20:12 -0500
-categories: GUI_app
+
+tags:
+  - GNOME
+  - Ubuntu
+  - Virtual Machine
+  - Virtual OS manager
+  - GNOME-Boxes
+  - Fedora
+  
+categories:
+  - GUI_app
 ---
+
+This is another software to manage your Virtual Machines.
+
 # GNOME Boxes
 
 For this guide, I use my Fedora Workstation 25 Virtual Machine installed on my localhost using virt-manager, you can see how download and install pressing [here][vm-url].

@@ -1,10 +1,18 @@
 ---
 layout: post
 title:  "Virtual Machines Network Configuration"
-subtitle: Here you'll learn to set IPs to your VM.
 date:   2017-03-10 14:58:05 -0500
-categories: Networking
+
+tags:
+  - Network configuration
+  - Network Emulator
+  - Ubuntu
+
+categories:
+  - Networking
 ---
+
+Here you'll learn to set IPs to your VM.
 
 ## Debian based OS
 

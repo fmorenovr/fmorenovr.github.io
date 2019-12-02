@@ -1,10 +1,21 @@
 ---
 layout: post
 title:  "Using DOS for emulate games"
-subtitle: Here you'll learn to download and setup DOS console.
 date:   2016-08-13 02:35:46 -0500
-categories: Games
+
+tags:
+  - DOSBOX
+  - ZNES
+  - Game Emulator
+  - Megaman
+  - Ubuntu
+
+categories:
+  - Games
 ---
+
+Here you'll learn to download and setup DOS console.
+
 ## DOSBOX
 
 Dosbox is a shell-terminal that allows execute programs designed to run in DOS.

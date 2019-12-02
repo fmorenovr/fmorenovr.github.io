@@ -1,11 +1,23 @@
 ---
 layout: post
 title:  "Setting up a static website and set custom domain."
-subtitle: Here you will learn how to create and config your CNAME in your github page.
 date:   2018-04-06 11:55:12 -0500
-categories: Software
-imageBackground: "/assets/posts_background/static-website.png"
+
+tags:
+  - Github
+  - Git
+  - Github Pages
+  - webservices
+  - websites
+  - web domain
+  - markdown
+  
+categories:
+  - Software
 ---
+
+Here you will learn how to create and config your CNAME in your github page.
+
 ## Github Pages
 
 Github offers you the possibility to create a static webpage for your user account.  

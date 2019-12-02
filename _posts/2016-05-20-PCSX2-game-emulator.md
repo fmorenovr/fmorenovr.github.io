@@ -1,10 +1,22 @@
 ---
 layout: post
 title:  "Using PCSX2, a PlayStation 2 Games Emulator"
-subtitle: Here you'll learn to download and setup PCSX2.
 date:   2016-05-20 02:35:46 -0500
-categories: Games
+
+tags:
+  - Megaman
+  - PCSX2
+  - Emulator
+  - Play Station Emulator
+  - Game Emulator
+  - Ubuntu
+
+categories:
+  - Games
 ---
+
+Here you'll learn to download and setup PCSX2.
+
 ## pcsx2
 
 Is a Play Station 2 emulator.

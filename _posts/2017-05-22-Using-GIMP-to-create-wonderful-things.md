@@ -1,10 +1,20 @@
 ---
 layout: post
 title:  "Using GIMP to create wonderful things."
-subtitle: This is a basic guide for newcomers on how to use GIMP.
 date:   2017-05-22 00:20:12 -0500
-categories: GUI_app
+
+tags:
+  - GIMP
+  - Images processing
+  - Ubuntu
+  - Linux
+  
+categories:
+  - GUI_app
 ---
+
+This is a basic guide for newcomers on how to use GIMP.
+
 # GIMP
 
 GIMP (GNU Image Manipulation Program) is a software to edit digital images with form bitmaps.

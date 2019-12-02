@@ -1,10 +1,23 @@
 ---
 layout: post
 title:  "Hello world from different Programing languages"
-subtitle: Here you'll see different helloworld programs.
 date:   2016-04-22 15:15:12 -0500
-categories: Programming-Language
+
+tags:
+  - Ubuntu
+  - Hello world
+  - C++
+  - C
+  - Python
+  - R
+  - M
+  - Octave
+
+categories:
+  - Programming-Language
 ---
+
+Here you'll see different helloworld programs.
 
 ## Programming Languages Table
 

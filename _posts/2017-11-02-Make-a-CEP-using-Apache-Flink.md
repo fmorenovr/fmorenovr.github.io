@@ -1,10 +1,22 @@
 ---
 layout: post
 title:  "Make a CEP using Apache Flink."
-subtitle: Here you'll learn how to imeplement a Complex Event Processing with Apache Flink.
 date:   2017-11-02 12:15:12 -0500
-categories: Frameworks
+
+tags:
+  - Apache Flink
+  - Complex Event Processing
+  - CEP
+  - Apache
+  - Ubuntu
+  - Java
+  
+categories:
+  - Frameworks
 ---
+
+Here you'll learn how to imeplement a Complex Event Processing with Apache Flink.
+
 ## Maven
 
 Maven or Apache Maven is a tool to build Java projects.  

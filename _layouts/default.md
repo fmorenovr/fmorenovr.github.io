@@ -1,13 +1,25 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  {% include head.md %}
-  {% include mathjax.md %}
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.md %}
+    {% include head/custom.md %}
+  </head>
+
   <body>
-    {% include mainbar.md %}
-    {% include beginpage.md %}
-    <div class="main-content">
-      {{ content }}
-    </div>
-    {% include footer.md %}
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+
+    {% include scripts.html %}
+
   </body>
 </html>

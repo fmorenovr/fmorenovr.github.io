@@ -10,5 +10,13 @@
       ga('send', 'pageview');
     </script>
   {% endif %}
+  <!--<p>Thanks To:</p><br>
+  <a href="https://internetdefenseleague.org"><img src="https://internetdefenseleague.org/images/badges/final/shield_badge.png" alt="Member of The Internet Defense League" height="120" width="120"/></a>-->
   <p><strong> Copyright &copy; Felipe A. Moreno ~ Jenazads </strong></p>
 </div>
+
+<!--    <div class="page__footer">
+      <footer>
+        {% include footer.md %}
+      </footer>
+    </div>-->

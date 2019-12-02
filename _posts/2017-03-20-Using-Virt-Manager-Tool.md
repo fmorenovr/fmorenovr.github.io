@@ -1,10 +1,23 @@
 ---
 layout: post
 title:  "Using Virt-Manager, a VM Manager Tool"
-subtitle: Here you'll learn to use Virt-Manager to manage your Virtual Machines.
 date:   2017-03-20 14:58:05 -0500
-categories: Virtual-Machines
+
+tags:
+  - Ubuntu
+  - Virt
+  - Virtual Machines
+  - Operating systems
+  - Qemu
+  - Emulator
+  - Virsh
+  - Virt
+
+categories:
+  - Virtual-Machines
 ---
+
+Here you'll learn to use Virt-Manager to manage your Virtual Machines.
 
 # Virt-Manager
 

@@ -1,10 +1,24 @@
 ---
 layout: post
 title:  "Configurating a light Environment for a Operating System."
-subtitle: Here you'll learn how to perform and avoid to consume too much RAM in your computer.
 date:   2017-05-05 00:15:12 -0500
-categories: Operating-Systems
+
+tags:
+  - Linux
+  - Ubuntu
+  - Debian
+  - Redhat
+  - Slacware
+  - Arch linux
+  - Windows
+  - CentOS
+  
+categories:
+  - Operating-Systems
 ---
+
+Here you'll learn how to perform and avoid to consume too much RAM in your computer.
+
 # Operating Systems distros that I use
 
 Configure and preparing a good development environment lite OS.
