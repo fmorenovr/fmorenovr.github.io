@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 ---
 <div class="post">
   <article class="post-content">

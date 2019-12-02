@@ -50,6 +50,7 @@ For installing Jekyll, we just need install some dependencies:
 
 * If your have a requeriments doc, go to the parent directory and run:
 
+      sudo gem install bundler -v "$(grep -A 1 "BUNDLED WITH" Gemfile.lock | tail -n 1)"
       bundle install
 
 * If you already have a web page, just run (if you have some errors):
