@@ -6,8 +6,6 @@ description: ""
 permalink: /about/martialarts
 ---
 
-# Martial Arts
-
 ## Japan
 
 Karate Do, is influenced by "Ikken Hissatsu".

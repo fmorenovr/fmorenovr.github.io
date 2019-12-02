@@ -6,8 +6,6 @@ description: ""
 permalink: /about/Peru
 ---
 
-## Peru
-
 <p align="center"> 
 Here is my native country: Peru
 </p>
