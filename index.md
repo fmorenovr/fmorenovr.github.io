@@ -3,24 +3,11 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: archive
-title: Felipe A. Moreno
-imageBackground: "/assets/me/me_huaytapallana.jpg"
+title: 
 ---
-<div align="center"><h1>Welcome to my personal website!!</h1></div>
-<blockquote align="center">
-Nice to meet you !!  <br>
-You can find me on many websites with the nickname Jenazads.  <br>
-Here I will tell about my projects, my repositories and maybe some tutorials.
-</blockquote>
 
-So, let's go!.  
-This page is serve using [jekyll][jekyll-url]. thanks to [github][github-pages] for serves static pages.  
-You can prepare on your localhost for debug and test, try on [jekyll-tutorial][jekyll_tutorial].
+I am a Research Assistant in the Escola de Matemática Aplicada (EMAp) at the Fundação Getúlio Vargas (FGV), my research lies at the intersection of **Urban Perception**, **Deep Learning**, and **Interpretability Machine Learning**. I am especially interested in building efficient, and robust models that can perform analyzing, and understanding human perception from street images with or without associated description text to improve the identification of the visual components, and main perceptual features extraction for applications in urban computing.
 
-Also, you can found the code [here](https://github.com/Jenazads/Jenazads.github.io).	
+## News
 
-So, visit my blog and let's start learning.
 
-[jekyll-url]:      https://jekyllrb.com/
-[github-pages]:    https://guides.github.com/features/pages/
-[jekyll_tutorial]: /webservices/Jekyll-a-setting-up-guide  
