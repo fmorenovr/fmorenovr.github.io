@@ -12,6 +12,12 @@ permalink: /about/traveling
     * Pasaporte  
     * Vacuna de Fiebre Amarilla  
 
+## PortaDinero
+
+    * Billetera  
+    * Monedero  
+    * Tarjetero  
+
 ## Vista
 
     * Gafas (resina + medida + UV 400 + anti-reflex)  
@@ -24,33 +30,33 @@ permalink: /about/traveling
 
 ### Higiene
 
+    * Neceser  
+
     * Cepillo  
     * Hilo dental  
     * Pasta dental (Parodontax)  
     * Enjuague bucal (Listerine)  
 
-    * Jabon (Dove)  
+    * Jabon (Dove) + Jabonera  
     * Shampoo (Dove)  
+    * 
     * Deshodorante (Rexona)  
-    * Lip Balm  
+    * Lip Balm (Nivea)  
 
     * Afeitadora (Gillet)  
     * CortaUñas  
 
-    * Isopos  
     * Peine  
     * Espejo  
 
-    * Papel higienico  
     * Toalla  
-    
-    * Jabonera  
 
 ### Oficina
 
+    * Cartuchera  
     * Agenda  
     * Lapicero de tinta  
-    * Lapicero puntero/linterna/celular  
+    * Puntero laser  
     * Tijera  
     * Engrapadora  
     * Perforadora  
@@ -77,20 +83,12 @@ permalink: /about/traveling
     * Power Extension  
     * Caja Herramientas  
 
-### PortaDinero
-
-    * Billetera  
-    * Monedero  
-    * Tarjetero  
-    * Neceser  
-
 ### Mochilas/Bolsas
 
     * Maleta  
     * Mochila  
     * Canguro (Waist Bag)  
-    * Bolso    
-    * Cartuchera  
+    * Bolso  
 
 ### Artilugios
 
@@ -113,7 +111,7 @@ permalink: /about/traveling
 
 ### Ropa Interior
 
-    * Boxers (9)  
+    * Boxers (Boston: black, 9)  
     * Medias (9)  
 
 ### Gorros/Sombreros
@@ -124,12 +122,15 @@ permalink: /about/traveling
     * Gorro plano (Flat Hat)  
     * Gorra  
 
-### Camisetas/Jerseys/Camisas
+### Camisetas/Jerseys
 
-    * Camisetas (Tee: Gray, White, Iron Blue, Light Blue, Red, Black, Dark Mustard, Light Purple, Green, Cherry)  
+    * Camisetas (Tee: Gray, White, Iron Blue, Light Blue, Black, Green, Cherry-Wine, Red, Dark Mustard)  
     * Jersey Cuello Alto (Turtleneck Sweater: Red, Black, Dark Blue)  
-    * Jersey Cuello V (V-neck Sweater: Beige)  
-    * Sudadera con Capucha (Hooded Sweatshirt)  
+    * Jersey Cuello V (V-neck Sweater: Dark green)  
+    * Sudadera con Capucha (Hooded Sweatshirt: Black)  
+
+### Camisas
+
     * Camisas (White, Black, Pink)  
     * Camisas Sport (White/Skyblue lined)  
     * Camisas Tartan (Red/Black, White/Gray)  
@@ -139,47 +140,51 @@ permalink: /about/traveling
 ### Chaquetas/Abrigos
 
     * Chaquetón (PeaCoat)  
-    * Abrigo (OverCoat)  
+    * Gabán (OverCoat)  
     * Poncho (Cloak Hoodie Stitching)  
     * Chaqueta con Capucha (Hooded Jacket)  
-    * Chaqueta Vaquera (Jeans Jacket)  
-    * Chaqueta de Cuero (Leather Jacket)  
+    * Chaqueta Vaquera (Jeans Jacket: Blue)  
+    * Chaqueta de Cuero (Leather Jacket: Brown)  
     * Chaqueta de Corduroy Sherpa (Sherpa Corderoy Jacket)  
 
 ### Pantalones
 
-    * Chinos (Khaki, White, Light Gray, Red, Dark Green, Steel Blue)  
+    * Jeans Color (Pioner 30 - super pitillo: Khaki, White, Light Gray, Dark Green, Steel Blue)  
     * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
-    * Bermudas (Khaki, Uva, White)  
+    * Bermudas (Khaki, Uva, Tartan)  
 
 ### Calzados
 
-    * Zapatillas Chukka (Casual Chukka: Electric Blue)  
-    * Slipper  
     * Sandalias (Flip Flop)  
-    * Botines  
-    * Alpargatas (Espadrilles: Mustard)  
-    * Mocasines (Loafers: Brown)  
-    * Zapatos (Cap Toe Oxford: Black)  
+    * Botines (Caterpillar: Soft Brown)  
+    
+    * Alpargatas (Espadrilles: Light green)  
+
     * Zapatillas (Sneakers: White)  
     * Zapatillas sin Cordones (Slip-On Sneakers: Black)  
-    * Zapatillas de Lona (Canvas Sneakers: Light Gray)  
+    * Zapatillas de Lona (Canvas Sneakers: Red)  
+    * Zapatillas Chukka (Casual Chukka: Electric Blue)  
 
 ### Adicionales
 
-    * Cubre Ojos (Eye Mask)  
-    * Almohada de Cuello (Neck Pillow)  
     * Cubre Boca (Mouth Mask)  
-    * Bufanda (Scarf)  
-    * Guantes (SmartPhone Gloves)  
 
-## Prendas De Pijama
+## Prendas de Dormir
 
     * Conjunto de pijama  
-    * Chalina  
+    * Cubre Ojos (Travel Sleep Eye Mask: Sad Frog)  
+    * Almohada de Cuello (Neck Pillow)  
+    * Slipper  
+
+## Prendas de Invierno
+
     * Calentadores de Licra (Torso, Piernas, Pies)  
+    * Chalina de alpaca (Blanco)  
+    * Guantes (SmartPhone Gloves)  
 
 ## Prendas De Vestir
+
+    * Bufanda (Scarf: Slifferyn)  
 
     * Terno (Herringbone Suit: Light Gray)  
     * Blazer (Navy Blue)  
@@ -193,6 +198,9 @@ permalink: /about/traveling
     * Corbatin (Bowtie: Black/White)  
     * Corbatas ()  
     * Cinturon (Belt: Black/Brown)  
+
+    * Mocasines (Loafers: Brown)  
+    * Zapatos (Cap Toe Oxford: Black)  
 
 ## Prendas De Deporte
 
