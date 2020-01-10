@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * M.Sc. in Computer Science, Universidad Católica San Pablo (UCSP), Arequipa - PERU , 2018-2020
-* B.Sc
-Mcs(c). Felipe A. Moreno
+* B.Sc. in Computer Science, Universidad Nacional de Ingeniería (UNI), Lima - PERU, 2012-2017
 
 www.fmorenovr.com. in Computer Science, Universidad Nacional de Ingeniería (UNI), Lima - PERU, 2012-2017
 
