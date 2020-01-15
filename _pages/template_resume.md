@@ -14,13 +14,11 @@ Education
 * M.Sc. in Computer Science, Universidad Católica San Pablo (UCSP), Arequipa - PERU , 2018-2020
 * B.Sc. in Computer Science, Universidad Nacional de Ingeniería (UNI), Lima - PERU, 2012-2017
 
-www.fmorenovr.com. in Computer Science, Universidad Nacional de Ingeniería (UNI), Lima - PERU, 2012-2017
-
 Professional experience
 ======
 * May 2019 - April 2020: Research Assistant
   * Fundação Getúlio Vargas (FGV)
-  * Supervisor: Phd. Jorge Poco
+  * Supervisor(s): Phd. Jorge Poco
   * Research fields: Urban Perception, Deep Learning, and Interpretability Machine Learning
 
 * June 2018 - April 2019: Software Engineer
@@ -33,7 +31,7 @@ Professional experience
 
 * Jan 2016 - July 2017: Research Assistant
   * Centro de Tecnologías de la Información y Comunicationes (CTIC)
-  * Supervisor: PhD. Manuel Castillo and PhD. José Fiestas
+  * Supervisor(s): PhD. Manuel Castillo and PhD. José Fiestas
   * Research fields: Big Data, High-Performance Computing, and Fog Computing
 
 Publications
