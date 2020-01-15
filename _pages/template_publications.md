@@ -13,4 +13,11 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
+
+  <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>  
+  <h2 class="archive__item-title" itemprop="headline">
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+  </h2>
+  <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+  <p>Recommended citation: {{ post.citation }} </p>
 {% endfor %}

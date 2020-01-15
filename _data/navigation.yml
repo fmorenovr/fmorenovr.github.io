@@ -7,11 +7,11 @@ main:
   - title: "Blog Posts"
     url: /blog/ 
 
+  - title: "Publications"
+    url: /publications/
+
 #  - title: "Portfolio"
 #    url: /portfolio/
-
-#  - title: "Publications"
-#    url: /publications/
 
 #  - title: "Presentations"
 #    url: /presentations/

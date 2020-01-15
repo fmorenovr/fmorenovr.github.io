@@ -149,7 +149,8 @@ permalink: /about/traveling
 
 ### Pantalones
 
-    * Jeans Color (Pioner 30 - super pitillo: Khaki, White, Light Gray, Dark Green, Steel Blue)  
+    * Jeans Color (Pioner 30 - super pitillo: Khaki, White, Steel Blue)  
+    * Jeans Color (Pioner 28: Light Gray, Dark Green)  
     * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
     * Bermudas (Khaki, Uva, Tartan)  
 

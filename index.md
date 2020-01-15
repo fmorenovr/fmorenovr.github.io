@@ -2,7 +2,7 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: archive
+# layout: archive
 title: 
 ---
 
@@ -10,4 +10,31 @@ I am a Research Assistant in the Escola de Matemática Aplicada (EMAp) at the Fu
 
 ## News
 
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Event</th>
+    <th>City</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>December 8-14, 2019</td>
+    <td>Attending <a href="https://neurips.cc/">NeuriPS 2019</a>. Presenting “Understanding Safety Based on Urban Perception” in the LatinX in AI workshop</td>
+    <td>Vancouver, Canada</td>
+  </tr>
+  <tr>
+    <td>June 9-15, 2019</td>
+    <td>Attending <a href="https://icml.cc//">ICML 2019</a>. Presenting “Performing Deep Recurrent Double Q-Learning for Atari Games” in the LatinX in AI workshop</td>
+    <td>Long Beach, USA</td>
+  </tr>
+  <tr>
+    <td>May 25-31, 2019</td>
+    <td>Attending <a href="https://conf.researchr.org/home/icse-2019">ICSE 2019</a>. Presenting “New software architecture for interoperability to improve the communication in the Edge layer of a smart IoT ecosystem” in the SERP4IoT in SE workshop</td>
+    <td>Montreal, Canada</td>
+  </tr>
+</table>
 
