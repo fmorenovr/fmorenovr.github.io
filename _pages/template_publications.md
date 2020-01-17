@@ -5,19 +5,29 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user={{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+<style>
+td, th, tr, table {
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  border: 1px;
+}
+</style>
 
-  <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>  
-  <h2 class="archive__item-title" itemprop="headline">
-    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-  </h2>
-  <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-  <p>Recommended citation: {{ post.citation }} </p>
-{% endfor %}
+<table style="width:100%">
+  {% for post in site.publications reversed %}
+  <tr>
+    <th style="width:40%">{{ post.excerpt | markdownify }}</th>
+    <td>
+      <h2 class="archive__item-title" itemprop="headline"> <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a> </h2>
+      <p style="font-size:12px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p>Recommended citation: <br>
+      {{ post.citation }} </p>
+    </td>
+  </tr>
+  {% endfor %}
+</table>
+
