@@ -12,28 +12,30 @@ I am a Research Assistant in the Escola de Matemática Aplicada (EMAp) at the Fu
 
 <table>
   <tr>
-    <th>Date</th>
-    <th>Event</th>
-    <th>City</th>
+    <td align="center">Date</td>
+    <td align="center">Event</td>
+    <td align="center">City</td>
   </tr>
+  <tr><td colspan="3" align="center" style="background:#cccccc;"></td></tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>February 3-21, 2020</td>
+    <td>Attended the <a href="https://eventos.fgv.br/summer-school-data-science">Summer School on Data Science</a> e Programa de Verão at the Fundação Getulio Vargas.</td>
+    <td>Rio de Janeiro, Brazil</td>
   </tr>
+  <tr><td colspan="3" align="center" style="background:#cccccc;"></td></tr>
   <tr>
     <td>December 8-14, 2019</td>
-    <td>Attending <a href="https://neurips.cc/">NeuriPS 2019</a>. Presenting “Understanding Safety Based on Urban Perception” in the LatinX in AI workshop</td>
+    <td>Attended the <a href="https://neurips.cc/">NeuriPS 2019</a>. Presenting “Understanding Safety Based on Urban Perception” in the LatinX in AI workshop</td>
     <td>Vancouver, Canada</td>
   </tr>
   <tr>
     <td>June 9-15, 2019</td>
-    <td>Attending <a href="https://icml.cc//">ICML 2019</a>. Presenting “Performing Deep Recurrent Double Q-Learning for Atari Games” in the LatinX in AI workshop</td>
+    <td>Attended the <a href="https://icml.cc//">ICML 2019</a>. Presenting “Performing Deep Recurrent Double Q-Learning for Atari Games” in the LatinX in AI workshop</td>
     <td>Long Beach, USA</td>
   </tr>
   <tr>
     <td>May 25-31, 2019</td>
-    <td>Attending <a href="https://conf.researchr.org/home/icse-2019">ICSE 2019</a>. Presenting “New software architecture for interoperability to improve the communication in the Edge layer of a smart IoT ecosystem” in the SERP4IoT in SE workshop</td>
+    <td>Attended the <a href="https://conf.researchr.org/home/icse-2019">ICSE 2019</a>. Presenting “New software architecture for interoperability to improve the communication in the Edge layer of a smart IoT ecosystem” in the SERP4IoT in SE workshop</td>
     <td>Montreal, Canada</td>
   </tr>
 </table>
