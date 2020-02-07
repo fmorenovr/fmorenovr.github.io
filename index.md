@@ -19,7 +19,7 @@ I am a Research Assistant in the Escola de Matemática Aplicada (EMAp) at the Fu
   <tr><td colspan="3" align="center" style="background:#cccccc;"></td></tr>
   <tr>
     <td>February 3-21, 2020</td>
-    <td>Attended the <a href="https://eventos.fgv.br/summer-school-data-science">Summer School on Data Science</a> e Programa de Verão at the Fundação Getulio Vargas.</td>
+    <td>Attended the <a href="https://eventos.fgv.br/summer-school-data-science">Summer School on Data Science</a> e <a href="https://emap.fgv.br/programa-de-verao">Programa de Verão</a> at the Fundação Getulio Vargas.</td>
     <td>Rio de Janeiro, Brazil</td>
   </tr>
   <tr><td colspan="3" align="center" style="background:#cccccc;"></td></tr>
