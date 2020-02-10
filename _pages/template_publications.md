@@ -22,7 +22,7 @@ td, th, tr, table {
   <tr>
     <th style="width:40%; height:60%">{{ post.excerpt | markdownify }}</th>
     <td>
-      <h2 class="archive__item-title" itemprop="headline"> <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a> </h2>
+      <h2 class="archive__item-title" itemprop="headline"> <a href="{{ post.event }}" rel="permalink">{{ post.title }}</a> </h2>
       <p style="font-size:12px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
       <p>Abstract: <br>
       <i> {{ post.abstract }} </i></p>
