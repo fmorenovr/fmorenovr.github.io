@@ -8,7 +8,7 @@ permalink: /about/traveling
 
 ## Documentos
 
-    * DNI  
+    * DNI (PE), RNME (BR)  
     * Pasaporte  
     * Vacuna de Fiebre Amarilla  
 
@@ -32,16 +32,16 @@ permalink: /about/traveling
 
     * Neceser  
 
-    * Cepillo  
-    * Hilo dental  
-    * Pasta dental (Parodontax)  
+    * Cepillo + Hilo dental + Pasta dental (Parodontax)  
     * Enjuague bucal (Listerine)  
+    
+    * Popote de metal  
 
     * Jabon (Dove) + Jabonera  
     * Shampoo (Dove)  
-    * 
+
     * Deshodorante (Rexona)  
-    * Lip Balm (Nivea)  
+    * Lip Balm (Nivea UV)  
 
     * Afeitadora (Gillet)  
     * CortaUñas  
@@ -49,12 +49,13 @@ permalink: /about/traveling
     * Peine  
     * Espejo  
 
-    * Toalla  
+    * Toalla (de mano y cuerpo)  
 
 ### Oficina
 
     * Cartuchera  
     * Agenda  
+    * Regla  
     * Lapicero de tinta  
     * Puntero laser  
     * Tijera  
@@ -72,12 +73,14 @@ permalink: /about/traveling
     * Cable USB (USB multi charger cable)  
     * Phone + Charger (Fast Charge)  
     * Funda de Cargador  
+    * Phone screen pen  
 
     * Headphone (Marshall Brand)  
-    
+
+    * Laptop + Charger (Asus Rog Gamer)      
     * Porta Laptop  
     * Laptop Cooler  
-    * Laptop + Charger (Asus Rog Gamer)  
+
     * Mouse + porta-mouse  
     
     * Power Extension  
@@ -85,17 +88,18 @@ permalink: /about/traveling
 
 ### Mochilas/Bolsas
 
-    * Maleta  
+    * Maletas (de mano y bodega)  
     * Mochila  
-    * Canguro (Waist Bag)  
+    * Canguro (Waist/Body Bag)  
     * Bolso  
+    * Bolso de Cordones (Gym Sport Bag Cordons)  
 
 ### Artilugios
 
     * Zarcillos (Potaras)  
     * Collar (Ojo de tigre)  
-
-    * Reloj (Plateado)  
+    
+    * Reloj (Manecillas: Blac/Silver)  
     * Pulsera (Leather Bracelets)  
     * Anillo (Ring Infinity Gloves)  
       * Esmeralda - Tiempo
@@ -107,18 +111,31 @@ permalink: /about/traveling
     
     * Paraguas (Qiuyeyuan Brand - Zodiac Umbrella Sword)  
 
+### Adicionales
+
+    * Vincha (HeadBand)  
+
+    * Cubre Boca (Mouth Mask)  
+
+    * Calentadores de Licra (Torso, Piernas, Pies)  
+    * Chalina de alpaca (Blanco)  
+    * Bufanda (Scarf tartan: Slifferyn/no)  
+
+    * Guantes (SmartPhone Gloves)  
+    * Guantes Sport (Sport Gloves)  
+
 ## Prendas
 
 ### Ropa Interior
 
     * Boxers (Boston: black, 9)  
-    * Medias (9)  
+    * Medias (Licra gray: 9)  
 
 ### Gorros/Sombreros
 
     * Gorro de Invierno (Russian Winter Hat Ushanka)  
     * Sombrero de Verano (Summer Hat)  
-    * Sombrero (Black)  
+    * Sombrero de vestir (Black)  
     * Gorro plano (Flat Hat)  
     * Gorra  
 
@@ -127,7 +144,10 @@ permalink: /about/traveling
     * Camisetas (Tee: Gray, White, Iron Blue, Light Blue, Black, Green, Cherry-Wine, Red, Dark Mustard)  
     * Jersey Cuello Alto (Turtleneck Sweater: Red, Black, Dark Blue)  
     * Jersey Cuello V (V-neck Sweater: Dark green)  
-    * Sudadera con Capucha (Hooded Sweatshirt: Black)  
+
+    * Sudadera con Capucha (Hooded Sweatshirt: Black, Batman - gray)  
+
+    * Polo Sport  
 
 ### Camisas
 
@@ -147,16 +167,23 @@ permalink: /about/traveling
     * Chaqueta de Cuero (Leather Jacket: Brown)  
     * Chaqueta de Corduroy Sherpa (Sherpa Corderoy Jacket)  
 
-### Pantalones
+### Pantalones/Bermudas
 
     * Jeans Color (Pioner 30 - super pitillo: Khaki, White, Steel Blue)  
     * Jeans Color (Pioner 28: Light Gray, Dark Green)  
     * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
+
+    * Buzo (Joggers: Dark Gray, Jogger rayado: Black, Gray)  
+
     * Bermudas (Khaki, Uva, Tartan)  
+
+    * Short Sport  
 
 ### Calzados
 
     * Sandalias (Flip Flop)  
+    * Slipper  
+    
     * Botines (Caterpillar: Soft Brown)  
     
     * Alpargatas (Espadrilles: Light green)  
@@ -165,27 +192,16 @@ permalink: /about/traveling
     * Zapatillas sin Cordones (Slip-On Sneakers: Black)  
     * Zapatillas de Lona (Canvas Sneakers: Red)  
     * Zapatillas Chukka (Casual Chukka: Electric Blue)  
-
-### Adicionales
-
-    * Cubre Boca (Mouth Mask)  
+    
+    * Runners (Athletic Shoes)  
 
 ## Prendas de Dormir
 
     * Conjunto de pijama  
     * Cubre Ojos (Travel Sleep Eye Mask: Sad Frog)  
     * Almohada de Cuello (Neck Pillow)  
-    * Slipper  
-
-## Prendas de Invierno
-
-    * Calentadores de Licra (Torso, Piernas, Pies)  
-    * Chalina de alpaca (Blanco)  
-    * Guantes (SmartPhone Gloves)  
 
 ## Prendas De Vestir
-
-    * Bufanda (Scarf: Slifferyn)  
 
     * Terno (Herringbone Suit: Light Gray)  
     * Blazer (Navy Blue)  
@@ -202,15 +218,4 @@ permalink: /about/traveling
 
     * Mocasines (Loafers: Brown)  
     * Zapatos (Cap Toe Oxford: Black)  
-
-## Prendas De Deporte
-
-    * Vincha (HeadBand)  
-    * Polo Sport  
-    * Guantes Sport (Sport Gloves)  
-    * Short Sport  
-    * Buzo (Joggers: Dark Gray, Jogger rayado: Black)  
-    * Runners (Athletic Shoes)  
-    * Bolso de Cordones (Gym Sport Bag Cordons)  
-    * Tomatodo  
 
