@@ -18,6 +18,7 @@ Professional experience
 ======
 * May 2019 - April 2020: Research Assistant
   * Fundação Getúlio Vargas (FGV)
+  * Escola de Matemtica Aplicada (EMAp)
   * Supervisor(s): Phd. Jorge Poco
   * Research fields: Urban Perception, Deep Learning, and Interpretability Machine Learning
 
@@ -31,6 +32,7 @@ Professional experience
 
 * Jan 2016 - July 2017: Research Assistant
   * Centro de Tecnologías de la Información y Comunicationes (CTIC)
+  * Big Data & HPC Lab
   * Supervisor(s): PhD. Manuel Castillo and PhD. José Fiestas
   * Research fields: Big Data, High-Performance Computing, and Fog Computing
 
@@ -69,15 +71,15 @@ Honors and Awards
 * Dec 2019: __NeurIPS Travel Grant__ for the Annual Conference on Neural Information Processing Systems.
 * June 2019: __ICML Travel Grant__ for the International Conference on Machine Learning.
 * Dec 2018: __LXAI Travel Grant__ for the LatinX in AI Workshop  co-located with NeurIPS 2018.
-* Nov 2018: __Leaders in Innovation__ Fellowship, The Royal Academy of Engineering, London, UK.
-* May 2018: __Master in Computer Science Scholarship__, CONCYTEC and Universidad Católica San Pablo (UCSP).
+* Nov 2018: __Leaders in Innovation Fellowship__ for the The Royal Academy of Engineering, London, UK.
+* May 2018: __Master Fellowship__ for the CONCYTEC and Universidad Católica San Pablo (UCSP).
 * July 2017: __Higher Fifth__ of the class of Computer Science. 
-* July 2016: __Recognition of Outstanding Students__, Universidad Nacional de Ingeniería (UNI).
+* July 2016: __Outstanding Students__ for the Universidad Nacional de Ingeniería (UNI).
 
 Service and leadership
 ======
 * Director and Co-Founder at Orientate Perú.
-* Innovation Mentor at the technological incubator StartUp UNI, Lima, Perú.
+* __Innovation Mentor__ at the technological incubator StartUp UNI, Lima, Perú.
 * Member of the University Assembly from 2016 to 2017.
   
 Skills
@@ -88,17 +90,13 @@ Skills
   * Javascript
 
 * Software Development:
-  * VueJS, ReactJS
-  * AWS Lambda, MongoDB
-  * Android
+  * AWS Lambda, MongoDB, Android
   * OpenGL, OpenCV, MPI, OpenMP
-  * Flask, DJango, BeeGo, Gorilla
+  * VueJS, ReactJS, Flask, DJango, BeeGo, Gorilla
 
 * Machine Learning and Data Science:
-  * Keras
-  * Pytorch
-  * Caffe
-  * TensorFlow
+  * Keras, PyTorch, Caffe, TensorFlow
+  * Numpy, scikit-learn, pandas
 
 * Languages
   * Spanish: Native
