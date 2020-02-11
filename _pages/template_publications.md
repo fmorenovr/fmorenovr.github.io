@@ -26,15 +26,30 @@ td, th, tr, table {
       <p style="font-size:12px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
       <p>Abstract: <br>
       <i> {{ post.abstract }} </i></p>
-      {% if post.paper and post.code %}
-        <p> <a href="{{post.paper}}">Paper </a>, <a href="{{post.code}}"> Code</a> </p>
-      {% elsif post.paper %}
-        <p> <a href="{{post.paper}}">Paper </a> </p>
-      {% elsif post.code %}
-        <p> <a href="{{post.code}}">Code </a></p>
+      <p>
+      {% if post.paper %}
+        <a href="{{post.paper}}"><img src="/assets/webpage/pdf_img.png" alt="Paper" style="width:28px;height:28px;border:0;"></a>
       {% endif %}
+        <a class=""> <img src="/assets/webpage/bib_img.png" alt="Bib" style="width:28px;height:28px;border:0;"></a>
+      {% if post.code %}
+        <a href="{{post.code}}"> <img src="/assets/webpage/supplemental_img.png" alt="Supplemental" style="width:28px;height:28px;border:0;"></a>
+      {% endif %}
+      </p>
     </td>
   </tr>
   {% endfor %}
 </table>
 
+<script>
+$(window).load(function () {
+    $(".trigger_popup_fricc").click(function(){
+       $('.hover_bkgr_fricc').show();
+    });
+    $('.hover_bkgr_fricc').click(function(){
+        $('.hover_bkgr_fricc').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.hover_bkgr_fricc').hide();
+    });
+});
+</script>

@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Presentations"
-permalink: /presentations/
+title: "Posters"
+permalink: /posters/
 author_profile: true
 ---
 
@@ -16,7 +16,7 @@ td, th, tr, table {
 </style>
 
 <table style="width:100%">
-  {% for post in site.presentations reversed %}
+  {% for post in site.posters reversed %}
   <tr>
     <th style="width:40%; height:60%">{{ post.excerpt | markdownify }}</th>
     <td>
@@ -25,13 +25,15 @@ td, th, tr, table {
       <p style="font-size:12px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
       <p>Abstract: <br>
       <i> {{ post.abstract }} </i></p>
-      {% if post.paper and post.code %}
-        <p> <a href="{{post.paper}}">Paper </a>, <a href="{{post.code}}"> Code</a> </p>
-      {% elsif post.paper %}
-        <p> <a href="{{post.paper}}">Paper </a> </p>
-      {% elsif post.code %}
-        <p> <a href="{{post.code}}">Code </a></p>
+      <p>
+      {% if post.paper %}
+        <a href="{{post.paper}}"><img src="/assets/webpage/pdf_img.png" alt="Paper" style="width:28px;height:28px;border:0;"></a>
       {% endif %}
+        <a href=""> <img src="/assets/webpage/bib_img.png" alt="Bib" style="width:28px;height:28px;border:0;"></a>
+      {% if post.code %}
+        <a href="{{post.code}}"> <img src="/assets/webpage/supplemental_img.png" alt="Supplemental" style="width:28px;height:28px;border:0;"></a>
+      {% endif %}
+      </p>
     </td>
   </tr>
   {% endfor %}
