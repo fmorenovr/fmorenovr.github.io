@@ -23,7 +23,7 @@ Way to avoid this scenarios:
 
 * Feature selection or model selection algorithm.
 
-* Increase the dataset
+* Increase the sample size
 
 * Regularization
 
@@ -38,7 +38,7 @@ Way to avoid this scenarios:
 Is a kind of cross-validation strategy. When we see that the performance on the validation set is getting worse, we immediately stop the training on the model.
 
 <p align="center">
-  <img src="/assets/ml/regularization/early_stopping.png">
+  <img src="/assets/ml/regularization/early_stopping.png" style="width:50%;height:50%;">
 </p>
 
 ### LASSO (L1 regularizer)
@@ -48,18 +48,6 @@ Least Absolute Shrinkage and Selection Operator (LASSO)
 ### Ridge (L2 regularizer)
 
 ### Elastic Net
-
-* Ridge Regression or called L2 regularization
-
-  A standard linear or polynomial regression model will fail in the case where there is high collinearity (the existence of near-linear relationships among the independent variables) among the feature variables. Ridge Regression adds a small squared bias factor to the variables. Such a squared bias factor pulls the feature variable coefficients away from this rigidness, introducing a small amount of bias into the model but greatly reducing the variance.
-
-* Least Absolute Shrinkage and Selection Operator (LASSO) or called L1 regularization
-
-  In opposite to Ridge Regression it only penalizes high coefficients. Lasso has the effect of forcing some coefficient estimates to be exactly zero when hyper parameter θ is sufficiently large. LASSO works well for feature selection in case we have a huge number of features (it reduce redundant features and identify the important ones).
-
-* Elastic Net
-
-  Combines characteristics of both lasso and ridge. Elastic Net reduces the impact of different features while not eliminating all of the features. Lasso will eliminate many features, and reduce overfitting in your linear model. Ridge will reduce the impact of features that are not important in predicting your y values. Elastic Net combines feature elimination from Lasso and feature coefficient reduction from the Ridge model to improve your model’s predictions.
 
 * Least Angle Regression (LARS)
 
@@ -71,17 +59,27 @@ Least Absolute Shrinkage and Selection Operator (LASSO)
 
 ### Generalization 
 
-We have a Cost function (or Loss function) {% raw %} $ L(\theta) $ {% endraw %} (in this case is the MSE) defined by the average error across all samples between the prediction output {% raw %} $ \hat{y} = f(\theta , X) $ {% endraw %} and the expected output {% raw %} $ y ${% endraw %}. In general:
+We have a Cost function {% raw %} $ J(\theta) $ {% endraw %} (in this case is the Mean Square Error) defined by the average error across all samples between the prediction output {% raw %} $ \hat{y} = f(\theta , X) $ {% endraw %} and the expected output {% raw %} $ y ${% endraw %}. In general, if we take as loss function to _Least Square Error_ {%raw%} L(\hat{y}_i, y_i) {%endraw%}:
 
 <p align="center">
 {% raw %}
   $
-  L(\theta) = \frac{1}{n} \sum ^n _ {i=1} (\hat{y}_i - y_i)
+  L(\hat{y}_i, y_i) = \dfrac{1}{2} (\hat{y}_i - y_i)^2
   $
 {% endraw %}
 </p>
 
-We add the regularizer function {%raw%} $ R(\theta) $ {%endraw%} to the Cost function defined above:
+Our Cost function (MSE) will be:
+
+<p align="center">
+{% raw %}
+  $
+  J(\theta) = \dfrac{1}{n} \sum ^n _ {i=1} L(\hat{y}_i, y_i)
+  $
+{% endraw %}
+</p>
+
+So, adding the regularizer function {%raw%} $ R(\theta) $ {%endraw%} to the Cost function defined above:
 
 <p align="center">
 {% raw %}
@@ -103,7 +101,7 @@ Where:
  
  * {% raw %} $ y \in \mathbb{R}^{n} $ {% endraw %} is the given output data.
  * {% raw %} $ \hat{y} \in \mathbb{R}^{n} $ {% endraw %} is the predicted output.
- * {% raw %} $ n $ {% endraw %} is the dataset size.
+ * {% raw %} $ n $ {% endraw %} is the sample size.
  * {% raw %} $ m $ {% endraw %} is the number of features.
  * {% raw %} $ \lambda \in \mathbb{R} $ {% endraw %} regularization parameter, where {% raw %} $ 0 \lt \lambda \lt \inf $ {% endraw %}.  
  * {% raw %} $ R_{\lambda} $ {% endraw %} regularization equation with {% raw %} $ \alpha \in [0, 1] $ {% endraw %}:
