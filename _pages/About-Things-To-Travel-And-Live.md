@@ -35,8 +35,6 @@ permalink: /about/traveling
     * Cepillo + Hilo dental + Pasta dental (Parodontax)  
     * Enjuague bucal (Listerine)  
     
-    * Popote de metal  
-
     * Jabon (Dove) + Jabonera  
     * Shampoo (Dove)  
 
@@ -50,19 +48,6 @@ permalink: /about/traveling
     * Espejo  
 
     * Toalla (de mano y cuerpo)  
-
-### Oficina
-
-    * Cartuchera  
-    * Agenda  
-    * Regla  
-    * Lapicero de tinta  
-    * Puntero laser  
-    * Tijera  
-    * Engrapadora  
-    * Perforadora  
-    * Quita-Grapas  
-    * Cinta Adhesiva  
 
 ### Laptop/Celular/Memorias
 
@@ -96,6 +81,8 @@ permalink: /about/traveling
 
 ### Artilugios
 
+    * Popote de metal  
+
     * Zarcillos (Potaras)  
     * Collar (Ojo de tigre)  
     
@@ -114,8 +101,9 @@ permalink: /about/traveling
 ### Adicionales
 
     * Vincha (HeadBand)  
-
+    * Cubre Ojos (Travel Sleep Eye Mask: Sad Frog)  
     * Cubre Boca (Mouth Mask)  
+    * Almohada de Cuello (Neck Pillow)  
 
     * Calentadores de Licra (Torso, Piernas, Pies)  
     * Chalina de alpaca (Blanco)  
@@ -155,7 +143,6 @@ permalink: /about/traveling
     * Camisas Sport (White/Skyblue lined)  
     * Camisas Tartan (Red/Black, White/Gray)  
     * Camisas Manga Corta (Dark Navy Blue)  
-    * Camisas con Patron ()  
 
 ### Chaquetas/Abrigos
 
@@ -163,7 +150,7 @@ permalink: /about/traveling
     * Gabán (OverCoat)  
     * Poncho (Cloak Hoodie Stitching)  
     * Chaqueta con Capucha (Hooded Jacket)  
-    * Chaqueta Vaquera (Jeans Jacket: Blue)  
+    * Chaqueta Jeans (Jeans Jacket: Blue)  
     * Chaqueta de Cuero (Leather Jacket: Brown)  
     * Chaqueta de Corduroy Sherpa (Sherpa Corderoy Jacket)  
 
@@ -175,7 +162,7 @@ permalink: /about/traveling
 
     * Buzo (Joggers: Dark Gray, Jogger rayado: Black, Gray)  
 
-    * Bermudas (Khaki, Uva, Tartan)  
+    * Bermudas (Wine, Uva, Tartan)  
 
     * Short Sport  
 
@@ -195,11 +182,8 @@ permalink: /about/traveling
     
     * Runners (Athletic Shoes)  
 
-## Prendas de Dormir
-
-    * Conjunto de pijama  
-    * Cubre Ojos (Travel Sleep Eye Mask: Sad Frog)  
-    * Almohada de Cuello (Neck Pillow)  
+    * Mocasines (Loafers: Brown)  
+    * Zapatos (Cap Toe Oxford: Black)  
 
 ## Prendas De Vestir
 
@@ -216,6 +200,5 @@ permalink: /about/traveling
     * Corbatas ()  
     * Cinturon (Belt: Black/Brown)  
 
-    * Mocasines (Loafers: Brown)  
-    * Zapatos (Cap Toe Oxford: Black)  
+
 
