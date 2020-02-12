@@ -9,33 +9,45 @@ permalink: /ml/regularization
 
 # Overfitting/Underfitting Problems
 
+When we are training a model, we could face to 2 scenarios:
+
 * Underfitting: (high bias, {% raw %} $ L({\theta}) \gt \gt 0 $ {% endraw %}) Is when our loss function maps poorly to the trend of the data, this happens when the loss function is too simple or use too few features.
 
 * Overfitting: (high variance, {% raw %} $ L({\theta}) \approx 0 $ {% endraw %}) Is whenloss function fits the available data but does not generalize well to predict data, this happens when the loss function is too complicate that creates a lot of unnecesary curves and angles.
-
-Way to solve this problems:
-
-* Reduce the number of features:
-
-    * Select which features to keep
-    
-    * Use amodel selection algorithm
-
-* Regularization
-
-    * Keep all features but reduce the magnitude of parameters.
 
 <p align="center">
   <img src="/assets/ml/regularization/over_under_fitting.png">
 </p>
 
+Way to avoid this scenarios:
+
+* Feature selection or model selection algorithm.
+
+* Increase the dataset
+
+* Regularization
+
 # Regularization
 
-**Regularization** is the process to prevent overfitting in algorithms that try to minimize loss function (Like regressions).  
+**Regularization** is the process to prevent overfitting/underfitting by adding an additional penalty term in the error function.
 
-## Algorithms
+## Techniques
 
-There is 4 algorithms:
+### Early Stopping
+
+Is a kind of cross-validation strategy. When we see that the performance on the validation set is getting worse, we immediately stop the training on the model.
+
+<p align="center">
+  <img src="/assets/ml/regularization/early_stopping.png">
+</p>
+
+### LASSO (L1 regularizer)
+
+Least Absolute Shrinkage and Selection Operator (LASSO) 
+
+### Ridge (L2 regularizer)
+
+### Elastic Net
 
 * Ridge Regression or called L2 regularization
 
@@ -57,19 +69,47 @@ There is 4 algorithms:
   
   * **Forward Stagewise Regression** : tries to remedy the greediness of forward selection by only partially adding variables. Whereas forward selection finds the variable with the most explanatory power and goes all out in adding it to the model, forward stagewise finds the variable with the most explanatory power and updates its weight by only epsilon in the correct direction. (So we might first increase the weight of peanut butter a little bit, then increase the weight of peanut butter again, then increase the weight of jelly, then increase the weight of bread, and then increase the weight of peanut butter once more.) The problem now is that we have to make a ton of updates, so forward stagewise can be very inefficient.
 
-## Equations
+### Generalization 
 
-We have the Loss Function {% raw %} $ L(\hat{y} , y) $ {% endraw %} defined as some error function (could be Ordinary Least Square) or others and the Predict Function {% raw %} $ J(\theta , X) = \hat{y} $ {% endraw %} defined as the current predicted vector.
+We have a Cost function (or Loss function) {% raw %} $ L(\theta) $ {% endraw %} (in this case is the MSE) defined by the average error across all samples between the prediction output {% raw %} $ \hat{y} = f(\theta , X) $ {% endraw %} and the expected output {% raw %} $ y ${% endraw %}. In general:
 
-With:
+<p align="center">
+{% raw %}
+  $
+  L(\theta) = \frac{1}{n} \sum ^n _ {i=1} (\hat{y}_i - y_i)
+  $
+{% endraw %}
+</p>
 
+We add the regularizer function {%raw%} $ R(\theta) $ {%endraw%} to the Cost function defined above:
+
+<p align="center">
+{% raw %}
+  $ L_{regularizated}(\theta) = \dfrac{1}{n} [ L(\theta)  + R(\theta)_{\lambda} ]$
+{% endraw %}
+</p>
+
+<p align="center">
+{% raw %}
+  $ R(\theta)_\lambda = \lambda [\dfrac{(1-\alpha)}{2} \sum_{j=1}^{m} \theta_j ^2 + \alpha \sum_{j=1}^{m} | \theta_j |] $
+{% endraw %}
+</p>
+
+Where:
+ * {%raw%} $ f $ {%endraw%} is the estimator function.
  * {% raw %} $ X \in \mathbb{R}^{nxm} $ {% endraw %} is the data sample.
  * {% raw %} $ {x}^i $ {% endraw %} is one sample, {% raw %} $ x_j $ {% endraw %} is one feature and {% raw %} $ {x_j}^i $ {% endraw %} is the j-th feature in sample i.
- * {% raw %} $ \theta = (\theta_1, \dots, \theta_m ) \in \mathbb{R}^{m} $ {% endraw %}  is the weights calculated for each feature.
+ * {% raw %} $ \theta = (\theta_1, \dots, \theta_m ) \in \mathbb{R}^{m} $ {% endraw %} are the parameters.
+ 
  * {% raw %} $ y \in \mathbb{R}^{n} $ {% endraw %} is the given output data.
  * {% raw %} $ \hat{y} \in \mathbb{R}^{n} $ {% endraw %} is the predicted output.
- * n is the dataset size.
- * m is the number of features.
+ * {% raw %} $ n $ {% endraw %} is the dataset size.
+ * {% raw %} $ m $ {% endraw %} is the number of features.
+ * {% raw %} $ \lambda \in \mathbb{R} $ {% endraw %} regularization parameter, where {% raw %} $ 0 \lt \lambda \lt \inf $ {% endraw %}.  
+ * {% raw %} $ R_{\lambda} $ {% endraw %} regularization equation with {% raw %} $ \alpha \in [0, 1] $ {% endraw %}:
+    * If {% raw %} $ \alpha = 0 $ {% endraw %}, then we have Ridge Regression.
+    * If {% raw %} $ \alpha = 1 $ {% endraw %}, then we have LASSO.
+    * If {% raw %} $ 0 \lt \alpha \lt 1 $ {% endraw %}, then we have Elastic Net.
 
 ### LARS
 
@@ -125,29 +165,6 @@ You can see this example below with m=3, and {% raw %} $ J(\theta , X) = \hat{u}
   <img src="/assets/ml/regularization/LARS.png">
 </p>
 
-### Elastic Net, LASSO, Ridge
-
-The Loss Function Regularizated equation is:
-
-<p align="center">
-{% raw %}
-  $ L_{regularizated}(\hat{y}, y, \theta) = \dfrac{1}{n} [ L(\hat{y}, y)  + R(\theta)_{\lambda} ]$
-{% endraw %}
-</p>
-
-<p align="center">
-{% raw %}
-  $ R(\theta)_\lambda = \lambda [\dfrac{(1-\alpha)}{2} \sum_{j=1}^{m} \theta_j ^2 + \alpha \sum_{j=1}^{m} | \theta_j |] $
-{% endraw %}
-</p>
-
-Where:
- * {% raw %} $ \theta = (\theta_1, \dots, \theta_m ) \in \mathbb{R}^{m} $ {% endraw %} is the weights calculated for each feature.
- * {% raw %} $ \lambda \in \mathbb{R} $ {% endraw %} regularization parameter, where {% raw %} $ 0 \lt \lambda \lt \inf $ {% endraw %}.  
- * {% raw %} $ R_{\lambda} $ {% endraw %} regularization equation with {% raw %} $ \alpha \in [0, 1] $ {% endraw %}:
-    * If {% raw %} $ \alpha = 0 $ {% endraw %}, then we have Ridge Regression.
-    * If {% raw %} $ \alpha = 1 $ {% endraw %}, then we have LASSO.
-    * If {% raw %} $ 0 \lt \alpha \lt 1 $ {% endraw %}, then we have Elastic Net.
  
 ## Normal Equation
 
