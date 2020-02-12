@@ -17,6 +17,14 @@ td, th, tr, table {
 }
 </style>
 
+<script language="javascript" type="text/javascript">
+function popitup(url) {
+  newwindow=window.open(url,'name','height=200,width=150');
+  if (window.focus) {newwindow.focus()}
+  return false;
+}
+</script>
+
 <table style="width:100%">
   {% for post in site.publications reversed %}
   <tr>
@@ -30,7 +38,7 @@ td, th, tr, table {
       {% if post.paper %}
         <a href="{{post.paper}}"><img src="/assets/webpage/pdf_img.png" alt="Paper" style="width:28px;height:28px;border:0;"></a>
       {% endif %}
-        <a class=""> <img src="/assets/webpage/bib_img.png" alt="Bib" style="width:28px;height:28px;border:0;"></a>
+        <a href="popupex.html" onclick="return popitup('popupex.html')"> <img src="/assets/webpage/bib_img.png" alt="Bib" style="width:28px;height:28px;border:0;"></a>
       {% if post.code %}
         <a href="{{post.code}}"> <img src="/assets/webpage/supplemental_img.png" alt="Supplemental" style="width:28px;height:28px;border:0;"></a>
       {% endif %}
