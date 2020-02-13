@@ -2,6 +2,7 @@
 layout: post
 title:  "Machine Learning"
 date:   2019-04-20 12:15:12 -0500
+permalink: /machine_learning/
 
 tags:
   - Machine Learning
@@ -11,14 +12,7 @@ tags:
   - Supervised Learning
   - Unsupervised Learning
   - Reinforcement Learning
-
-categories:
-  - ml
 ---
-
-Describing Machine Learning Types and Algorithms
-
-# Machine Learning
 
 Machine Learning is a scientific discipline in the field of Artificial Intelligence that creates systems that learn automatically.  
 "Learning" in this context means identifying complex patterns in millions of data.  
@@ -81,19 +75,19 @@ Is the different types of machine learning.
 
 This type is based on the term `Conceptual Learning`, in other words, the learning process is to find a function to map or relationate data X, Y.
 
-See main article [Supervised Learning](/ml/supervised_learning).
+See main article [Supervised Learning](/supervised_learning/).
 
 ### Unsupervised Learning
 
 This type is based on the term `Self-Organized Learning`, in other words, the learning process is to find a way to relationate patterns and characteristics of unorganized data X.
 
-See main article [UnSupervised Learning](/ml/unsupervised_learning).
+See main article [UnSupervised Learning](/unsupervised_learning).
 
 ### Reinforcement Learning
 
 This type is based on the term `Reinforcement Learning`, in other words, the learning process is to maximize the reward obtained from every scenario modelated from data.
 
-See main article [Reinforcement Learning](/ml/reinforcement_learning).
+See main article [Reinforcement Learning](/reinforcement_learning).
 
 ## Machine Learning Types
 
@@ -101,60 +95,23 @@ See main article [Reinforcement Learning](/ml/reinforcement_learning).
 
 This type is based on the term `Inductive Learning`, in other words, the learning process is to find a way to relationate a bit quantity of organized data to generalize it in large quantity of unorganized data.
 
-See main article [Semi-Supervised Learning](/ml/semi_supervised_learning).
+See main article [Semi-Supervised Learning](/semi_supervised_learning).
 
 ### Similarity Learning
 
 This type is based on the term `Compare Learning`, in other words, the learning process is to find from previously organized data a similarity function that measures how similar or related two objects are.
 
-See main article [Similarity Learning](/ml/similarity_learning).
+See main article [Similarity Learning](/similarity_learning).
 
 ### Active Learning
 
 This type is based on the term `Query-Answer Learning`, in other words, the learning process is the interaction between users and query website to get more data from them.
 
-See main article [Active Learning](/ml/active_learning).
+See main article [Active Learning](/active_learning).
 
 ### Meta-Learning
 
 This type is based on the term `Autodidact Learning`, in other words, the learning process is to understand how to "Learning to Learn" solving problems with greater flexibility, improving the performance of existing algorithms or inducing the learning algorithm itself.
 
-See main article [Meta-Learning](/ml/meta_learning).
-
-## Machine Learning Models/Algorithms
-
-There is a different models or approach those define algorithms based on mathematics and statistics models in machine learning.
-
-### Neural Networks
-
-Is the model based on human neurons to solve more complex problems.
-
-See main article [ANN](/ml/neural_networks).
-
-### Bayesian Networks
-
-Is a model based on ANN with Bayesian statistics distributions.
-
-See main article [BNN](/ml/bayesian_networks).
-
-### Support Vector Machine
-
-See main article [SVM](/ml/svm).
-
-## Complementary Information
-
-Here you can find complementary information to better understand machine learning algorithms.
-
-### Activation Functions
-
-Is the way to distribute data or scaling/normalize/standardize data to obtain a range of values to compare or classify.
-
-See main article [Activation Functions](/ml/activation_functions).
-
-### Regularization
-
-Is the process to solve the overfitting problem.
-
-See main article [Regularization](/ml/regularization).
-
+See main article [Meta-Learning](/meta_learning).
 

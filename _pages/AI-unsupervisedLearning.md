@@ -4,10 +4,8 @@ title: "Supervised Learning"
 subtitle: "Models and algorithms in Supervised Learning"
 description: "Supervised Learning Algorithms"
 date:   2019-05-20 12:15:12 -0500
-permalink: /ml/unsupervised_learning
+permalink: /unsupervised_learning
 ---
-
-# UnSupervised Learning
 
 **UnSupervised Learning** is the machine learning task of learning without a teacher and a method of modelling the probability density of inputs.  
 In unsupervised learning, each example is an input object (typically a vector) treated as a set of random variables, with a density model being constructed for the data set.  

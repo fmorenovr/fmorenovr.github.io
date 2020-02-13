@@ -4,10 +4,8 @@ title: "Supervised Learning"
 subtitle: "Models and algorithms in Supervised Learning"
 description: "Supervised Learning Algorithms"
 date:   2019-05-20 12:15:12 -0500
-permalink: /ml/supervised_learning
+permalink: /supervised_learning
 ---
-
-# Supervised Learning
 
 **Supervised Learning** is the machine learning task of learning a function that maps an input to an output based on example input-output pairs.  
 In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal).  
