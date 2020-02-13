@@ -42,32 +42,35 @@ Way to avoid this scenarios:
 
 ## Definiton
 
-Suppose we want to estimate the parameters {%raw%} $ \theta $ {%endraw%} of a linear combination of {%raw%} $ n $ {%endraw%} variables {%raw%} $ X $ {%endraw%} to predict {%raw%} $ y $ {%endraw%} observations defined as {% raw %} $ \hat{y} = f(\theta , X) $ {% endraw %}. So we have:
+Suppose we want to estimate the parameters {%raw%} $ \theta $ {%endraw%} which minimize a Cost function {% raw %} $ J(\theta) $ {% endraw %} defined by the sum of all error across all samples between the prediction output {% raw %} $ \hat{y} = f(\theta , X) $ {% endraw %} and the expected output {% raw %} $ y ${% endraw %}. Where {%raw%} $ \hat{y} $ {%endraw%} is the expected value of {%raw%} $ y $ {%endraw%} given {%raw%} $ y $ {%endraw%}. In other words, {%raw%} $ \hat{y} = \mathrm{E}[y\|\theta, X]$ {%endraw%}, the expected value of the error {%raw%} $ \mathrm{E}[\epsilon]=0$ {%endraw%}, has some variance {%raw%} $ \mathrm{Var}[\epsilon]=\sigma^2_{\epsilon}$ {%endraw%}.
+
+#So, taking the Ordinary Least Square (OLS) error for each term we have:
+So, getting the error for each term:
 
 <p align="center">
 {% raw %}
   $
-  y = \hat{y} + \epsilon
+  L(\hat{y}_i, y_i) = \hat{y}_i - y_i = \epsilon_i
   $
 {% endraw %}
 </p>
 
-Where {%raw%} $ \hat{y} $ {%endraw%} is the expected value of {%raw%} $ y $ {%endraw%} given {%raw%} $ y $ {%endraw%}. In other words, {%raw%} $ \hat{y} = \mathrm{E}[y\|\theta, X]$ {%endraw%}, the expected value of the error {%raw%} $ \mathrm{E}[\epsilon]=0$ {%endraw%}, has some variance {%raw%} $ \mathrm{Var}[\epsilon]=\sigma^2_{\epsilon}$ {%endraw%}
+In general, the Cost function:
 
-### Ridge (L2 regularizer)
+<p align="center">
+{% raw %}
+  $
+  J(\theta) = \sum ^n _ {i=1} L(\hat{y}_i, y_i) = \epsilon
+  $
+{% endraw %}
+</p>
 
 
 
-### LASSO (L1 regularizer)
-
-Least Absolute Shrinkage and Selection Operator (LASSO) is quite similar conceptually to ridge regression. It also adds a penalty for non-zero coefficients. As a result, for high values of {%raw%} $ \lambda $ {%endraw%}, many coefficients are exactly zeroed under lasso, which is never the case in ridge regression.
 
 
-### Elastic Net
-
-### Generalization 
-
-We have a Cost function {% raw %} $ J(\theta) $ {% endraw %} (in this case is the Mean Square Error) defined by the average error across all samples between the prediction output {% raw %} $ \hat{y} = f(\theta , X) $ {% endraw %} and the expected output {% raw %} $ y ${% endraw %}. In general, if we take as loss function to _Least Square Error_ {%raw%} $ L(\hat{y}_i, y_i) $ {%endraw%}:
+(in this case is the Mean Square Error) defined by the average error 
+ In general, if we take as loss function to _Least Square Error_ {%raw%} $ L(\hat{y}_i, y_i) $ {%endraw%}:
 
 <p align="center">
 {% raw %}
@@ -86,6 +89,27 @@ Our Cost function (MSE) will be:
   $
 {% endraw %}
 </p>
+
+<p align="center">
+{% raw %}
+  $
+  \hat{\theta} = argmin J() \hat{y} - y
+  $
+{% endraw %}
+</p>
+
+### Ridge (L2 regularizer)
+
+
+
+### LASSO (L1 regularizer)
+
+Least Absolute Shrinkage and Selection Operator (LASSO) is quite similar conceptually to ridge regression. It also adds a penalty for non-zero coefficients. As a result, for high values of {%raw%} $ \lambda $ {%endraw%}, many coefficients are exactly zeroed under lasso, which is never the case in ridge regression.
+
+
+### Elastic Net
+
+### Generalization 
 
 Be the norm-p defined as:
 
