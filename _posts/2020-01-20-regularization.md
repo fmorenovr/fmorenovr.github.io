@@ -15,7 +15,119 @@ categories:
 
 The bias–variance tradeoff problem is the conflict in trying to simultaneously minimize the error that prevent **supervised learning** algorithms from generalizing beyond their training set:
 
-# Overfitting/Underfitting Problems
+## Definiton
+
+Suppose we want to estimate the parameters {%raw%} $ \theta $ {%endraw%} which minimize a Cost function {% raw %} $ J(\theta) $ {% endraw %} defined by the sum of all error across all samples between the prediction output {% raw %} $ \hat{y} $ {% endraw %} and the expected output {% raw %} $ y ${% endraw %}. This means, we have the expected value of {%raw%} $y = f(\theta , X) $ {%endraw%} given {%raw%} $ X $ {%endraw%} defined by {% raw %} $ \hat{y} = f(\hat{\theta}, X) $ {% endraw %} and the estimated parameters:
+
+<p align="center">
+{% raw %}
+  $
+  \hat{\theta} = \theta + \epsilon
+  $
+{% endraw %}
+</p>
+
+This problem can be rewrited:
+
+<p align="center">
+{% raw %}
+  $
+  \hat{\theta} = \underset{\hat{\theta}}{argmin}$ $J(\theta) = \underset{\hat{\theta}}{argmin}$ $|| f(\theta, X) - f(\hat{\theta}, X)||^2
+  $
+{% endraw %}
+</p>
+
+We know that the bias is how much predicted values differ from true values, and the variance is how predictions made on the same value vary on different realizations of the model and this result depends of {% raw %} $ \theta $ {%endraw%}.
+
+<p align="center">
+  <img src="/assets/ml/regularization/bias-variance-tradeoff.png" style="widht:340px;height:340px">
+</p>
+
+We deduce that the expected value of the error {%raw%} $ \mathrm{E}[\epsilon]=0$ {%endraw%}, has some variance {%raw%} $ \mathrm{Var}[\epsilon]=\sigma^2_{\epsilon}$ {%endraw%}.  
+In addition, we can calculate the Bias and the Variance of {% raw %} $ \hat{y} $ {%endraw%} and {% raw %} $ y $ {%endraw%}:
+
+<p align="center">
+{% raw %}
+  $
+  Bias_{\theta}[\hat{\theta}] = E[\hat{\theta} - \theta] = E[\hat{\theta}] - \theta
+  $
+{% endraw %}
+</p>
+<p align="center">
+{% raw %}
+  $
+  \mathrm{Var}[\hat{\theta}] = E[( \hat{\theta} - E[\hat{\theta}])^2 ] = E[\hat{\theta}^2] - E[\hat{\theta}]^2
+  $
+{% endraw %}
+</p>
+<p align="center">
+{% raw %}
+  $
+  \mathrm{Var}[\theta] = E[( \theta - E[\theta])^2 ] = E[( \hat{\theta} - \epsilon - \hat{\theta})^2]
+  $
+{% endraw %}
+</p>
+<p align="center">
+{% raw %}
+  $
+  \mathrm{Var}[\theta] = E[(\epsilon)^2] = \mathrm{Var}[\epsilon] + (E[\epsilon])^2 = \sigma^2_{\epsilon}
+  $
+{% endraw %}
+</p>
+
+So, we will determine the relation between Variance, Bias, and the error of the estimator parameter:
+
+<p align="center">
+{% raw %}
+  $
+  MSE(\hat{\theta}) = E[(\hat{\theta} - \theta)^2] = E[(\hat{\theta}^2 + \theta^2 - 2\theta \hat{\theta})]
+  $
+{% endraw %}
+</p>
+<p align="center">
+{% raw %}
+  $
+  MSE(\hat{\theta}) = E[\hat{\theta}^2] + E[\theta^2] - 2 E[\theta \hat{\theta}] 
+  $
+{% endraw %}
+</p>
+<p align="center">
+{% raw %}
+  $
+  MSE(\hat{\theta}) = (\mathrm{Var}[\hat{\theta}] + E[\hat{\theta}]^2) + (\mathrm{Var}[\theta] + E[\theta]^2) - 2 E[\theta] E[\hat{\theta}] 
+  $
+{% endraw %}
+</p>
+<p align="center">
+{% raw %}
+  $
+  MSE(\hat{\theta}) = \mathrm{Var}[\hat{\theta}] + \mathrm{Var}[\theta] + (E[\hat{\theta}]^2 + E[\theta]^2 - 2 E[\theta] E[\hat{\theta}]) 
+  $
+{% endraw %}
+</p>
+<p align="center">
+{% raw %}
+  $
+  MSE(\hat{\theta}) = \mathrm{Var}[\hat{\theta}] + \mathrm{Var}[\theta] + (E[\hat{\theta}] - E[\theta])^2
+  $
+{% endraw %}
+</p>
+<p align="center">
+{% raw %}
+  $
+  MSE(\hat{\theta}) = \mathrm{Var}[\hat{\theta}] + \sigma_{\epsilon}^2 + (E[\hat{\theta}] - \theta)^2
+  $
+{% endraw %}
+</p>
+<p align="center">
+{% raw %}
+  $
+  MSE(\hat{\theta}) = \sigma_{\epsilon}^2 + \mathrm{Var}[\hat{\theta}] + Bias_{\theta}[\hat{\theta}]
+  $
+{% endraw %}
+</p>
+
+## Overfitting/Underfitting Problems
 
 When we are performing a parameter estimator {%raw%} $ J(\theta) $ {%endraw%}, we could face to 2 scenarios:
 
@@ -35,91 +147,7 @@ Way to avoid this scenarios:
 
 * Regularization
 
-## Definiton
-
-Suppose we want to estimate the parameters {%raw%} $ \theta $ {%endraw%} which minimize a Cost function {% raw %} $ J(\theta) $ {% endraw %} defined by the sum of all error across all samples between the prediction output {% raw %} $ \hat{y} $ {% endraw %} and the expected output {% raw %} $ y ${% endraw %}. This means, we have the expected value of {%raw%} $y = f(\theta , X) $ {%endraw%} given {%raw%} $ X $ {%endraw%} defined by {% raw %} $ \hat{y} $ {% endraw %} as:
-
-<p align="center">
-{% raw %}
-  $
-  \hat{y} = f(\theta , X) + \epsilon
-  $
-{% endraw %}
-</p>
-
-We know that the bias is how much predicted values differ from true values, and the variance is how predictions made on the same value vary on different realizations of the model.
-
-<p align="center">
-  <img src="/assets/ml/regularization/bias-variance-tradeoff.png" style="widht:340px;height:340px">
-</p>
-
-We deduce that the expected value of the error {%raw%} $ \mathrm{E}[\epsilon]=0$ {%endraw%}, has some variance {%raw%} $ \mathrm{Var}[\epsilon]=\sigma^2_{\epsilon}$ {%endraw%}.  
-In addition, we can calculate the Bias and the Variance of {% raw %} $ \hat{y} $ {%endraw%} and {% raw %} $ y $ {%endraw%}:
-
-<p align="center">
-{% raw %}
-  $
-  Bias_{y}[\hat{y}] = E[\hat{y}] - y = E[\hat{y} - y]
-  $
-{% endraw %}
-</p>
-<p align="center">
-{% raw %}
-  $
-  \mathrm{Var}[\hat{y}] = E[( \hat{y} - E[\hat{y}])^2 ] = E[\hat{y}^2] - E[\hat{y}]^2
-  $
-{% endraw %}
-</p>
-<p align="center">
-{% raw %}
-  $
-  \mathrm{Var}[y] = E[( y - E[y])^2 ] = E[(y - \hat{y})^2]
-  $
-{% endraw %}
-</p>
-<p align="center">
-{% raw %}
-  $
-  \mathrm{Var}[y] = E[(\epsilon)^2] = \mathrm{Var}[\epsilon] + (E[\epsilon])^2 = \sigma^2_{\epsilon}
-  $
-{% endraw %}
-</p>
-
-As we mention at the begining of this blog, supervised learning algorithms use to take the Ordinary Least Square (OLS) as a function error, let's define the error for each sample as:
-
-<p align="center">
-{% raw %}
-  $
-  L(\hat{y}_i, y_i) = \hat{y}_i - y_i = \epsilon_i
-  $
-{% endraw %}
-</p>
-
-In general, for all data sample we want to calculate the expected value of the Cost function (OLS in this case):
-
-<p align="center">
-{% raw %}
-  $
-  J(\theta) = \sum ^n _ {i=1} (L(\hat{y}_i, y_i))^2 = || \hat{y} - y ||^2
-  $
-{% endraw %}
-</p>
-
-So, we will determine the relation between Variance, Bias, and the error:
-
-
-
-Finally, we can define the parameter estimation as:
-
-<p align="center">
-{% raw %}
-  $
-  \hat{\theta} = argmin J(\theta) = argmin || \hat{y} - y ||^2
-  $
-{% endraw %}
-</p>
-
-# Regularization
+## Regularization
 
 **Regularization** is the process to prevent overfitting/underfitting by adding an additional penalty term in the error function.
 
@@ -141,6 +169,16 @@ Be the norm-p defined as:
 <p align="center">
 {% raw %}
   $ || \theta ||_p = \sqrt{\sum^m _{j=1} | \theta_i |^p} $
+{% endraw %}
+</p>
+
+As we mention at the begining of this blog, supervised learning algorithms use to take the Ordinary Least Square (OLS) as a function error, let's define the error for each sample as:
+
+<p align="center">
+{% raw %}
+  $
+  L(\hat{y}_i, y_i) = (\hat{y}_i - y_i)^2
+  $
 {% endraw %}
 </p>
 

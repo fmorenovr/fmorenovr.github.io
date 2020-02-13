@@ -2,6 +2,7 @@
 layout: post
 title:  "Deep Learning"
 date:   2019-05-20 12:15:12 -0500
+permalink: /deep_learning/
 
 tags:
   - Deep Learning
@@ -13,14 +14,7 @@ tags:
   - Supervised Learning
   - Unsupervised Learning
   - Reinforcement Learning
-
-categories:
-  - dl
 ---
-
-Describing Deep Learning Types and Algorithms
-
-# Deep Learning
 
 ## Deep Learning vs Machine Learning
 
@@ -39,7 +33,7 @@ Deep Learning is a subtype of Machine Learning focus on Images as data.
 
 This type is based on the term `Experience based Learning`, in other words, the learning process is take a previous learned parameters from some pre-trained model and start new learning process using the target data.
 
-See main article [Transfer Learning](/dl/transfer_learning).
+See main article [Transfer Learning](/transfer_learning).
 
 ## Deep Learning Models/Algorithms
 
@@ -47,23 +41,23 @@ There is a different models or approach those define algorithms based on mathema
 
 ### Unsupervised Pretrained Networks
 
-See main article [UPN](/dl/unsupervised_petrained_networks).
+See main article [UPN](/unsupervised_petrained_networks).
 
 ### Recursive Neural Networks
 
 Is the model based on ANN and tree data structures to solve more complex problems.
 
-See main article [RcNN](/dl/recursive_networks).
+See main article [RcNN](/recursive_networks).
 
 ### Recurrent Neural Networks
 
 Is the model based on ANN to solve more complex problems.
 
-See main article [RNN](/dl/recurrent_networks).
+See main article [RNN](/recurrent_networks).
 
 ### Convolutional Neural Networks
 
 Is the model based on ANN to solve complex problems which depends of data extracted from images.
 
-See main article [CNN](/dl/convolutional_networks).
+See main article [CNN](/convolutional_networks).
 
