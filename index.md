@@ -18,6 +18,11 @@ I am a Research Assistant in the Escola de Matemática Aplicada (EMAp) at the Fu
   </tr>
   <tr><td colspan="3" align="center" style="background:#cccccc;"></td></tr>
   <tr>
+    <td>July 21-29, 2020</td>
+    <td>Attended the <a href="http://lxmls.it.pt/2020/">Lisbon Machine Learning School</a> at the <a href="https://tecnico.ulisboa.pt/en/">Instituto Superior Técnico (IST)</a>.</td>
+    <td>Lisbon, Portugal</td>
+  </tr>
+  <tr>
     <td>February 3-21, 2020</td>
     <td>Attended the <a href="https://eventos.fgv.br/summer-school-data-science">Summer School on Data Science</a> e <a href="https://emap.fgv.br/programa-de-verao">Programa de Verão</a> at the Fundação Getulio Vargas.</td>
     <td>Rio de Janeiro, Brazil</td>
