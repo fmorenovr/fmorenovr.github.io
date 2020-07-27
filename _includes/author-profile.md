@@ -37,6 +37,7 @@
       {% if author.googlescholar %}
         <li><a href="https://scholar.google.com/citations?user={{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
+      <!--
       {% if author.arxiv %}
         <li><a href="https://arxiv.org/a/{{ author.arxiv }}"><i class="ai ai-fw ai-arxiv-square"></i> ARXIV</a></li>
       {% endif %}
@@ -58,7 +59,6 @@
       {% if author.dina %}
         <li><a href="https://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador={{ author.dina }}"><i class="fab fa-fw fa-dina-square"></i> DINA</a></li>
       {% endif %}
-      
       
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -125,7 +125,8 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
+      -->
     </ul>
   </div>
 </div>

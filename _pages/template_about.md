@@ -40,9 +40,24 @@ td, th, tr, table {
   </tr>
 </table>
 
+### Social Networks
 
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
 
-
-
-
+<p> 
+{% if author.linkedin %}
+  <a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i></a>
+{% endif %}
+{% if author.facebook %}
+  <a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i></a>
+{% endif %}
+{% if author.instagram %}
+  <a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i></a>
+{% endif %}
+{% if author.twitter %}
+  <a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>
+{% endif %}
+</p>
 
