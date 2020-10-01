@@ -35,7 +35,7 @@ permalink: /about/traveling
     * Cepillo + Hilo dental + Pasta dental (Parodontax)  
     * Enjuague bucal (Listerine)  
     
-    * Jabon (Dove) + Jabonera  
+    * Jabon (Glicerina) + Jabonera  
     * Shampoo (Dove)  
 
     * Deshodorante (Rexona)  
@@ -47,37 +47,34 @@ permalink: /about/traveling
     * Peine  
     * Espejo  
 
-    * Toalla (de mano y cuerpo)  
+    * Toalla (de mano y 2 de cuerpo)  
 
 ### Laptop/Celular/Memorias
 
-    * Memoria Portatil (1Tb Toshiba and 32Gb Kinston)  
-    * Funda Rígida de Memoria  
-
-    * Bateria portatil  
-    * Cable USB (USB multi charger cable)  
     * Phone + Charger (Fast Charge)  
+    
     * Funda de Cargador  
     * Phone screen pen  
 
-    * Headphone (Marshall Brand)  
-
-    * Laptop + Charger (Asus Rog Gamer)      
     * Porta Laptop  
+    * Laptop + Charger (Asus Rog Gamer)  
     * Laptop Cooler  
 
+    * Bolso (Digital Bag Storage)  
     * Mouse + porta-mouse  
-    
+    * Headphone (JBL rocker blue)  
     * Power Extension  
     * Caja Herramientas  
+    * Cable USB (USB multi charger cable)  
+    * Memoria Portatil (1Tb Toshiba) + Funda  
+    * USB memmory  (Kinston)  
+    * Bateria portatil + Funda  
 
 ### Mochilas/Bolsas
 
     * Maletas (de mano y bodega)  
     * Mochila  
     * Canguro (Waist/Body Bag)  
-    * Bolso  
-    * Bolso de Cordones (Gym Sport Bag Cordons)  
 
 ### Artilugios
 
@@ -85,8 +82,8 @@ permalink: /about/traveling
 
     * Zarcillos (Potaras)  
     * Collar (Ojo de tigre)  
-    
-    * Reloj (Manecillas: Blac/Silver)  
+
+    * Reloj (Manecillas: Black/Silver)  
     * Pulsera (Leather Bracelets)  
     * Anillo (Ring Infinity Gloves)  
       * Esmeralda - Tiempo
@@ -95,7 +92,7 @@ permalink: /about/traveling
       * Amatista - Poder
       * Ambar - Mente
       * Agata - Alma
-    
+
     * Paraguas (Qiuyeyuan Brand - Zodiac Umbrella Sword)  
 
 ### Adicionales
@@ -110,9 +107,16 @@ permalink: /about/traveling
     * Bufanda (Scarf tartan: Slifferyn/no)  
 
     * Guantes (SmartPhone Gloves)  
-    * Guantes Sport (Sport Gloves)  
 
 ## Prendas
+
+### Sport
+  
+    * Polo Sport  
+    * Guantes Sport (Sport Gloves)  
+    * Short Sport  
+    * Runners (Athletic Shoes)  
+    * Bolso de Cordones (Gym Sport Bag Cordons)  
 
 ### Ropa Interior
 
@@ -123,19 +127,21 @@ permalink: /about/traveling
 
     * Gorro de Invierno (Russian Winter Hat Ushanka)  
     * Sombrero de Verano (Summer Hat)  
-    * Sombrero de vestir (Black)  
+    * Sombrero de Vestir (Black)  
     * Gorro plano (Flat Hat)  
     * Gorra  
 
 ### Camisetas/Jerseys
 
-    * Camisetas (Tee: Gray, White, Iron Blue, Light Blue, Black, Green, Cherry-Wine, Red, Dark Mustard)  
-    * Jersey Cuello Alto (Turtleneck Sweater: Red, Black, Dark Blue)  
+    * Camisetas Tee (Gray, White, Black, Iron Blue, Green, Cherry-Wine)  
+    * Camisetas Botón (Dark Mustard, Red, Light Blue)  
+    * Camisetas Polo (Pink)
+    
+    * Jersey Cuello Alto (Turtleneck Sweater: Red, Dark Blue)  
     * Jersey Cuello V (V-neck Sweater: Dark green)  
+    * Jersey Cuello botón (Dark Blue Marine)
 
     * Sudadera con Capucha (Hooded Sweatshirt: Black, Batman - gray)  
-
-    * Polo Sport  
 
 ### Camisas
 
@@ -160,31 +166,24 @@ permalink: /about/traveling
     * Jeans Color (Pioner 28: Light Gray, Dark Green)  
     * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
 
-    * Buzo (Joggers: Dark Gray, Jogger rayado: Black, Gray)  
+    * Buzo (Joggers: Dark Gray, Black)  
 
     * Bermudas (Wine, Uva, Tartan)  
-
-    * Short Sport  
 
 ### Calzados
 
     * Sandalias (Flip Flop)  
     * Slipper  
-    
+
     * Botines (Caterpillar: Soft Brown)  
-    
-    * Alpargatas (Espadrilles: Light green)  
+
+    * Alpargatas (Espadrilles: Light blue)  
 
     * Zapatillas (Sneakers: White)  
     * Zapatillas sin Cordones (Slip-On Sneakers: Black)  
     * Zapatillas de Lona (Canvas Sneakers: Red)  
     * Zapatillas Chukka (Casual Chukka: Electric Blue)  
     
-    * Runners (Athletic Shoes)  
-
-    * Mocasines (Loafers: Brown)  
-    * Zapatos (Cap Toe Oxford: Black)  
-
 ## Prendas De Vestir
 
     * Terno (Herringbone Suit: Light Gray)  
@@ -195,10 +194,11 @@ permalink: /about/traveling
     * Pañuelo (Pocket Square)  
     * Medias (Socks: Black)  
     * Biviries  
-    
+
     * Corbatin (Bowtie: Black/White)  
     * Corbatas ()  
     * Cinturon (Belt: Black/Brown)  
 
-
+    * Mocasines (Loafers: Brown)  
+    * Zapatos (Cap Toe Oxford: Black)  
 
