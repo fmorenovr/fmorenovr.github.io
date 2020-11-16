@@ -6,12 +6,6 @@ description: ""
 permalink: /about/traveling
 ---
 
-## Documentos
-
-    * DNI (PE), RNME (BR)  
-    * Pasaporte  
-    * Vacuna de Fiebre Amarilla  
-
 ## PortaDinero
 
     * Billetera  
@@ -21,10 +15,7 @@ permalink: /about/traveling
 ## Vista
 
     * Gafas (resina + medida + UV 400 + anti-reflex)  
-    * Sunglasses (Steampunk) (resina + UV 400 + Polarized)  
-    * Sujetador de gafas  
-    * Franela  
-    * Estuche de gafas  
+    * Estuche de gafas + Franela + Sujetador  
 
 ## Accesorios
 
@@ -32,17 +23,16 @@ permalink: /about/traveling
 
     * Neceser  
 
-    * Cepillo + Hilo dental + Pasta dental (Parodontax)  
+    * Cepillo + Hilo dental + Pasta dental  
     * Enjuague bucal (Listerine)  
     
     * Jabon (Glicerina) + Jabonera  
     * Shampoo (Dove)  
-
+    * Esponja de cuerpo  
     * Deshodorante (Rexona)  
     * Lip Balm (Nivea UV)  
 
-    * Afeitadora (Gillet)  
-    * CortaUñas  
+    * Afeitadora + CortaUñas + Pinza  
 
     * Peine  
     * Espejo  
@@ -53,7 +43,6 @@ permalink: /about/traveling
 
     * Phone + Charger (Fast Charge)  
     
-    * Funda de Cargador  
     * Phone screen pen  
 
     * Porta Laptop  
@@ -67,7 +56,7 @@ permalink: /about/traveling
     * Caja Herramientas  
     * Cable USB (USB multi charger cable)  
     * Memoria Portatil (1Tb Toshiba) + Funda  
-    * USB memmory  (Kinston)  
+    * USB memmory (Kinston)  
     * Bateria portatil + Funda  
 
 ### Mochilas/Bolsas
@@ -82,6 +71,7 @@ permalink: /about/traveling
 
     * Zarcillos (Potaras)  
     * Collar (Ojo de tigre)  
+    * Fake piercing  
 
     * Reloj (Manecillas: Black/Silver)  
     * Pulsera (Leather Bracelets)  
