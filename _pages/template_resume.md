@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+I am a Machine Learning Researcher in the Escola de Matemática Aplicada (EMAp) at the Fundação Getúlio Vargas (FGV), my research lies at the intersection of **Urban Perception**, **Deep Learning**, and **Interpretability Machine Learning**. I am especially interested in building efficient, and robust models that can perform analyzing, and understanding human perception from street images with or without associated description text to improve the identification of the visual components, and main perceptual features extraction for applications in urban computing.
+
 Education
 ======
 * M.Sc. in Computer Science, Universidad Católica San Pablo (UCSP), Arequipa - PERU , 2018-2020
@@ -18,7 +20,7 @@ Professional experience
 ======
 * May 2019 - April 2020: Research Assistant
   * Fundação Getúlio Vargas (FGV)
-  * Escola de Matemtica Aplicada (EMAp)
+    * Escola de Matemtica Aplicada (EMAp)
   * Supervisor(s): Phd. Jorge Poco
   * Research fields: Urban Perception, Deep Learning, and Interpretability Machine Learning
 
@@ -32,7 +34,7 @@ Professional experience
 
 * Jan 2016 - July 2017: Research Assistant
   * Centro de Tecnologías de la Información y Comunicationes (CTIC)
-  * Big Data & HPC Lab
+    * Big Data & HPC Lab
   * Supervisor(s): PhD. Manuel Castillo and PhD. José Fiestas
   * Research fields: Big Data, High-Performance Computing, and Fog Computing
 
