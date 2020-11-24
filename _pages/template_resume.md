@@ -18,7 +18,7 @@ Education
 
 Professional experience
 ======
-* May 2019 - April 2020: Research Assistant
+* May 2019 - April 2020: Machine Learning Researcher
   * Fundação Getúlio Vargas (FGV)
     * Escola de Matemtica Aplicada (EMAp)
   * Supervisor(s): Phd. Jorge Poco
