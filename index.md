@@ -1,6 +1,6 @@
 ---
 # layout: archive
-title: 
+title: "News"
 ---
 
 <table>
