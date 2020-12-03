@@ -13,30 +13,30 @@ I am a Machine Learning Researcher in the Escola de Matemática Aplicada (EMAp) 
 
 Education
 ======
-* M.Sc. in Computer Science, Universidad Católica San Pablo (UCSP), Arequipa - PERU , 2018-2020
-* B.Sc. in Computer Science, Universidad Nacional de Ingeniería (UNI), Lima - PERU, 2012-2017
+* **M.Sc. in Computer Science**, Universidad Católica San Pablo (UCSP), Arequipa - PERU , 2018-2020
+* **B.Sc. in Computer Science**, Universidad Nacional de Ingeniería (UNI), Lima - PERU, 2012-2017
 
 Professional experience
 ======
-* May 2019 - April 2020: Machine Learning Researcher
-  * Fundação Getúlio Vargas (FGV)
+* Fundação Getúlio Vargas (FGV): **Machine Learning Researcher**
     * Escola de Matemtica Aplicada (EMAp)
   * Supervisor(s): Phd. Jorge Poco
   * Research fields: Urban Perception, Deep Learning, and Interpretability Machine Learning
+  * *May 2019 - April 2020*
 
-* June 2018 - April 2019: Software Engineer
-  * ARIOT S.A.C.
-  * Duties included: IT consultant, IoT services deployment.
+* ARIOT S.A.C. : **Software Engineer**  
+  * Duties included: IT consultant, IoT services deployment.  
+  * *June 2018 - April 2019*
 
-* August 2017 - May 2018: Web Development Engineer
-  * CERNICALO S.A.
-  * Duties included: Web and Mobile applications development
+* CERNICALO S.A. : **Web Development Engineer**
+  * Duties included: Web and Mobile applications development.  
+  * *August 2017 - May 2018*
 
-* Jan 2016 - July 2017: Research Assistant
-  * Centro de Tecnologías de la Información y Comunicationes (CTIC)
-    * Big Data & HPC Lab
-  * Supervisor(s): PhD. Manuel Castillo and PhD. José Fiestas
-  * Research fields: Big Data, High-Performance Computing, and Fog Computing
+* Centro de Tecnologías de la Información y Comunicationes (CTIC): **Research Assistant**
+    * Big Data & HPC Lab  
+  * Supervisor(s): PhD. Manuel Castillo and PhD. José Fiestas  
+  * Research fields: Big Data, High-Performance Computing, and Fog Computing  
+  * *Jan 2016 - July 2017*
 
 Publications
 ======

@@ -42,7 +42,6 @@ permalink: /about/traveling
 ### Laptop/Celular/Memorias
 
     * Phone + Charger (Fast Charge)  
-    
     * Phone screen pen  
 
     * Porta Laptop  
@@ -50,7 +49,7 @@ permalink: /about/traveling
     * Laptop Cooler  
 
     * Bolso (Digital Bag Storage)  
-    * Mouse + porta-mouse  
+    * Mouse + Keyboard  
     * Headphone  
     * Power Extension  
     * Caja Herramientas  
@@ -159,7 +158,7 @@ permalink: /about/traveling
 
     * Buzo (2 Joggers: Black)  
 
-    * Bermudas (Wine, Uva, Tartan, Yellow)  
+    * Bermudas (Uva, Tartan, Yellow)  
 
 ### Calzados
 
