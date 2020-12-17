@@ -17,11 +17,7 @@ permalink: /about/traveling
     * Gafas (resina + medida + UV 400 + anti-reflex)  
     * Estuche de gafas + Franela + Sujetador  
 
-## Accesorios
-
-### Higiene
-
-    * Neceser  
+## Neceser  
 
     * Cepillo + Hilo dental + Pasta dental  
     * Enjuague bucal (Listerine)  
@@ -39,59 +35,49 @@ permalink: /about/traveling
 
     * Toalla (de mano y 2 de cuerpo)  
 
-### Laptop/Celular/Memorias
-
-    * Phone + Charger (Fast Charge)  
-    * Phone screen pen  
+## Mochila  
 
     * Porta Laptop  
     * Laptop + Charger (Asus Rog Gamer)  
     * Laptop Cooler  
 
     * Bolso (Digital Bag Storage)  
-    * Mouse + Keyboard  
-    * Headphone  
-    * Power Extension  
-    * Caja Herramientas  
-    * Cable USB (USB multi charger cable)  
-    * Memoria Portatil (1Tb Toshiba) + Funda  
+    * Phone + Charger (Fast Charge) + USB multi charger cable  
+    * Phone screen pen  
+    * Memoria Portatil (1Tb Toshiba) + case  
     * USB memmory (Kinston)  
-    * Bateria portatil + Funda  
+    * Bateria portatil + case  
+
+    * Mouse + Keyboard  
+    * Headphone + case  
+    * Power Extension  
 
 ### Mochilas/Bolsas
 
     * Maletas (de mano y bodega)  
-    * Mochila  
+
     * Canguro (Waist/Body Bag)  
 
 ### Artilugios
 
     * Popote de metal  
 
-    * Zarcillos (Potaras)  
+    * Zarcillos + Piercings (Fake)  
     * Collar (Ojo de tigre)  
-    * Fake piercing  
 
     * Reloj (Manecillas: Black/Silver)  
     * Pulsera (Leather Bracelets)  
     * Anillo (Ring Infinity Gloves)  
-      * Esmeralda - Tiempo
-      * Zafiro - Espacio
-      * Rubi - Realidad
-      * Amatista - Poder
-      * Ambar - Mente
-      * Agata - Alma
 
     * Paraguas (Qiuyeyuan Brand - Zodiac Umbrella Sword)  
 
-### Adicionales
+### Head set
 
-    * Vincha (HeadBand)  
-    * Cubre Ojos (Travel Sleep Eye Mask: Sad Frog)  
+    * Cubre Ojos (Eye Mask)  
     * Cubre Boca (Mouth Mask)  
     * Almohada de Cuello (Neck Pillow)  
 
-    * Calentadores de Licra (Torso, Piernas, Pies)  
+    * Calentadores de Licra (Torso, Piernas, Manos, Pies)  
     * Chalina de alpaca (Blanco)  
     * Bufanda (Scarf tartan)  
 
@@ -99,14 +85,20 @@ permalink: /about/traveling
 
 ## Prendas
 
-### Sport
+### Sport set
   
+    * Bolso de Cordones (Gym Sport Bag Cordons)  
+
+    * Vincha (HeadBand)  
     * Polo Sport  
     * Guantes Sport (Sport Gloves)  
+    * Wristband light  
     * Short Sport  
     * Runners (Athletic Shoes)  
-    * Bolso de Cordones (Gym Sport Bag Cordons)  
-    * Interior Sport  
+
+    * Pool Cap  
+    * Pool Glasses  
+    * Pool Sport  
 
 ### Ropa Interior
 
@@ -126,21 +118,13 @@ permalink: /about/traveling
 
     * Camisetas Tee (Gray, White, Black, Iron Blue, Green, Cherry-Wine)  
     * Camisetas Botón (Dark Mustard, Red, Light Blue)  
-    * Camisetas Polo (Pink)
     
     * Jersey Cuello Alto (Turtleneck Sweater: Red, Dark Blue)  
-    * Jersey Cuello V (V-neck Sweater: Dark green)  
+    * Jersey Cuello V (V-neck Sweater: Mustard)  
     * Jersey Cuello botón (Dark Blue Marine)
 
     * Sudadera con Capucha (2 Hooded Sweatshirt: Black, Random)  
-    * Cardigán (Hooded: ray)  
-
-### Camisas
-
-    * Camisas (White, Black, Pink)  
-    * Camisas Sport (White/Skyblue lined)  
-    * Camisas Tartan (Red/Black, White/Gray)  
-    * Camisas Manga Corta (Dark Navy Blue)  
+    * Cardigán (Hooded: Gray)  
 
 ### Chaquetas/Abrigos
 
@@ -158,7 +142,7 @@ permalink: /about/traveling
 
     * Buzo (2 Joggers: Black)  
 
-    * Bermudas (Uva, Tartan, Yellow)  
+    * Bermudas (3: Tartan)  
 
 ### Calzados
 
@@ -166,13 +150,13 @@ permalink: /about/traveling
     * Slipper  
 
     * Botines (Caterpillar: Soft Brown)  
-
     * Alpargatas (Espadrilles: Light blue)  
-
     * Zapatillas (Sneakers: White)  
+<!--
     * Zapatillas sin Cordones (Slip-On Sneakers: Black)  
     * Zapatillas de Lona (Canvas Sneakers: Red)  
     * Zapatillas Chukka (Casual Chukka: Electric Blue)  
+-->
     
 ## Prendas De Vestir
 
@@ -184,6 +168,11 @@ permalink: /about/traveling
     * Pañuelo (Pocket Square)  
     * Medias (Socks: Black)  
     * Biviries  
+
+    * Camisas (White, Black, Pink)  
+    * Camisas Sport (White/Skyblue lined)  
+    * Camisas Tartan (Red/Black, White/Gray)  
+    * Camisas Manga Corta (Dark Navy Blue) 
 
     * Corbatin (Bowtie: Black/White)  
     * Corbatas ()  
