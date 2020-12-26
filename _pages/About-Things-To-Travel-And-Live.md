@@ -6,16 +6,28 @@ description: ""
 permalink: /about/traveling
 ---
 
-## PortaDinero
+## Waist Bag
 
+    * Celular  
     * Billetera  
     * Monedero  
-    * Tarjetero  
-
-## Vista
-
-    * Gafas (resina + medida + UV 400 + anti-reflex)  
     * Estuche de gafas + Franela + Sujetador  
+
+## Body Bag
+
+    * Tarjetero  
+    * Gafas (resina + medida + UV 400 + anti-reflex)  
+    * Phone + Charger (Fast Charge) + USB multi charger cable  
+    * Phone screen pen  
+
+### Artilugios
+
+    * Zarcillos + Piercings (Fake)  
+    * Collar (Ojo de tigre)  
+
+    * Reloj (Manecillas: Black/Silver)  
+    * Pulsera (Leather Bracelets)  
+    * Anillo (Ring Infinity Gloves)  
 
 ## Neceser  
 
@@ -33,45 +45,76 @@ permalink: /about/traveling
     * Peine  
     * Espejo  
 
-    * Toalla (de mano y 2 de cuerpo)  
-
-## Mochila  
+## Mochila (Bag)
 
     * Porta Laptop  
-    * Laptop + Charger (Asus Rog Gamer)  
+    * Laptop + Charger  
     * Laptop Cooler  
-
-    * Bolso (Digital Bag Storage)  
-    * Phone + Charger (Fast Charge) + USB multi charger cable  
-    * Phone screen pen  
-    * Memoria Portatil (1Tb Toshiba) + case  
-    * USB memmory (Kinston)  
-    * Bateria portatil + case  
 
     * Mouse + Keyboard  
     * Headphone + case  
     * Power Extension  
 
-### Mochilas/Bolsas
+## Bolso (Digital Bag Storage)  
 
-    * Maletas (de mano y bodega)  
+    * Memoria Portatil (1Tb Toshiba) + case  
+    * Bateria portatil + case  
+    * USB memmory (Kinston)  
+    * HDMI-Cable - VGA Adapter  
+    * Micro SD Adapter (Micro USB OTG Type C)  
+    * DVD/CD Adapter  
+    * Phone chip + case  
+    * Multi-USB Adapter  
+    * Multi-Charger Adapter  
 
-    * Canguro (Waist/Body Bag)  
+## Sport Bag Cordons
+  
+    * Vincha (HeadBand)  
+    * Polo Sport  
+    * Short Sport (Hypnotic 30)  
+    * Guantes Sport (Sport Gloves)  
+    * Wristband light    
+    * Runners (Athletic Shoes)  
 
-### Artilugios
+    * Pool Cap + Glasses + Short  
 
+## Maleta 8Kg
+
+    * Cinturon (Belt: Black/Brown)  
+    * Cartuchera (Lapices, Lapiceros, tinta)  
+    * Regla 30 cm  
+    * Toalla de cuerpo (1)  
     * Popote de metal  
 
-    * Zarcillos + Piercings (Fake)  
-    * Collar (Ojo de tigre)  
+### Ropa Interior
 
-    * Reloj (Manecillas: Black/Silver)  
-    * Pulsera (Leather Bracelets)  
-    * Anillo (Ring Infinity Gloves)  
+    * Boxers (Boston: black, 9)  
+    * Medias (Licra gray: 9)  
+    * Pijama (2 juegos polo-short)  
 
+### Camisetas
+
+    * Camisetas Tee (Gray, White, Black, Iron Blue, Green, Cherry-Wine)  
+    * Camisetas Botón (Dark Mustard, Red, Light Blue)  
+    * Camiseta playera  
+    * Camisas Manga Corta (Dark Navy Blue)
+    * Camisa playera   
+
+### Pantalones/Bermudas
+
+    * Jeans Color (Pioner 30 - super pitillo: Khaki, White, Light Gray, Dark Green)  
+    * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
+    * Buzo (2 Joggers: Black)  
+    * Bermudas (Tartan, yellow)  
+
+## Maleta 23Kg
+
+    * Toalla de cuerpo (2)  
+    * Bata de baño (1 Azul)  
+    * Akatsuki Cosplay Tobi  
     * Paraguas (Qiuyeyuan Brand - Zodiac Umbrella Sword)  
 
-### Head set
+### Calentadores
 
     * Cubre Ojos (Eye Mask)  
     * Cubre Boca (Mouth Mask)  
@@ -80,30 +123,6 @@ permalink: /about/traveling
     * Calentadores de Licra (Torso, Piernas, Manos, Pies)  
     * Chalina de alpaca (Blanco)  
     * Bufanda (Scarf tartan)  
-
-    * Guantes (SmartPhone Gloves)  
-
-## Prendas
-
-### Sport set
-  
-    * Bolso de Cordones (Gym Sport Bag Cordons)  
-
-    * Vincha (HeadBand)  
-    * Polo Sport  
-    * Guantes Sport (Sport Gloves)  
-    * Wristband light  
-    * Short Sport  
-    * Runners (Athletic Shoes)  
-
-    * Pool Cap  
-    * Pool Glasses  
-    * Pool Sport  
-
-### Ropa Interior
-
-    * Boxers (Boston: black, 9)  
-    * Medias (Licra gray: 9)  
 
 ### Gorros/Sombreros
 
@@ -114,35 +133,40 @@ permalink: /about/traveling
     * Gorro plano (Flat Hat)  
     * Gorra  
 
-### Camisetas/Jerseys
-
-    * Camisetas Tee (Gray, White, Black, Iron Blue, Green, Cherry-Wine)  
-    * Camisetas Botón (Dark Mustard, Red, Light Blue)  
-    
-    * Jersey Cuello Alto (Turtleneck Sweater: Red, Dark Blue)  
-    * Jersey Cuello V (V-neck Sweater: Mustard)  
-    * Jersey Cuello botón (Dark Blue Marine)
-
-    * Sudadera con Capucha (2 Hooded Sweatshirt: Black, Random)  
-    * Cardigán (Hooded: Gray)  
-
-### Chaquetas/Abrigos
+### Chaquetas/Abrigos/Jerseys
 
     * Chaquetón (PeaCoat)  
     * Gabán (OverCoat)  
-    * Poncho (Cloak Hoodie Stitching)  
     * Chaqueta Jeans (Jeans Jacket: Blue)  
     * Chaqueta de Cuero (Leather Jacket: Black)  
+    * Sudadera con Capucha (2 Hooded Sweatshirt: Black, Random)  
+    * Cardigan (Hooded: Gray)  
+    * Jersey Cuello Alto (Turtleneck Sweater: Red, Dark Blue)  
+    * Jersey Cuello V (V-neck Sweater: Mustard)  
+    * Jersey Cuello botón (Dark Blue Marine)  
+<!--
     * Chaqueta de Corduroy Sherpa (Sherpa Corderoy Jacket)  
+    * Poncho (Cloak Hoodie Stitching)  
+-->    
+    
+### Prendas De Vestir
 
-### Pantalones/Bermudas
+    * Terno (Herringbone Suit: Light Gray)  
+    * Blazer (Navy Blue)  
+    * Saco (Tartan Sport Coat)  
 
-    * Jeans Color (Pioner 30 - super pitillo: Khaki, White, Steel Blue, Light Gray, Dark Green)  
-    * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
+    * Tirantes (Suspenders Button/Clip: Dark Gray)  
+    * Pañuelo (Pocket Square)  
+    * Medias (Socks: Black)  
 
-    * Buzo (2 Joggers: Black)  
+    * Camisas (White, Black, Pink)  
+    * Camisas Sport (Skyblue lined)  
+<!--
+    * Camisas Tartan (Red/Black, White/Gray)  
+-->
 
-    * Bermudas (3: Tartan)  
+    * Corbatin (Bowtie: Black/White)  
+    * Corbatas ()  
 
 ### Calzados
 
@@ -156,28 +180,9 @@ permalink: /about/traveling
     * Zapatillas sin Cordones (Slip-On Sneakers: Black)  
     * Zapatillas de Lona (Canvas Sneakers: Red)  
     * Zapatillas Chukka (Casual Chukka: Electric Blue)  
--->
     
-## Prendas De Vestir
-
-    * Terno (Herringbone Suit: Light Gray)  
-    * Blazer (Navy Blue)  
-    * Saco (Tartan Sport Coat)  
-
-    * Tirantes (Suspenders Button/Clip: Dark Gray)  
-    * Pañuelo (Pocket Square)  
-    * Medias (Socks: Black)  
-    * Biviries  
-
-    * Camisas (White, Black, Pink)  
-    * Camisas Sport (White/Skyblue lined)  
-    * Camisas Tartan (Red/Black, White/Gray)  
-    * Camisas Manga Corta (Dark Navy Blue) 
-
-    * Corbatin (Bowtie: Black/White)  
-    * Corbatas ()  
-    * Cinturon (Belt: Black/Brown)  
-
     * Mocasines (Loafers: Brown)  
-    * Zapatos (Cap Toe Oxford: Black)  
+-->
+    * Zapatos (Cap Toe Oxford: Black/Brown)  
+
 
