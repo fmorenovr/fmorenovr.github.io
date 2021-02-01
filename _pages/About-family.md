@@ -10,6 +10,6 @@ permalink: /about/family
 
 * Felix Moreno Acero - Juana Huazo Gayoso
 * Felix Francisco Moreno Huazo - Lelia Alejandrina Espinoza Canelo
-* Juan Felix Moreno Espinoza - Celestina Lucia Motta Revilla
-* Juan Rolando Moreno Motta - Yovana Noemi Vera Silvera
+* Juan Felix Moreno Espinoza - Celestina Lucia Motta Revilla // Sofia Silvera
+* Juan Rolando Moreno Motta - Yovana Nohemi Vera Silvera
 * Felipe Adrian Moreno Vera - ??

@@ -3,7 +3,7 @@ layout: page
 title:  "Useful things to travel and live."
 subtitle: Here you will learn what you need to travel quietly.
 description: ""
-permalink: /about/traveling
+permalink: /about/travel
 ---
 
 ## Personal
@@ -78,8 +78,9 @@ permalink: /about/traveling
     * Regla 30 cm  
     * Toalla de mano  
     * Popote de metal  
+    * Buzo (2 Joggers: Black)  
 
-### Ropa Interior
+### 1 Pack Organizador Pequeño: Ropa Interior
 
     * Boxers (Boston: black, 9)  
     * Medias (Algodon gray: 9)  
@@ -87,19 +88,17 @@ permalink: /about/traveling
     * Media de Vestir    
     * Pijama (2 juegos polo-short)  
 
-### Camisetas
+### 1 Pack Organizador Mediano: Camisetas
 
     * Camisetas Tee (Gray, White, Black, Iron Blue, Green, Cherry-Wine)  
     * Camisetas Botón (Dark Mustard, Red, Light Blue)  
     * Camiseta + Camisa de playa    
 
-### Pantalones/Bermudas
+### 1 Pack Organizador Grande: Pantalones/Bermudas
 
     * Jeans Color (Pioner 30 - super pitillo: Khaki, White)  
     * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
-    * Buzo (2 Joggers: Black)  
-    * Bermudas (Tartan, Yellow)  
-    * Bermuda playa (Hypnotic 30: 2)  
+    * Bermudas (Tartan, Yellow) y Playa (Hypnotic 30: 2)  
 
 ## Maleta 23Kg
 

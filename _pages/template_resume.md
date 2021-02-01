@@ -19,24 +19,24 @@ Education
 Professional experience
 ======
 * Fundação Getúlio Vargas (FGV): **Machine Learning Researcher**
-    * Escola de Matemtica Aplicada (EMAp)
+  * *May 2019 - April 2020*  
+  * Escola de Matemtica Aplicada (EMAp)
   * Supervisor(s): Phd. Jorge Poco
   * Research fields: Urban Perception, Deep Learning, and Interpretability Machine Learning
-  * *May 2019 - April 2020*
 
 * ARIOT S.A.C. : **Software Engineer**  
+  * *June 2018 - April 2019*  
   * Duties included: IT consultant, IoT services deployment.  
-  * *June 2018 - April 2019*
 
 * CERNICALO S.A. : **Web Development Engineer**
+  * *August 2017 - May 2018*  
   * Duties included: Web and Mobile applications development.  
-  * *August 2017 - May 2018*
 
 * Centro de Tecnologías de la Información y Comunicationes (CTIC): **Research Assistant**
-    * Big Data & HPC Lab  
+  * *Jan 2016 - July 2017*  
+  * Big Data & HPC Lab  
   * Supervisor(s): PhD. Manuel Castillo and PhD. José Fiestas  
   * Research fields: Big Data, High-Performance Computing, and Fog Computing  
-  * *Jan 2016 - July 2017*
 
 Publications
 ======
@@ -56,7 +56,7 @@ Oral presentations and Poster sessions
       <p style="font-size:12px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     </li>
   {% endfor %}</ul>
-
+<!--
 ### Presentations
   <ul>{% for post in site.presentations reversed %}
     <li>
@@ -64,7 +64,7 @@ Oral presentations and Poster sessions
       <p style="font-size:12px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     </li>
   {% endfor %}</ul>
-
+-->
 Portfolio
 ======
   <ul>{% for post in site.portfolio %}
