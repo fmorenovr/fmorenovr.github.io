@@ -65,6 +65,7 @@ Oral presentations and Poster sessions
     </li>
   {% endfor %}</ul>
 -->
+
 Portfolio
 ======
   <ul>{% for post in site.portfolio %}

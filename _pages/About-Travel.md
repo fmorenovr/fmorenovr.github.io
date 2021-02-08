@@ -19,6 +19,7 @@ permalink: /about/travel
     * Prendedores de cabello  
     * Zarcillos + Piercings (Fake)  
     * Anillo (Ring Infinity Gloves)  
+    * Reloj (Manecillas: Black/Silver)  
 
 ## Personal Waist Bag
 
@@ -26,29 +27,24 @@ permalink: /about/travel
     * Billetera  
     * Monedero  
     * Phone screen pen  
-    * Auriculares + Charger  
+    * Auriculares  
 
-## Sport Waist Bag
+## Sport Bag Cordons
 
     * Guantes Sport  
     * Reloj Sport  
+    * Pulsera Sport  
     * Wristband light  
     * SunGlasses + Estuche  
     * Protector agua  
-
-## Sport Bag Cordons
   
     * Vincha (HeadBand)  
     * Polo + Short Sport (Hypnotic 30)  
-    * Cinturón  
-    * Pool Cap + Glasses + Briefs/Sunga  
 
 ## CrossBody Anti-Theft Bag
 
     * Tarjetero  
-    * Reloj (Manecillas: Black/Silver)  
     * Phone + Charger (Fast Charge)  
-    * Bateria Portatil + case  
     * Estuche de gafas + Franela + Sujetador (Eyewear Retainer)  
     
     * Headphone + case  
@@ -59,53 +55,94 @@ permalink: /about/travel
     * Laptop Cooler  
 
     * Mouse + Keyboard  
-    * Power Extension  
 
 ### Digital Bag Storage
 
     * Memoria Portatil (1Tb Toshiba) + case  
+    * Bateria Portatil + case  
     * USB memmory (Kinston)  
     * HDMI-Cable - VGA Adapter  
     * Phone chip + case  
     * Multi-USB Adapter  
     * Multi-Charger Adapter  
-    * Micro SD Adapter (Micro USB OTG Type C)  
+    * Multi Function OTG/USB Micro SD Adapter  
+    * Power Extension  
 
-## Maleta 8Kg
+## 2. Maleta 8Kg
 
     * Cinturon (Belt: Black/Brown)  
     * Cartuchera (Lapices, Lapiceros, tinta)  
     * Regla 30 cm  
-    * Toalla de mano  
-    * Popote de metal  
-    * Buzo (2 Joggers: Black)  
+    * Corbatin (Bowtie: Black/White)  
 
-### 1 Pack Organizador Pequeño: Ropa Interior
+### 1 Bolso Organizador Pequeño: 
+
+    * Pool Cap + Glasses + Briefs/Sunga  
+
+### 1 Bolso Organizador Mediano:
+    
+    * Toalla de mano  
+    * Cinturón + polo - gorra de Perú  
+
+### 1 Bolso Organizador Grande:
+
+    * Pijama (2 juegos polo-short)   
+
+### 1 Pack/Estojo Organizador Pequeño: Ropa Interior
 
     * Boxers (Boston: black, 9)  
     * Medias (Algodon gray: 9)  
     * Media Sport  
-    * Media de Vestir    
-    * Pijama (2 juegos polo-short)  
-
-### 1 Pack Organizador Mediano: Camisetas
+    * Media de Vestir  
+    
+### 1 Pack/Estojo Organizador Transparente: Camisetas
 
     * Camisetas Tee (Gray, White, Black, Iron Blue, Green, Cherry-Wine)  
     * Camisetas Botón (Dark Mustard, Red, Light Blue)  
     * Camiseta + Camisa de playa    
 
-### 1 Pack Organizador Grande: Pantalones/Bermudas
+### 1 Pack/Estojo Organizador Transparente: Pantalones/Bermudas
 
     * Jeans Color (Pioner 30 - super pitillo: Khaki, White)  
     * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
     * Bermudas (Tartan, Yellow) y Playa (Hypnotic 30: 2)  
 
-## Maleta 23Kg
+## 3. Maleta 23Kg
 
     * Toalla de cuerpo (2)  
     * Bata de baño (1 Azul)  
     * Akatsuki Capa + Mascara Tobi  
     * Paraguas (Qiuyeyuan Brand - Zodiac Umbrella Sword)  
+    * Buzo (2 Joggers: Black)  
+
+### 1 Pack/Estojo Organizador Mediano: Gorros/Sombreros
+
+    * Gorro de Invierno (Russian Winter Hat Ushanka)  
+    * Sombrero de Verano (Summer Hat)  
+    * Sombrero Trekking (Chinese hat)  
+    * Sombrero de Vestir (Black)  
+    * Gorro plano (Flat Hat)  
+    * Gorra  
+
+### 1 Pack/Estojo Organizador Transparente: Calentadores
+
+    * Cubre Ojos (Eye Mask)  
+    * Cubre Boca (Mouth Mask)  
+    * Almohada de Cuello (Neck Pillow)  
+
+    * Calentadores de Licra (Torso, Piernas, Manos, Pies)  
+    * Chalina de alpaca (Blanco)  
+    * Bufanda (Scarf tartan)  
+
+### 1 Pack/Estojo Organizador Transparente: Jerseys/Chaquetas
+
+    * Cardigan (Hooded: Gray)  
+    * Sudadera con Capucha (Hooded Sweatshirt: Black)  
+    
+    * Jersey Cuello Alto (Turtleneck Sweater: Red)  
+    * Jersey Cuello V (V-neck Sweater: Mustard)  
+    * Jersey Cuello botón (Dark Blue Marine)  
+    * Jersey lana (Light Blue Marine)  
 
 ### Neceser  
 
@@ -122,49 +159,11 @@ permalink: /about/travel
     * Enjuague (Listerine)  
     * Shampoo  
 
-### Calentadores
-
-    * Cubre Ojos (Eye Mask)  
-    * Cubre Boca (Mouth Mask)  
-    * Almohada de Cuello (Neck Pillow)  
-
-    * Calentadores de Licra (Torso, Piernas, Manos, Pies)  
-    * Chalina de alpaca (Blanco)  
-    * Bufanda (Scarf tartan)  
-
-### Gorros/Sombreros
-
-    * Gorro de Invierno (Russian Winter Hat Ushanka)  
-    * Sombrero de Verano (Summer Hat)  
-    * Sombrero Trekking (Chinese hat)  
-    * Sombrero de Vestir (Black)  
-    * Gorro plano (Flat Hat)  
-    * Gorra  
-
-### Jerseys/Chaquetas
-
-    * Sudadera con Capucha (Hooded Sweatshirt: Black)  
-    * Cardigan (Hooded: Gray)  
-    
-    * Jersey Cuello Alto (Turtleneck Sweater: Red)  
-    * Jersey Cuello V (V-neck Sweater: Mustard)  
-    * Jersey Cuello botón (Dark Blue Marine)  
-
-<!--
-    * Chaqueta Jeans (Jeans Jacket: Blue)  
-    * Chaqueta de Cuero (Leather Jacket: Black)  
-    * Chaqueta de Corduroy Sherpa (Sherpa Corderoy Jacket)  
-    * Poncho (Cloak Hoodie Stitching)  
--->    
-    
 ### Vestir
 
-    * Blazer (Navy Blue; Sport: Tartan)  
-    * Corbatin (Bowtie: Black/White)  
+
     * Tirantes (Suspenders Button/Clip: Dark Gray)  
     * Pañuelo (Pocket Square)  
-
-    * Terno (Herringbone Suit: Light Gray)  
 
     * Camisas (White, Grey; Sport: Skyblue lined)  
     * Corbatas ()  
@@ -187,6 +186,14 @@ permalink: /about/travel
 
 ### Chaquetas/Abrigos/Jerseys
 
+    * Terno (Herringbone Suit: Light Gray)  
+    * Blazer (Navy Blue; Sport: Tartan)  
     * Chaquetón (PeaCoat)  
     * Gabán (OverCoat: Gray, Tartan)  
 
+<!--
+    * Chaqueta Jeans (Jeans Jacket: Blue)  
+    * Chaqueta de Cuero (Leather Jacket: Black)  
+    * Chaqueta de Corduroy Sherpa (Sherpa Corderoy Jacket)  
+    * Poncho (Cloak Hoodie Stitching)  
+-->    
