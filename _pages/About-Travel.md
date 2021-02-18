@@ -106,11 +106,12 @@ permalink: /about/travel
     * Camisetas Botón (Dark Mustard, Red, Light Blue)  
     * Bermudas (Tartan, Yellow)  
 
-### 1 Pack/Estojo Organizador Transparente: Pantalones/Buzos
+### 1 Pack/Estojo Organizador Transparente: Pantalones
 
+    * Jersey Cuello Alto (Turtleneck Sweater: Red)  
+    * Jersey Cuello botón (Dark Blue Marine)  
     * Jeans Color (Pioner 30 - super pitillo: Khaki, White)  
     * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
-    * Buzo (2 Joggers: Black)  
 
 ## 3. Maleta 23Kg
 
@@ -141,6 +142,8 @@ permalink: /about/travel
     * 1 Bolso Organizador Pequeño: Pool Cap + Glasses + Briefs/Sunga
     * Cinturón Karate  
 
+    * Buzo (2 Joggers: Black)  
+
 ### 1 Pack/Estojo Organizador Transparente: Calentadores
 
     * Gorro de Invierno (Russian Winter Hat Ushanka)  
@@ -158,15 +161,13 @@ permalink: /about/travel
 
     * Sudadera con Capucha (Hooded Sweatshirt: Black)  
     
-    * Jersey Cuello Alto (Turtleneck Sweater: Red)  
     * Jersey Cuello V (V-neck Sweater: Mustard)  
-    * Jersey Cuello botón (Dark Blue Marine)  
-<!--    * Jersey lana (Light Blue Marine)  -->
 
 ### 1 Pack/Estojo Organizador Transparente: Vestir
 
     * Gorro plano (Flat Hat)  
 
+    * Jersey lana (Light Blue Marine)
     * Cinturon (Belt: Black/Brown)  
     * Corbatin (Bowtie: Black/White)  
     * Tirantes (Suspenders Button/Clip: Dark Gray)  
