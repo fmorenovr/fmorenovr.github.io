@@ -6,22 +6,17 @@ description: ""
 permalink: /about/travel
 ---
 
-## Personal
+## Personal Health
 
-    * Gafas (resina + medida + UV 400 + anti-reflex)  
     * Casco Protector Facial  
     * Saco impermeable  
     * Collar de Alcohol (70%)  
     * Guantes Tela  
 
-    * Collar (Ojo de tigre)  
-    * Pulsera (Leather Bracelets, Inifinito)  
-    * Prendedores de cabello  
-    * Zarcillos + Piercings (Fake)  
-    * Anillo (Ring Infinity Gloves)  
-    * Reloj (Manecillas: Black/Silver)  
-
 ## Personal Waist Bag
+
+    * Gafas (resina + medida + UV 400 + anti-reflex)  
+    * Estuche de gafas + Franela + Sujetador (Eyewear Retainer)  
 
     * Celular  
     * Billetera  
@@ -29,32 +24,52 @@ permalink: /about/travel
     * Phone screen pen  
     * Auriculares  
 
+    * Anillo (Ring Infinity Gloves)  
+    * Reloj (Manecillas: Black/Silver)  
+    * Collar (Ojo de tigre)  
+    * Pulsera (Leather Bracelets, Inifinito)  
+    * Prendedores de cabello  
+    * Zarcillos + Piercings (Fake)  
+
 ## Sport Bag Cordons
 
+    * Vincha (HeadBand)  
     * Guantes Sport  
     * Reloj Sport  
     * Pulsera Sport  
     * Wristband light  
     * SunGlasses + Estuche  
     * Protector agua  
-  
-    * Vincha (HeadBand)  
-    * Polo + Short Sport (Hypnotic 30)  
 
 ## CrossBody Anti-Theft Bag
 
     * Tarjetero  
     * Phone + Charger (Fast Charge)  
-    * Estuche de gafas + Franela + Sujetador (Eyewear Retainer)  
-    
-    * Headphone + case  
+    * Cartuchera (Lapices, Lapiceros, tinta)  
+    * Libreta  
 
-## Mochila (Bag)
+## Neceser  
+
+    * Cepillo + Hilo dental (cera) + Pasta dental  
+    * Jabon (Glicerina) + Jabonera  
+    * Esponja (Bucha vegetal)  
+    * Deshodorante (Rexona)  
+    * Lip Balm (UV)  
+    * Afeitadora  
+    * CortaUñas + Pinza + QuitaCuticula  
+    * Peine  
+    * Espejo  
+
+    * Enjuague (Listerine)  
+    * Shampoo  
+
+## 1. Mochila (Bag)
 
     * Laptop + Charger + Cubre-Camara + Case  
     * Laptop Cooler  
-
+    * Regla 30 cm  
     * Mouse + Keyboard  
+    * Headphone + case  
 
 ### Digital Bag Storage
 
@@ -70,61 +85,59 @@ permalink: /about/travel
 
 ## 2. Maleta 8Kg
 
-    * Cinturon (Belt: Black/Brown)  
-    * Cartuchera (Lapices, Lapiceros, tinta)  
-    * Regla 30 cm  
-    * Corbatin (Bowtie: Black/White)  
-
-### 1 Bolso Organizador Pequeño: 
-
-    * Pool Cap + Glasses + Briefs/Sunga  
-
-### 1 Bolso Organizador Mediano:
+    * 1 Bolso Organizador Grande: Pijama (2 juegos polo-short)   
+    * 1 Bolso Organizador Mediano: Toalla de mano  
+    * 1 Pack/Bolso Organizador Pequeño: Ropa Interior  
+       * Boxers (Boston: black, 9)  
+       * Medias (Algodon gray: 9)  
+       * Media Sport  
+       * Media de Vestir  
     
-    * Toalla de mano  
-    * Cinturón + polo - gorra de Perú  
+### 1 Pack/Estojo Organizador Transparente: Camisetas/Bermudas
 
-### 1 Bolso Organizador Grande:
-
-    * Pijama (2 juegos polo-short)   
-
-### 1 Pack/Estojo Organizador Pequeño: Ropa Interior
-
-    * Boxers (Boston: black, 9)  
-    * Medias (Algodon gray: 9)  
-    * Media Sport  
-    * Media de Vestir  
-    
-### 1 Pack/Estojo Organizador Transparente: Camisetas
-
+    * Gorra  
     * Camisetas Tee (Gray, White, Black, Iron Blue, Green, Cherry-Wine)  
     * Camisetas Botón (Dark Mustard, Red, Light Blue)  
-    * Camiseta + Camisa de playa    
+    * Bermudas (Tartan, Yellow)  
 
-### 1 Pack/Estojo Organizador Transparente: Pantalones/Bermudas
+### 1 Pack/Estojo Organizador Transparente: Pantalones/Buzos
 
     * Jeans Color (Pioner 30 - super pitillo: Khaki, White)  
     * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
-    * Bermudas (Tartan, Yellow) y Playa (Hypnotic 30: 2)  
+    * Buzo (2 Joggers: Black)  
 
 ## 3. Maleta 23Kg
 
     * Toalla de cuerpo (2)  
     * Bata de baño (1 Azul)  
-    * Akatsuki Capa + Mascara Tobi  
+    
     * Paraguas (Qiuyeyuan Brand - Zodiac Umbrella Sword)  
-    * Buzo (2 Joggers: Black)  
 
-### 1 Pack/Estojo Organizador Mediano: Gorros/Sombreros
-
-    * Gorro de Invierno (Russian Winter Hat Ushanka)  
-    * Sombrero de Verano (Summer Hat)  
     * Sombrero Trekking (Chinese hat)  
-    * Sombrero de Vestir (Black)  
-    * Gorro plano (Flat Hat)  
-    * Gorra  
+
+### 1 Pack/Estojo Organizador Transparente: Sport/Playa
+
+    * Sombrero de Verano (Summer Hat)  
+
+    * Camiseta + Camisa de playa  
+    * Short Playa (Hypnotic 30: 2)  
+
+    * Polo + Short Sport (Hypnotic 30)  
+    * polo - gorra de Perú  
+
+    * 1 Bolso Organizador Pequeño: Pool Cap + Glasses + Briefs/Sunga
+    * Cinturón Karate    
+
+### 1 Pack/Estojo Organizador Transparente: Cosplay
+
+    * Sombrero de Vestir + Mascara de V
+
+    * Akatsuki Capa + Mascara Tobi Naranja  
+    * Palpatine Capa + Mascara Tobi Blanca  
 
 ### 1 Pack/Estojo Organizador Transparente: Calentadores
+
+    * Gorro de Invierno (Russian Winter Hat Ushanka)  
 
     * Cubre Ojos (Eye Mask)  
     * Cubre Boca (Mouth Mask)  
@@ -142,29 +155,16 @@ permalink: /about/travel
     * Jersey Cuello Alto (Turtleneck Sweater: Red)  
     * Jersey Cuello V (V-neck Sweater: Mustard)  
     * Jersey Cuello botón (Dark Blue Marine)  
-    * Jersey lana (Light Blue Marine)  
+<!--    * Jersey lana (Light Blue Marine)  -->
 
-### Neceser  
+### 1 Pack/Estojo Organizador Transparente: Vestir
 
-    * Cepillo + Hilo dental (cera) + Pasta dental  
-    * Jabon (Glicerina) + Jabonera  
-    * Esponja (Bucha vegetal)  
-    * Deshodorante (Rexona)  
-    * Lip Balm (UV)  
-    * Afeitadora  
-    * CortaUñas + Pinza + QuitaCuticula  
-    * Peine  
-    * Espejo  
+    * Gorro plano (Flat Hat)  
 
-    * Enjuague (Listerine)  
-    * Shampoo  
-
-### Vestir
-
-
+    * Cinturon (Belt: Black/Brown)  
+    * Corbatin (Bowtie: Black/White)  
     * Tirantes (Suspenders Button/Clip: Dark Gray)  
     * Pañuelo (Pocket Square)  
-
     * Camisas (White, Grey; Sport: Skyblue lined)  
     * Corbatas ()  
 
@@ -174,7 +174,7 @@ permalink: /about/travel
     * Slipper Leather  
     * Alpargatas (Hawaiana Espadrilles: Light blue)  
     * Botines (Caterpillar: Soft Brown)  
-    * Zapatillas (Sneakers: White)  
+    * Tenis (Sneakers: White)  
     * Mocasines (Loafers: Brown)  
     * Runners (Athletic Shoes)  
 <!--
