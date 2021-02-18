@@ -23,11 +23,12 @@ permalink: /about/travel
     * Monedero  
     * Phone screen pen  
     * Auriculares  
+    * Lip Balm (UV)  
 
     * Anillo (Ring Infinity Gloves)  
     * Reloj (Manecillas: Black/Silver)  
     * Collar (Ojo de tigre)  
-    * Pulsera (Leather Bracelets, Inifinito)  
+    * Pulsera (Leather Bracelets)  
     * Prendedores de cabello  
     * Zarcillos + Piercings (Fake)  
 
@@ -45,18 +46,20 @@ permalink: /about/travel
 
     * Tarjetero  
     * Phone + Charger (Fast Charge)  
+    * Multi-Charger Adapter  
     * Cartuchera (Lapices, Lapiceros, tinta)  
     * Libreta  
+    * Bateria Portatil + case  
 
 ## Neceser  
 
     * Cepillo + Hilo dental (cera) + Pasta dental  
     * Jabon (Glicerina) + Jabonera  
-    * Esponja (Bucha vegetal)  
+    * Esponja de rostro + cuerpo (Bucha vegetal)  
     * Deshodorante (Rexona)  
-    * Lip Balm (UV)  
     * Afeitadora  
     * CortaUñas + Pinza + QuitaCuticula  
+    * Crema de hongos  
     * Peine  
     * Espejo  
 
@@ -68,31 +71,32 @@ permalink: /about/travel
     * Laptop + Charger + Cubre-Camara + Case  
     * Laptop Cooler  
     * Regla 30 cm  
-    * Mouse + Keyboard  
     * Headphone + case  
 
 ### Digital Bag Storage
 
     * Memoria Portatil (1Tb Toshiba) + case  
-    * Bateria Portatil + case  
     * USB memmory (Kinston)  
     * HDMI-Cable - VGA Adapter  
     * Phone chip + case  
+    * Camera hider  
     * Multi-USB Adapter  
-    * Multi-Charger Adapter  
     * Multi Function OTG/USB Micro SD Adapter  
     * Power Extension  
+    * Mouse + Keyboard  
 
 ## 2. Maleta 8Kg
 
     * 1 Sport cordons bag  
-    * 1 Bolso Organizador Grande: Pijama (2 juegos polo-short)   
-    * 1 Bolso Organizador Mediano: Toalla de mano  
-    * 1 Pack/Bolso Organizador Pequeño: Ropa Interior  
-       * Boxers (Boston: black, 9)  
-       * Medias (Algodon gray: 9)  
-       * Media Sport  
-       * Media de Vestir  
+
+### 1 Pack/Estojo Organizador Transparente: Pijama
+
+    * 1 Bolso Organizador Grande: Boxers (Boston: black, 9)
+    * 1 Bolso Organizador Mediano: Medias (Algodon gray: 9, Sport, Vestir)  
+    * Pijama (2 juegos polo-short)   
+    * Toalla de mano  
+
+    * Sandalias (Flip Flop)  
     
 ### 1 Pack/Estojo Organizador Transparente: Camisetas/Bermudas
 
@@ -110,12 +114,12 @@ permalink: /about/travel
 
 ## 3. Maleta 23Kg
 
+    * Sombrero Trekking (Chinese hat)  
+
     * Toalla de cuerpo (2)  
     * Bata de baño  
     
     * Paraguas (Qiuyeyuan Brand - Zodiac Umbrella Sword)  
-
-    * Sombrero Trekking (Chinese hat)  
 
 ### 1 Pack/Estojo Organizador Transparente: Cosplay
 
@@ -171,18 +175,22 @@ permalink: /about/travel
     * Corbatas ()  
 
 ### Calzados
-
-    * Sandalias (Flip Flop)  
+ 
     * Slipper Leather  
     * Alpargatas (Hawaiana Espadrilles: Light blue)  
+
     * Botines (Caterpillar: Soft Brown)  
+    
     * Tenis (Sneakers: White)  
+    
     * Runners (Athletic Shoes)  
+    
+    * Zapatos (Cap Toe Oxford: Black/Brown)  
+
 <!--
     * Zapatillas sin Cordones (Slip-On Sneakers: Black)  
     * Zapatillas de Lona (Canvas Sneakers: Red)  
     * Zapatillas Chukka (Casual Chukka: Electric Blue)  
-    * Zapatos (Cap Toe Oxford: Black/Brown)  
     * Mocasines (Loafers: Brown)  
 -->
 
