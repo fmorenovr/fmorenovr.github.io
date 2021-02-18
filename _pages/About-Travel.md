@@ -31,7 +31,7 @@ permalink: /about/travel
     * Prendedores de cabello  
     * Zarcillos + Piercings (Fake)  
 
-## Sport Bag Cordons
+## Waist Sport Bag
 
     * Vincha (HeadBand)  
     * Guantes Sport  
@@ -85,6 +85,7 @@ permalink: /about/travel
 
 ## 2. Maleta 8Kg
 
+    * 1 Sport cordons bag  
     * 1 Bolso Organizador Grande: Pijama (2 juegos polo-short)   
     * 1 Bolso Organizador Mediano: Toalla de mano  
     * 1 Pack/Bolso Organizador Pequeño: Ropa Interior  
@@ -96,6 +97,7 @@ permalink: /about/travel
 ### 1 Pack/Estojo Organizador Transparente: Camisetas/Bermudas
 
     * Gorra  
+    * Cardigan (Hooded: Gray)  
     * Camisetas Tee (Gray, White, Black, Iron Blue, Green, Cherry-Wine)  
     * Camisetas Botón (Dark Mustard, Red, Light Blue)  
     * Bermudas (Tartan, Yellow)  
@@ -109,11 +111,18 @@ permalink: /about/travel
 ## 3. Maleta 23Kg
 
     * Toalla de cuerpo (2)  
-    * Bata de baño (1 Azul)  
+    * Bata de baño  
     
     * Paraguas (Qiuyeyuan Brand - Zodiac Umbrella Sword)  
 
     * Sombrero Trekking (Chinese hat)  
+
+### 1 Pack/Estojo Organizador Transparente: Cosplay
+
+    * Sombrero de Vestir + Mascara de V
+
+    * Akatsuki Capa + Mascara Tobi Naranja  
+    * Palpatine Capa + Mascara Tobi Blanca  
 
 ### 1 Pack/Estojo Organizador Transparente: Sport/Playa
 
@@ -126,18 +135,12 @@ permalink: /about/travel
     * polo - gorra de Perú  
 
     * 1 Bolso Organizador Pequeño: Pool Cap + Glasses + Briefs/Sunga
-    * Cinturón Karate    
-
-### 1 Pack/Estojo Organizador Transparente: Cosplay
-
-    * Sombrero de Vestir + Mascara de V
-
-    * Akatsuki Capa + Mascara Tobi Naranja  
-    * Palpatine Capa + Mascara Tobi Blanca  
+    * Cinturón Karate  
 
 ### 1 Pack/Estojo Organizador Transparente: Calentadores
 
     * Gorro de Invierno (Russian Winter Hat Ushanka)  
+    * Gorro tricot (Knit hat)  
 
     * Cubre Ojos (Eye Mask)  
     * Cubre Boca (Mouth Mask)  
@@ -147,9 +150,8 @@ permalink: /about/travel
     * Chalina de alpaca (Blanco)  
     * Bufanda (Scarf tartan)  
 
-### 1 Pack/Estojo Organizador Transparente: Jerseys/Chaquetas
+### 1 Pack/Estojo Organizador Transparente: Jerseys
 
-    * Cardigan (Hooded: Gray)  
     * Sudadera con Capucha (Hooded Sweatshirt: Black)  
     
     * Jersey Cuello Alto (Turtleneck Sweater: Red)  
@@ -175,13 +177,13 @@ permalink: /about/travel
     * Alpargatas (Hawaiana Espadrilles: Light blue)  
     * Botines (Caterpillar: Soft Brown)  
     * Tenis (Sneakers: White)  
-    * Mocasines (Loafers: Brown)  
     * Runners (Athletic Shoes)  
 <!--
     * Zapatillas sin Cordones (Slip-On Sneakers: Black)  
     * Zapatillas de Lona (Canvas Sneakers: Red)  
     * Zapatillas Chukka (Casual Chukka: Electric Blue)  
     * Zapatos (Cap Toe Oxford: Black/Brown)  
+    * Mocasines (Loafers: Brown)  
 -->
 
 ### Chaquetas/Abrigos/Jerseys
