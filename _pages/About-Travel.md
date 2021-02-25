@@ -89,29 +89,34 @@ permalink: /about/travel
 
     * 1 Sport cordons bag  
 
-### 1 Pack/Estojo Organizador Transparente: Pijama
+### 1 Pack/Estojo Organizador Transparente: Pijama/Buzos
+
+    * Jersey Cuello V-zipper (V-neck Sweater: Mustard)  
 
     * 1 Bolso Organizador Grande: Boxers (Boston: black, 9)
     * 1 Bolso Organizador Mediano: Medias (Algodon gray: 9, Sport, Vestir)  
     * Pijama (2 juegos polo-short)   
     * Toalla de mano  
+    * Buzos (2 Joggers: Black)  
 
-    * Sandalias (Flip Flop)  
-    
-### 1 Pack/Estojo Organizador Transparente: Camisetas/Bermudas
+### 1 Pack/Estojo Organizador Transparente: Camisetas/Jerseys
 
     * Gorra  
     * Cardigan (Hooded: Gray)  
-    * Camisetas Tee (Gray, White, Black, Iron Blue, Green, Cherry-Wine)  
-    * Camisetas Botón (Dark Mustard, Red, Light Blue)  
-    * Bermudas (Tartan, Yellow)  
-
-### 1 Pack/Estojo Organizador Transparente: Pantalones
-
     * Jersey Cuello Alto (Turtleneck Sweater: Red)  
     * Jersey Cuello botón (Dark Blue Marine)  
+
+    * Camisetas Tee (Gray, White, Black, Iron Blue, Green, Cherry-Wine)  
+    * Camisetas Botón (Dark Mustard, Red, Light Blue)  
+
+### 1 Pack/Estojo Organizador Transparente: Pantalones/Bermudas
+
+    * Sudadera con Capucha (Hooded Sweatshirt: Black)  
+
     * Jeans Color (Pioner 30 - super pitillo: Khaki, White)  
     * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
+
+    * Bermudas (Tartan, Yellow)  
 
 ## 3. Maleta 23Kg
 
@@ -142,8 +147,6 @@ permalink: /about/travel
     * 1 Bolso Organizador Pequeño: Pool Cap + Glasses + Briefs/Sunga
     * Cinturón Karate  
 
-    * Buzo (2 Joggers: Black)  
-
 ### 1 Pack/Estojo Organizador Transparente: Calentadores
 
     * Gorro de Invierno (Russian Winter Hat Ushanka)  
@@ -156,12 +159,6 @@ permalink: /about/travel
     * Calentadores de Licra (Torso, Piernas, Manos, Pies)  
     * Chalina de alpaca (Blanco)  
     * Bufanda (Scarf tartan)  
-
-### 1 Pack/Estojo Organizador Transparente: Jerseys
-
-    * Sudadera con Capucha (Hooded Sweatshirt: Black)  
-    
-    * Jersey Cuello V (V-neck Sweater: Mustard)  
 
 ### 1 Pack/Estojo Organizador Transparente: Vestir
 
@@ -177,6 +174,7 @@ permalink: /about/travel
 
 ### Calzados
  
+    * Sandalias (Flip Flop)  
     * Slipper Leather  
     * Alpargatas (Hawaiana Espadrilles: Light blue)  
 
