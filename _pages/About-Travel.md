@@ -71,39 +71,40 @@ permalink: /about/travel
     * Laptop + Charger + Cubre-Camara + Case  
     * Laptop Cooler  
     * Regla 30 cm  
-    * Headphone + case  
 
 ### Digital Bag Storage
 
     * Memoria Portatil (1Tb Toshiba) + case  
-    * USB memmory (Kinston)  
-    * HDMI-Cable - VGA Adapter  
+    * Mouse + Keyboard  
+    * Headphone + case  
+    * HDMI-Cable - VGA Adapter 
+    * Power Extension  
+    
     * Phone chip + case  
-    * Camera hider  
+    * Camera hider   
+
+    * USB memmory (Kinston)  
     * Multi-USB Adapter  
     * Multi Function OTG/USB Micro SD Adapter  
-    * Power Extension  
-    * Mouse + Keyboard  
 
 ## 2. Maleta 8Kg
 
     * 1 Sport cordons bag  
 
-### 1 Pack/Estojo Organizador Transparente: Pijama/Buzos
-
-    * Jersey Cuello V-zipper (V-neck Sweater: Mustard)  
+### 1 Pack/Estojo Organizador Transparente: Pijama
 
     * 1 Bolso Organizador Grande: Boxers (Boston: black, 9)
     * 1 Bolso Organizador Mediano: Medias (Algodon gray: 9, Sport, Vestir)  
     * Pijama (2 juegos polo-short)   
     * Toalla de mano  
-    * Buzos (2 Joggers: Black)  
+    * Toalla de cuerpo
 
 ### 1 Pack/Estojo Organizador Transparente: Camisetas/Jerseys
 
     * Gorra  
+
     * Cardigan (Hooded: Gray)  
-    * Jersey Cuello Alto (Turtleneck Sweater: Red)  
+    * Sudadera con Capucha (Hooded Sweatshirt: Black)  
     * Jersey Cuello botón (Dark Blue Marine)  
 
     * Camisetas Tee (Gray, White, Black, Iron Blue, Green, Cherry-Wine)  
@@ -111,41 +112,22 @@ permalink: /about/travel
 
 ### 1 Pack/Estojo Organizador Transparente: Pantalones/Bermudas
 
-    * Sudadera con Capucha (Hooded Sweatshirt: Black)  
+    * Correa
 
     * Jeans Color (Pioner 30 - super pitillo: Khaki, White)  
     * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
 
-    * Bermudas (Tartan, Yellow)  
+    * Bermudas (Tartan, Paco rabone: Blue)  
+    * Buzos (2 Joggers: Black)  
 
 ## 3. Maleta 23Kg
 
     * Sombrero Trekking (Chinese hat)  
 
-    * Toalla de cuerpo (2)  
+    * Toalla de cuerpo  
     * Bata de baño  
     
     * Paraguas (Qiuyeyuan Brand - Zodiac Umbrella Sword)  
-
-### 1 Pack/Estojo Organizador Transparente: Cosplay
-
-    * Sombrero de Vestir + Mascara de V
-
-    * Akatsuki Capa + Mascara Tobi Naranja  
-    * Palpatine Capa + Mascara Tobi Blanca  
-
-### 1 Pack/Estojo Organizador Transparente: Sport/Playa
-
-    * Sombrero de Verano (Summer Hat)  
-
-    * Camiseta + Camisa de playa  
-    * Short Playa (Hypnotic 30: 2)  
-
-    * Polo + Short Sport (Hypnotic 30)  
-    * polo - gorra de Perú  
-
-    * 1 Bolso Organizador Pequeño: Pool Cap + Glasses + Briefs/Sunga
-    * Cinturón Karate  
 
 ### 1 Pack/Estojo Organizador Transparente: Calentadores
 
@@ -160,12 +142,39 @@ permalink: /about/travel
     * Chalina de alpaca (Blanco)  
     * Bufanda (Scarf tartan)  
 
+### 1 Pack/Estojo Organizador Transparente: Sport/Playa
+
+    * Sombrero de Verano (Summer Hat)  
+
+    * Jersey Cuello V-zipper (V-neck Sweater: Mustard)  
+
+    * Camiseta + Camisa de playa  
+    * Short Playa (Hypnotic 30: 2)  
+
+    * Polo + Short Sport (Hypnotic 30)  
+    * polo + gorra de Perú  
+
+    * 1 Bolso Organizador Pequeño: Pool Cap + Glasses + Briefs/Sunga
+    * Cinturón Karate  
+
+### 1 Pack/Estojo Organizador Transparente: Cosplay
+
+    * Sombrero de Vestir  
+    * Mascara de V  
+    * Mascara Tobi  
+    * Mascara Obito  
+
+    * Akatsuki Capa  
+    * Palpatine Capa  
+
 ### 1 Pack/Estojo Organizador Transparente: Vestir
 
     * Gorro plano (Flat Hat)  
-
-    * Jersey lana (Light Blue Marine)
     * Cinturon (Belt: Black/Brown)  
+
+    * Jersey Cuello Alto (Turtleneck Sweater: Red)  
+    * Jersey lana (Light Blue Marine)
+    
     * Corbatin (Bowtie: Black/White)  
     * Tirantes (Suspenders Button/Clip: Dark Gray)  
     * Pañuelo (Pocket Square)  
