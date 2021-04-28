@@ -8,10 +8,14 @@ redirect_from:
 
 {% include base_path %}
 
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
 About
 ======
 
-I am a Artificial Intelligence Engineer in the Escola de Matemática Aplicada (EMAp) at the Fundação Getúlio Vargas (FGV), my research lies at the intersection of **Urban Perception**, **Deep Learning**, and **Interpretability Machine Learning**. I am especially interested in building efficient, and robust models that can perform analyzing, and understanding human perception from street images with or without associated description text to improve the identification of the visual components, and main perceptual features extraction for applications in urban computing. I'm also a back-end developer very passionate about Python, Golang, and DevOps. [[CV]](/pdf/CV.pdf)
+I am a Artificial Intelligence Engineer in the Escola de Matemática Aplicada (EMAp) at the Fundação Getúlio Vargas (FGV), my research lies at the intersection of **Urban Perception**, **Deep Learning**, and **Interpretability Machine Learning**. I am especially interested in building efficient, and robust models that can perform analyzing, and understanding human perception from street images with or without associated description text to improve the identification of the visual components, and main perceptual features extraction for applications in urban computing. I'm also a back-end developer very passionate about Python, Golang, and DevOps.
 
 Employment
 ======
@@ -62,7 +66,7 @@ Oral presentations and Poster sessions
 ### Posters  
   <ul>{% for post in site.posters reversed %}
     <li>
-      <h4 class="archive__item-title" itemprop="headline"> <a href="{{ post.event }}" rel="permalink">{{ post.title }}</a></h4>
+      <h3 class="archive__item-title" itemprop="headline"> <a href="{{ post.event }}" rel="permalink">{{ post.title }}</a></h3>
       <p style="font-size:12px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     </li>
   {% endfor %}</ul>
@@ -86,7 +90,7 @@ Languages
   * Spanish: Native
   * English: Fluent
   * Portuguese: Intermediate
-  * Basic level of Janapese **(JLPT N5)** certified by the Japan Foundation. [PDF Certificate]()
+  * Basic level of Janapese **(JLPT N5)** certified by the Japan Foundation. [PDF Certificate](/files/certificates/JaponesBasico.pdf)
 
 Honors and Awards
 ======
