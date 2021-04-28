@@ -1,40 +1,108 @@
 ---
-# layout: archive
-title: "News"
+layout: resume
+permalink: /resume/
+author_profile: true
+redirect_from:
+  - /cv
 ---
 
-<table>
-  <tr>
-    <td align="center">Date</td>
-    <td align="center">Event</td>
-    <td align="center">City</td>
-  </tr>
-  <tr><td colspan="3" align="center" style="background:#cccccc;"></td></tr>
-  <tr>
-    <td>July 21-29, 2020</td>
-    <td>Attended the <a href="http://lxmls.it.pt/2020/">Lisbon Machine Learning School</a> at the <a href="https://tecnico.ulisboa.pt/en/">Instituto Superior Técnico (IST)</a>.</td>
-    <td>Lisbon, Portugal</td>
-  </tr>
-  <tr>
-    <td>February 3-21, 2020</td>
-    <td>Attended the <a href="https://eventos.fgv.br/summer-school-data-science">Summer School on Data Science</a> e <a href="https://emap.fgv.br/programa-de-verao">Programa de Verão</a> at the Fundação Getulio Vargas.</td>
-    <td>Rio de Janeiro, Brazil</td>
-  </tr>
-  <tr><td colspan="3" align="center" style="background:#cccccc;"></td></tr>
-  <tr>
-    <td>December 8-14, 2019</td>
-    <td>Attended the <a href="https://neurips.cc/">NeuriPS 2019</a>. Presenting “Understanding Safety Based on Urban Perception” in the LatinX in AI workshop</td>
-    <td>Vancouver, Canada</td>
-  </tr>
-  <tr>
-    <td>June 9-15, 2019</td>
-    <td>Attended the <a href="https://icml.cc//">ICML 2019</a>. Presenting “Performing Deep Recurrent Double Q-Learning for Atari Games” in the LatinX in AI workshop</td>
-    <td>Long Beach, USA</td>
-  </tr>
-  <tr>
-    <td>May 25-31, 2019</td>
-    <td>Attended the <a href="https://conf.researchr.org/home/icse-2019">ICSE 2019</a>. Presenting “New software architecture for interoperability to improve the communication in the Edge layer of a smart IoT ecosystem” in the SERP4IoT in SE workshop</td>
-    <td>Montreal, Canada</td>
-  </tr>
-</table>
+{% include base_path %}
 
+About
+======
+
+I am a Artificial Intelligence Engineer in the Escola de Matemática Aplicada (EMAp) at the Fundação Getúlio Vargas (FGV), my research lies at the intersection of **Urban Perception**, **Deep Learning**, and **Interpretability Machine Learning**. I am especially interested in building efficient, and robust models that can perform analyzing, and understanding human perception from street images with or without associated description text to improve the identification of the visual components, and main perceptual features extraction for applications in urban computing. I'm also a back-end developer very passionate about Python, Golang, and DevOps. [[CV]](/pdf/CV.pdf)
+
+Employment
+======
+**[Fundação Getúlio Vargas (EMAp)](https://emap.fgv.br/)** <span style="float:right">Rio de Janeiro, Brazil</span>  
+*Artificial Intelligence Engineer* <span style="float:right">May 2019 - Current</span>
+
+* Working at the Timberflow project (FGV-EMAp, USP-ICMC, Imaflora).
+* Developed **Urbex**, an interactive web-based system to understand Urban Perception of streets. 
+* **Tech stack**: Python, Numpy, Pandas, Keras, Pytorch, DJando, Flask, GIT.
+
+**[ARIOT S.A.C.](https://ariot.pe/)** <span style="float:right">Arequipa, Peru</span>  
+*Data Scientist* <span style="float:right">June 2018 - April 2019</span>
+
+* Data Management, modeling, and analyses.
+* IT consultant
+* **Tech stack**: Python, Numpy, Pandas, MongoDB, MySQL, MATLAB, MQTT, Node-js, GIT.
+
+**[CERNICALO S.A.](https://ariot.pe/)** <span style="float:right">Lima, Peru</span>  
+*Web Development Engineer* <span style="float:right">August 2017 - May 2018</span>
+
+* Web and Mobile applications development.  
+* **Tech stack**: Laravel, PHP, Java, Android.
+
+Education
+======
+
+**[Universidad Católica San Pablo (UCSP)](https://ucsp.edu.pe/)** <span style="float:right">Arequipa - Peru</span>  
+**M.Sc. in Computer Science** <span style="float:right">2018 - 2020</span>  
+**Thesis**: [Identification and Extraction of Visual Characteristics to Understand the Urban Perception through Street Images]()  
+Supervisor: [Prof. Jorge Poco Medina](https://scholar.google.com.br/citations?user=S_88vX4AAAAJ)
+
+**[Universidad Nacional de Ingeniería (UNI)](https://www.uni.edu.pe/)** <span style="float:right">Lima - Peru</span>  
+**B.Sc. in Computer Science** <span style="float:right">2012 - 2017</span>  
+**Project**: [Design and implementation of the core level of a transversal platform based on Fog Computing architectures](/files/thesis/Bachelor_UNI.pdf)  
+Supervisor: [Prof. Manuel Castillo Cara](https://scholar.google.com.br/citations?user=r0JytwIAAAAJ)
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    <li>
+      <h3 class="archive__item-title" itemprop="headline"> <a href="{{ post.event }}" rel="permalink">{{ post.title }}</a></h3>
+      <p style="font-size:12px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    </li>
+  {% endfor %}</ul>
+
+Oral presentations and Poster sessions
+======
+### Posters  
+  <ul>{% for post in site.posters reversed %}
+    <li>
+      <h4 class="archive__item-title" itemprop="headline"> <a href="{{ post.event }}" rel="permalink">{{ post.title }}</a></h4>
+      <p style="font-size:12px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    </li>
+  {% endfor %}</ul>
+
+Skills
+======
+
+Category                    | Proficiency in approximate descending order from left to right
+--------------------------- | --------------------------------------------------------------
+Programming Languages       | C, C++, Go, Python, R, M (Octave/MATLAB), Javascript
+Web Technologies            | HTML, CSS/SCSS, Django, VueJS, ReactJS, Flask, BeeGo, Gorilla, Node.js, Angular, Jekyll 
+Databases/Storage           | PostgreSQL, MySQL, MongoDB
+Data Analysis/Modeling      | Keras, Pytorch, Tensorflow, Pandas, Numpy, Scikit-learn, Beautiful soup, Matplotlib, Seaborn, Scrapy
+Cloud                       | AWS (EC2)
+Productivity Tools          | LaTeX, GIT, Jupyter/IPython
+Software Engineering        | Test-Driven Development: Selenium
+Machine Learning Techniques | Clustering, classification/regression, dimensionality reduction.
+
+Languages
+======
+  * Spanish: Native
+  * English: Fluent
+  * Portuguese: Intermediate
+  * Basic level of Janapese **(JLPT N5)** certified by the Japan Foundation. [PDF Certificate]()
+
+Honors and Awards
+======
+* Dec 2019: __NeurIPS Travel Grant__ for the Annual Conference on Neural Information Processing Systems.
+* June 2019: __ICML Travel Grant__ for the International Conference on Machine Learning.
+* Dec 2018: __LXAI Travel Grant__ for the LatinX in AI Workshop  co-located with NeurIPS 2018.
+* Nov 2018: __Leaders in Innovation Fellowship__ for the The Royal Academy of Engineering, London, UK.
+* May 2018: __Master Fellowship__ for the CONCYTEC and Universidad Católica San Pablo (UCSP).
+* July 2017: __Higher Fifth__ of the class of Computer Science. 
+* July 2016: __Outstanding Students__ for the Universidad Nacional de Ingeniería (UNI).
+* March 2016: __Beca Permanencia Scholarship__ supported by PRONABEC and Universidad Nacional de Ingeniería (UNI).
+
+Volunteer Work
+======
+* Director and Co-Founder at Orientate Perú.
+* Volunteer in programs like Crea+ and Techo-Peru.
+* __Innovation Mentor__ at the technological incubator StartUp UNI, Lima, Perú.
+* Member of the University Assembly from 2016 to 2017.
+* Member of Student Center from 2012 to 2013.
