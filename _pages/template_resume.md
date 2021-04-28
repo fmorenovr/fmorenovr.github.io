@@ -63,7 +63,7 @@ Skills
 
 Category                    | Proficiency in approximate descending order from left to right
 --------------------------- | --------------------------------------------------------------
-Programming Languages       | Python, MATLAB, PHP, JavaScript, R, C++, C
+Programming Languages       | C, C++, Go, Python, R, M (Octave/MATLAB), Javascript
 Web Technologies            | HTML, CSS/SCSS, Django, Django-Rest-Framework, Laravel, jQuery, Node.js, REACT, Angular 
 Databases/Storage           | PostgreSQL, MySQL, S3, Redis
 Data Analysis/Modeling      | Pandas, Numpy, Scikit-learn, Beautiful soup, Matplotlib, Seaborn, Scrapy
@@ -84,5 +84,8 @@ Honors and Awards
 
 Volunteer Work
 ======
-* *[2020]* Part of the UFMG **COVID-19** task force to create **predictive models** for the disease spread in the city of Belo Horizonte, MG. [Special Cover](https://bit.ly/3cV0ket)
-* *[2020]* Wrote the **fuzzy logic** chapter in the "Jornada Data-Driven" book, written collaboratively with 50+ people (*In progress*). [Jornada Colaborativa](https://www.linkedin.com/company/jornadacolaborativa/)
+* Director and Co-Founder at Orientate Perú.
+* Volunteer in programs like Crea+ and Techo-Peru.
+* __Innovation Mentor__ at the technological incubator StartUp UNI, Lima, Perú.
+* Member of the University Assembly from 2016 to 2017.
+* Member of Student Center from 2012 to 2013.

@@ -99,6 +99,7 @@ Service and leadership
 * Director and Co-Founder at Orientate Perú.
 * __Innovation Mentor__ at the technological incubator StartUp UNI, Lima, Perú.
 * Member of the University Assembly from 2016 to 2017.
+* Member of Student Center from 2012 to 2013.
   
 Skills
 ======
