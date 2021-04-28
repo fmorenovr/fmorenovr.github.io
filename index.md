@@ -5,7 +5,7 @@ layout: resume
 About
 ======
 
-I am a Artificial Intelligence Engineer in the Escola de Matemática Aplicada (EMAp) at the Fundação Getúlio Vargas (FGV), my research lies at the intersection of **Urban Perception**, **Deep Learning**, and **Interpretability Machine Learning**. I am especially interested in building efficient, and robust models that can perform analyzing, and understanding human perception from street images with or without associated description text to improve the identification of the visual components, and main perceptual features extraction for applications in urban computing. I'm also a back-end developer very passionate about Python, Golang, and DevOps.
+I am a __Artificial Intelligence Engineer__ in the Escola de Matemática Aplicada (EMAp) at the Fundação Getúlio Vargas (FGV), my research lies at the intersection of **Urban Perception**, **Deep Learning**, and **Interpretability Machine Learning**. I am especially interested in building efficient, and robust models that can perform analyzing, and understanding human perception from street images with or without associated description text to improve the identification of the visual components, and main perceptual features extraction for applications in urban computing. I'm also a back-end developer very passionate about Python, Golang, and DevOps.
 
 Employment
 ======
@@ -23,7 +23,7 @@ Employment
 * IT consultant
 * **Tech stack**: Python, Numpy, Pandas, MongoDB, MySQL, MATLAB, MQTT, Node-js, GIT.
 
-**[CERNICALO S.A.](https://ariot.pe/)** <span style="float:right">Lima, Peru</span>  
+**[CERNICALO S.A.](https://www.cernicalo.net/)** <span style="float:right">Lima, Peru</span>  
 *Web Development Engineer* <span style="float:right">August 2017 - May 2018</span>
 
 * Web and Mobile applications development.  
