@@ -25,13 +25,13 @@ layout: compress
   <body>
     <div class="wrapper">
       <header style="text-align: center;">
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}">Felipe A. Moreno</a></h1>
         
         {% if author.avatar %}
-          <img src="{{author.avatar | relative_url}}" alt="{{ author.name }}" width="240" />
+          <img src="/files/assets/me/me_2017.jpg" alt="{{ author.name }}" width="240" />
         {% endif %}
 
-        <br /><p style="margin: 1em 0">{{ author.bio | default: site.github.project_tagline }}</p>
+        <br /><p style="margin: 1em 0">Artificial Intelligence Engineer at <a href="https://portal.fgv.br/">Fundação Getúlio Vargas (FGV)</a>.</p>
 
         <div style="text-align: left;">
           <!--
@@ -41,6 +41,7 @@ layout: compress
           <p class="view"><a href="https://www.kaggle.com/fmorenovr" target="_blank"><i class='fab fa-kaggle'></i> &nbsp; Kaggle</a></p>
           <p class="view"><a href="https://www.linkedin.com/in/{{author.linkedin}}" target="_blank"><i class='fab fa-linkedin'></i> &nbsp; LinkedIn</a></p>
           <p class="view"><a href="https://github.com/{{ author.github }}"><i class='fab fa-github'></i> &nbsp; GitHub</a></p>
+          <p class="view"><a href="https://scholar.google.com/citations?user={{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> &nbsp; Google Scholar</a>
         </div>
       </header>
       <section>
