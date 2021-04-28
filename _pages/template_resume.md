@@ -1,9 +1,9 @@
 ---
 layout: cv
-permalink: /resume_log/
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /cv_log
+  - /cv
 ---
 
 {% include base_path %}
