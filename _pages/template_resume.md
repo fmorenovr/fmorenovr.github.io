@@ -1,4 +1,5 @@
 ---
+layout: cv
 permalink: /resume_log/
 author_profile: true
 redirect_from:
