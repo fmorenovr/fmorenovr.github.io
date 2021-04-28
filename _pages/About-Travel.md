@@ -97,7 +97,6 @@ permalink: /about/travel
     * 1 Bolso Organizador Mediano: Medias (Algodon gray: 9, Sport, Vestir)  
     * Pijama (2 juegos polo-short)   
     * Toalla de mano  
-    * Toalla de cuerpo
 
 ### 1 Pack/Estojo Organizador Transparente: Camisetas/Jerseys
 
@@ -118,13 +117,13 @@ permalink: /about/travel
     * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
 
     * Bermudas (Tartan, Paco rabone: Blue)  
-    * Buzos (2 Joggers: Black)  
 
 ## 3. Maleta 23Kg
 
     * Sombrero Trekking (Chinese hat)  
+    * Buzos (2 Joggers: Black)  
 
-    * Toalla de cuerpo  
+    * Toalla de cuerpo (x2)  
     * Bata de baño  
     
     * Paraguas (Qiuyeyuan Brand - Zodiac Umbrella Sword)  
