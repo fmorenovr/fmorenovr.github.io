@@ -38,20 +38,20 @@ Education
 ======
 
 **[Universidad Católica San Pablo (UCSP)](https://ucsp.edu.pe/)** <span style="float:right">Arequipa - Peru</span>  
-**M.Sc. in Computer Science* <span style="float:right">2018 - 2020</span>  
+**M.Sc. in Computer Science** <span style="float:right">2018 - 2020</span>  
 **Thesis**: [Identification and Extraction of Visual Characteristics to Understand the Urban Perception through Street Images]()  
 Supervisor: [Prof. Jorge Poco Medina](https://scholar.google.com.br/citations?user=S_88vX4AAAAJ)
 
 **[Universidad Nacional de Ingeniería (UNI)](https://www.uni.edu.pe/)** <span style="float:right">Lima - Peru</span>  
-*B.Sc. in Computer Science* <span style="float:right">2012 - 2017</span>  
-**Project**: [Design and implementation of the core level of a transversal platform based on Fog Computing architectures]()
+**B.Sc. in Computer Science** <span style="float:right">2012 - 2017</span>  
+**Project**: [Design and implementation of the core level of a transversal platform based on Fog Computing architectures]()  
 Supervisor: [Prof. Manuel Castillo Cara](https://scholar.google.com.br/citations?user=r0JytwIAAAAJ)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     <li>
-      <h3 class="archive__item-title" itemprop="headline"> <a href="{{ post.event }}" rel="permalink">{{ post.title }}</a></h3>
+      <h4 class="archive__item-title" itemprop="headline"> <a href="{{ post.event }}" rel="permalink">{{ post.title }}</a></h4>
       <p style="font-size:12px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     </li>
   {% endfor %}</ul>
@@ -61,7 +61,7 @@ Oral presentations and Poster sessions
 ### Posters  
   <ul>{% for post in site.posters reversed %}
     <li>
-      <h3 class="archive__item-title" itemprop="headline"> <a href="{{ post.event }}" rel="permalink">{{ post.title }}</a></h3>
+      <h4 class="archive__item-title" itemprop="headline"> <a href="{{ post.event }}" rel="permalink">{{ post.title }}</a></h4>
       <p style="font-size:12px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     </li>
   {% endfor %}</ul>
