@@ -1,3 +1,7 @@
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}
+{% endif %}
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -24,8 +28,10 @@
         <br /><p style="margin: 1em 0">{{ author.bio | default: site.github.project_tagline }}</p>
 
         <div style="text-align: left;">
+          <!--
           <p class="view"><a href="/projects.html"><i class='fa fa-cog'></i> &nbsp; Projects</a></p>
           <p class="view"><a href="/publications.html"><i class='far fa-file-alt'></i> &nbsp; Publications</a></p>
+          -->
           <p class="view"><a href="https://www.kaggle.com/fmorenovr" target="_blank"><i class='fab fa-kaggle'></i> &nbsp; Kaggle</a></p>
           <p class="view"><a href="https://www.linkedin.com/in/{{author.linkedin}}" target="_blank"><i class='fab fa-linkedin'></i> &nbsp; LinkedIn</a></p>
           <p class="view"><a href="https://github.com/{{ author.github }}"><i class='fab fa-github'></i> &nbsp; GitHub</a></p>

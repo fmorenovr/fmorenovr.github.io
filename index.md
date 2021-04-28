@@ -1,16 +1,6 @@
 ---
 layout: resume
-permalink: /resume/
-author_profile: true
-redirect_from:
-  - /cv
 ---
-
-{% include base_path %}
-
-{% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
-{% endif %}
 
 About
 ======
