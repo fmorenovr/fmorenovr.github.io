@@ -45,14 +45,14 @@ Supervisor: [Prof. Jorge Poco Medina](https://scholar.google.com.br/citations?us
 
 **[Universidad Nacional de Ingeniería (UNI)](https://www.uni.edu.pe/)** <span style="float:right">Lima - Peru</span>  
 **B.Sc. in Computer Science** <span style="float:right">2012 - 2017</span>  
-**Project**: [Design and implementation of the core level of a transversal platform based on Fog Computing architectures]()  
+**Project**: [Design and implementation of the core level of a transversal platform based on Fog Computing architectures](/files/thesis/Bachelor_UNI.pdf)  
 Supervisor: [Prof. Manuel Castillo Cara](https://scholar.google.com.br/citations?user=r0JytwIAAAAJ)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     <li>
-      <h4 class="archive__item-title" itemprop="headline"> <a href="{{ post.event }}" rel="permalink">{{ post.title }}</a></h4>
+      <h3 class="archive__item-title" itemprop="headline"> <a href="{{ post.event }}" rel="permalink">{{ post.title }}</a></h3>
       <p style="font-size:12px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     </li>
   {% endfor %}</ul>
@@ -97,6 +97,7 @@ Honors and Awards
 * May 2018: __Master Fellowship__ for the CONCYTEC and Universidad Católica San Pablo (UCSP).
 * July 2017: __Higher Fifth__ of the class of Computer Science. 
 * July 2016: __Outstanding Students__ for the Universidad Nacional de Ingeniería (UNI).
+* March 2016: __Beca Permanencia Scholarship__ supported by PRONABEC and Universidad Nacional de Ingeniería (UNI).
 
 Volunteer Work
 ======
