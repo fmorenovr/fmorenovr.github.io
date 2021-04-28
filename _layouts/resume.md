@@ -1,3 +1,9 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}
 {% endif %}

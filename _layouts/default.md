@@ -18,7 +18,6 @@ layout: compress
 
     {{ content }}
 
-
     {% include scripts.html %}
 
   </body>
