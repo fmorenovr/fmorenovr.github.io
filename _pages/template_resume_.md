@@ -24,7 +24,7 @@ Professional experience
   * Supervisor(s): Phd. Jorge Poco
   * Research fields: Urban Perception, Deep Learning, and Interpretability Machine Learning
 
-* ARIOT S.A.C. : **Software Engineer**  
+* ARIOT S.A.C. : **Data Scientist**  
   * *June 2018 - April 2019*  
   * Duties included: IT consultant, IoT services deployment.  
 
