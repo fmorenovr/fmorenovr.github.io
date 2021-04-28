@@ -1,16 +1,17 @@
 ---
-title: "Resume"
 permalink: /resume_log/
 author_profile: true
 redirect_from:
   - /cv_log
 ---
 
-## About
+About
+======
 
-I'm a Post-Doctoral Fellow at Fundação Getúlio Vargas (FGV EMAp) working with Data Science techniques to build evidence-based tools to analyze the Amazon rainforest deforestation and degradation. I hold a Ph.D. in Electrical Engineering from the Federal University of Minas Gerais were I worked mainly on machine learning topics applied to dynamical systems fault diagnosis and prognostics. I'm particularly interested in statistical and AI models that can extract knowledge from time-series recursively in a continuous learning scheme. I'm also a back-end developer very passionate about Python and DevOps with a B.Sc. in Systems Engineering. [[CV]](/pdf/CV.pdf)
+I am a Artificial Intelligence Engineer in the Escola de Matemática Aplicada (EMAp) at the Fundação Getúlio Vargas (FGV), my research lies at the intersection of **Urban Perception**, **Deep Learning**, and **Interpretability Machine Learning**. I am especially interested in building efficient, and robust models that can perform analyzing, and understanding human perception from street images with or without associated description text to improve the identification of the visual components, and main perceptual features extraction for applications in urban computing. I'm also a back-end developer very passionate about Python, Golang, and DevOps. [[CV]](/pdf/CV.pdf)
 
-## Carrer summary
+Carrer summary
+======
 
 * Working in the "Evidence-based Monitoring and Prediction for Sustainable Forest Management" project to build evidence-based tools to analyze the Amazon rainforest deforestation and degradation.
 * Worked on topics related to **fault prognostics** and developing tools to improve **fault detection and diagnostics** in the **industrial context** using probabilistic and AI models;
@@ -21,10 +22,10 @@ I'm a Post-Doctoral Fellow at Fundação Getúlio Vargas (FGV EMAp) working with
 * Advanced level of English **(CEFR C1)** certified by the British Council. [[PDF Certificate]](/pdf/english.pdf)
 * Tech stack: Python, Numpy, Pandas, Seaborn, Django, PostgreSQL, Docker, AWS (EC2, ELB, ECS, RDS, S3), Travis, Elasticsearch, MATLAB, C++, Node-red, MQTT, GIT.
 
-## Employment
-
+Employment
+======
 **[Fundação Getúlio Vargas (EMAp)](https://emap.fgv.br/)** <span style="float:right">Rio de Janeiro, BR</span>  
-*Data Scientist* <span style="float:right">Jan 2021 - Current</span>
+*Artificial Intelligence Engineer* <span style="float:right">Jan 2021 - Current</span>
 
 
 **[Fundação Christiano Ottoni](http://www.fco.eng.ufmg.br/)** <span style="float:right">Minas Gerais, BR</span>  
@@ -44,19 +45,21 @@ I'm a Post-Doctoral Fellow at Fundação Getúlio Vargas (FGV EMAp) working with
 * **Tech stack**: Python, Django, PostgreSQL, Docker, AWS (EC2, ELB, ECS, S3), Heroku, Travis, Scrum. 
 
 
-## Education
+Education
+======
 
-**[Universidade Federal de Minas Gerais](https://ufmg.br/)** <span style="float:right">Minas Gerais, BR</span>  
-*PhD in Electrical Engineering* <span style="float:right">Aug 2018 - Dec 2020</span>  
+**[Universidad Católica San Pablo (UCSP)](https://ucsp.edu.pe/)** <span style="float:right">Arequipa - Peru</span>  
+**M.Sc. in Computer Science* <span style="float:right">2018 - 2020</span>  
 **Thesis**: [New Data-Driven Methodologies For Fault Prognostics Using Evolving Fuzzy Models](https://www.ppgee.ufmg.br/defesas/1770D.PDF)  
-Supervisor: [Prof. Reinaldo Martinez Palhares](https://scholar.google.com/citations?user=iTQoWC0AAAAJ&hl=en&oi=ao)
+Supervisor: [Prof. Jorge Poco Medina](https://scholar.google.com.br/citations?user=S_88vX4AAAAJ)
 
-**[Universidade Estadual de Montes Claros](https://unimontes.br/)** <span style="float:right">Minas Gerais, BR</span>  
-*B.Sc. in Systems Engineering* <span style="float:right">Aug 2012 - Aug 2018</span>  
+**[Universidad Nacional de Ingeniería (UNI)](https://www.uni.edu.pe/)** <span style="float:right">Lima - Peru</span>  
+*B.Sc. in Computer Science* <span style="float:right">2012 - 2017</span>  
 **Project**: New approaches for abrupt and incipient fault detection in dynamic systems  
-Supervisor: [Prof. Marcos Flávio Silveira Vasconcelos D'Angelo](https://scholar.google.com/citations?user=nZYzKLoAAAAJ&hl=en&oi=sra)
+Supervisor: [Prof. Manuel Castillo Cara](https://scholar.google.com.br/citations?user=r0JytwIAAAAJ)
 
-## Skills
+Skills
+======
 
 Category                    | Proficiency in approximate descending order from left to right
 --------------------------- | --------------------------------------------------------------
@@ -69,12 +72,17 @@ Productivity Tools          | LaTeX, GIT, Jupyter/IPython, JIRA
 Software Engineering        | Test-Driven Development, Scalable Architecture Design, Code Review, Agile Dev
 Machine Learning Techniques | Fuzzy models, clustering (k-means, hierarchical, DBSCAN), classification/regression (k-nn, decision trees, linear/logistic regression, random forests, SVMs), dimensionality reduction (PCA, autoencoders).
 
-## Honors and Awards
-* *[2020]* Young Author Support granted by the International Federation of Automatic Control (IFAC) to attend to the 21st IFAC World Congress at Berlin. **(EUR 250,00)**
-* *[2018]* Graduate research scholarship from Brazilian oil and gas company Petrobras. **(BRL 80.000,00)**
-* *[2015]* Undergraduate study abroad scholarship from the Brazil Scientific Mobility Program (BSMP) to study electrical and computer engineering at the Ohio State University (OSU). **(USD 50.000,00)**
-* *[2014]* Undergraduate research scholarship from the Minas Gerais State Agency for Research and Development (FAPEMIG). **(BRL 4.800,00)**
+Honors and Awards
+======
+* Dec 2019: __NeurIPS Travel Grant__ for the Annual Conference on Neural Information Processing Systems.
+* June 2019: __ICML Travel Grant__ for the International Conference on Machine Learning.
+* Dec 2018: __LXAI Travel Grant__ for the LatinX in AI Workshop  co-located with NeurIPS 2018.
+* Nov 2018: __Leaders in Innovation Fellowship__ for the The Royal Academy of Engineering, London, UK.
+* May 2018: __Master Fellowship__ for the CONCYTEC and Universidad Católica San Pablo (UCSP).
+* July 2017: __Higher Fifth__ of the class of Computer Science. 
+* July 2016: __Outstanding Students__ for the Universidad Nacional de Ingeniería (UNI).
 
-## Volunteer Work
+Volunteer Work
+======
 * *[2020]* Part of the UFMG **COVID-19** task force to create **predictive models** for the disease spread in the city of Belo Horizonte, MG. [Special Cover](https://bit.ly/3cV0ket)
 * *[2020]* Wrote the **fuzzy logic** chapter in the "Jornada Data-Driven" book, written collaboratively with 50+ people (*In progress*). [Jornada Colaborativa](https://www.linkedin.com/company/jornadacolaborativa/)
