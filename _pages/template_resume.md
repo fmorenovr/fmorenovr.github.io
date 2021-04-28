@@ -25,25 +25,11 @@ Carrer summary
 Employment
 ======
 **[Fundação Getúlio Vargas (EMAp)](https://emap.fgv.br/)** <span style="float:right">Rio de Janeiro, BR</span>  
-*Artificial Intelligence Engineer* <span style="float:right">Jan 2021 - Current</span>
+*Artificial Intelligence Engineer* <span style="float:right">May 2019 - Current</span>
 
-
-**[Fundação Christiano Ottoni](http://www.fco.eng.ufmg.br/)** <span style="float:right">Minas Gerais, BR</span>  
-*Graduate Researcher* <span style="float:right">Aug 2018 - Dec 2020</span>
-
-* Developed a python-based **online clustering** algorithm using **fuzzy models** and **multivariate Gaussians**.
-* Devised a **distributed platform** to manage **real-time communications** using **MQTT**.
-* The real-time clustering algorithm allowed the **early anomaly detection** used for predictive maintenance.
-* **Tech stack**: Python, Numpy, Pandas, Seaborn, MATLAB, C++, Node-red, MQTT, GIT.
-
-**[Cheesecake Labs](https://cheesecakelabs.com/)** <span style="float:right">Santa Catarina, BR</span>  
-*Software Engineer* <span style="float:right">Jan 2018 - Nov 2018</span>
-
-* Developed the python backend of **RESTFull APIs** with **CI/CD** for both **AWS** and **Heroku** clouds.
-* Impacted people from more than **127 countries** through [Singularity University](https://su.org/) and [Woovit](http://woovit.com/) projects.
-* Helped the company to be featured as **Top #1** Mobile App Development Company by Clutch.
-* **Tech stack**: Python, Django, PostgreSQL, Docker, AWS (EC2, ELB, ECS, S3), Heroku, Travis, Scrum. 
-
+* Working at the Timberflow project (FGV-EMAp, USP-ICMC, Imaflora).
+* Developed **Urbex**, an interactive web-based system to understand Urban Perception of streets. 
+* **Tech stack**: Python, Numpy, Pandas, Keras, Pytorch, DJando, Flask, GIT.
 
 Education
 ======
@@ -64,13 +50,20 @@ Skills
 Category                    | Proficiency in approximate descending order from left to right
 --------------------------- | --------------------------------------------------------------
 Programming Languages       | C, C++, Go, Python, R, M (Octave/MATLAB), Javascript
-Web Technologies            | HTML, CSS/SCSS, Django, Django-Rest-Framework, Laravel, jQuery, Node.js, REACT, Angular 
-Databases/Storage           | PostgreSQL, MySQL, S3, Redis
-Data Analysis/Modeling      | Pandas, Numpy, Scikit-learn, Beautiful soup, Matplotlib, Seaborn, Scrapy
-Cloud                       | Docker, Travis (CI/CD), Heroku, AWS (EC2, ELB, ECS, RDS, S3)
-Productivity Tools          | LaTeX, GIT, Jupyter/IPython, JIRA
-Software Engineering        | Test-Driven Development, Scalable Architecture Design, Code Review, Agile Dev
-Machine Learning Techniques | Fuzzy models, clustering (k-means, hierarchical, DBSCAN), classification/regression (k-nn, decision trees, linear/logistic regression, random forests, SVMs), dimensionality reduction (PCA, autoencoders).
+Web Technologies            | HTML, CSS/SCSS, Django, VueJS, ReactJS, Flask, BeeGo, Gorilla, Node.js, Angular, Jekyll 
+Databases/Storage           | PostgreSQL, MySQL, MongoDB
+Data Analysis/Modeling      | Keras, Pytorch, Tensorflow, Pandas, Numpy, Scikit-learn, Beautiful soup, Matplotlib, Seaborn, Scrapy
+Cloud                       | AWS (EC2)
+Productivity Tools          | LaTeX, GIT, Jupyter/IPython
+Software Engineering        | Test-Driven Development: Selenium
+Machine Learning Techniques | Clustering, classification/regression, dimensionality reduction.
+
+Languages
+======
+  * Spanish: Native
+  * English: Fluent
+  * Portuguese: Intermediate
+  * Japanese: Basic (JLPT N5, rank A)
 
 Honors and Awards
 ======
