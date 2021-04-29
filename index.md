@@ -39,7 +39,7 @@ Supervisor: [Prof. Jorge Poco Medina](https://scholar.google.com.br/citations?us
 
 **[Universidad Nacional de Ingeniería (UNI)](https://www.uni.edu.pe/)** <span style="float:right">Lima - Peru</span>  
 **B.Sc. in Computer Science** <span style="float:right">2012 - 2017</span>  
-**Project**: [Design and implementation of the core level of a transversal platform based on Fog Computing architectures](/files/thesis/Bachelor_UNI.pdf)  
+**Project**: [Design and implementation of the core level of a transversal platform based on Fog Computing architectures](/files/thesis/Bachelor_UNI/Thesis.pdf)  
 Supervisor: [Prof. Manuel Castillo Cara](https://scholar.google.com.br/citations?user=r0JytwIAAAAJ)
 
 Publications

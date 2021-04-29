@@ -28,7 +28,7 @@ layout: compress
         <h1><a href="{{ "/" | absolute_url }}">Felipe A. Moreno</a></h1>
         
         {% if author.avatar %}
-          <img src="/files/assets/me/me_2017.jpg" alt="{{ author.name }}" width="240" />
+          <img src="/assets/me/me_2017.jpg" alt="{{ author.name }}" width="240" />
         {% endif %}
 
         <br /><p style="margin: 1em 0">Artificial Intelligence Engineer at <a href="https://portal.fgv.br/">Fundação Getúlio Vargas (FGV)</a>.</p>
