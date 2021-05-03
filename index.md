@@ -13,7 +13,7 @@ Employment
 *Artificial Intelligence Engineer* <span style="float:right">May 2019 - Current</span>
 
 * Working at the Timberflow project (FGV-EMAp, USP-ICMC, Imaflora).
-* Developed **Urbex**, an interactive web-based system to understand Urban Perception of streets. 
+* Developed **UrbEX**, an interactive web-based system to understand Urban Perception of streets. 
 * **Tech stack**: Python, Numpy, Pandas, Keras, Pytorch, DJando, Flask, GIT.
 
 **[ARIOT S.A.C.](https://ariot.pe/)** <span style="float:right">Arequipa, Peru</span>  
@@ -34,20 +34,22 @@ Education
 
 **[Universidad Católica San Pablo (UCSP)](https://ucsp.edu.pe/)** <span style="float:right">Arequipa - Peru</span>  
 **M.Sc. in Computer Science** <span style="float:right">2018 - 2020</span>  
-**Thesis**: [Identification and Extraction of Visual Characteristics to Understand the Urban Perception through Street Images]()  
-Supervisor: [Prof. Jorge Poco Medina](https://scholar.google.com.br/citations?user=S_88vX4AAAAJ)
+**Thesis**: [Identification and Extraction of Visual Characteristics to Understand the Urban Perception through Street Images](/files/thesis/UCSP/Thesis.pdf)  
+Supervisor: [PhD. Jorge Poco Medina](https://scholar.google.com.br/citations?user=S_88vX4AAAAJ)
 
 **[Universidad Nacional de Ingeniería (UNI)](https://www.uni.edu.pe/)** <span style="float:right">Lima - Peru</span>  
 **B.Sc. in Computer Science** <span style="float:right">2012 - 2017</span>  
-**Project**: [Design and implementation of the core level of a transversal platform based on Fog Computing architectures](/files/thesis/Bachelor_UNI/Thesis.pdf)  
-Supervisor: [Prof. Manuel Castillo Cara](https://scholar.google.com.br/citations?user=r0JytwIAAAAJ)
+**Project**: [Design and implementation of the core level of a transversal platform based on Fog Computing architectures](/files/thesis/UNI/Thesis.pdf)  
+Supervisor: [PhD. Manuel Castillo Cara](https://scholar.google.com.br/citations?user=r0JytwIAAAAJ)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     <li>
-      <h3 class="archive__item-title" itemprop="headline"> <a href="{{ post.event }}" rel="permalink">{{ post.title }}</a></h3>
+      <p>
+      <h3 class="archive__item-title" itemprop="headline"> <a href="{{ post.event }}" rel="permalink">{{ post.title }}</a></h3> </br>
       <p style="font-size:12px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      </p>
     </li>
   {% endfor %}</ul>
 
@@ -70,8 +72,8 @@ Programming Languages       | C, C++, Go, Python, R, M (Octave/MATLAB), Javascri
 Web Technologies            | HTML, CSS/SCSS, Django, VueJS, ReactJS, Flask, BeeGo, Gorilla, Node.js, Angular, Jekyll 
 Databases/Storage           | PostgreSQL, MySQL, MongoDB
 Data Analysis/Modeling      | Keras, Pytorch, Tensorflow, Pandas, Numpy, Scikit-learn, Beautiful soup, Matplotlib, Seaborn, Scrapy
-Cloud                       | AWS (EC2)
-Productivity Tools          | LaTeX, GIT, Jupyter/IPython
+Cloud                       | AWS (EC2, Route 53 Console)
+Productivity Tools          | LaTeX, GIT, Jupyter
 Software Engineering        | Test-Driven Development: Selenium
 Machine Learning Techniques | Clustering, classification/regression, dimensionality reduction.
 
@@ -95,8 +97,12 @@ Honors and Awards
 
 Volunteer Work
 ======
-* Director and Co-Founder at Orientate Perú.
-* Volunteer in programs like Crea+ and Techo-Peru.
+* __Director and Co-Founder__ at Orientate Perú.
+* __Volunteer__ in programs like Crea+ and Techo-Peru.
 * __Innovation Mentor__ at the technological incubator StartUp UNI, Lima, Perú.
-* Member of the University Assembly from 2016 to 2017.
-* Member of Student Center from 2012 to 2013.
+* __Member of the University Assembly__ from 2016 to 2017.
+* __Member of Student Center__ from 2012 to 2013.
+
+References
+======
+Available on request.
