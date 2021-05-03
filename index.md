@@ -19,15 +19,29 @@ Employment
 **[ARIOT S.A.C.](https://ariot.pe/)** <span style="float:right">Arequipa, Peru</span>  
 *Data Scientist* <span style="float:right">June 2018 - April 2019</span>
 
-* Data Management, modeling, and analyses.
-* IT consultant
-* **Tech stack**: Python, Numpy, Pandas, MongoDB, MySQL, MATLAB, MQTT, Node-js, GIT.
+* Data Management, modeling, and analyses.  
+* Real-time web application to show and analyze collected data.
+* **Tech stack**: Golang, Python, Numpy, Pandas, MongoDB, JSON, MATLAB, BeeGo, Gorilla, GIT.
 
 **[CERNICALO S.A.](https://www.cernicalo.net/)** <span style="float:right">Lima, Peru</span>  
 *Web Development Engineer* <span style="float:right">August 2017 - May 2018</span>
 
-* Web and Mobile applications development.  
-* **Tech stack**: Laravel, PHP, Java, Android.
+* IT consultant.  
+* Web Applications development and maintain.  
+* Mobile Applications developed over AndroidStudio.  
+* **Tech stack**: Laravel, MySQL, PHP, Java, Android, Node-js, GIT.
+
+**[Faculty of Science](https://fc.uni.edu.pe/fc/)** <span style="float:right">Lima, Peru</span>  
+*Teaching Assistant* <span style="float:right">August 2017 - Dec 2017</span>
+
+* Courses: Parallel Algorithms & Simulation and Modeling.  
+* **Tech stack**: C++, C, MPI, OpenMP, CUDA, Octave, Python, Caffe, GIT.
+
+**[CTIC](https://www.ctic.uni.edu.pe/bigdata-hpc/)** <span style="float:right">Lima, Peru</span>  
+*Research Assistant* <span style="float:right">Jan 2016 - July 2017</span>
+
+* Research Fields: Big Data, Fog Computing, and High-Performance Computing.  
+* **Tech stack**: Apache Spark, Apache Flink, MongoDB, Bash, C++, C, Golang, MPI, OpenMP, CUDA, MQTT, GIT.
 
 Education
 ======
@@ -46,10 +60,8 @@ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     <li>
-      <p>
-      <h3 class="archive__item-title" itemprop="headline"> <a href="{{ post.event }}" rel="permalink">{{ post.title }}</a></h3> </br>
+      <h3 class="archive__item-title" itemprop="headline"> <a href="{{ post.event }}" rel="permalink">{{ post.title }}</a></h3>
       <p style="font-size:12px">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-      </p>
     </li>
   {% endfor %}</ul>
 
