@@ -31,13 +31,13 @@ Employment
 * Mobile Applications developed over AndroidStudio.  
 * **Tech stack**: Laravel, MySQL, PHP, Java, Android, Node-js, GIT.
 
-**[Faculty of Science](https://fc.uni.edu.pe/fc/)** <span style="float:right">Lima, Peru</span>  
+**[Facultad de Ciencias](https://fc.uni.edu.pe/fc/)** <span style="float:right">Lima, Peru</span>  
 *Teaching Assistant* <span style="float:right">August 2017 - Dec 2017</span>
 
 * Courses: Parallel Algorithms & Simulation and Modeling.  
 * **Tech stack**: C++, C, MPI, OpenMP, CUDA, Octave, Python, Caffe, GIT.
 
-**[CTIC](https://www.ctic.uni.edu.pe/bigdata-hpc/)** <span style="float:right">Lima, Peru</span>  
+**[Centro de Tecnologías de Información y Comunicaciones (CTIC)](https://www.ctic.uni.edu.pe/bigdata-hpc/)** <span style="float:right">Lima, Peru</span>  
 *Research Assistant* <span style="float:right">Jan 2016 - July 2017</span>
 
 * Research Fields: Big Data, Fog Computing, and High-Performance Computing.  
