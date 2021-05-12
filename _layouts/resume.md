@@ -39,8 +39,10 @@ layout: compress
           <p class="view"><a href="/projects.html"><i class='fa fa-cog'></i> &nbsp; Projects</a></p>
           <p class="view"><a href="/publications.html"><i class='far fa-file-alt'></i> &nbsp; Publications</a></p>
           -->
-          <p class="view"><a href="https://www.kaggle.com/fmorenovr" target="_blank"><i class='fab fa-kaggle'></i> &nbsp; Kaggle</a></p>
+          <!--<p class="view"><a href="https://www.kaggle.com/fmorenovr" target="_blank"><i class='fab fa-kaggle'></i> &nbsp; Kaggle</a></p>-->
           <p class="view"><a href="https://www.linkedin.com/in/{{author.linkedin}}" target="_blank"><i class='fab fa-linkedin'></i> &nbsp; LinkedIn</a></p>
+          <p class="view"><a href="https://www.linkedin.com/in/{{author.twitter}}" target="_blank"><i class='fab fa-twitter'></i> &nbsp; Twitter</a></p>
+          <p class="view"><a href="https://www.linkedin.com/in/{{author.instagram}}" target="_blank"><i class='fab fa-instagram'></i> &nbsp; Instagram</a></p>
           <p class="view"><a href="https://github.com/{{ author.github }}"><i class='fab fa-github'></i> &nbsp; GitHub</a></p>
           <p class="view"><a href="https://scholar.google.com/citations?user={{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> &nbsp; Google Scholar</a>
         </div>

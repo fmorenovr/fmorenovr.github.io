@@ -12,7 +12,7 @@ Employment
 **[Fundação Getúlio Vargas (EMAp)](https://emap.fgv.br/)** <span style="float:right">Rio de Janeiro, Brazil</span>  
 *Artificial Intelligence Engineer* <span style="float:right">May 2019 - Current</span>
 
-* Working at the Timberflow project (FGV-EMAp, USP-ICMC, Imaflora).
+* Working at the **Timberflow** project (FGV-EMAp, USP-ICMC, Imaflora).
 * Developed **UrbEX**, an interactive web-based system to understand Urban Perception of streets. 
 * **Tech stack**: Python, Numpy, Pandas, Keras, Pytorch, DJando, Flask, GIT.
 
@@ -48,12 +48,12 @@ Education
 
 **[Universidad Católica San Pablo (UCSP)](https://ucsp.edu.pe/)** <span style="float:right">Arequipa - Peru</span>  
 **M.Sc. in Computer Science** <span style="float:right">2018 - 2020</span>  
-**Thesis**: [Identification and Extraction of Visual Characteristics to Understand the Urban Perception through Street Images](/files/thesis/UCSP/Thesis.pdf)  
+**Thesis**: [Identification and Extraction of Visual Characteristics to Understand the Urban Perception through Street Images](/files/thesis/UCSP/Thesis.pdf) [Slides](/files/thesis/UCSP/Slides.pdf)  
 Supervisor: [PhD. Jorge Poco Medina](https://scholar.google.com.br/citations?user=S_88vX4AAAAJ)
 
 **[Universidad Nacional de Ingeniería (UNI)](https://www.uni.edu.pe/)** <span style="float:right">Lima - Peru</span>  
 **B.Sc. in Computer Science** <span style="float:right">2012 - 2017</span>  
-**Project**: [Design and implementation of the core level of a transversal platform based on Fog Computing architectures](/files/thesis/UNI/Thesis.pdf)  
+**Project**: [Design and implementation of the core level of a transversal platform based on Fog Computing architectures](/files/thesis/UNI/Thesis.pdf) [Slides](/files/thesis/UNI/Slides.pdf)  
 Supervisor: [PhD. Manuel Castillo Cara](https://scholar.google.com.br/citations?user=r0JytwIAAAAJ)
 
 Publications

@@ -7,8 +7,6 @@ date:   2019-05-20 12:15:12 -0500
 permalink: /dl/recurrent_networks
 ---
 
-# Recurrent Neural Networks
-
 It is a class of [Artificial Neural Network](/ml/neural_networks) where connections between nodes form a directed graph along a temporal sequence.
 RNNs can use their internal state (memory) to process sequences of inputs.
 
