@@ -90,10 +90,12 @@ permalink: /about/travel
 ## 2. Maleta 8Kg
 
     * 1 Sport cordons bag  
+    * Sudadera con Capucha (Hooded Sweatshirt: Black)  
+    * Buzos (2 Joggers: Black)  
 
 ### 1 Pack/Estojo Organizador Transparente: Pijama
 
-    * 1 Bolso Organizador Grande: Boxers (Boston: black, 9)
+    * 1 Bolso Organizador Grande: Boxers (Boston: black, 9)  
     * 1 Bolso Organizador Mediano: Medias (Algodon gray: 9, Sport, Vestir)  
     * Pijama (2 juegos polo-short)   
     * Toalla de mano  
@@ -103,7 +105,7 @@ permalink: /about/travel
     * Gorra  
 
     * Cardigan (Hooded: Gray)  
-    * Sudadera con Capucha (Hooded Sweatshirt: Black)  
+    * Jersey Cuello V-zipper (V-neck Sweater: Mustard)  
     * Jersey Cuello botón (Dark Blue Marine)  
 
     * Camisetas Tee (Gray, White, Black, Iron Blue, Green, Cherry-Wine)  
@@ -121,7 +123,6 @@ permalink: /about/travel
 ## 3. Maleta 23Kg
 
     * Sombrero Trekking (Chinese hat)  
-    * Buzos (2 Joggers: Black)  
 
     * Toalla de cuerpo (x2)  
     * Bata de baño  
@@ -144,8 +145,6 @@ permalink: /about/travel
 ### 1 Pack/Estojo Organizador Transparente: Sport/Playa
 
     * Sombrero de Verano (Summer Hat)  
-
-    * Jersey Cuello V-zipper (V-neck Sweater: Mustard)  
 
     * Camiseta + Camisa de playa  
     * Short Playa (Hypnotic 30: 2)  
