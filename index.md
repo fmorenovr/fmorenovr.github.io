@@ -10,7 +10,7 @@ I am a __Artificial Intelligence Engineer__ in the Escola de Matemática Aplicad
 Employment
 ======
 **[Fundação Getúlio Vargas (EMAp)](https://emap.fgv.br/)** <span style="float:right">Rio de Janeiro, Brazil</span>  
-*Artificial Intelligence Engineer* <span style="float:right">May 2019 - Current</span>
+*Data Scientist* <span style="float:right">May 2019 - Current</span>
 
 * Working at the **Timberflow** project (FGV-EMAp, USP-ICMC, Imaflora).
 * Developed **UrbEX**, an interactive web-based system to understand Urban Perception of streets. 
