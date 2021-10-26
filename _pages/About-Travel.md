@@ -99,6 +99,7 @@ permalink: /about/travel
     * 1 Bolso Organizador Mediano: Medias (Algodon gray: 9, Sport, Vestir)  
     * Pijama (2 juegos polo-short)   
     * Toalla de mano  
+    * Toalla de cuerpo  
 
 ### 1 Pack/Estojo Organizador Transparente: Camisetas/Jerseys
 
@@ -124,7 +125,7 @@ permalink: /about/travel
 
     * Sombrero Trekking (Chinese hat)  
 
-    * Toalla de cuerpo (x2)  
+    * Toalla de cuerpo (x1)  
     * Bata de baño  
     
     * Paraguas (Qiuyeyuan Brand - Zodiac Umbrella Sword)  
@@ -157,10 +158,8 @@ permalink: /about/travel
 
 ### 1 Pack/Estojo Organizador Transparente: Cosplay
 
-    * Sombrero de Vestir  
-    * Mascara de V  
+    * Mascara de V + Sombrero  
     * Mascara Tobi  
-    * Mascara Obito  
 
     * Akatsuki Capa  
     * Palpatine Capa  
