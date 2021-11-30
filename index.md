@@ -12,16 +12,13 @@ Employment
 **[Fundação Getúlio Vargas (EMAp)](https://emap.fgv.br/)** <span style="float:right">Rio de Janeiro, Brazil</span>  
 *Data Scientist* <span style="float:right">May 2019 - Current</span>
 
-* Working at the **Timberflow** project (FGV-EMAp, USP-ICMC, Imaflora).
-* Developed **UrbEX**, an interactive web-based system to understand Urban Perception of streets. 
-* **Tech stack**: Python, Numpy, Pandas, Keras, Pytorch, DJando, Flask, GIT.
+* My work relies in two main projects: (i) **Timberflow**: It is focused on detecting illegal timber operations in the Amazon Rainforest; (ii) **Urban safety Perception**(UrbEX): Analyse criminal data and urban perception on street images. For a better organization, teams organized [Scrum](https://www.scrum.org/resources/what-is-scrum) ceremonies to increase developer engagement in all projects.
 
-**[ARIOT S.A.C.](https://ariot.pe/)** <span style="float:right">Arequipa, Peru</span>  
-*Data Scientist* <span style="float:right">June 2018 - April 2019</span>
+* TimberFlow: I integrated two major Brazilian databases (Sinaflor and Sisflora) of wood-based product transportation/exportation. Using libraries like Pandas and Selenium, my work helps to automate the process of cleaning, filter, and unifying both datasets, resulting in a very simple and organized database ([link to reference](https://www.google.com)).  
 
-* Data Management, modeling, and analyses.  
-* Real-time web application to show and analyze collected data.
-* **Tech stack**: Golang, Python, Numpy, Pandas, MongoDB, JSON, MATLAB, BeeGo, Gorilla, GIT.
+* Urban Safety Perception: Analyzing street view images, we extract main features from them to map zones with criminal rate records. We use several techniques based on object segmentation (DeepLabv3+), object detection (Faster-RCNN), and GANs. As main results, we can correlate and understand why streets could be safely perceived ([link to reference](https://www.google.com)).
+
+* **Tech stack**: Python, Numpy, Pandas, Keras, Pytorch, DJando, Flask, GIT, Selenium, Flask, Scrum.
 
 **[CERNICALO S.A.](https://www.cernicalo.net/)** <span style="float:right">Lima, Peru</span>  
 *Web Development Engineer* <span style="float:right">August 2017 - May 2018</span>
