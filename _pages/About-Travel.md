@@ -42,14 +42,35 @@ permalink: /about/travel
     * SunGlasses + Estuche  
     * Protector agua  
 
-## CrossBody Anti-Theft Bag
+
+    * Phone + Charger (Fast Charge)  
+
+    * Almohada de Cuello (Neck Pillow)  
+
+## CrossBody Anti-Theft Travel Bag
 
     * Tarjetero  
-    * Phone + Charger (Fast Charge)  
-    * Multi-Charger Adapter  
+    * Headphone  
+    * Auriculares alámbricos 
+    * Bateria Portatil + case  
+
     * Cartuchera (Lapices, Lapiceros, tinta)  
     * Libreta  
-    * Bateria Portatil + case  
+
+## Digital Bag Storage
+
+    * Memoria Portatil (1Tb Toshiba) + case  
+    * Mouse + Keyboard  
+    * HDMI-Cable - VGA Adapter 
+    * Power Extension  
+    
+    * Phone chips    
+    * Camera hider  
+
+    * USB memmory (Kinston)  
+    * Multi-Charger Adapter  
+    * Multi-USB Adapter  
+    * Multi Function OTG/USB Micro SD Adapter  
 
 ## Neceser  
 
@@ -70,22 +91,8 @@ permalink: /about/travel
 
     * Laptop + Charger + Cubre-Camara + Case  
     * Laptop Cooler  
+    * `Digital Bag`  
     * Regla 30 cm  
-
-### Digital Bag Storage
-
-    * Memoria Portatil (1Tb Toshiba) + case  
-    * Mouse + Keyboard  
-    * Headphone + case  
-    * HDMI-Cable - VGA Adapter 
-    * Power Extension  
-    
-    * Phone chip + case  
-    * Camera hider   
-
-    * USB memmory (Kinston)  
-    * Multi-USB Adapter  
-    * Multi Function OTG/USB Micro SD Adapter  
 
 ## 2. Maleta 8Kg
 
@@ -119,7 +126,7 @@ permalink: /about/travel
     * Jeans Color (Pioner 30 - super pitillo: Khaki, White)  
     * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
 
-    * Bermudas (Tartan, Paco rabone: Blue)  
+    * Bermudas (Tartan, Paco rabone: Blue, Sky-blue, Yellow, White)  
 
 ## 3. Maleta 23Kg
 
@@ -137,7 +144,6 @@ permalink: /about/travel
 
     * Cubre Ojos (Eye Mask)  
     * Cubre Boca (Mouth Mask)  
-    * Almohada de Cuello (Neck Pillow)  
 
     * Calentadores de Licra (Torso, Piernas, Manos, Pies)  
     * Chalina de alpaca (Blanco)  
