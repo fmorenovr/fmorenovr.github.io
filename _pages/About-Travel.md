@@ -60,7 +60,7 @@ permalink: /about/travel
 ## Digital Bag Storage
 
     * Memoria Portatil (1Tb Toshiba) + case  
-    * Mouse + Keyboard  
+    * Mouse  
     * HDMI-Cable - VGA Adapter 
     * Power Extension  
     
@@ -93,6 +93,7 @@ permalink: /about/travel
     * Laptop Cooler  
     * `Digital Bag`  
     * Regla 30 cm  
+    * Cartuchera (lapiceros+lapices+etc)  
 
 ## 2. Maleta 8Kg
 
@@ -106,7 +107,7 @@ permalink: /about/travel
     * 1 Bolso Organizador Mediano: Medias (Algodon gray: 9, Sport, Vestir)  
     * Pijama (2 juegos polo-short)   
     * Toalla de mano  
-    * Toalla de cuerpo  
+    * Toalla de cuerpo (x2)  
 
 ### 1 Pack/Estojo Organizador Transparente: Camisetas/Jerseys
 
@@ -132,8 +133,7 @@ permalink: /about/travel
 
     * Sombrero Trekking (Chinese hat)  
 
-    * Toalla de cuerpo (x1)  
-    * Bata de baño  
+    * Bata de Baño    
     
     * Paraguas (Qiuyeyuan Brand - Zodiac Umbrella Sword)  
 
