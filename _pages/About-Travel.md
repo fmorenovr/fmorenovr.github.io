@@ -98,8 +98,12 @@ permalink: /about/travel
 ## 2. Maleta 8Kg
 
     * 1 Sport cordons bag  
-    * Sudadera con Capucha (Hooded Sweatshirt: Black)  
+    * Sudadera con Capucha  
     * Buzos (2 Joggers: Black)  
+    * Bermudas (Amarillo, Azul marino, Sky-blue, White) - hawk/knext  
+    * Jeans Color (Pioner 30: Khaki, White, Azul)  
+    * Jeans (Hypnotic - Skinny Stretch: Blue, Black) 
+    * 9 camisetas (plomo, verde, azul, mostaza, violeta, negro)  
 
 ### 1 Pack/Estojo Organizador Transparente: Pijama
 
@@ -119,15 +123,6 @@ permalink: /about/travel
 
     * Camisetas Tee (Gray, White, Black, Iron Blue, Green, Cherry-Wine)  
     * Camisetas Botón (Dark Mustard, Red, Light Blue)  
-
-### 1 Pack/Estojo Organizador Transparente: Pantalones/Bermudas
-
-    * Correa
-
-    * Jeans Color (Pioner 30 - super pitillo: Khaki, White)  
-    * Jeans (Hypnotic - Skinny Stretch: Blue, Black)  
-
-    * Bermudas (Tartan, Paco rabone: Blue, Sky-blue, Yellow, White)  
 
 ## 3. Maleta 23Kg
 
@@ -188,14 +183,9 @@ permalink: /about/travel
  
     * Sandalias (Flip Flop)  
     * Slipper Leather  
-    * Alpargatas (Hawaiana Espadrilles: Light blue)  
-
     * Botines (Caterpillar: Soft Brown)  
-    
     * Tenis (Sneakers: White)  
-    
     * Runners (Athletic Shoes)  
-    
     * Zapatos (Cap Toe Oxford: Black/Brown)  
 
 <!--
