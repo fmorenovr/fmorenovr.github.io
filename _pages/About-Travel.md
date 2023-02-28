@@ -8,7 +8,7 @@ permalink: /about/travel
 
 ## Personal Health
 
-    * Casco Protector Facial  
+    * Mascara  
     * Saco impermeable  
     * Collar de Alcohol (70%)  
     * Guantes Tela  
