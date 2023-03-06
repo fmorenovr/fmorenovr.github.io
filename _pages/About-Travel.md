@@ -6,6 +6,14 @@ description: ""
 permalink: /about/travel
 ---
 
+## Maleta 8Kg
+
+* Estojo de ropa
+    * 2 jeans (Black, Blue)  
+    * 2 pants (twine, beige)  
+    * 2 
+
+
 ## Personal Health
 
     * Mascara  
