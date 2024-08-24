@@ -8,11 +8,26 @@ permalink: /about/travel
 
 ## Maleta 8Kg
 
-* Estojo de ropa
+* Estojo de ropa:
     * 2 jeans (Black, Blue)  
     * 2 pants (twine, beige)  
-    * 2 
+    * 2 buzos
+    
+* Estojo de polos:
+    * 5 polos color entero (gris, negro, rojo/vino, azul-acero, verde, beige).
+    * 2 polos cuello camisa (verde, rojo).  
+    * 2 polos variado (colores, estampa, lineas).
+    * 4 camisas de vestir.
+    * 4 camisas de fiesta (blanco, azul/negro, amarillo, rosa).
 
+* Estojo de bermudas:
+    * 3 bermudas (amarillo, blanco, azul oscuro).  
+    * 3 short playa.  
+    * chalina ligera.  
+    * gorro de playa.  
+    * utiles de playa (sunga, lentes, gorra).  
+    
+    * 3 shorts sport (blanco, negro, gris).
 
 ## Personal Health
 
