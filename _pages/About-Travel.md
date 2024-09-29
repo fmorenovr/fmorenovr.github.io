@@ -6,28 +6,65 @@ description: ""
 permalink: /about/travel
 ---
 
+## Mochila
+
+* Laptop Bag 
+    * Camera hider  
+    * Laptop  
+    * Mouse  
+    * Cooler
+
+* Phone Digital Bag Storage
+    * Phone charger
+    * keyboard 
+    * Portable power bank
+
+* Digital Bag Storage
+
+    * Phone chips   
+    * Multi-USB Charger Adapter    
+    * Multi Function OTG/USB Micro SD Adapter 
+
+    * HDMI-Cable
+    * HDMI - VGA Adapter  
+    * Ethernet Adapter   
+    * Electronic signature
+
+    * Memoria Portatil (1Tb Toshiba) + case  
+    * USB memmory
+    * Porta celular
+    * JBL Speaker  + charge power
+    * Power Adapter  
+    * Power Extension 
+
 ## Maleta 8Kg
 
-* Estojo de ropa:
+* Estojo de viaje ligero:
+    * 4 polos
+    * 2 jeans
+
+* Estojo de jeans:
     * 2 jeans (Black, Blue)  
-    * 2 pants (twine, beige)  
-    * 2 buzos
+    * 2 pants (black-green, beige)  
+    * 2 buzos (black/gray).
     
 * Estojo de polos:
-    * 5 polos color entero (gris, negro, rojo/vino, azul-acero, verde, beige).
-    * 2 polos cuello camisa (verde, rojo).  
+    * 6 polos color entero (gris, negro, rojo/vino, azul-acero, verde, beige/amarillo).
+    * 3 polos cuello camisa (verde, rojo, azul/amarillo).  
     * 2 polos variado (colores, estampa, lineas).
-    * 4 camisas de vestir.
     * 4 camisas de fiesta (blanco, azul/negro, amarillo, rosa).
+    * 4 camisas de vestir.
 
 * Estojo de bermudas:
-    * 3 bermudas (amarillo, blanco, azul oscuro).  
+    * 3 bermudas (marron-claro, blanco/beige, jeans).  
+    * 3 shorts sport (blanco, negro, gris).
     * 3 short playa.  
     * chalina ligera.  
-    * gorro de playa.  
+    * sombrero de playa.  
     * utiles de playa (sunga, lentes, gorra).  
     
-    * 3 shorts sport (blanco, negro, gris).
+
+## Maleta 23Kg
 
 ## Personal Health
 
@@ -80,20 +117,7 @@ permalink: /about/travel
     * Cartuchera (Lapices, Lapiceros, tinta)  
     * Libreta  
 
-## Digital Bag Storage
 
-    * Memoria Portatil (1Tb Toshiba) + case  
-    * Mouse  
-    * HDMI-Cable - VGA Adapter 
-    * Power Extension  
-    
-    * Phone chips    
-    * Camera hider  
-
-    * USB memmory (Kinston)  
-    * Multi-Charger Adapter  
-    * Multi-USB Adapter  
-    * Multi Function OTG/USB Micro SD Adapter  
 
 ## Neceser  
 

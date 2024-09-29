@@ -1,0 +1,25 @@
+Slides:
+
+  Conferences:
+  LACCI 2019
+
+  Book Chapters
+  SmartComp 2022
+  CSCML 2024
+  
+  Workshops:
+  VAST 2024
+
+  Thesis:
+    UNI Bachelor  
+
+Citations:
+    CSCML 2024
+    
+PDF:
+
+  Conferences:
+
+
+  Thesis: con glen
+    UNI Bachelor
