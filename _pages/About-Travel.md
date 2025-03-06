@@ -16,7 +16,7 @@ permalink: /about/travel
 
 * Phone Digital Bag Storage
     * Phone charger
-    * keyboard 
+    * portable keyboard 
     * Portable power bank
 
 * Digital Bag Storage
@@ -43,19 +43,24 @@ permalink: /about/travel
     * 4 polos
     * 2 jeans
 
-* Estojo de jeans:
-    * 2 jeans (Black, Blue)  
+* Estojo de jeans & bermudas:
+    * 2 jeans (Skyblue, Blue)  
     * 2 pants (black-green, beige)  
-    * 2 buzos (black/gray).
+    * 2 buzos (black/gray)  
+    * 2 bermudas (white, blue)  
     
 * Estojo de polos:
     * 6 polos color entero (gris, negro, rojo/vino, azul-acero, verde, beige/amarillo).
-    * 3 polos cuello camisa (verde, rojo, azul/amarillo).  
-    * 2 polos variado (colores, estampa, lineas).
-    * 4 camisas de fiesta (blanco, azul/negro, amarillo, rosa).
-    * 4 camisas de vestir.
+    * 2 polos cuello camisa (con/sin patrones)  
+    * 2 polos variados (colores, estampa, lineas).
+    * 3 camisas de fiesta (blanco/negro, amarillo, rosa).
+    * 3 camisas de vestir.
 
-* Estojo de bermudas:
+
+
+
+
+* Estojo de Deporte:
     * 3 bermudas (marron-claro, blanco/beige, jeans).  
     * 3 shorts sport (blanco, negro, gris).
     * 3 short playa.  

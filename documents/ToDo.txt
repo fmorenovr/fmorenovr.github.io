@@ -1,20 +1,16 @@
 Slides:
 
   Conferences:
-  LACCI 2019
+    LACCI 2019
 
   Book Chapters
-  SmartComp 2022
-  CSCML 2024
+    SmartComp 2022
   
-  Workshops:
-  VAST 2024
-
   Thesis:
     UNI Bachelor  
 
 Citations:
-    CSCML 2024
+    Wi-IAT 2024
     
 PDF:
 
