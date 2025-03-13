@@ -24,13 +24,40 @@ Employment
 
 * **Technologies applied**: Azure, TensorFlow, Keras, PyTorch, Computer Vision, NLP
 
-**[CERNICALO S.A.](https://www.cernicalo.net/)** <span style="float:right">Lima, Peru</span>  
-*Web Development Engineer* <span style="float:right">August 2017 - May 2018</span>
 
-* IT consultant.  
-* Web Applications development and maintain.  
-* Mobile Applications developed over AndroidStudio.  
-* **Tech stack**: Laravel, MySQL, PHP, Java, Android, Node-js, GIT.
+
+**[CERNICALO S.A.](https://www.cernicalo.net/)** <span style="float:right">Lima, Peru</span>  
+*Web/Mobile Developer* <span style="float:right">August 2017 - October 2018</span>
+
+* **Web Applications**: Backend development using frameworks such as Laravel (Php) and Spring (Java). Furthermore, implementation and deployment of cloud hosting services. 
+			
+*	**Mobile Applications**: Android Mobile Applications Development using Android Studio with Android SDK versions from Jelly Bean (API 18) to Marshmallow (API 23). 
+
+* **Technologies applied**: Android, Java, PHP, Laravel, MySQL, Apache Kafka.
+
+
+
+**[Centro de Tecnologías de Información y Comunicaciones (CTIC)](https://www.ctic.uni.edu.pe/bigdata-hpc/)** <span style="float:right">Lima, Peru</span>  
+*Research & Teaching Assistant* <span style="float:right">January 2016 - July 2017</span>
+
+* **BeaGOns**: _Real-Time Fog-Edge web application to read and process sensor data_. Using an edge computing architecture, we deploy Raspberry Pi 2B-based modules (Edge Layer) across Lima City to collect environmental data via sensors. 
+
+*	**CHESS**: _High-Performance Beowulf Hybrid CPU-GPU Cluster with NVIDIA GeForce GTX 980 Ti_. Using Apache Spark, MPI, and OpenMP, we simulate urban transport traffic with 1.2TB of temporal data from New York City and Seoul. 
+
+* **Technologies applied**: C/C++, HPC, Fog Computing, Golang, Embedded systems
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **[Facultad de Ciencias](https://fc.uni.edu.pe/fc/)** <span style="float:right">Lima, Peru</span>  
 *Teaching Assistant* <span style="float:right">August 2017 - Dec 2017</span>
@@ -42,7 +69,6 @@ Employment
 *Research Assistant* <span style="float:right">Jan 2016 - July 2017</span>
 
 * Research Fields: Big Data, Fog Computing, and High-Performance Computing.  
-* **Tech stack**: Apache Spark, Apache Flink, MongoDB, Bash, C++, C, Golang, MPI, OpenMP, CUDA, MQTT, GIT.
 
 Education
 ======

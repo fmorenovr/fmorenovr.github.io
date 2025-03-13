@@ -32,7 +32,7 @@ layout: compress
           <img src="/assets/me/me_2017.png" alt="{{ author.name }}" width="240" />
         {% endif %}
 
-        <br /><p style="margin: 1em 0">Data Scientist | AI Researcher | Cat Lover </p>
+        <br /><p style="margin: 1em 0; font-size=40px;" >Data Scientist | AI Researcher | Cat Lover </p>
 
         <div style="text-align: left;">
           <!--
