@@ -32,7 +32,7 @@ layout: compress
           <img src="/assets/me/me_2017.png" alt="{{ author.name }}" width="240" />
         {% endif %}
 
-        <br /><p style="margin: 1em 0">Artificial Intelligence Engineer at <a href="https://portal.fgv.br/">Fundação Getúlio Vargas (FGV)</a>.</p>
+        <br /><p style="margin: 1em 0">Data Scientist | AI Researcher | Cat Lover </p>
 
         <div style="text-align: left;">
           <!--

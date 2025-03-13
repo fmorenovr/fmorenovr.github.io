@@ -5,20 +5,24 @@ layout: resume
 About
 ======
 
-I am a __Artificial Intelligence Engineer__ in the Escola de Matemática Aplicada (EMAp) at the Fundação Getúlio Vargas (FGV), my research lies at the intersection of **Urban Perception**, **Deep Learning**, and **Interpretability Machine Learning**. I am especially interested in building efficient, and robust models that can perform analyzing, and understanding human perception from street images with or without associated description text to improve the identification of the visual components, and main perceptual features extraction for applications in urban computing. I'm also a back-end developer very passionate about Python, Golang, and DevOps.
+I am a PhD candidate at the **[Visual Data Science Lab (V-DS)](http://www.visualdslab.com/)** at **[Fundação Getúlio Vargas (EMAp)](https://emap.fgv.br/)** in Rio de Janeiro, Brazil, supervised by Prof. Jorge Poco with the CAPES Scholarship. 
+
+My expertise is in machine learning, urban computing, large vision-language models, and explainable AI. My research interest lies in developing efficient and robust models for analyzing and understanding human perception from street images, as well as extracting key perceptual features for applications in urban computing.
+
 
 Employment
 ======
 **[Fundação Getúlio Vargas (EMAp)](https://emap.fgv.br/)** <span style="float:right">Rio de Janeiro, Brazil</span>  
-*Data Scientist* <span style="float:right">May 2019 - Current</span>
+*AI Data Scientist* <span style="float:right">May 2019 - May 2022</span>
 
-* My work relies in two main projects: (i) **Timberflow**: It is focused on detecting illegal timber operations in the Amazon Rainforest; (ii) **Urban safety Perception**(UrbEX): Analyse criminal data and urban perception on street images. For a better organization, teams organized [Scrum](https://www.scrum.org/resources/what-is-scrum) ceremonies to increase developer engagement in all projects.
+* **LegalAnalytics**: _Exploring and predicting possible citations between Brazilian legal documents_. Analysis, processing, organization, and extraction of the content of legal documents from the Brazilian Supreme Court-STF. Through NLP and LLMs, it is possible to identify and predict the most relevant sentences. 
+			
+* **TimberFlow**: _Detection of deforestation and illegal transport in the Amazon_. Integration of Sinaflor and Sisflora, Brazil's two most relevant databases on timber transport. Through Markov chains and graph networks, it is possible to predict the most likely transport flow between a consumer and a producer. 
+			
+* **UrbVis**: _Analysis of criminal data and correlations with urban security perception_. Through convolutional networks, segmentation, and object detection, it is possible to identify, process and extract the main characteristics of street images in order to predict the perception of security in the cities of Rio de Janeiro and Sao Paulo.
 
-* TimberFlow: I integrated two major Brazilian databases (Sinaflor and Sisflora) of wood-based product transportation/exportation. Using libraries like Pandas and Selenium, my work helps to automate the process of cleaning, filter, and unifying both datasets, resulting in a very simple and organized database ([link to reference](https://www.google.com)).  
 
-* Urban Safety Perception: Analyzing street view images, we extract main features from them to map zones with criminal rate records. We use several techniques based on object segmentation (DeepLabv3+), object detection (Faster-RCNN), and GANs. As main results, we can correlate and understand why streets could be safely perceived ([link to reference](https://www.google.com)).
-
-* **Tech stack**: Python, Numpy, Pandas, Keras, Pytorch, DJando, Flask, GIT, Selenium, Flask, Scrum.
+* **Technologies applied**: Azure, TensorFlow, Keras, PyTorch, Computer Vision, NLP
 
 **[CERNICALO S.A.](https://www.cernicalo.net/)** <span style="float:right">Lima, Peru</span>  
 *Web Development Engineer* <span style="float:right">August 2017 - May 2018</span>

@@ -75,6 +75,7 @@ analytics:
 author:
   name             : "Felipe A. Moreno"
   avatar           : "profile.jpg"
+  current_role     : "Artificial Intelligence Engineer"
   bio              : "Artificial Intelligence Engineer at Fundação Getúlio Vargas (FGV)."
   employer         : "Fundação Getúlio Vargas (FGV)"
   location         : "Rio de Janeiro, Brazil"
@@ -86,7 +87,7 @@ author:
   orcid            : "0000-0002-2477-9624"
   linkedin         : "fmorenovr"
   facebook         : "fmorenovr"
-  instagram        : "fmorenovr"
+  instagram        : "famveer"
   twitter          : "fmorenovr"
   dina             : "37145"
   pubmed           :

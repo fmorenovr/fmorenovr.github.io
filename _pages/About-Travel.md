@@ -39,10 +39,6 @@ permalink: /about/travel
 
 ## Maleta 8Kg
 
-* Estojo de viaje ligero:
-    * 4 polos
-    * 2 jeans
-
 * Estojo de jeans & bermudas:
     * 2 jeans (Skyblue, Blue)  
     * 2 pants (black-green, beige)  
