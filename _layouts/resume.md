@@ -26,13 +26,13 @@ layout: compress
   <body>
     <div class="wrapper">
       <header style="text-align: center;">
-        <h1><a href="{{ "/" | absolute_url }}">Felipe A. Moreno</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}">Felipe A. Moreno-Vera</a></h1>
         
         {% if author.avatar %}
-          <img src="/assets/me/me_2017.png" alt="{{ author.name }}" width="240" />
+          <img src="/assets/me/me_2025.png" alt="{{ author.name }}" width="240" style="border-radius: 50%;"/>
         {% endif %}
 
-        <br /><p style="margin: 1em 0; font-size=40px;" >Data Scientist | AI Researcher | Cat Lover </p>
+        <br /><p style="margin: 1em 0; font-size:10px;" >Data Scientist | AI Researcher | Cat Lover </p>
 
         <div style="text-align: left;">
           <!--
