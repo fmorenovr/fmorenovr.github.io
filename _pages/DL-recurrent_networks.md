@@ -22,13 +22,13 @@ Recurrent neural networks, also known as RNNs, are a class of neural networks th
 
 There are different architectures to different applications:
 
-| Architectures | Ilustration | Description
+| Architectures | Ilustration | Description | Example
 :-------------------------:|:-------------------------:
- One-to-One {% raw %} $ T_x = T_y = 1 $ {% endraw %} |  ![][o2o] | Traditional Neural Network
- One-to-Many {% raw %} $ T_x = 1, T_y \gt 1 $ {% endraw %} | ![][o2m] | An observation as input mapped to a sequence with multiple steps as an output.
- Many-to-One {% raw %} $ T_x \gt 1, T_y = 1 $ {% endraw %} | ![][m2o] | A sequence of multiple steps as input mapped to class or quantity prediction.
- Many-to-Many {% raw %} $ T_x = T_y $ {% endraw %} | ![][m2m_1] | A sequence of multiple steps as input mapped to a sequence with multiple steps as output.
- Many-to-Many {% raw %} $ T_x \neq T_y $ {% endraw %} | ![][m2m_2] | A sequence of multiple steps as input mapped to a sequence with multiple steps as output.
+ One-to-One {% raw %} $ T_x = T_y = 1 $ {% endraw %} |  ![][o2o] | Traditional Neural Network | MLP
+ One-to-Many {% raw %} $ T_x = 1, T_y \gt 1 $ {% endraw %} | ![][o2m] | An observation as input mapped to a sequence with multiple steps as an output. | Image captioning
+ Many-to-One {% raw %} $ T_x \gt 1, T_y = 1 $ {% endraw %} | ![][m2o] | A sequence of multiple steps as input mapped to class or quantity prediction. | Sentiment classification
+ Many-to-Many {% raw %} $ T_x = T_y $ {% endraw %} | ![][m2m_1] | A sequence of multiple steps as input mapped to a sequence with the same length of multiple steps as output. | Speech recognition
+ Many-to-Many {% raw %} $ T_x \neq T_y $ {% endraw %} | ![][m2m_2] | A sequence of multiple steps as input mapped to a sequence with multiple steps as output. | Text summarization
 
 ### Forward Propagation
 
