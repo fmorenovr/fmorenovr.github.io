@@ -53,8 +53,11 @@ permalink: /about/travel
     * 3 camisas de vestir.
 
 
-
-
+* Estojo RJ:
+   * Silvato  
+   * Abanico (leque)  
+   * Canga de praia  
+   * Camisa Brasil/Flamengo/Paysandu  
 
 * Estojo de Deporte:
     * 3 bermudas (marron-claro, blanco/beige, jeans).  
@@ -230,11 +233,11 @@ permalink: /about/travel
 ### Calzados
  
     * Sandalias (Flip Flop)  
-    * Slipper Leather  
+    * Slipper Leather (Brown Scketchers)  
     * Botines (Caterpillar: Soft Brown)  
-    * Tenis (Sneakers: White)  
+    * Tenis (Puma Sneakers: White)  
     * Runners (Athletic Shoes)  
-    * Zapatos (Cap Toe Oxford: Black/Brown)  
+    * Zapatos (Cap Toe Oxford and Mocasine: Black/Brown)  
 
 <!--
     * Zapatillas sin Cordones (Slip-On Sneakers: Black)  
