@@ -54,7 +54,9 @@ permalink: /about/travel
 
 
 * Estojo RJ:
-   * Silvato  
+   * Silvato
+   * Fantasia carnaval
+   * pochete carnaval  
    * Abanico (leque)  
    * Canga de praia  
    * Camisa Brasil/Flamengo/Paysandu  
