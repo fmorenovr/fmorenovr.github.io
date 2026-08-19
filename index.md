@@ -171,6 +171,7 @@ Volunteer Work
 
 Additional Skills
 ======
+
 Category                    | Proficiency in approximate descending order from left to right
 --------------------------- | --------------------------------------------------------------
 Programming Languages       | C, C++, Go, Python, R, M (Octave/MATLAB), Javascript
