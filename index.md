@@ -87,7 +87,7 @@ Education
 ======
 **[Fundação Getúlio Vargas (FGV)](https://repositorio.fgv.br/entities/publication/db9eb5b0-0f33-444d-b6ea-73e185900e77)** <span style="float:right">Rio de Janeiro - Brasil 🇧🇷</span>  
 **Ph.D. in Computer Science** <span style="float:right">2022 - 2026</span>  
-**Thesis**: [Exploração da percepção de segurança urbana com modelos de visão-linguagem e contrafactuais](/documents/thesis/FGV_PhD_EN.pdf) - [Slides](/documents/slides/thesis/FGV_PhD.pdf)  
+**Thesis**: [Exploração da percepção de segurança urbana com modelos de visão-linguagem e contrafactuais](/documents/thesis/FGV_PhD_PT.pdf) - [Slides](/documents/slides/thesis/FGV_PhD.pdf)  
 Supervisor: [Ph.D. Jorge Poco](https://scholar.google.com.br/citations?user=S_88vX4AAAAJ)  
 
 Contributions:  
