@@ -17,23 +17,23 @@ Employment
 **Agentic-AI Engineer** <span style="float:right">June 2024 - Current</span>  
 *Consulting* <span style="float:right">Remote 🌎</span>
 
-* 🇵🇾 **[COOMECIPAR](https://www.coomecipar.coop.py/)**
+* 🇵🇾 **[COOMECIPAR](https://www.coomecipar.coop.py/)**  
   * **[CooRAG](https://rag.coomecipar.coop.py/)**: _RAG-based chatbot to retrieve, summarize, and explain relevant financial and regulatory information_ from Paraguayan credit cooperative documents.  
-**Technologies**: RAG-Ops, Huggingface, Claude, OpenAI, LDAP
+  **Technologies**: RAG-Ops, Huggingface, Claude, OpenAI, LDAP
   * **[CooGPT](https://gpt.coomecipar.coop.py/)**: _LLM-based chatbot to upload, understand, and answer queries about relevant financial and regulatory information_ from Paraguayan credit cooperative documents.  
-**Technologies**: AWS, LLM-Ops, FastAPI, Gemini, OpenAI
+  **Technologies**: AWS, LLM-Ops, FastAPI, Gemini, OpenAI
 
-*  🇧🇷 **[FGV](https://emap.fgv.br/)**
+* 🇧🇷 **[FGV](https://emap.fgv.br/)**  
   * **[LegalXplain](https://legalxplain.visualdslab.com/)**: _Apply Large Language Models (LLMs)_ methods to explain relevant binding references in legal documents from the Brazilian Supreme Court (STF).  
-**Technologies**: Azure, RAG, LangChain, Langgraph, OpenAI, Legal-NLP
+  **Technologies**: Azure, RAG, LangChain, Langgraph, OpenAI, Legal-NLP
 
-* 🇵🇪 **[ONPE](https://www.onpe.gob.pe/)**
+* 🇵🇪 **[ONPE](https://www.onpe.gob.pe/)**  
   * **[SEActas](https://www.web.onpe.gob.pe/home_elecciones/escrutinio-electronico)**: _Unifying voting records from different scanner devices_ using Efficient OCR-Nets for signatures and votes recognition for Peruvian general elections.  
-**Technologies**: ML-Ops, FastAPI, OCR-nets, Large language models, Min.io
+  **Technologies**: ML-Ops, FastAPI, OCR-nets, Large language models, Min.io
 
-* 🇨🇱 **[FALABELLA](https://www.falabella.com/)**
+* 🇨🇱 **[FALABELLA](https://www.falabella.com/)**  
   * **BoTopicos**: _Agentic RAG-based bot to identify and categorize user opinions_ using semantic and keyword matching to associate and classify new user opinions.  
-**Technologies**: RAG-Ops, Perplexity, Spacy, NLP, LLM, Hierarchical classification
+  **Technologies**: RAG-Ops, Perplexity, Spacy, NLP, LLM, Hierarchical classification
 
 
 
