@@ -14,10 +14,12 @@ In particular, I am interested in developing efficient and robust models for ana
 More broadly, I am motivated by the challenge of creating multimodal AI systems that can reason across different data modalities while remaining transparent, explainable, and adaptable to real-world scenarios.
 
 
+<!-- GenVER AI — Generate, Visualize, Enhance, Realize. Applied Intelligence. -->
+
 Employment
 ======
 **Agentic-AI Engineer** <span style="float:right">June 2024 - Current</span>  
-*Consulting* <span style="float:right">Remote 🌎</span>
+*[GenVER Applied Intelligence (GenVER-AI)](https://genver.ai/)* <span style="float:right">Remote 🌎</span>
 
 * 🇵🇾 **[COOMECIPAR](https://www.coomecipar.coop.py/)**  
   -- **[CooRAG](https://rag.coomecipar.coop.py/)**: _RAG-based chatbot to retrieve, summarize, and explain relevant financial and regulatory information_ from Paraguayan credit cooperative documents.  

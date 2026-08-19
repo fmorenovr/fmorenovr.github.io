@@ -30,12 +30,15 @@ layout: compress
           <img src="/assets/me/me_2025.png" alt="{{ author.name }}" class="avatar" width="250"/>
         {% endif %}
         <div class="social-icons">
-          <a href="https://www.linkedin.com/in/{{author.linkedin}}" target="_blank" title="LinkedIn"><i class='fab fa-linkedin'></i></a>
-          <a href="https://www.twitter.com/in/{{author.twitter}}" target="_blank" title="Twitter"><i class='fab fa-twitter'></i></a>
-          <a href="https://www.instagram.com/in/{{author.instagram}}" target="_blank" title="Instagram"><i class='fab fa-instagram'></i></a>
-          <a href="https://github.com/{{ author.github }}" target="_blank" title="GitHub"><i class='fab fa-github'></i></a>
+          <a href="mailto:{{ author.email }}" title="Email"><i class="fas fa-fw fa-envelope"></i></a>
           <a href="https://scholar.google.com/citations?user={{ author.googlescholar }}" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
+          <a href="https://www.linkedin.com/in/{{author.linkedin}}" target="_blank" title="LinkedIn"><i class='fab fa-linkedin'></i></a>
+          <a href="https://www.twitter.com/{{author.twitter}}" target="_blank" title="Twitter"><i class='fab fa-twitter'></i></a>
+          <a href="https://github.com/{{ author.github }}" target="_blank" title="GitHub"><i class='fab fa-github'></i></a>
         </div>
+        
+       <p>E-mail is the best way to reach me. Feel free to send me a message!</p>
+        
       </header>
       <section>
 
