@@ -1,0 +1,16 @@
+current directory: /media/felipe/DATA24/github/Triskel/fmorenovr.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20260819-440403-i76dgl.rb extconf.rb
+creating Makefile
+
+current directory: /media/felipe/DATA24/github/Triskel/fmorenovr.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+
+current directory: /media/felipe/DATA24/github/Triskel/fmorenovr.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /media/felipe/DATA24/github/Triskel/fmorenovr.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20260819-440403-x8z75c

@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Felipe A. Moreno's Site"
+title                    : "Resume"
 title_separator          : "-"
 name                     : &name "Felipe A. Moreno"
 description              : &description "Cat lover, computer scientist, and bohemian survivor."

@@ -26,25 +26,15 @@ layout: compress
   <body>
     <div class="wrapper">
       <header style="text-align: center;">
-        <h1><a href="{{ "/" | absolute_url }}">Felipe A. Moreno-Vera</a></h1>
-        
         {% if author.avatar %}
-          <img src="/assets/me/me_2025.png" alt="{{ author.name }}" width="240" style="border-radius: 50%;"/>
+          <img src="/assets/me/me_2025.png" alt="{{ author.name }}" class="avatar" width="250"/>
         {% endif %}
-
-        <br /><p style="margin: 1em 0; font-size:10px;" >Data Scientist | AI Researcher | Cat Lover </p>
-
-        <div style="text-align: left;">
-          <!--
-          <p class="view"><a href="/projects.html"><i class='fa fa-cog'></i> &nbsp; Projects</a></p>
-          <p class="view"><a href="/publications.html"><i class='far fa-file-alt'></i> &nbsp; Publications</a></p>
-          -->
-          <!--<p class="view"><a href="https://www.kaggle.com/fmorenovr" target="_blank"><i class='fab fa-kaggle'></i> &nbsp; Kaggle</a></p>-->
-          <p class="view"><a href="https://www.linkedin.com/in/{{author.linkedin}}" target="_blank"><i class='fab fa-linkedin'></i> &nbsp; LinkedIn</a></p>
-          <p class="view"><a href="https://www.twitter.com/in/{{author.twitter}}" target="_blank"><i class='fab fa-twitter'></i> &nbsp; Twitter</a></p>
-          <p class="view"><a href="https://www.instagram.com/in/{{author.instagram}}" target="_blank"><i class='fab fa-instagram'></i> &nbsp; Instagram</a></p>
-          <p class="view"><a href="https://github.com/{{ author.github }}"><i class='fab fa-github'></i> &nbsp; GitHub</a></p>
-          <p class="view"><a href="https://scholar.google.com/citations?user={{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> &nbsp; Google Scholar</a>
+        <div class="social-icons">
+          <a href="https://www.linkedin.com/in/{{author.linkedin}}" target="_blank" title="LinkedIn"><i class='fab fa-linkedin'></i></a>
+          <a href="https://www.twitter.com/in/{{author.twitter}}" target="_blank" title="Twitter"><i class='fab fa-twitter'></i></a>
+          <a href="https://www.instagram.com/in/{{author.instagram}}" target="_blank" title="Instagram"><i class='fab fa-instagram'></i></a>
+          <a href="https://github.com/{{ author.github }}" target="_blank" title="GitHub"><i class='fab fa-github'></i></a>
+          <a href="https://scholar.google.com/citations?user={{ author.googlescholar }}" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
         </div>
       </header>
       <section>
@@ -52,11 +42,6 @@ layout: compress
       {{ content }}
 
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}

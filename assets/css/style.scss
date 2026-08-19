@@ -1,0 +1,93 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+/*
+ * The jekyll-theme-minimal gem hard-codes a fixed 860px wrapper with a
+ * 270px fixed/floated header and a 500px floated section, meant for short
+ * project README pages. That squeezes this long-form resume into a tiny
+ * fixed-width column. Override to a responsive, single-column layout.
+ * These plain rules come after the @import above, so they win over the
+ * theme's rules (including inside its own max-width:960px media query)
+ * at every viewport width.
+ */
+.wrapper {
+  width: auto;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+/*
+ * Profile card (avatar, name, icons) floats to the right, alongside the
+ * About text only: #employment clears it so every section after About
+ * runs full width below the card.
+ */
+header {
+  float: right;
+  position: static;
+  width: 280px;
+  margin: 0 0 2em 2.5em;
+  padding: 0;
+}
+
+/*
+ * The source photo (899x1134) isn't square, so width-only sizing with
+ * border-radius:50% stretched it into an ellipse. Fix the box to a square
+ * and crop with object-fit so it renders as a true circle.
+ */
+.avatar {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+footer {
+  float: none;
+  position: static;
+  width: auto;
+  padding: 0;
+}
+
+section {
+  float: none;
+  width: auto;
+  padding-bottom: 50px;
+}
+
+#employment {
+  clear: both;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.9em;
+  margin-top: 0.75em;
+}
+
+.social-icons a {
+  font-size: 1.5em;
+  color: #676767;
+}
+
+.social-icons a:hover {
+  color: #069;
+}
+
+@media (max-width: 720px) {
+  header {
+    float: none;
+    width: auto;
+    margin: 0 0 2em 0;
+  }
+}
+
+@media (max-width: 640px) {
+  .wrapper {
+    padding: 0 20px;
+  }
+}

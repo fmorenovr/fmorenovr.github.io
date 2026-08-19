@@ -1,9 +1,11 @@
 ---
 layout: resume
+title: Felipe A. Moreno-Vera
 ---
 
-About
-======
+<h1><a href="https://www.fmorenovr.com/">Felipe A. Moreno-Vera</a></h1>
+
+<h4>Data Scientist | AI Researcher | PhD Computer Science</h4>
 
 Currently, I am working on Multimodal Retrieval-Augmented Generation (RAG) systems and Vision-Language Models (VLMs), with a strong focus on advancing multimodal large language models (MLLMs) and Explainable AI. My research explores how visual and textual information can be effectively integrated to build intelligent systems that are both accurate and interpretable.
 
@@ -83,47 +85,46 @@ Employment
 
 
 
+
 Education
 ======
-**[Fundação Getúlio Vargas (FGV)](https://repositorio.fgv.br/entities/publication/db9eb5b0-0f33-444d-b6ea-73e185900e77)** <span style="float:right">Rio de Janeiro - Brasil 🇧🇷</span>  
-**Ph.D. in Computer Science** <span style="float:right">2022 - 2026</span>  
-**Thesis**: [Exploração da percepção de segurança urbana com modelos de visão-linguagem e contrafactuais](/documents/thesis/FGV_PhD_PT.pdf) - [Slides](/documents/slides/thesis/FGV_PhD.pdf)  
-Supervisor: [Ph.D. Jorge Poco](https://scholar.google.com.br/citations?user=S_88vX4AAAAJ)  
+* **[Fundação Getúlio Vargas (FGV)](https://repositorio.fgv.br/entities/publication/db9eb5b0-0f33-444d-b6ea-73e185900e77)** <span style="float:right">Rio de Janeiro - Brasil 🇧🇷</span>  
+  **Ph.D. in Computer Science** <span style="float:right">2022 - 2026</span>  
+  **Thesis**: [Exploração da percepção de segurança urbana com modelos de visão-linguagem e contrafactuais](/documents/thesis/FGV_PhD_PT.pdf) - [Slides](/documents/slides/thesis/FGV_PhD.pdf)  
+  Advisor: [Ph.D. Jorge Poco](https://scholar.google.com.br/citations?user=S_88vX4AAAAJ)  
+  Contributions:  
+    -- [Journal](/documents/papers/journals/2026_TETCI.pdf) _From Vision-centric to Multimodal: A Systematic Review of Street View–Based Urban Perception_, TETCI 2026  
+    -- [Conference](/documents/papers/conferences/2025_IJCNN.pdf) _Assessing Urban Environments with Vision-Language Models: A Comparative Analysis of AI-Generated Ratings and Human Volunteer Evaluations_, IJCNN 2025  
+    -- [Conference](/documents/papers/conferences/2025_BigData.pdf) _UrbanPhysicalDisorder-4K: Understanding Urban Perception via Counterfactuals and Street View Signs of Physical Disorder_, BigData 2025  
+    -- [Conference](/documents/papers/conferences/2024_WIIAT.pdf) _What Makes a Place Feel Safe? Analyzing Street View Images to Identify Relevant Visual Elements_, WI-IAT 2024  
 
-Contributions:  
-  * [Journal](/documents/papers/journals/2026_TETCI.pdf) _From Vision-centric to Multimodal: A Systematic Review of Street View–Based Urban Perception_, TETCI 2026  
-  * [Conference](/documents/papers/conferences/2025_IJCNN.pdf) _Assessing Urban Environments with Vision-Language Models: A Comparative Analysis of AI-Generated Ratings and Human Volunteer Evaluations_, IJCNN 2025  
-  * [Conference](/documents/papers/conferences/2025_BigData.pdf) _UrbanPhysicalDisorder-4K: Understanding Urban Perception via Counterfactuals and Street View Signs of Physical Disorder_, BigData 2025  
-  * [Conference](/documents/papers/conferences/2024_WIIAT.pdf) _What Makes a Place Feel Safe? Analyzing Street View Images to Identify Relevant Visual Elements_, WI-IAT 2024  
+* **[Universidade Federal do Rio de Janeiro (UFRJ)](https://pantheon.ufrj.br/handle/11422/29139)** <span style="float:right">Rio de Janeiro - Brasil 🇧🇷</span>  
+  **M.Sc. in Computer Science** <span style="float:right">2021 - 2023</span>  
+  **Thesis**: [Detecção Automatizada de Exploração de Vulnerabilidades em Fóruns de Hacking Clandestinos](/documents/thesis/UFRJ_Master_PT.pdf) - [Slides](/documents/slides/thesis/UFRJ_Master.pdf)  
+  Advisor: [Ph.D. Daniel Menasché](https://scholar.google.com.br/citations?user=WOw2DEkAAAAJ)  
+  Contributions:  
+    -- [Book-chapter](/documents/papers/book_chapters/2024_CSCML.pdf) _Beneath the Cream: Unveiling Relevant Information Points from CrimeBB Underground Forums with Its Ground Truth Labels_, CSCML 2024  
+    -- [Conference](/documents/papers/conferences/2023_CSR.pdf) _Cream Skimming the Underground: Identifying Relevant Information Points from Online Forums_, CSR, 2023  
+    -- [Conference](/documents/papers/conferences/2023_ICTC.pdf) _Inferring Discussion Topics about Exploitation of Vulnerabilities from Underground Hacking Forums_, ICTC, 2023  
 
-**[Universidade Federal do Rio de Janeiro (UFRJ)](https://pantheon.ufrj.br/handle/11422/29139)** <span style="float:right">Rio de Janeiro - Brasil 🇧🇷</span>  
-**M.Sc. in Computer Science** <span style="float:right">2021 - 2023</span>  
-**Thesis**: [Detecção Automatizada de Exploração de Vulnerabilidades em Fóruns de Hacking Clandestinos](/documents/thesis/UFRJ_Master_PT.pdf) - [Slides](/documents/slides/thesis/UFRJ_Master.pdf)  
-Supervisor: [Ph.D. Daniel Menasché](https://scholar.google.com.br/citations?user=WOw2DEkAAAAJ)  
-
-Contributions:
-  * [Book-chapter](/documents/papers/book_chapters/2024_CSCML.pdf) _Beneath the Cream: Unveiling Relevant Information Points from CrimeBB Underground Forums with Its Ground Truth Labels_, CSCML 2024  
-  * [Conference](/documents/papers/conferences/2023_CSR.pdf) _Cream Skimming the Underground: Identifying Relevant Information Points from Online Forums_, CSR, 2023  
-  * [Conference](/documents/papers/conferences/2023_ICTC.pdf) _Inferring Discussion Topics about Exploitation of Vulnerabilities from Underground Hacking Forums_, ICTC, 2023  
-
-**[Universidad Católica San Pablo (UCSP)](https://repositorio.ucsp.edu.pe/item/c7fecc4f-6575-423d-aa1c-81ef1fe1270e)** <span style="float:right">Arequipa - Perú 🇵🇪</span>  
-**M.Sc. in Computer Science** <span style="float:right">2018 - 2020</span>  
-**Thesis**: [Técnicas de Aprendizaje Profundo para el Análisis de la Percepción de la Seguridad Urbana](/documents/thesis/UCSP_Master_ES.pdf) - [Slides](/documents/slides/thesis/UCSP_Master.pdf)  
-Supervisor: [Ph.D. Jorge Poco](https://scholar.google.com.br/citations?user=S_88vX4AAAAJ)  
-
-Contributions:  
-  * [Conference](/documents/papers/conferences/2021_WIIAT.pdf) _Quantifying Urban Safety Perception on Street View Images_, WI-IAT 2021  
-  * [Book-chapter](/documents/papers/book_chapters/2021_MICAI.pdf) _Urban Perception: Can We Understand Why a Street Is Safe?_, MICAI 2021  
-  * [Book-chapter](/documents/papers/book_chapters/2021_ICIC.pdf) _Understanding safety based on urban perception_, ICIC 2021  
+* **[Universidad Católica San Pablo (UCSP)](https://repositorio.ucsp.edu.pe/item/c7fecc4f-6575-423d-aa1c-81ef1fe1270e)** <span style="float:right">Arequipa - Perú 🇵🇪</span>  
+  **M.Sc. in Computer Science** <span style="float:right">2018 - 2020</span>  
+  **Thesis**: [Técnicas de Aprendizaje Profundo para el Análisis de la Percepción de la Seguridad Urbana](/documents/thesis/UCSP_Master_ES.pdf) - [Slides](/documents/slides/thesis/UCSP_Master.pdf)  
+  Advisor: [Ph.D. Jorge Poco](https://scholar.google.com.br/citations?user=S_88vX4AAAAJ)  
+  Contributions:  
+    -- [Conference](/documents/papers/conferences/2021_WIIAT.pdf) _Quantifying Urban Safety Perception on Street View Images_, WI-IAT 2021  
+    -- [Book-chapter](/documents/papers/book_chapters/2021_MICAI.pdf) _Urban Perception: Can We Understand Why a Street Is Safe?_, MICAI 2021  
+    -- [Book-chapter](/documents/papers/book_chapters/2021_ICIC.pdf) _Understanding safety based on urban perception_, ICIC 2021  
 
 
-**[Universidad Nacional de Ingeniería (UNI)](https://uni.edu.pe/)** <span style="float:right">Lima - Perú 🇵🇪</span>  
-**B.Sc. in Computer Science** <span style="float:right">2012 - 2017</span>  
-**Thesis**: [](/documents/thesis/UNI_Bachelor_ES.pdf) - [Slides](/documents/slides/thesis/UNI_Bachelor.pdf)  
-Supervisor: [Ph.D. Glen Rodriguez](https://scholar.google.com/citations?user=Aau4PhUAAAAJ)
+* **[Universidad Nacional de Ingeniería (UNI)](https://uni.edu.pe/)** <span style="float:right">Lima - Perú 🇵🇪</span>  
+  **B.Sc. in Computer Science** <span style="float:right">2012 - 2017</span>  
+  **Thesis**: [](/documents/thesis/UNI_Bachelor_ES.pdf) - [Slides](/documents/slides/thesis/UNI_Bachelor.pdf)  
+  Advisor: [Ph.D. Glen Rodriguez](https://scholar.google.com/citations?user=Aau4PhUAAAAJ)
 
-**Final Project**: [Diseño e implementación del core level de una plataforma transversal basado en arquitecturas Fog Computing](/documents/thesis/UNI_Undergraduate.pdf) - [Slides](/documents/slides/thesis/UNI_Undergraduate.pdf)  
-Supervisor: [Ph.D. Manuel Castillo](https://scholar.google.com.br/citations?user=r0JytwIAAAAJ)
+  **Final Project**: [Diseño e implementación del core level de una plataforma transversal basado en arquitecturas Fog Computing](/documents/thesis/UNI_Undergraduate.pdf) - [Slides](/documents/slides/thesis/UNI_Undergraduate.pdf)  
+  Advisor: [Ph.D. Manuel Castillo](https://scholar.google.com.br/citations?user=r0JytwIAAAAJ)
+
 
 
 
