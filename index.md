@@ -20,32 +20,31 @@ Employment
 *Consulting* <span style="float:right">Remote 🌎</span>
 
 * 🇵🇾 **[COOMECIPAR](https://www.coomecipar.coop.py/)**  
-  * **[CooRAG](https://rag.coomecipar.coop.py/)**: _RAG-based chatbot to retrieve, summarize, and explain relevant financial and regulatory information_ from Paraguayan credit cooperative documents.  
-  **Technologies**: RAG-Ops, Huggingface, Claude, OpenAI, LDAP
-  * **[CooGPT](https://gpt.coomecipar.coop.py/)**: _LLM-based chatbot to upload, understand, and answer queries about relevant financial and regulatory information_ from Paraguayan credit cooperative documents.  
+  -- **[CooRAG](https://rag.coomecipar.coop.py/)**: _RAG-based chatbot to retrieve, summarize, and explain relevant financial and regulatory information_ from Paraguayan credit cooperative documents.  
+  **Technologies**: RAG-Ops, Huggingface, Claude, OpenAI, LDAP  
+  -- **[CooGPT](https://gpt.coomecipar.coop.py/)**: _LLM-based chatbot to upload, understand, and answer queries about relevant financial and regulatory information_ from Paraguayan credit cooperative documents.  
   **Technologies**: AWS, LLM-Ops, FastAPI, Gemini, OpenAI
 
 * 🇧🇷 **[FGV](https://emap.fgv.br/)**  
-  * **[LegalXplain](https://legalxplain.visualdslab.com/)**: _Apply Large Language Models (LLMs)_ methods to explain relevant binding references in legal documents from the Brazilian Supreme Court (STF).  
-  **Technologies**: Azure, RAG, LangChain, Langgraph, OpenAI, Legal-NLP
+  -- **[LegalXplain](https://legalxplain.visualdslab.com/)**: _Apply Large Language Models (LLMs)_ methods to explain relevant binding references in legal documents from the Brazilian Supreme Court (STF).  
+  **Technologies**: Azure, RAG, LangChain, Langgraph, OpenAI, Legal-NLP  
 
 * 🇵🇪 **[ONPE](https://www.onpe.gob.pe/)**  
-  * **[SEActas](https://www.web.onpe.gob.pe/home_elecciones/escrutinio-electronico)**: _Unifying voting records from different scanner devices_ using Efficient OCR-Nets for signatures and votes recognition for Peruvian general elections.  
-  **Technologies**: ML-Ops, FastAPI, OCR-nets, Large language models, Min.io
+  -- **[SEActas](https://www.web.onpe.gob.pe/home_elecciones/escrutinio-electronico)**: _Unifying voting records from different scanner devices_ using Efficient OCR-Nets for signatures and votes recognition for Peruvian general elections.  
+  **Technologies**: ML-Ops, FastAPI, OCR-nets, Large language models, Min.io  
 
 * 🇨🇱 **[FALABELLA](https://www.falabella.com/)**  
-  * **BoTopicos**: _Agentic RAG-based bot to identify and categorize user opinions_ using semantic and keyword matching to associate and classify new user opinions.  
-  **Technologies**: RAG-Ops, Perplexity, Spacy, NLP, LLM, Hierarchical classification
+  -- **BoTopicos**: _Agentic RAG-based bot to identify and categorize user opinions_ using semantic and keyword matching to associate and classify new user opinions.  
+  **Technologies**: RAG-Ops, Perplexity, Spacy, NLP, LLM, Hierarchical classification  
 
 
 
 **AI Engineer** <span style="float:right">June 2022 - June 2024</span>  
-*[Getter Amplified Industry (GetterAI)](https://getter.ai/)* <span style="float:right">Manaus - Brazil 🇧🇷</span>
+*[Getter Amplified Industry (GetterAI)](https://getter.ai/)* <span style="float:right">Manaus - Brazil 🇧🇷</span>  
 
 * **Samarco**: _Monitor the entire industrial operation process and generate audible or visual alerts when a risk is detected_. The development of end-to-end applications focuses on the detection of safety implements and the correct analysis of potential risks in industries.
 
 * **Akzonobel**: _Building an infrastructure to infer safety risks and protection regulations_. Implementing AI end-to-end applications to assess posture and ergonomics, detect work cycles and times elapsed, and determine factory safety areas. 
-
 
 **Technologies**: AWS, Kuberflow, Docker, Kubernetes, MLOps 
 
@@ -67,9 +66,7 @@ Employment
 **Web/Mobile Developer** <span style="float:right">August 2017 - October 2018</span>  
 *[CERNICALO S.A.](https://www.cernicalo.net/)* <span style="float:right">Lima - Perú 🇵🇪</span>  
 
-* **Web Applications**: Backend development using frameworks such as Laravel (Php) and Spring (Java). Furthermore, implementation and deployment of cloud hosting services. 
-			
-*	**Mobile Applications**: Android Mobile Applications Development using Android Studio with Android SDK versions from Jelly Bean (API 18) to Marshmallow (API 23). 
+*	**TotemApp**: _Android-based mobile application_ to be installed on ONPE’s Totem devices, aimed at informing and responding to inquiries from Peruvian citizens using Android SDK versions from Jelly Bean (API 18) to Marshmallow (API 23). 
 
 **Technologies**: Android, Java, PHP, Laravel, MySQL, Apache Kafka.
 
