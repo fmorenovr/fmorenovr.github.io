@@ -15,6 +15,13 @@ layout: compress
     <link rel="shortcut icon" href="/assets/images/favicon.ico?v=M44lzPylqQ">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+      (function () {
+        var stored = localStorage.getItem("theme");
+        var theme = stored || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+        document.documentElement.setAttribute("data-theme", theme);
+      })();
+    </script>
 
 {% seo %}
     <script src="https://kit.fontawesome.com/e679b7db17.js" crossorigin="anonymous"></script>
@@ -24,22 +31,10 @@ layout: compress
     <![endif]-->
   </head>
   <body>
+    <button id="theme-toggle" title="Toggle dark / light theme" aria-label="Toggle dark / light theme">
+      <i class="fas fa-moon"></i>
+    </button>
     <div class="wrapper">
-      <header style="text-align: center;">
-        {% if author.avatar %}
-          <img src="/assets/me/me_2025.png" alt="{{ author.name }}" class="avatar" width="250"/>
-        {% endif %}
-        <div class="social-icons">
-          <a href="mailto:{{ author.email }}" title="Email"><i class="fas fa-fw fa-envelope"></i></a>
-          <a href="https://scholar.google.com/citations?user={{ author.googlescholar }}" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
-          <a href="https://www.linkedin.com/in/{{author.linkedin}}" target="_blank" title="LinkedIn"><i class='fab fa-linkedin'></i></a>
-          <a href="https://www.twitter.com/{{author.twitter}}" target="_blank" title="Twitter"><i class='fab fa-twitter'></i></a>
-          <a href="https://github.com/{{ author.github }}" target="_blank" title="GitHub"><i class='fab fa-github'></i></a>
-        </div>
-        
-       <p>E-mail is the best way to reach me. Feel free to send me a message!</p>
-        
-      </header>
       <section>
 
       {{ content }}
@@ -47,6 +42,23 @@ layout: compress
       </section>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+      (function () {
+        var root = document.documentElement;
+        var btn = document.getElementById("theme-toggle");
+        var icon = btn.querySelector("i");
+        function sync() {
+          icon.className = root.getAttribute("data-theme") === "dark" ? "fas fa-sun" : "fas fa-moon";
+        }
+        sync();
+        btn.addEventListener("click", function () {
+          var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
+          root.setAttribute("data-theme", next);
+          localStorage.setItem("theme", next);
+          sync();
+        });
+      })();
+    </script>
     {% if site.google_analytics %}
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>

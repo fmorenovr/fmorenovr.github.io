@@ -20,16 +20,15 @@
 }
 
 /*
- * Profile card (avatar, name, icons) floats to the right, alongside the
- * About text only: #employment clears it so every section after About
- * runs full width below the card.
+ * Profile card (avatar, icons) sits in the content flow right after the
+ * name/tagline, and floats right from there: it starts level with the
+ * "Currently, I am working on..." paragraph rather than the page top.
+ * #employment clears it so every section after About runs full width.
  */
-header {
+.profile-card {
   float: right;
-  position: static;
   width: 280px;
   margin: 0 0 2em 2.5em;
-  padding: 0;
 }
 
 /*
@@ -42,13 +41,6 @@ header {
   height: 160px;
   object-fit: cover;
   border-radius: 50%;
-}
-
-footer {
-  float: none;
-  position: static;
-  width: auto;
-  padding: 0;
 }
 
 section {
@@ -79,7 +71,7 @@ section {
 }
 
 @media (max-width: 720px) {
-  header {
+  .profile-card {
     float: none;
     width: auto;
     margin: 0 0 2em 0;
@@ -90,4 +82,120 @@ section {
   .wrapper {
     padding: 0 20px;
   }
+}
+
+/*
+ * Dark / light theme toggle. The button flips html[data-theme] via JS
+ * in the layout; these rules re-style every color the imported theme
+ * hard-codes. Attribute-scoped selectors (html[data-theme="dark"] X)
+ * outrank the theme's plain-element selectors (X), so they win
+ * regardless of source order.
+ */
+#theme-toggle {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 100;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid #e5e5e5;
+  background: #fff;
+  color: #676767;
+  font-size: 1.1em;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+#theme-toggle:hover {
+  color: #069;
+}
+
+body {
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+html[data-theme="dark"] body {
+  background-color: #0d1117;
+  color: #c9d1d9;
+}
+
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6 {
+  color: #e6edf3;
+}
+
+html[data-theme="dark"] a {
+  color: #58a6ff;
+}
+
+html[data-theme="dark"] a:hover,
+html[data-theme="dark"] a:focus {
+  color: #79c0ff;
+}
+
+html[data-theme="dark"] a small {
+  color: #8b949e;
+}
+
+html[data-theme="dark"] blockquote {
+  border-left-color: #30363d;
+}
+
+html[data-theme="dark"] code,
+html[data-theme="dark"] pre {
+  color: #c9d1d9;
+}
+
+html[data-theme="dark"] pre {
+  background: #161b22;
+  border-color: #30363d;
+}
+
+html[data-theme="dark"] th,
+html[data-theme="dark"] td {
+  border-bottom-color: #30363d;
+}
+
+html[data-theme="dark"] dt,
+html[data-theme="dark"] th,
+html[data-theme="dark"] strong {
+  color: #e6edf3;
+}
+
+html[data-theme="dark"] kbd {
+  background-color: #161b22;
+  border-color: #30363d;
+  color: #c9d1d9;
+  box-shadow: inset 0 -1px 0 #30363d;
+}
+
+html[data-theme="dark"] hr {
+  background: #30363d;
+}
+
+html[data-theme="dark"] .social-icons a {
+  color: #8b949e;
+}
+
+html[data-theme="dark"] .social-icons a:hover {
+  color: #58a6ff;
+}
+
+html[data-theme="dark"] #theme-toggle {
+  background: #161b22;
+  border-color: #30363d;
+  color: #c9d1d9;
+}
+
+html[data-theme="dark"] #theme-toggle:hover {
+  color: #58a6ff;
 }

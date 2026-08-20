@@ -7,6 +7,18 @@ title: Felipe A. Moreno-Vera
 
 <h4>Data Scientist | AI Researcher | PhD Computer Science</h4>
 
+<div class="profile-card" style="text-align: center;">
+  <img src="/assets/me/me_2025.png" alt="Felipe A. Moreno-Vera" class="avatar"/>
+  <div class="social-icons">
+    <a href="mailto:felipe.moreno.vera@gmail.com" title="Email"><i class="fas fa-fw fa-envelope"></i></a>
+    <a href="https://scholar.google.com/citations?user=DMnBxqgAAAAJ" target="_blank" title="Google Scholar"><i class="fas fa-fw fa-graduation-cap"></i></a>
+    <a href="https://www.linkedin.com/in/fmorenovr" target="_blank" title="LinkedIn"><i class='fab fa-linkedin'></i></a>
+    <a href="https://www.twitter.com/fmorenovr" target="_blank" title="Twitter"><i class='fab fa-twitter'></i></a>
+    <a href="https://github.com/fmorenovr" target="_blank" title="GitHub"><i class='fab fa-github'></i></a>
+  </div>
+  <p>E-mail is the best way to reach me. Feel free to send me a message!</p>
+</div>
+
 Currently, I am working on Multimodal Retrieval-Augmented Generation (RAG) systems and Vision-Language Models (VLMs), with a strong focus on advancing multimodal large language models (MLLMs) and Explainable AI. My research explores how visual and textual information can be effectively integrated to build intelligent systems that are both accurate and interpretable.
 
 In particular, I am interested in developing efficient and robust models for analyzing and understanding human perceptions from street view imagery. This includes investigating how urban environments are perceived in terms of safety, liveliness, aesthetics, accessibility, and overall quality of life. By extracting meaningful perceptual and semantic features from large-scale visual data, my work aims to support applications in urban computing, smart cities, and data-driven urban planning.
