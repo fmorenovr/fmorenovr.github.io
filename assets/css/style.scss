@@ -91,11 +91,19 @@ section {
  * outrank the theme's plain-element selectors (X), so they win
  * regardless of source order.
  */
+.name-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
+}
+
+.name-row h1 {
+  margin: 0;
+}
+
 #theme-toggle {
-  position: fixed;
-  top: 16px;
-  right: 16px;
-  z-index: 100;
+  flex-shrink: 0;
   width: 40px;
   height: 40px;
   border-radius: 50%;

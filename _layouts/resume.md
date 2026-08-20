@@ -31,9 +31,6 @@ layout: compress
     <![endif]-->
   </head>
   <body>
-    <button id="theme-toggle" title="Toggle dark / light theme" aria-label="Toggle dark / light theme">
-      <i class="fas fa-moon"></i>
-    </button>
     <div class="wrapper">
       <section>
 

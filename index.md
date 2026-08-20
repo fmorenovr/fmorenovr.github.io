@@ -3,7 +3,12 @@ layout: resume
 title: Felipe A. Moreno-Vera
 ---
 
-<h1><a href="https://www.fmorenovr.com/">Felipe A. Moreno-Vera</a></h1>
+<div class="name-row">
+  <h1><a href="https://www.fmorenovr.com/">Felipe A. Moreno-Vera</a></h1>
+  <button id="theme-toggle" title="Toggle dark / light theme" aria-label="Toggle dark / light theme">
+    <i class="fas fa-moon"></i>
+  </button>
+</div>
 
 <h4>Data Scientist | AI Researcher | PhD Computer Science</h4>
 
