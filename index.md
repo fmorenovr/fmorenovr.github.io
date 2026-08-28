@@ -54,9 +54,8 @@ Employment
 
 
 **ML Engineer** <span style="float:right">April 2025 - December 2025</span>  
-*[ONPE](https://www.onpe.gob.pe/)* <span style="float:right">Lima - Perú 🇵🇪</span>  
-
-* **[SEActas](https://www.web.onpe.gob.pe/home_elecciones/escrutinio-electronico)**: _Unifying voting records from different scanner devices_ using Efficient OCR-Nets for signatures and votes recognition for Peruvian general elections.  
+*[Oficina Nacional de Procesos Electorales (ONPE)](https://www.onpe.gob.pe/)* <span style="float:right">Lima - Perú 🇵🇪</span>  
+  -- **[SEActas](https://www.web.onpe.gob.pe/home_elecciones/escrutinio-electronico)**: _Unifying voting records from different scanner devices_ using Efficient OCR-Nets for signatures and votes recognition for Peruvian general elections.  
 
 **Technologies**: ML-Ops, FastAPI, OCR-nets, Large language models, Min.io  
 
