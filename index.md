@@ -48,14 +48,25 @@ Employment
   -- **[LegalXplain](https://legalxplain.visualdslab.com/)**: _Apply Large Language Models (LLMs)_ methods to explain relevant binding references in legal documents from the Brazilian Supreme Court (STF).  
   **Technologies**: Azure, RAG, LangChain, Langgraph, OpenAI, Legal-NLP  
 
-* 🇵🇪 **[ONPE](https://www.onpe.gob.pe/)**  
-  -- **[SEActas](https://www.web.onpe.gob.pe/home_elecciones/escrutinio-electronico)**: _Unifying voting records from different scanner devices_ using Efficient OCR-Nets for signatures and votes recognition for Peruvian general elections.  
-  **Technologies**: ML-Ops, FastAPI, OCR-nets, Large language models, Min.io  
-
 * 🇨🇱 **[FALABELLA](https://www.falabella.com/)**  
   -- **BoTopicos**: _Agentic RAG-based bot to identify and categorize user opinions_ using semantic and keyword matching to associate and classify new user opinions.  
   **Technologies**: RAG-Ops, Perplexity, Spacy, NLP, LLM, Hierarchical classification  
 
+
+**ML Engineer** <span style="float:right">April 2025 - December 2025</span>  
+*[ONPE](https://www.onpe.gob.pe/)* <span style="float:right">Lima - Perú 🇵🇪</span>  
+
+* **[SEActas](https://www.web.onpe.gob.pe/home_elecciones/escrutinio-electronico)**: _Unifying voting records from different scanner devices_ using Efficient OCR-Nets for signatures and votes recognition for Peruvian general elections.  
+
+**Technologies**: ML-Ops, FastAPI, OCR-nets, Large language models, Min.io  
+
+
+**Mobile AI Developer** <span style="float:right">June 2024 - December 2024</span>  
+*[Instituto Nacional de Investigación y Capacitación de Telecomunicaciones (INICTEL)](http://www.inictel-uni.edu.pe/)* <span style="float:right">Lima - Perú 🇵🇪</span>  
+
+* **AppCiudadano**: _Building a cross-device biometric authentication app with face and fingerprint recognition_ for user registration, login, and identity verification.
+
+**Technologies**: OpenTelemetry, Flutter , AWS, Terraform, BedRock,  Computer Vision
 
 
 **AI Engineer** <span style="float:right">June 2022 - June 2024</span>  
