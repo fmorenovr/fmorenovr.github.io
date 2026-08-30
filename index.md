@@ -61,7 +61,7 @@ Employment
 **Technologies**: ML-Ops, FastAPI, OCR-nets, Large language models, Min.io  
 
 
-**Mobile AI Developer** <span style="float:right">June 2024 - December 2024</span>  
+**Full Stack AI Developer** <span style="float:right">June 2024 - December 2024</span>  
 *[Instituto Nacional de Investigación y Capacitación de Telecomunicaciones (INICTEL)](http://www.inictel-uni.edu.pe/)* <span style="float:right">Lima - Perú 🇵🇪</span>  
 
 * **AppCiudadano**: _Building a cross-device biometric authentication app with face and fingerprint recognition_ for user registration, login, and identity verification.
