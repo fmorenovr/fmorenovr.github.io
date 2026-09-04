@@ -169,6 +169,7 @@ Certifications and Specializations
 
 Honors and Awards
 ======
+* **2026** __Analysis of Human-Agent Interactions Award__: Granted by IEEE VAST Challenge.
 * **2026** __Attendant Travel Grant Award__: Granted by SALA AI.
 * **2025** __Innovative Display of Daily Communication Patterns Award__: Granted by IEEE VAST Challenge.
 * **2025** __Student Travel Grant Award__: Granted by __International Neural Networks Society__.
