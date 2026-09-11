@@ -69,7 +69,7 @@ Employment
 **Technologies**: OpenTelemetry, Flutter , AWS, Terraform, BedRock,  Computer Vision
 
 
-**AI Engineer** <span style="float:right">June 2022 - June 2024</span>  
+**AI Engineer** <span style="float:right">June 2022 - May 2024</span>  
 *[Getter Amplified Industry (GetterAI)](https://getter.ai/)* <span style="float:right">Manaus - Brazil 🇧🇷</span>  
 
 * **Samarco**: _Monitor the entire industrial operation process and generate audible or visual alerts when a risk is detected_. The development of end-to-end applications focuses on the detection of safety implements and the correct analysis of potential risks in industries.
