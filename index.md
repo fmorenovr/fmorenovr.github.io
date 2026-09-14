@@ -41,7 +41,7 @@ Employment
 * 🇵🇾 **[COOMECIPAR](https://www.coomecipar.coop.py/)**  
   -- **[CooRAG](https://rag.coomecipar.coop.py/)**: _RAG-based chatbot to retrieve, summarize, and explain relevant financial and regulatory information_ from Paraguayan credit cooperative documents.  
   **Technologies**: RAG-Ops, Huggingface, Claude, OpenAI, LDAP  
-  -- **[CooGPT](https://gpt.coomecipar.coop.py/)**: _LLM-based chatbot to upload, understand, and answer queries about relevant financial and regulatory information_ from Paraguayan credit cooperative documents.  
+  -- **[CooGPT](https://gpt.coomecipar.coop.py/)**: _LLM-based chatbot to understand and explore relevant financial and regulatory information_ from Paraguayan credit cooperative documents.  
   **Technologies**: AWS, LLM-Ops, FastAPI, Gemini, OpenAI
 
 * 🇧🇷 **[FGV](https://emap.fgv.br/)**  
