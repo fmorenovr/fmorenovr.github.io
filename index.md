@@ -69,7 +69,7 @@ Employment
 **Technologies**: OpenTelemetry, Flutter , AWS, Terraform, BedRock,  Computer Vision
 
 
-**AI Engineer** <span style="float:right">June 2022 - June 2024</span>  
+**AI Engineer** <span style="float:right">June 2022 - May 2024</span>  
 *[Getter Amplified Industry (GetterAI)](https://getter.ai/)* <span style="float:right">Manaus - Brazil 🇧🇷</span>  
 
 * **Samarco**: _Monitor the entire industrial operation process and generate audible or visual alerts when a risk is detected_. The development of end-to-end applications focuses on the detection of safety implements and the correct analysis of potential risks in industries.
@@ -174,11 +174,12 @@ Honors and Awards
 * **2025** __Innovative Display of Daily Communication Patterns Award__: Granted by IEEE VAST Challenge.
 * **2025** __Student Travel Grant Award__: Granted by __International Neural Networks Society__.
 * **2024** __Strong Data Enrichment and Augmentation Award__: Granted by IEEE VAST Challenge.
-* **2023** __Best Urban Mobility Solution Award__: Granted by UFRJ and FAPERJ.
+* **2023** __Best Urban Mobility Solution Award__: App UrbEx proposal, granted by UFRJ and FAPERJ.
 * **2022** __Brazilian Doctorate Scholarship__: Granted by FAPERJ and CAPES.
 * **2021** __Brazilian Master Scholarship__: Granted by FAPERJ and CNPq.
 * **2019** __Outstanding Poster Award__: Granted by ICML-LXAI Workshop.
 * **2018** __Peruvian Master Scholarship__: Granted by Ciencia Activa, CONCYTEC, and FONDECYT.
+* **2017** __Best BioTech Solution Award__: App eToileTe proposal, granted by Municipalidad Lima.
 * **2017** __Higher Fifth__: Higher Tenth computer science class 2017.
 * **2016** __Outstanding Students Award__: Granted by Universidad Nacional de Ingenieria (UNI).
 * **2015** __Peruvian Bachelor Scholarship__: Granted by PRONABEC.
