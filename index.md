@@ -115,7 +115,7 @@ Employment
 
 Education
 ======
-* **[Fundação Getúlio Vargas (FGV)](https://repositorio.fgv.br/entities/publication/db9eb5b0-0f33-444d-b6ea-73e185900e77)** <span style="float:right">Rio de Janeiro - Brasil 🇧🇷</span>  
+* **[Fundação Getúlio Vargas (FGV)](https://hdl.handle.net/10438/41074)** <span style="float:right">Rio de Janeiro - Brasil 🇧🇷</span>  
   **Ph.D. in Computer Science** <span style="float:right">2022 - 2026</span>  
   **Thesis**: [Exploração da percepção de segurança urbana com modelos de visão-linguagem e contrafactuais](/documents/articles/thesis/FGV_PhD_PT.pdf) - [Slides](/documents/slides/thesis/FGV_PhD.pdf)  
   Advisor: [Ph.D. Jorge Poco](https://scholar.google.com.br/citations?user=S_88vX4AAAAJ)  
@@ -125,23 +125,23 @@ Education
     -- [Conference](/documents/articles/conferences/2025_BigData.pdf) _UrbanPhysicalDisorder-4K: Understanding Urban Perception via Counterfactuals and Street View Signs of Physical Disorder_, BigData 2025  
     -- [Conference](/documents/articles/conferences/2024_WIIAT.pdf) _What Makes a Place Feel Safe? Analyzing Street View Images to Identify Relevant Visual Elements_, WI-IAT 2024  
 
-* **[Universidade Federal do Rio de Janeiro (UFRJ)](https://pantheon.ufrj.br/handle/11422/29139)** <span style="float:right">Rio de Janeiro - Brasil 🇧🇷</span>  
+* **[Universidade Federal do Rio de Janeiro (UFRJ)](http://hdl.handle.net/11422/29139)** <span style="float:right">Rio de Janeiro - Brasil 🇧🇷</span>  
   **M.Sc. in Computer Science** <span style="float:right">2021 - 2023</span>  
   **Thesis**: [Detecção Automatizada de Exploração de Vulnerabilidades em Fóruns de Hacking Clandestinos](/documents/articles/thesis/UFRJ_Master_PT.pdf) - [Slides](/documents/slides/thesis/UFRJ_Master.pdf)  
   Advisor: [Ph.D. Daniel Menasché](https://scholar.google.com.br/citations?user=WOw2DEkAAAAJ)  
   Contributions:  
-    -- [Book-chapter](/documents/articles/book_chapters/2024_CSCML.pdf) _Beneath the Cream: Unveiling Relevant Information Points from CrimeBB Underground Forums with Its Ground Truth Labels_, CSCML 2024  
+    -- [Conference](/documents/articles/book_chapters/2024_CSCML.pdf) _Beneath the Cream: Unveiling Relevant Information Points from CrimeBB Underground Forums with Its Ground Truth Labels_, CSCML 2024  
     -- [Conference](/documents/articles/conferences/2023_CSR.pdf) _Cream Skimming the Underground: Identifying Relevant Information Points from Online Forums_, CSR, 2023  
     -- [Conference](/documents/articles/conferences/2023_ICTC.pdf) _Inferring Discussion Topics about Exploitation of Vulnerabilities from Underground Hacking Forums_, ICTC, 2023  
 
-* **[Universidad Católica San Pablo (UCSP)](https://repositorio.ucsp.edu.pe/item/c7fecc4f-6575-423d-aa1c-81ef1fe1270e)** <span style="float:right">Arequipa - Perú 🇵🇪</span>  
+* **[Universidad Católica San Pablo (UCSP)](https://hdl.handle.net/20.500.12590/17274)** <span style="float:right">Arequipa - Perú 🇵🇪</span>  
   **M.Sc. in Computer Science** <span style="float:right">2018 - 2020</span>  
   **Thesis**: [Técnicas de Aprendizaje Profundo para el Análisis de la Percepción de la Seguridad Urbana](/documents/articles/thesis/UCSP_Master_ES.pdf) - [Slides](/documents/slides/thesis/UCSP_Master.pdf)  
   Advisor: [Ph.D. Jorge Poco](https://scholar.google.com.br/citations?user=S_88vX4AAAAJ)  
   Contributions:  
     -- [Conference](/documents/articles/conferences/2021_WIIAT.pdf) _Quantifying Urban Safety Perception on Street View Images_, WI-IAT 2021  
-    -- [Book-chapter](/documents/articles/book_chapters/2021_MICAI.pdf) _Urban Perception: Can We Understand Why a Street Is Safe?_, MICAI 2021  
-    -- [Book-chapter](/documents/articles/book_chapters/2021_ICIC.pdf) _Understanding safety based on urban perception_, ICIC 2021  
+    -- [Conference](/documents/articles/book_chapters/2021_MICAI.pdf) _Urban Perception: Can We Understand Why a Street Is Safe?_, MICAI 2021  
+    -- [Conference](/documents/articles/book_chapters/2021_ICIC.pdf) _Understanding safety based on urban perception_, ICIC 2021  
 
 
 * **[Universidad Nacional de Ingeniería (UNI)](https://uni.edu.pe/)** <span style="float:right">Lima - Perú 🇵🇪</span>  
