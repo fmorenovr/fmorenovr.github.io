@@ -53,7 +53,15 @@ Employment
   **Technologies**: RAG-Ops, Perplexity, Spacy, NLP, LLM, Hierarchical classification  
 
 
-**ML Engineer** <span style="float:right">April 2025 - December 2025</span>  
+**LLMOps Engineer** <span style="float:right">December 2025 - May 2026</span>  
+*[Cooperativa de Producción, Consumo, Ahorro, Crédito y Servicios (COOMECIPAR)](https://www.coomecipar.coop.py/)* <span style="float:right">Asunción - Paraguay 🇵🇾</span>  
+
+* **[CooGPT](https://chat.coomecipar.coop.py/)**: _LLM-based chatbot for understanding and exploring relevant financial information_ from Paraguayan credit cooperative documents and health professional resources.  
+
+**Technologies**: LLM-Ops, MCP, AWS, FastAPI, Huggingface
+
+
+**ML Engineer** <span style="float:right">April 2025 - November 2025</span>  
 *[Oficina Nacional de Procesos Electorales (ONPE)](https://www.onpe.gob.pe/)* <span style="float:right">Lima - Perú 🇵🇪</span>  
 
 * **[SEActas](https://www.web.onpe.gob.pe/home_elecciones/escrutinio-electronico)**: _Unifying voting records from different scanner devices_ using Efficient OCR-Nets for signatures and votes recognition for Peruvian general elections.  
@@ -61,7 +69,8 @@ Employment
 **Technologies**: ML-Ops, FastAPI, OCR-nets, Large language models, Min.io  
 
 
-**Full Stack AI Developer** <span style="float:right">June 2024 - December 2024</span>  
+
+**Full Stack AI Developer** <span style="float:right">June 2024 - November 2024</span>  
 *[Instituto Nacional de Investigación y Capacitación de Telecomunicaciones (INICTEL)](http://www.inictel-uni.edu.pe/)* <span style="float:right">Lima - Perú 🇵🇪</span>  
 
 * **AppCiudadano**: _Building a cross-device biometric authentication app with face and fingerprint recognition_ for user registration, login, and identity verification.
