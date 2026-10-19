@@ -38,12 +38,6 @@ Employment
 **Agentic-AI Engineer** <span style="float:right">June 2024 - Current</span>  
 *[GenVER Applied Intelligence (GenVER-AI)](https://genver.ai/)* <span style="float:right">Remote 🌎</span>
 
-* 🇵🇾 **[COOMECIPAR](https://www.coomecipar.coop.py/)**  
-  -- **[CooRAG](https://rag.coomecipar.coop.py/)**: _RAG-based chatbot to retrieve, summarize, and explain relevant financial and regulatory information_ from Paraguayan credit cooperative documents.  
-  **Technologies**: RAG-Ops, Huggingface, Claude, OpenAI, LDAP  
-  -- **[CooGPT](https://gpt.coomecipar.coop.py/)**: _LLM-based chatbot to understand and explore relevant financial and regulatory information_ from Paraguayan credit cooperative documents.  
-  **Technologies**: AWS, LLM-Ops, FastAPI, Gemini, OpenAI
-
 * 🇧🇷 **[FGV](https://emap.fgv.br/)**  
   -- **[LegalXplain](https://legalxplain.visualdslab.com/)**: _Apply Large Language Models (LLMs)_ methods to explain relevant binding references in legal documents from the Brazilian Supreme Court (STF).  
   **Technologies**: Azure, RAG, LangChain, Langgraph, OpenAI, Legal-NLP  
