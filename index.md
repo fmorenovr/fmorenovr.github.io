@@ -35,16 +35,12 @@ More broadly, I am motivated by the challenge of creating multimodal AI systems 
 
 Employment
 ======
-**Agentic-AI Engineer** <span style="float:right">June 2024 - Current</span>  
-*[GenVER Applied Intelligence (GenVER-AI)](https://genver.ai/)* <span style="float:right">Remote 🌎</span>
+**Agentic-AI Engineer** <span style="float:right">June 2026 - November 2026</span>  
+*[FALABELLA](https://www.falabella.com/)* <span style="float:right">Santiago - Chile 🇨🇱</span>  
 
-* 🇧🇷 **[FGV](https://emap.fgv.br/)**  
-  -- **[LegalXplain](https://legalxplain.visualdslab.com/)**: _Apply Large Language Models (LLMs)_ methods to explain relevant binding references in legal documents from the Brazilian Supreme Court (STF).  
-  **Technologies**: Azure, RAG, LangChain, Langgraph, OpenAI, Legal-NLP  
+* **[BoTopicos](https://botopicos.falabella.com.cl)**: _Agentic RAG-based bot to identify and categorize user opinions_ using semantic and keyword matching to associate and classify new opinions.  
 
-* 🇨🇱 **[FALABELLA](https://www.falabella.com/)**  
-  -- **BoTopicos**: _Agentic RAG-based bot to identify and categorize user opinions_ using semantic and keyword matching to associate and classify new user opinions.  
-  **Technologies**: RAG-Ops, Perplexity, Spacy, NLP, LLM, Hierarchical classification  
+**Technologies**: RAG-Ops, Perplexity, LangChain, LangGraph, Hyrarchical classification  
 
 
 **LLMOps Engineer** <span style="float:right">December 2025 - May 2026</span>  
